@@ -1,0 +1,4339 @@
+fileFormatVersion: 2
+guid: c892ae3d548aa4c4381aeb9c086efa78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1742245258254198373
+    second: Watchog Back_0
+  - first:
+      213: 3448083444875513968
+    second: Watchog Back_1
+  - first:
+      213: -4566107882414203251
+    second: Watchog Back_2
+  - first:
+      213: 5624646831410890751
+    second: Watchog Back_3
+  - first:
+      213: 3126964479943730250
+    second: Watchog Back_4
+  - first:
+      213: -7817431067702304015
+    second: Watchog Back_5
+  - first:
+      213: 1569047804044604804
+    second: Watchog Back_6
+  - first:
+      213: 6125551566076745409
+    second: Watchog Back_7
+  - first:
+      213: 8504180499181212323
+    second: Watchog Back_8
+  - first:
+      213: 8352463721287135230
+    second: Watchog Back_9
+  - first:
+      213: 3369907849892229103
+    second: Watchog Back_10
+  - first:
+      213: 8348155506477762063
+    second: Watchog Back_11
+  - first:
+      213: -770589540867608714
+    second: Watchog Back_12
+  - first:
+      213: -6188750067767340903
+    second: Watchog Back_13
+  - first:
+      213: 7133620039644905833
+    second: Watchog Back_14
+  - first:
+      213: 8331442809183879343
+    second: Watchog Back_15
+  - first:
+      213: -5821003837529621726
+    second: Watchog Back_16
+  - first:
+      213: 287258374958309157
+    second: Watchog Back_17
+  - first:
+      213: -5019145047307322744
+    second: Watchog Back_18
+  - first:
+      213: 603576643553848215
+    second: Watchog Back_19
+  - first:
+      213: -2366249837342296691
+    second: Watchog Back_20
+  - first:
+      213: -915503262415624288
+    second: Watchog Back_21
+  - first:
+      213: 8206085328529890861
+    second: Watchog Back_22
+  - first:
+      213: 3993605718609090580
+    second: Watchog Back_23
+  - first:
+      213: 4668970801403308014
+    second: Watchog Back_24
+  - first:
+      213: 9192578764762811663
+    second: Watchog Back_25
+  - first:
+      213: 7679129825537207703
+    second: Watchog Back_26
+  - first:
+      213: -8973760038320407001
+    second: Watchog Back_27
+  - first:
+      213: 5661743786288687439
+    second: Watchog Back_28
+  - first:
+      213: -2693502893235300158
+    second: Watchog Back_29
+  - first:
+      213: -2252978095381829147
+    second: Watchog Back_30
+  - first:
+      213: -4362912316008540750
+    second: Watchog Back_31
+  - first:
+      213: -7117083399973545089
+    second: Watchog Back_32
+  - first:
+      213: -2974984526573169027
+    second: Watchog Back_33
+  - first:
+      213: 5266559276576171795
+    second: Watchog Back_34
+  - first:
+      213: 5541171915727130709
+    second: Watchog Back_35
+  - first:
+      213: 8519379478072819912
+    second: Watchog Back_36
+  - first:
+      213: 1867629950351343303
+    second: Watchog Back_37
+  - first:
+      213: 6102856513775172390
+    second: Watchog Back_38
+  - first:
+      213: -292033226285129550
+    second: Watchog Back_39
+  - first:
+      213: -9204225982556784284
+    second: Watchog Back_40
+  - first:
+      213: -5491391376092575097
+    second: Watchog Back_41
+  - first:
+      213: 2284333999492326945
+    second: Watchog Back_42
+  - first:
+      213: 8359961046513711320
+    second: Watchog Back_43
+  - first:
+      213: 3913164912782663661
+    second: Watchog Back_44
+  - first:
+      213: -1317012646489205166
+    second: Watchog Back_45
+  - first:
+      213: 2825473275956731182
+    second: Watchog Back_46
+  - first:
+      213: 8486153850800021447
+    second: Watchog Back_47
+  - first:
+      213: -5952670163564897934
+    second: Watchog Back_48
+  - first:
+      213: -7354870578603750042
+    second: Watchog Back_49
+  - first:
+      213: 6572958641071295054
+    second: Watchog Back_50
+  - first:
+      213: 2449033679961168192
+    second: Watchog Back_51
+  - first:
+      213: 82013444769219521
+    second: Watchog Back_52
+  - first:
+      213: 2774093859966302792
+    second: Watchog Back_53
+  - first:
+      213: 3656152206380509366
+    second: Watchog Back_54
+  - first:
+      213: -2807687315382085765
+    second: Watchog Back_55
+  - first:
+      213: 3956023818855855014
+    second: Watchog Back_56
+  - first:
+      213: -5300612474611138169
+    second: Watchog Back_57
+  - first:
+      213: 8534615684162974612
+    second: Watchog Back_58
+  - first:
+      213: 5930843868097053116
+    second: Watchog Back_59
+  - first:
+      213: 7767753770384605985
+    second: Watchog Back_60
+  - first:
+      213: -5001154550921347045
+    second: Watchog Back_61
+  - first:
+      213: -2374552113513429934
+    second: Watchog Back_62
+  - first:
+      213: -7999238361101166949
+    second: Watchog Back_63
+  - first:
+      213: -7910699850901202983
+    second: Watchog Back_64
+  - first:
+      213: -7347626708789726888
+    second: Watchog Back_65
+  - first:
+      213: -4592959049766497892
+    second: Watchog Back_66
+  - first:
+      213: -901241336683900573
+    second: Watchog Back_67
+  - first:
+      213: -4089232582310443511
+    second: Watchog Back_68
+  - first:
+      213: 3165921121394416485
+    second: Watchog Back_69
+  - first:
+      213: 8650843374627557276
+    second: Watchog Back_70
+  - first:
+      213: -6000883264148483818
+    second: Watchog Back_71
+  - first:
+      213: -625572159004942955
+    second: Watchog Back_72
+  - first:
+      213: -3473028248567913341
+    second: Watchog Back_73
+  - first:
+      213: -4354300070272907266
+    second: Watchog Back_74
+  - first:
+      213: 2774699623085694395
+    second: Watchog Back_75
+  - first:
+      213: -4550612615799809806
+    second: Watchog Back_76
+  - first:
+      213: 3136425483843279561
+    second: Watchog Back_77
+  - first:
+      213: 4720096308972660796
+    second: Watchog Back_78
+  - first:
+      213: -4846305413600906063
+    second: Watchog Back_79
+  - first:
+      213: 6205356061074334882
+    second: Watchog Back_80
+  - first:
+      213: 3606199521484756834
+    second: Watchog Back_81
+  - first:
+      213: -8468313917933875419
+    second: Watchog Back_82
+  - first:
+      213: -84396363585242097
+    second: Watchog Back_83
+  - first:
+      213: 102977597372292577
+    second: Watchog Back_84
+  - first:
+      213: -5663850452633307252
+    second: Watchog Back_85
+  - first:
+      213: -365434661523773772
+    second: Watchog Back_86
+  - first:
+      213: 6109934687159841537
+    second: Watchog Back_87
+  - first:
+      213: -7520647670366699408
+    second: Watchog Back_88
+  - first:
+      213: 4988479572331887974
+    second: Watchog Back_89
+  - first:
+      213: -1775392243201843179
+    second: Watchog Back_90
+  - first:
+      213: -8539631142642488802
+    second: Watchog Back_91
+  - first:
+      213: -6656783818282945657
+    second: Watchog Back_92
+  - first:
+      213: 7061275766840730634
+    second: Watchog Back_93
+  - first:
+      213: -5324885074014397517
+    second: Watchog Back_94
+  - first:
+      213: -4259037509593170491
+    second: Watchog Back_95
+  - first:
+      213: 5300834572743358426
+    second: Watchog Back_96
+  - first:
+      213: -3598019316229202998
+    second: Watchog Back_97
+  - first:
+      213: 5018069528153698234
+    second: Watchog Back_98
+  - first:
+      213: -9020799357351203235
+    second: Watchog Back_99
+  - first:
+      213: -6026164448508320174
+    second: Watchog Back_100
+  - first:
+      213: 7352595998158236354
+    second: Watchog Back_101
+  - first:
+      213: 875164231460067473
+    second: Watchog Back_102
+  - first:
+      213: 3129753749459401175
+    second: Watchog Back_103
+  - first:
+      213: -5853950904997349044
+    second: Watchog Back_104
+  - first:
+      213: 678746807364206173
+    second: Watchog Back_105
+  - first:
+      213: 3519534773010242203
+    second: Watchog Back_106
+  - first:
+      213: 2646503527039852354
+    second: Watchog Back_107
+  - first:
+      213: 6379872978889158932
+    second: Watchog Back_108
+  - first:
+      213: -9025450644823646554
+    second: Watchog Back_109
+  - first:
+      213: 5844369428072879076
+    second: Watchog Back_110
+  - first:
+      213: -5403641265801347043
+    second: Watchog Back_111
+  - first:
+      213: 2177576481353102928
+    second: Watchog Back_112
+  - first:
+      213: 2094929905535272525
+    second: Watchog Back_113
+  - first:
+      213: 2500219269251014643
+    second: Watchog Back_114
+  - first:
+      213: 7794876417987629115
+    second: Watchog Back_115
+  - first:
+      213: -4789055735218343016
+    second: Watchog Back_116
+  - first:
+      213: 4930399920211473320
+    second: Watchog Back_117
+  - first:
+      213: -485652334463422043
+    second: Watchog Back_118
+  - first:
+      213: 8269958203179456897
+    second: Watchog Back_119
+  - first:
+      213: -7580889753131536481
+    second: Watchog Back_120
+  - first:
+      213: -4844768898117547877
+    second: Watchog Back_121
+  - first:
+      213: -7188475629823438425
+    second: Watchog Back_122
+  - first:
+      213: -7110268655177553557
+    second: Watchog Back_123
+  - first:
+      213: -6806858178794481875
+    second: Watchog Back_124
+  - first:
+      213: -8285299213370482042
+    second: Watchog Back_125
+  - first:
+      213: 4546155324466789720
+    second: Watchog Back_126
+  - first:
+      213: 9148783213928623059
+    second: Watchog Back_127
+  - first:
+      213: -1748539050443916971
+    second: Watchog Back_128
+  - first:
+      213: -2540019611166353836
+    second: Watchog Back_129
+  - first:
+      213: 2218138719543699511
+    second: Watchog Back_130
+  - first:
+      213: 252556872060236724
+    second: Watchog Back_131
+  - first:
+      213: -8537530310770249029
+    second: Watchog Back_132
+  - first:
+      213: 344684853229867954
+    second: Watchog Back_133
+  - first:
+      213: 4865613641897945480
+    second: Watchog Back_134
+  - first:
+      213: -4223936911333926548
+    second: Watchog Back_135
+  - first:
+      213: 8597752007913376720
+    second: Watchog Back_136
+  - first:
+      213: 7445179733141392347
+    second: Watchog Back_137
+  - first:
+      213: -1102078342162398720
+    second: Watchog Back_138
+  - first:
+      213: 3570826380321795590
+    second: Watchog Back_139
+  - first:
+      213: 3843372119289568548
+    second: Watchog Back_140
+  - first:
+      213: -3227202555184074557
+    second: Watchog Back_141
+  - first:
+      213: -2022363492222687096
+    second: Watchog Back_142
+  - first:
+      213: -554757857496229896
+    second: Watchog Back_143
+  - first:
+      213: 5358806988070760171
+    second: Watchog Back_144
+  - first:
+      213: 6630819348594989638
+    second: Watchog Back_145
+  - first:
+      213: 3748251902300798714
+    second: Watchog Back_146
+  - first:
+      213: -442822844408784866
+    second: Watchog Back_147
+  - first:
+      213: 6721355663687306823
+    second: Watchog Back_148
+  - first:
+      213: 1077022346493719556
+    second: Watchog Back_149
+  - first:
+      213: -674173468816248506
+    second: Watchog Back_150
+  - first:
+      213: -3284757753560982745
+    second: Watchog Back_151
+  - first:
+      213: 3284556675686481318
+    second: Watchog Back_152
+  - first:
+      213: 8660210241607064660
+    second: Watchog Back_153
+  - first:
+      213: -2804589387576272198
+    second: Watchog Back_154
+  - first:
+      213: 484171202035266318
+    second: Watchog Back_155
+  - first:
+      213: 3333412267905210552
+    second: Watchog Back_156
+  - first:
+      213: -6269791229544124667
+    second: Watchog Back_157
+  - first:
+      213: 4962513704489654051
+    second: Watchog Back_158
+  - first:
+      213: 3211778881237497505
+    second: Watchog Back_159
+  - first:
+      213: 7406414597054707302
+    second: Watchog Back_160
+  - first:
+      213: -1703252889755115030
+    second: Watchog Back_161
+  - first:
+      213: -5593451793638425307
+    second: Watchog Back_162
+  - first:
+      213: 5939698013675936758
+    second: Watchog Back_163
+  - first:
+      213: 3086254858292602331
+    second: Watchog Back_164
+  - first:
+      213: -2499133339345556304
+    second: Watchog Back_165
+  - first:
+      213: -5054917054026313945
+    second: Watchog Back_166
+  - first:
+      213: -6129910945057792473
+    second: Watchog Back_167
+  - first:
+      213: 2198875215528262580
+    second: Watchog Back_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Watchog Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb852c5b6d9c71042bb6fb232b597db4
+      internalID: 2045464488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a719232b8cf94fb20c86fabc4be4b
+      internalID: -1715611355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4640531bfffb84c9b69c4541ef6547
+      internalID: -15647863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa1210d5ef7c0488cca96a28ea4f32
+      internalID: 1379710720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d7fd0f5b70e3458b043f5a6edb0d3
+      internalID: 617771464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ebd44d351683428957ec285cac8de
+      internalID: -2011069101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf11877119d5d643b03cfa01b2fcf57
+      internalID: 434088141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186b2670660903429c6da678bef0991
+      internalID: 1549396793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015967dafc1071a47b562a30976b2976
+      internalID: 1411481901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47267859a7550b42b8cecea7602ed6f
+      internalID: -680377506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e359eeeebab20354887d7293aa11e635
+      internalID: -31317113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc9f1ba6c67fd43bc3abf6297bd1ea
+      internalID: 1564083452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 816
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907970620e7a0047907ba7370fe09cf
+      internalID: 745434882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0e383d916b954f91afa6e566ecf5e
+      internalID: -1278838232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdca5bae0ebc144d81e79bd83c13706
+      internalID: -1801907501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fcedcf39308c458bf1d63575a3a0e
+      internalID: 520892667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf830416c8487324c8c798af696fbe98
+      internalID: 1425065930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3253cc7371314d8a541049fa68f5f
+      internalID: 381561353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d741adfb2b610a428b63ecae161be97
+      internalID: 1373820424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242e77e18a1b114db10828147f85ba8
+      internalID: -722891409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73559f67df7f6ec47b948d60d1ac811c
+      internalID: -141758360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416996e5e68b9a4285855c5a4a862fe
+      internalID: -361356613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157d83f10590104dbdb263542b19edb
+      internalID: 1772104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9832d23a513caf94dacab5116d4517fe
+      internalID: -1128971329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faded88ad02470e44927d3444aca212b
+      internalID: 1198708158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 748
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2947f044fa8218041ac05106fa03cebf
+      internalID: 603566095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476468bab0ac8e4db4a469cd826384d
+      internalID: -361298545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e887ab859aea468c41d6620af66a8
+      internalID: 1708034686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54bd36688944e844ae01bf8980bc541
+      internalID: 1569617209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b600f19621b44ebf3c5eecbe23a48
+      internalID: -158375538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e2e1a0b187b54b833aff1ee6aee3a
+      internalID: -1304296464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc828e58c82ff4fb20ef9e6fcd99c0
+      internalID: -452217880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9976c0bac2474c906659c2cca3db7
+      internalID: -1802605943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42b5d07fad88a43aa4ba69fed1ef2b
+      internalID: 2086527729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f86c43a3dd0634b86f02a6c33eb32e
+      internalID: 1157203878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c83fd70515af540b8cfffc6d89f690
+      internalID: 1287217637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b217f0f4ab319e4bbaa7956ab4e162b
+      internalID: 568707273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186aaadd500532d40b7eb1891ba7f439
+      internalID: 1134394697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 680
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f583747b829777f4d98c1f0c27710106
+      internalID: -1514077240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3413f33f6488d84487a8f4a01af2301
+      internalID: -2106400872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962280ea99d515e4fac79779b7f1c50c
+      internalID: -1604122836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41bcae287974af4082dadbb64c4ea9e
+      internalID: 1954639992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19934d126de9e4bb9b102e1f2c1d7d
+      internalID: -1254936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d5cb0775b8ce41aa71bcca7320aa7
+      internalID: -512057314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6670a9b407c21ac4db67f69b13152434
+      internalID: -552561778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d77d426a1fbbe47b78c5f27ebd7ddf
+      internalID: -2124997637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bff8298d427f43a863f10317d34e1
+      internalID: 731862362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112beaee183ad4645ade5f67418d20da
+      internalID: 1265358177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b13c061e043d8241ab3daca3363c412
+      internalID: 264246597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88aaf392ac46b4e9a3499cb7bf8ce7
+      internalID: 49102597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8be6ffee72344891a1d750cf20531
+      internalID: -866537145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 612
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ae91bbe51f63d43af57ef6f1c3a976
+      internalID: 2136877854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2b5510bc28d84bbde40721e0f1f7e
+      internalID: 209149335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3537d7ef7653c6049abdf26f0cede83a
+      internalID: 1038077349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9e7ff9c7986e4390fbd94e292caf6
+      internalID: 684966107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af7af4936f0d2644b942520f3ec81e3
+      internalID: 1241810429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7b5e50d62b9c41804d36ba3735073
+      internalID: -758707230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5539bd2b48814245a87e8bfc1a18e9d
+      internalID: 1449930481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749bd9a9612943a4eac3508becf4980e
+      internalID: 310527381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57eacd31dda9e442bc30deab4e264df
+      internalID: -1087073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb7cac744d9fe4781a19c7c858e362
+      internalID: 277931161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3b20f52caa2a4db04559482443a0a
+      internalID: -1279326654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff130c04f5e30a14484f49331aa8ac6a
+      internalID: -469134855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a961ac4697879344a9fa251cffe05b8b
+      internalID: -163283890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 544
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5630a202d1e1143a01be77df14678b
+      internalID: 201243396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56338f149abab4b87c68bb7e04ee59
+      internalID: -10833246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563c2e76d5714948b9e3a9d2eb8685c
+      internalID: 1818378085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad41e9c41f04b74993dba14261cee65
+      internalID: -1514761150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216ac578bd446a4288f5a2911ee3194
+      internalID: -506780186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca00a87f27ea246a2c7556b69c6607
+      internalID: 1302909610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fe523cf476d1459e8d01de51f7e88
+      internalID: -380788204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbdb38edc7f76949b75c9bf9587034b
+      internalID: 138797027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9004ca918a9f24f945542f48220d54
+      internalID: -870687944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c60e9ac0a4b344385898632c0525f5
+      internalID: 277301838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50474bb75500ab4fbcd5f097a9251a1
+      internalID: 499684146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c78ca63f6b0e945b1e3abd618e3141
+      internalID: 1401987271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ffd6bfbe590040ac149ac4e6fa1e7
+      internalID: -2013216137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 476
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d7dcd9a235f948a32fd141a9d7443
+      internalID: -769525914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663803e010d6514286034e47e2484af
+      internalID: -662227052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184be8d075491e94abf9f9608daea702
+      internalID: 1908973776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f24caf539829d44bbd67b29712f628
+      internalID: -1621045821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950ca00c070b5a449b42d5aa8ff45ef
+      internalID: 449627770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3f426715ebf84aad1c7bce26f5262
+      internalID: -102793883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e7bec09f584c43b1abe496265153d
+      internalID: 1314938990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1cf2a2ccbe5d6478269e04614dd953
+      internalID: -2140535493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e51ffb730e601444bb6a4da5d49b438
+      internalID: 1273961612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a506ada57bb5f74f9ec37212a768cbb
+      internalID: -2105845991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c7b87798d2df47b6d8bbc9f82a0cc
+      internalID: 1391716525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021cac8e91c5344395645be4c438133
+      internalID: 1837397810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f275282e805f4ebb3f02015bbd788
+      internalID: 266070075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 408
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f238b36a0df149bea6ccb80846e48
+      internalID: 683668076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849ea98d1535104c8e9f2cd62702668
+      internalID: -344089722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5c7a7306381744ac89a79aec0b77c
+      internalID: -1121599848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b7ea7b433e4c48b1d71d6a08a453e
+      internalID: -834888757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461d432d4c9cee419e1522823e4c66c
+      internalID: 626792642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15136dee48845c74cb4fae48efa68d28
+      internalID: -1855699621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f722653e34ca384bab15689a8550dad
+      internalID: -1649700498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54565f5198814da4a80e6b5ed3cff3f1
+      internalID: -317675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca4d647c263c44a92c3d73a8320a64
+      internalID: -956712259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781ddd6c2b20134cbd1a76d0172dc66
+      internalID: 19549116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce10fc3e3aafa947b6b841380f19919
+      internalID: -232397360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473f9bd3a8e59847b464fa3b277d16b
+      internalID: 464363073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9e3113d4d9834981e01f094da1c7e
+      internalID: -1223338535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 340
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdfd46a73fd8254ab0d1ce053b807d2
+      internalID: 578030097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05293b4fbc8714142a8938002675685c
+      internalID: -1827472133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4d35259d4e7346875ffb4c8238326
+      internalID: -1528602316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c920de44c7d3646ac8763779c752e2
+      internalID: -1177793000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56e18d27825594abf5d4595a126038
+      internalID: 1641759437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de354129af45247898917d78cf7200
+      internalID: -376623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3ed53620417b4888414be4c216626
+      internalID: 333465353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82512924fccbd46bab5bbdbac839c0
+      internalID: -292852452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84e2bd138c50044c9075cdfad6a032f
+      internalID: 1791269017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909a5ef47657ea4c9bee7b5b5ef8bed
+      internalID: 165315236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da84f5b1bfd8e41ad0468e5ff0d8ef
+      internalID: -1164522849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa73f75d82a30948af3735627aba2d6
+      internalID: -245237412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f91689b8ab2484c8fb53a4426591cf
+      internalID: -1101356308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 272
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c0aee43c2257408f839da26fae074
+      internalID: 1616516316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599f720a0d12264eb098a0ae667abec
+      internalID: -117442927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270b35c06944904fb1401c1421228f1
+      internalID: -1333553043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f846e6963df746a9aa0f2fd2c55fb
+      internalID: 1438256551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e215fa3e1e0c1469dded9403cf249a
+      internalID: -790935780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defe52660561b943953ab4daafa603b
+      internalID: 1204491638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89361b8cbc2f1c645822291a77dc05b2
+      internalID: 573954269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c905872dca46994b9ccb920d88dced3
+      internalID: 244423531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b9936c5ebc3e4d9a9f6a492813b3b
+      internalID: -1245538751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b032693a57729419c8343439871d98
+      internalID: 810591903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a89d78a6bd1647a58e7f1910f9274
+      internalID: -1674129337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df1632c1c57ef42bb4932334970b19
+      internalID: 326727931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757132be486b71d4097c83cabfc2c1e9
+      internalID: 50657644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 204
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46efe7f739e2ed4d9335130d09dffbc
+      internalID: 873867591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef985fadb65eb4b8bf921b5f7e6f3f
+      internalID: 918495258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9abbaef9bbd3d42b9d58d106e9e417
+      internalID: 574656104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7072351f4abfe4db41a9fe9b3f9bcc
+      internalID: 1338126899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb13c13ceb14149b5fae88a842f6ce
+      internalID: 1505624184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37d5545803e1c4aa8d773fde040c0c
+      internalID: 1148589160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932ff885fe2da1d469c325bbbc3993d5
+      internalID: -2102082481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0e04f9c0ae8342a4d51caf390b8d5
+      internalID: -26939465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf561a593c02544395b960f961d1267
+      internalID: -375351828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5868abfa8175408c17c6938ab4d93
+      internalID: -1607412421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae596d345d3ba8940a80f9e446b4b2d4
+      internalID: 1534367243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945b327c5e29be4abab7456994d1603
+      internalID: -351988986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0471b40ba99f5f2488f14ab948c141f7
+      internalID: 1079858262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 136
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919882216cb83a04f8ee045ad2e42ea9
+      internalID: 1716223525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d46a2d8b3f3043b33f0f2b10e3b73
+      internalID: -1908351676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee32147ed8f4d944a9f28a167a816d1
+      internalID: 419735521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb45ae0d5a5ba4aa1659e2d47ae5e5
+      internalID: 1719716868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1ae0a8719cf624799094b03c2c920f
+      internalID: -1333192067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e839a0d41cfd27342aad0da24f94a786
+      internalID: -567403807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f64da5fce9d4d458725429d660b64d
+      internalID: 1654321901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb539154168de2d4cac5754198b0d380
+      internalID: 551915458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e54da83bb263c448b82cbcef630dba
+      internalID: 610892940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac651073bc5c64d8b5b309b6ba8050
+      internalID: -1209857093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5e1f94c26d144abf48ebb6031ac3d
+      internalID: -723785023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba1c16dfb2f1b44abc3b85e4c72336
+      internalID: -913486342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50480a8328824d4b8c34335510f065c
+      internalID: -788157763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 68
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837fda9d0d18494597af0f5ebab6df5
+      internalID: 1049880971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f52a45db10b929478069d2c2aed0321
+      internalID: 1805637616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02872c71c134740a1693a3fea8f090
+      internalID: 703932751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8efc276db91102408332ef38c0ddc0c
+      internalID: -1000748917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_159
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a625263f68bcee4fbc41e54aedca05f
+      internalID: -647389088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_160
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e388ec761be22438c0425be3570284
+      internalID: -1817280292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_161
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f223d69433b394982ecf16c5d60df3
+      internalID: 262447875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_162
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae0226f5b2cb3498c4feabeb5daebd
+      internalID: -255722933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_163
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f8e30e00918494f8bbe7caaf8226f3
+      internalID: -261018024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_164
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6814270f7b1d488264b4b5a1b48da
+      internalID: 370363232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_165
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b33ba5a2b32d2a419121b57ddb2e088
+      internalID: -483797521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_166
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d67828b484134cb0e216fe14844ef
+      internalID: 515791353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_167
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d99ae45299514ca0247812afdcab0
+      internalID: -1596803913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watchog Back Anim_168
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beebc71943d72e54ea6b961546f6d9dc
+      internalID: 1993084697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29fa155e6ae2104408a7f7b2109ce67a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Watchog Back_0: 2045464488
+      Watchog Back_1: -1715611355
+      Watchog Back_10: -31317113
+      Watchog Back_100: -232397360
+      Watchog Back_101: 464363073
+      Watchog Back_102: -1223338535
+      Watchog Back_103: 578030097
+      Watchog Back_104: -1827472133
+      Watchog Back_105: -1528602316
+      Watchog Back_106: -1177793000
+      Watchog Back_107: 1641759437
+      Watchog Back_108: -376623934
+      Watchog Back_109: 333465353
+      Watchog Back_11: 1564083452
+      Watchog Back_110: -292852452
+      Watchog Back_111: 1791269017
+      Watchog Back_112: 165315236
+      Watchog Back_113: -1164522849
+      Watchog Back_114: -245237412
+      Watchog Back_115: -1101356308
+      Watchog Back_116: 1616516316
+      Watchog Back_117: -117442927
+      Watchog Back_118: -1333553043
+      Watchog Back_119: 1438256551
+      Watchog Back_12: 745434882
+      Watchog Back_120: -790935780
+      Watchog Back_121: 1204491638
+      Watchog Back_122: 573954269
+      Watchog Back_123: 244423531
+      Watchog Back_124: -1245538751
+      Watchog Back_125: 810591903
+      Watchog Back_126: -1674129337
+      Watchog Back_127: 326727931
+      Watchog Back_128: 50657644
+      Watchog Back_129: 873867591
+      Watchog Back_13: -1278838232
+      Watchog Back_130: 918495258
+      Watchog Back_131: 574656104
+      Watchog Back_132: 1338126899
+      Watchog Back_133: 1505624184
+      Watchog Back_134: 1148589160
+      Watchog Back_135: -2102082481
+      Watchog Back_136: -26939465
+      Watchog Back_137: -375351828
+      Watchog Back_138: -1607412421
+      Watchog Back_139: 1534367243
+      Watchog Back_14: -1801907501
+      Watchog Back_140: -351988986
+      Watchog Back_141: 1079858262
+      Watchog Back_142: 1716223525
+      Watchog Back_143: -1908351676
+      Watchog Back_144: 419735521
+      Watchog Back_145: 1719716868
+      Watchog Back_146: -1333192067
+      Watchog Back_147: -567403807
+      Watchog Back_148: 1654321901
+      Watchog Back_149: 551915458
+      Watchog Back_15: 520892667
+      Watchog Back_150: 610892940
+      Watchog Back_151: -1209857093
+      Watchog Back_152: -723785023
+      Watchog Back_153: -913486342
+      Watchog Back_154: -788157763
+      Watchog Back_155: 1049880971
+      Watchog Back_156: 1805637616
+      Watchog Back_157: 703932751
+      Watchog Back_158: -1000748917
+      Watchog Back_159: -647389088
+      Watchog Back_16: 1425065930
+      Watchog Back_160: -1817280292
+      Watchog Back_161: 262447875
+      Watchog Back_162: -255722933
+      Watchog Back_163: -261018024
+      Watchog Back_164: 370363232
+      Watchog Back_165: -483797521
+      Watchog Back_166: 515791353
+      Watchog Back_167: -1596803913
+      Watchog Back_168: 1993084697
+      Watchog Back_17: 381561353
+      Watchog Back_18: 1373820424
+      Watchog Back_19: -722891409
+      Watchog Back_2: -15647863
+      Watchog Back_20: -141758360
+      Watchog Back_21: -361356613
+      Watchog Back_22: 1772104296
+      Watchog Back_23: -1128971329
+      Watchog Back_24: 1198708158
+      Watchog Back_25: 603566095
+      Watchog Back_26: -361298545
+      Watchog Back_27: 1708034686
+      Watchog Back_28: 1569617209
+      Watchog Back_29: -158375538
+      Watchog Back_3: 1379710720
+      Watchog Back_30: -1304296464
+      Watchog Back_31: -452217880
+      Watchog Back_32: -1802605943
+      Watchog Back_33: 2086527729
+      Watchog Back_34: 1157203878
+      Watchog Back_35: 1287217637
+      Watchog Back_36: 568707273
+      Watchog Back_37: 1134394697
+      Watchog Back_38: -1514077240
+      Watchog Back_39: -2106400872
+      Watchog Back_4: 617771464
+      Watchog Back_40: -1604122836
+      Watchog Back_41: 1954639992
+      Watchog Back_42: -1254936550
+      Watchog Back_43: -512057314
+      Watchog Back_44: -552561778
+      Watchog Back_45: -2124997637
+      Watchog Back_46: 731862362
+      Watchog Back_47: 1265358177
+      Watchog Back_48: 264246597
+      Watchog Back_49: 49102597
+      Watchog Back_5: -2011069101
+      Watchog Back_50: -866537145
+      Watchog Back_51: 2136877854
+      Watchog Back_52: 209149335
+      Watchog Back_53: 1038077349
+      Watchog Back_54: 684966107
+      Watchog Back_55: 1241810429
+      Watchog Back_56: -758707230
+      Watchog Back_57: 1449930481
+      Watchog Back_58: 310527381
+      Watchog Back_59: -1087073213
+      Watchog Back_6: 434088141
+      Watchog Back_60: 277931161
+      Watchog Back_61: -1279326654
+      Watchog Back_62: -469134855
+      Watchog Back_63: -163283890
+      Watchog Back_64: 201243396
+      Watchog Back_65: -10833246
+      Watchog Back_66: 1818378085
+      Watchog Back_67: -1514761150
+      Watchog Back_68: -506780186
+      Watchog Back_69: 1302909610
+      Watchog Back_7: 1549396793
+      Watchog Back_70: -380788204
+      Watchog Back_71: 138797027
+      Watchog Back_72: -870687944
+      Watchog Back_73: 277301838
+      Watchog Back_74: 499684146
+      Watchog Back_75: 1401987271
+      Watchog Back_76: -2013216137
+      Watchog Back_77: -769525914
+      Watchog Back_78: -662227052
+      Watchog Back_79: 1908973776
+      Watchog Back_8: 1411481901
+      Watchog Back_80: -1621045821
+      Watchog Back_81: 449627770
+      Watchog Back_82: -102793883
+      Watchog Back_83: 1314938990
+      Watchog Back_84: -2140535493
+      Watchog Back_85: 1273961612
+      Watchog Back_86: -2105845991
+      Watchog Back_87: 1391716525
+      Watchog Back_88: 1837397810
+      Watchog Back_89: 266070075
+      Watchog Back_9: -680377506
+      Watchog Back_90: 683668076
+      Watchog Back_91: -344089722
+      Watchog Back_92: -1121599848
+      Watchog Back_93: -834888757
+      Watchog Back_94: 626792642
+      Watchog Back_95: -1855699621
+      Watchog Back_96: -1649700498
+      Watchog Back_97: -317675065
+      Watchog Back_98: -956712259
+      Watchog Back_99: 19549116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4039 @@
+fileFormatVersion: 2
+guid: e88ef6c042035ba4d89e4cde56ed74db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7456107749349309453
+    second: Blitzle Back_0
+  - first:
+      213: 2018272243607092034
+    second: Blitzle Back_1
+  - first:
+      213: 5002266097372297427
+    second: Blitzle Back_2
+  - first:
+      213: -4090675696355810584
+    second: Blitzle Back_3
+  - first:
+      213: 8152590105730336431
+    second: Blitzle Back_4
+  - first:
+      213: 1403552477145688001
+    second: Blitzle Back_5
+  - first:
+      213: 2263849085302391288
+    second: Blitzle Back_6
+  - first:
+      213: -4573211762285523201
+    second: Blitzle Back_7
+  - first:
+      213: 8993465059208243783
+    second: Blitzle Back_8
+  - first:
+      213: -414000292640842946
+    second: Blitzle Back_9
+  - first:
+      213: -107398326398494605
+    second: Blitzle Back_10
+  - first:
+      213: 1853129379428925475
+    second: Blitzle Back_11
+  - first:
+      213: -1748544274542075904
+    second: Blitzle Back_12
+  - first:
+      213: 5325140450532167790
+    second: Blitzle Back_13
+  - first:
+      213: 3227477105030419148
+    second: Blitzle Back_14
+  - first:
+      213: -8164737772148007335
+    second: Blitzle Back_15
+  - first:
+      213: 4953412661328797240
+    second: Blitzle Back_16
+  - first:
+      213: 2182260102120845081
+    second: Blitzle Back_17
+  - first:
+      213: 3362735873548001065
+    second: Blitzle Back_18
+  - first:
+      213: -39931609115687139
+    second: Blitzle Back_19
+  - first:
+      213: -1601030555869752167
+    second: Blitzle Back_20
+  - first:
+      213: 8718217051866713040
+    second: Blitzle Back_21
+  - first:
+      213: -7195103474937178187
+    second: Blitzle Back_22
+  - first:
+      213: -5298915152353160643
+    second: Blitzle Back_23
+  - first:
+      213: 5298314339763850745
+    second: Blitzle Back_24
+  - first:
+      213: -6369785844561378738
+    second: Blitzle Back_25
+  - first:
+      213: 9067378273095521068
+    second: Blitzle Back_26
+  - first:
+      213: -308515832876116774
+    second: Blitzle Back_27
+  - first:
+      213: 2404772841355886877
+    second: Blitzle Back_28
+  - first:
+      213: 5138870435210989253
+    second: Blitzle Back_29
+  - first:
+      213: 1807855356977807904
+    second: Blitzle Back_30
+  - first:
+      213: 8402890727433252405
+    second: Blitzle Back_31
+  - first:
+      213: 8162445224242417704
+    second: Blitzle Back_32
+  - first:
+      213: 9120411644503549155
+    second: Blitzle Back_33
+  - first:
+      213: 9001508537306623014
+    second: Blitzle Back_34
+  - first:
+      213: -6870106940600376350
+    second: Blitzle Back_35
+  - first:
+      213: -5708747585629314751
+    second: Blitzle Back_36
+  - first:
+      213: 1208051839361127523
+    second: Blitzle Back_37
+  - first:
+      213: -5273972585927424923
+    second: Blitzle Back_38
+  - first:
+      213: -2788031538278211911
+    second: Blitzle Back_39
+  - first:
+      213: 1141291185867794545
+    second: Blitzle Back_40
+  - first:
+      213: 9111563382445271300
+    second: Blitzle Back_41
+  - first:
+      213: 6476554762388939525
+    second: Blitzle Back_42
+  - first:
+      213: -528219936185900665
+    second: Blitzle Back_43
+  - first:
+      213: -1470713934796598238
+    second: Blitzle Back_44
+  - first:
+      213: 1498573236800744074
+    second: Blitzle Back_45
+  - first:
+      213: -1497028060239534419
+    second: Blitzle Back_46
+  - first:
+      213: 4043874437395264671
+    second: Blitzle Back_47
+  - first:
+      213: 327024170797663818
+    second: Blitzle Back_48
+  - first:
+      213: 8418480869481565457
+    second: Blitzle Back_49
+  - first:
+      213: 6861041667744719563
+    second: Blitzle Back_50
+  - first:
+      213: 7344084165072580795
+    second: Blitzle Back_51
+  - first:
+      213: 8360763267523559418
+    second: Blitzle Back_52
+  - first:
+      213: -3942878643692620538
+    second: Blitzle Back_53
+  - first:
+      213: -4575951954080005637
+    second: Blitzle Back_54
+  - first:
+      213: 212335414317759590
+    second: Blitzle Back_55
+  - first:
+      213: 9028832131390817016
+    second: Blitzle Back_56
+  - first:
+      213: 1667472357958748971
+    second: Blitzle Back_57
+  - first:
+      213: 8386786650163909154
+    second: Blitzle Back_58
+  - first:
+      213: -3495021522191348753
+    second: Blitzle Back_59
+  - first:
+      213: 5932215852158539856
+    second: Blitzle Back_60
+  - first:
+      213: -968744872596019762
+    second: Blitzle Back_61
+  - first:
+      213: -109977356379495285
+    second: Blitzle Back_62
+  - first:
+      213: 3790316412478748743
+    second: Blitzle Back_63
+  - first:
+      213: 1150271432572718445
+    second: Blitzle Back_64
+  - first:
+      213: 4954930626388002759
+    second: Blitzle Back_65
+  - first:
+      213: -7721359627299547434
+    second: Blitzle Back_66
+  - first:
+      213: -4932368762514393574
+    second: Blitzle Back_67
+  - first:
+      213: -1460033084089653551
+    second: Blitzle Back_68
+  - first:
+      213: -6962679313700856933
+    second: Blitzle Back_69
+  - first:
+      213: -7484807205480193960
+    second: Blitzle Back_70
+  - first:
+      213: 8511749080245393944
+    second: Blitzle Back_71
+  - first:
+      213: 8990976537658230954
+    second: Blitzle Back_72
+  - first:
+      213: -7962627897844884794
+    second: Blitzle Back_73
+  - first:
+      213: -2106531231852849359
+    second: Blitzle Back_74
+  - first:
+      213: -3960928240089566475
+    second: Blitzle Back_75
+  - first:
+      213: 7504999590643063247
+    second: Blitzle Back_76
+  - first:
+      213: -600306799193093670
+    second: Blitzle Back_77
+  - first:
+      213: 8333538330337114888
+    second: Blitzle Back_78
+  - first:
+      213: -244866420165653955
+    second: Blitzle Back_79
+  - first:
+      213: -4673124496634988005
+    second: Blitzle Back_80
+  - first:
+      213: 8661252172949142996
+    second: Blitzle Back_81
+  - first:
+      213: 3385336985669696422
+    second: Blitzle Back_82
+  - first:
+      213: -3354702342411539621
+    second: Blitzle Back_83
+  - first:
+      213: -2006855504717122322
+    second: Blitzle Back_84
+  - first:
+      213: -9045716128286037664
+    second: Blitzle Back_85
+  - first:
+      213: -346354954212954141
+    second: Blitzle Back_86
+  - first:
+      213: -2735467244121181768
+    second: Blitzle Back_87
+  - first:
+      213: -5316607899249519410
+    second: Blitzle Back_88
+  - first:
+      213: -1245206220157834887
+    second: Blitzle Back_89
+  - first:
+      213: 2476398327203629181
+    second: Blitzle Back_90
+  - first:
+      213: -9211661826305018397
+    second: Blitzle Back_91
+  - first:
+      213: -3078106469207088244
+    second: Blitzle Back_92
+  - first:
+      213: -4600535535988172052
+    second: Blitzle Back_93
+  - first:
+      213: -2361501383837923315
+    second: Blitzle Back_94
+  - first:
+      213: 3731131266989339632
+    second: Blitzle Back_95
+  - first:
+      213: -7640997498388015095
+    second: Blitzle Back_96
+  - first:
+      213: -1298708414412511404
+    second: Blitzle Back_97
+  - first:
+      213: 1326051141794311507
+    second: Blitzle Back_98
+  - first:
+      213: 6609162428204199842
+    second: Blitzle Back_99
+  - first:
+      213: 1763188832573111473
+    second: Blitzle Back_100
+  - first:
+      213: -7968732414806821335
+    second: Blitzle Back_101
+  - first:
+      213: 2208262879246179401
+    second: Blitzle Back_102
+  - first:
+      213: -2203142490104557723
+    second: Blitzle Back_103
+  - first:
+      213: 1196398424891061762
+    second: Blitzle Back_104
+  - first:
+      213: 3098813031236220063
+    second: Blitzle Back_105
+  - first:
+      213: 4828994994874310630
+    second: Blitzle Back_106
+  - first:
+      213: -4486975983227174055
+    second: Blitzle Back_107
+  - first:
+      213: -1302491261814938596
+    second: Blitzle Back_108
+  - first:
+      213: 4122955819437710463
+    second: Blitzle Back_109
+  - first:
+      213: 8066679280398758002
+    second: Blitzle Back_110
+  - first:
+      213: -5360755024195214103
+    second: Blitzle Back_111
+  - first:
+      213: -8548999847001711406
+    second: Blitzle Back_112
+  - first:
+      213: -4296162944177907557
+    second: Blitzle Back_113
+  - first:
+      213: -2394975345334482296
+    second: Blitzle Back_114
+  - first:
+      213: -4768865480403820173
+    second: Blitzle Back_115
+  - first:
+      213: -1022440515719513862
+    second: Blitzle Back_116
+  - first:
+      213: 8311484712597585675
+    second: Blitzle Back_117
+  - first:
+      213: -1366846363894546499
+    second: Blitzle Back_118
+  - first:
+      213: -9039054170584779424
+    second: Blitzle Back_119
+  - first:
+      213: -7429327490426788198
+    second: Blitzle Back_120
+  - first:
+      213: -1461983613200096455
+    second: Blitzle Back_121
+  - first:
+      213: 6940827006081446453
+    second: Blitzle Back_122
+  - first:
+      213: 8098304667838711078
+    second: Blitzle Back_123
+  - first:
+      213: -6880366087804458117
+    second: Blitzle Back_124
+  - first:
+      213: 2229793877738838903
+    second: Blitzle Back_125
+  - first:
+      213: 1821799455556729898
+    second: Blitzle Back_126
+  - first:
+      213: 2779036452494221119
+    second: Blitzle Back_127
+  - first:
+      213: -6587891219979054755
+    second: Blitzle Back_128
+  - first:
+      213: 4465315818056998222
+    second: Blitzle Back_129
+  - first:
+      213: -7637570652492816212
+    second: Blitzle Back_130
+  - first:
+      213: -5174648258690508997
+    second: Blitzle Back_131
+  - first:
+      213: 1491362602266275375
+    second: Blitzle Back_132
+  - first:
+      213: 8103823969173274936
+    second: Blitzle Back_133
+  - first:
+      213: -743921238688628119
+    second: Blitzle Back_134
+  - first:
+      213: -4578346919765455922
+    second: Blitzle Back_135
+  - first:
+      213: 19954916697282808
+    second: Blitzle Back_136
+  - first:
+      213: -2145318194592453390
+    second: Blitzle Back_137
+  - first:
+      213: 5951203127729777292
+    second: Blitzle Back_138
+  - first:
+      213: -2159488625783449729
+    second: Blitzle Back_139
+  - first:
+      213: 3515260913551818522
+    second: Blitzle Back_140
+  - first:
+      213: -2349531453239785072
+    second: Blitzle Back_141
+  - first:
+      213: -5222530006320280016
+    second: Blitzle Back_142
+  - first:
+      213: 188995447043141838
+    second: Blitzle Back_143
+  - first:
+      213: -1980440762059789716
+    second: Blitzle Back_144
+  - first:
+      213: 5471973277309849705
+    second: Blitzle Back_145
+  - first:
+      213: 820250418457640198
+    second: Blitzle Back_146
+  - first:
+      213: -7342643121657396205
+    second: Blitzle Back_147
+  - first:
+      213: 5067943579016857159
+    second: Blitzle Back_148
+  - first:
+      213: 4346638992834394556
+    second: Blitzle Back_149
+  - first:
+      213: 6792487257569754250
+    second: Blitzle Back_150
+  - first:
+      213: 4381740573454412937
+    second: Blitzle Back_151
+  - first:
+      213: -2493524697776301941
+    second: Blitzle Back_152
+  - first:
+      213: -2579071597264292603
+    second: Blitzle Back_153
+  - first:
+      213: 4617086524244662671
+    second: Blitzle Back_154
+  - first:
+      213: -6154972501267410365
+    second: Blitzle Back_155
+  - first:
+      213: -879968915328826636
+    second: Blitzle Back_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blitzle Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ada5e340fc7644093d78b0bc128935
+      internalID: -1958858844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e90e4030a6d434caa2fd150ef303b3
+      internalID: 831112838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25380b36d24112f4da6071e00c06c307
+      internalID: -907689922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de949d3aa07973f46a53e55f1f2aab2c
+      internalID: -1420717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357e229f2e2bfc4ebf2ff37f0acfd93
+      internalID: -2065978070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fa46dd5e20ac4da0049f8e9f44904
+      internalID: -1228347494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca60feb99bfcf64ebe803ce0d3739fa
+      internalID: -2070462467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ce6186f7f9ac48af2ec8cf402df07
+      internalID: -1299494074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645221d08656c9458015cb9b63defcd
+      internalID: -690248969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74557ae3b7dc05b4eb322ef01fcd3eb3
+      internalID: 1443051063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb127eabdd81ac42a0e6396cfca2c01
+      internalID: 724899561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6859f566e188c49826dbc5de78ae38
+      internalID: -654106821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 744
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d36f5c8f2b694bacc357912834c56
+      internalID: 478422525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8311f9736042bd4baaa1952fdd03aa0
+      internalID: 1218103761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7733184d80e224db28e4fc8cb4825d
+      internalID: -1661975541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ae7fdc7f20f74fb4c91c6142da4ea
+      internalID: 1719828375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a571269a408146b972947c902e17b
+      internalID: 572079390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4247140993f9d04bad4ccd3259893d7
+      internalID: -415367667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d157b9db842b9947b10eb5ae0d0da1d
+      internalID: 510941935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854fe57080975d48a504ada94184967
+      internalID: -1274706647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ce59abc3d3de47be1ca5411497a7b
+      internalID: -690555604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17d09a94a53ad74bb2e06fd8162e7f1
+      internalID: -163881684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeef5dd4548e854b8d384ad9200d5ff
+      internalID: -2015063015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886ce128b31cc4418d3611dd73727ca
+      internalID: 102484277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2771523f917fc54d818c1601e50f0c7
+      internalID: 1420959077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 682
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e86159ed1919468a845dd52433209
+      internalID: -923706184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfeac399a2cd214b87eec6565c7531c
+      internalID: 760028538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b98e0d7d42c04f8911c3eaba9caa1
+      internalID: 983063329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84cb7b8f25409f46b3a19fd54149d05
+      internalID: 1584517339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8d40cd560ebc4d9b3e6329eaf8002
+      internalID: 260431016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb02399349dba54fbdf43da13806253
+      internalID: -741517800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2fbb73f85c40459d038d07807b515
+      internalID: 2055918445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3bc308cb7080e4fbf1b6e16cf3667e
+      internalID: -2120414325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd00bcf29a55674385b069da3db4e44
+      internalID: -1635448005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16863834c6afd4a43b7e5b3437aeb629
+      internalID: 224198741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7083e379e4fd142a98528094970581
+      internalID: -1962475883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a252cebb37d76847930dd8b87e74b22
+      internalID: 872106704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b540cbd62ee56e47858bd6700df9769
+      internalID: 842981939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 620
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a0ac5314cfce46908bc33301e4289
+      internalID: 1430039532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5012e679b80134aa905f0291a82690
+      internalID: -425867085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4155b6e5b6e741af9cf4ae2f3c417
+      internalID: 823419243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844382cb80a37f488c10b7df25e3227
+      internalID: 1502039717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5815c8d8a4b14ed4083be145e24481bc
+      internalID: -1060969491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff5aa3a7f2dc5428dd3398580b4e1c
+      internalID: 441475084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f63103e6447d4c856d6241806c921
+      internalID: 1979460708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89f090222f8ee49b6c1ea55f673cdd
+      internalID: -1944754026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf47e1273d840b47a26940a8c5b7972
+      internalID: -981548420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844db76a3a38d241a419c25b8dacbfe
+      internalID: -568333046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a6652dd777fc469c2bc43d72d0557
+      internalID: 1477562755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df2d9b50a8fb745860333a5e38ed8c
+      internalID: -1428251511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e3cd9792ebf840847bcf0ff7feaf9
+      internalID: 1604312170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 558
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bbb52a205b9a341a38c7a561acae3a
+      internalID: 931199905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d36b13f4075ab4cb60ee6738869736
+      internalID: -1366862453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379dd39f1f0cf4f4e8a71414f9de7cf9
+      internalID: -1868581633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60841befa92ad504893eb3cc7a423af9
+      internalID: -116646389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04bf07ada6c6c4aa30b842fbaf5bc4
+      internalID: -1815212280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d819deadeef81f46aead642883a0c9a
+      internalID: -1319143508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be0605047b2eb4e9544eef22a7461e
+      internalID: -1319360609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf86ff0588b254fbdd154ea5113ef4
+      internalID: -1981850914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53c7adac39f2442a799a067374084c
+      internalID: 1140410151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3c264ed792084f9d2e5f32d31e000
+      internalID: 598514988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b06e44e52e37e140aeb04edcbfe7182
+      internalID: 643163227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a56b01ad93761418b7619fc8b2c67a
+      internalID: 1708146376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866df739f9aa5e4baf00978bd900f06
+      internalID: -169650934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 496
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62d81e18df6884ba803bc78309d74f
+      internalID: 1841926562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0489558ebeb0c74481af2b8759749aa
+      internalID: 1124186094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ffd68b735f1b54b977e8a3480d735f
+      internalID: -724096047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1030c1d3ca14c45890526a3bfe04ca
+      internalID: -518346326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18efe89864b6f40b08b2f034f4d433
+      internalID: 2037484255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5dac883c82254cb4e7c9f8a10ceec
+      internalID: 138204528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e950eea3c2747845b6ca187d9662b1c
+      internalID: -876118255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2ff8ab530fb084ea98d2a952906038
+      internalID: -552202772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ccb167b766de42856dc60ad89c29e
+      internalID: 2118199919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f65cd7c83e0c4b88c4e188d632781
+      internalID: -2092996800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad558ffc39f00a4da1c3ffc25bc124f
+      internalID: -506356244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf23192bb9f4ac458fd16ae0c381a1e
+      internalID: 516253223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4e06f32628c14182413cbcf44c429
+      internalID: -2111236949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 434
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7cd3de21366c9478990252b991d6ae
+      internalID: -1922571057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cee0e49cdbf74780a3d5a4677b043
+      internalID: -945103407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016c3a0e7a335641aefbc99923b72b5
+      internalID: 1738283005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f7a315dcd5c041a65219bdb990942
+      internalID: -1316213502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f79b8b18146914d9827ce343cdf8c3
+      internalID: -1092527638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4a8234fff85744ba16f51140461a6
+      internalID: 1061544450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64a4e85d144db429ac66c645966441
+      internalID: -1294410553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1cbf227a18594a912106cfebd0933
+      internalID: -217676095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e318ba87f75a489271f9fbf3b8ef7
+      internalID: -1404278363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0fcf7472403f499ca4820a6dfce22
+      internalID: -864912531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea23eb851f957346b335b470984c2cc
+      internalID: 1011434950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a9f51e72b264429e1c8232b819cbd
+      internalID: -1709044247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0e79cded685904fbbc45886fb6222e
+      internalID: -2103882881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e187942998d87fc47a447d108139899b
+      internalID: -1455093620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1dce9003e3e94fb19de8bd2fb5169
+      internalID: 179327718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0389705f62d4324291a595bcda2bd59
+      internalID: -796142627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95916490d0ca842bcbc831d1050773
+      internalID: -1719320320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f11398f6339f47a3e0663c62decde
+      internalID: -1312753312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2974cc6df2a64e8cae4bcb61b3f90
+      internalID: 809226326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991a5faf23e6f34280504f490d45a4c
+      internalID: -235278528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63869b9ff5813f2498f46ce61a91f01a
+      internalID: 1232400053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ba7b1f4392644690c32182212085e
+      internalID: 1591884888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23414c543f309f74399491ff83f679bf
+      internalID: -1565237114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262db7b84fe43a478224d852ff9c0ce
+      internalID: -1129595898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbead9254d7792942a6640ed5a7b9ed7
+      internalID: 442490764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f327e64122eda04c8623cea1577f2a7
+      internalID: -396360015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 310
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06fa0407da70245bf19fe70625c431
+      internalID: 845871587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0936dded45e7be449f68beaeba76864
+      internalID: -1554883637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c722e47bf15a46b0250b0f94a3527
+      internalID: -1689471040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413ff7fcd8913c44b4a446ebbb0c0b7
+      internalID: -1188996937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621a3c92519ba44e93b149a94a9d3ac
+      internalID: -660388009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41fe4e1a2be8c42b43f8664714ee04
+      internalID: -151897073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a554116a28b3f84697ec19828967433
+      internalID: -1738298909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79905e3504a129744b2699eeb31fa9ed
+      internalID: 495906852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481d524d0cf9194b9641af7222c5f08
+      internalID: -1725036308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ee41992d794c44b70da588c5ccda9
+      internalID: 1200879746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf433dac6206847b139d367fe99ccf
+      internalID: -1381154263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074800fc86233ad41b0ed2e40e3fe873
+      internalID: -1055235627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd7502292a776478e454d388fcfccf
+      internalID: 946575403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 248
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e72cb46a3a114a814a17a2d972c53
+      internalID: -1055895176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba549c63bd5b89408d9e096732caf90
+      internalID: 92845199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222fd0282afda4547b9804694b1b792e
+      internalID: 1836797303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cba6fe4988804b9318a4b0e7ad455
+      internalID: 963425100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75719977f536bd47bc6aeffab5785dd
+      internalID: 1047287965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc208f83ebccba4a8422966ba761cdf
+      internalID: -289744452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119a7d83b5d8524a81504b60b28ab6a
+      internalID: 810799552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796db55811b5f0446987aae0a2c51e70
+      internalID: 1418329918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218222973f7cd854e9327e2f5a4898a7
+      internalID: 429348538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa22d0a31779394bb82590a2f316252
+      internalID: 1605718374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6834d80b3c47343a4f4eb3fbffb505
+      internalID: 1157652900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b72875d43ba14299dd42b3d982e19
+      internalID: -383736007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f97b1bb63ba342bc2de50a7e8cf1e
+      internalID: -835041686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 186
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fe7e4b58efa94d8f7bce125827caa
+      internalID: -372910066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ff3e4da9e386468667fa430e54d9d
+      internalID: 1249546019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79cd71924729047889a684891b5de5
+      internalID: 366508260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd49f7f85d97704ca28bf31fe184099
+      internalID: 836412597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920267638416a045af96a8d28e9600b
+      internalID: 1111061235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06a59ca730d194b897474b975384bb
+      internalID: -1638348800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17483a5f2a7aaed4089cb913caa39140
+      internalID: -2109317413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbd0a32d57ab54ba261a1128960442
+      internalID: -1151344908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f47db830967d459d735761760c546
+      internalID: 927618643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ebd34cc45acb42a168c6e59e9af47
+      internalID: 1804967106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a800cc7805f242a3b306f3f5bd64f
+      internalID: 2082166938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fa930bd91bf2a4daa972aa424fbbd3
+      internalID: -1594600895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c87eb0ce8d30418295de21bf73e91
+      internalID: 1321039006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d1a23f639bbd47bc3fdc86491fe5a
+      internalID: -1197335936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b8a0a483a6ba648a0cb6f3f42ce086
+      internalID: 1701103033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b755f0be792d42899ca2b5eaca0bd
+      internalID: 733060695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a34625790b68d4388b6311bf3b5694
+      internalID: -348578540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcad618889b29f44b71c3996db59643
+      internalID: 1888208183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845928309ca83904a85bf4554e84f458
+      internalID: 133294047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510db04185260244a98b70eebc257639
+      internalID: -497475800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b6ca3dd8e8a44688cf677646e74c3
+      internalID: 1240026189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476302ea2cffa1b46965c2d4bba960dc
+      internalID: -1786301789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6cbcbebe867bc47a2560367ced0012
+      internalID: 878034254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef2f5f9b03eb34ab1852e05237e2c6
+      internalID: -552958595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34750a8b5351d384fa2296bec5ee823e
+      internalID: 2034667421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c204696331e04387cd196514e464a
+      internalID: -884368491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 62
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6d7c5d6322ac4caa6b552dfb15a16
+      internalID: -1201295339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitzle Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd2603530b96940911119a621dd80a
+      internalID: -1737993996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f61db06d0ac44d84f9d85009af5e20d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blitzle Back_0: -1958858844
+      Blitzle Back_1: 831112838
+      Blitzle Back_10: 724899561
+      Blitzle Back_100: -1129595898
+      Blitzle Back_101: 442490764
+      Blitzle Back_102: -396360015
+      Blitzle Back_103: 845871587
+      Blitzle Back_104: -1554883637
+      Blitzle Back_105: -1689471040
+      Blitzle Back_106: -1188996937
+      Blitzle Back_107: -660388009
+      Blitzle Back_108: -151897073
+      Blitzle Back_109: -1738298909
+      Blitzle Back_11: -654106821
+      Blitzle Back_110: 495906852
+      Blitzle Back_111: -1725036308
+      Blitzle Back_112: 1200879746
+      Blitzle Back_113: -1381154263
+      Blitzle Back_114: -1055235627
+      Blitzle Back_115: 946575403
+      Blitzle Back_116: -1055895176
+      Blitzle Back_117: 92845199
+      Blitzle Back_118: 1836797303
+      Blitzle Back_119: 963425100
+      Blitzle Back_12: 478422525
+      Blitzle Back_120: 1047287965
+      Blitzle Back_121: -289744452
+      Blitzle Back_122: 810799552
+      Blitzle Back_123: 1418329918
+      Blitzle Back_124: 429348538
+      Blitzle Back_125: 1605718374
+      Blitzle Back_126: 1157652900
+      Blitzle Back_127: -383736007
+      Blitzle Back_128: -835041686
+      Blitzle Back_129: -372910066
+      Blitzle Back_13: 1218103761
+      Blitzle Back_130: 1249546019
+      Blitzle Back_131: 366508260
+      Blitzle Back_132: 836412597
+      Blitzle Back_133: 1111061235
+      Blitzle Back_134: -1638348800
+      Blitzle Back_135: -2109317413
+      Blitzle Back_136: -1151344908
+      Blitzle Back_137: 927618643
+      Blitzle Back_138: 1804967106
+      Blitzle Back_139: 2082166938
+      Blitzle Back_14: -1661975541
+      Blitzle Back_140: -1594600895
+      Blitzle Back_141: 1321039006
+      Blitzle Back_142: -1197335936
+      Blitzle Back_143: 1701103033
+      Blitzle Back_144: 733060695
+      Blitzle Back_145: -348578540
+      Blitzle Back_146: 1888208183
+      Blitzle Back_147: 133294047
+      Blitzle Back_148: -497475800
+      Blitzle Back_149: 1240026189
+      Blitzle Back_15: 1719828375
+      Blitzle Back_150: -1786301789
+      Blitzle Back_151: 878034254
+      Blitzle Back_152: -552958595
+      Blitzle Back_153: 2034667421
+      Blitzle Back_154: -884368491
+      Blitzle Back_155: -1201295339
+      Blitzle Back_156: -1737993996
+      Blitzle Back_16: 572079390
+      Blitzle Back_17: -415367667
+      Blitzle Back_18: 510941935
+      Blitzle Back_19: -1274706647
+      Blitzle Back_2: -907689922
+      Blitzle Back_20: -690555604
+      Blitzle Back_21: -163881684
+      Blitzle Back_22: -2015063015
+      Blitzle Back_23: 102484277
+      Blitzle Back_24: 1420959077
+      Blitzle Back_25: -923706184
+      Blitzle Back_26: 760028538
+      Blitzle Back_27: 983063329
+      Blitzle Back_28: 1584517339
+      Blitzle Back_29: 260431016
+      Blitzle Back_3: -1420717572
+      Blitzle Back_30: -741517800
+      Blitzle Back_31: 2055918445
+      Blitzle Back_32: -2120414325
+      Blitzle Back_33: -1635448005
+      Blitzle Back_34: 224198741
+      Blitzle Back_35: -1962475883
+      Blitzle Back_36: 872106704
+      Blitzle Back_37: 842981939
+      Blitzle Back_38: 1430039532
+      Blitzle Back_39: -425867085
+      Blitzle Back_4: -2065978070
+      Blitzle Back_40: 823419243
+      Blitzle Back_41: 1502039717
+      Blitzle Back_42: -1060969491
+      Blitzle Back_43: 441475084
+      Blitzle Back_44: 1979460708
+      Blitzle Back_45: -1944754026
+      Blitzle Back_46: -981548420
+      Blitzle Back_47: -568333046
+      Blitzle Back_48: 1477562755
+      Blitzle Back_49: -1428251511
+      Blitzle Back_5: -1228347494
+      Blitzle Back_50: 1604312170
+      Blitzle Back_51: 931199905
+      Blitzle Back_52: -1366862453
+      Blitzle Back_53: -1868581633
+      Blitzle Back_54: -116646389
+      Blitzle Back_55: -1815212280
+      Blitzle Back_56: -1319143508
+      Blitzle Back_57: -1319360609
+      Blitzle Back_58: -1981850914
+      Blitzle Back_59: 1140410151
+      Blitzle Back_6: -2070462467
+      Blitzle Back_60: 598514988
+      Blitzle Back_61: 643163227
+      Blitzle Back_62: 1708146376
+      Blitzle Back_63: -169650934
+      Blitzle Back_64: 1841926562
+      Blitzle Back_65: 1124186094
+      Blitzle Back_66: -724096047
+      Blitzle Back_67: -518346326
+      Blitzle Back_68: 2037484255
+      Blitzle Back_69: 138204528
+      Blitzle Back_7: -1299494074
+      Blitzle Back_70: -876118255
+      Blitzle Back_71: -552202772
+      Blitzle Back_72: 2118199919
+      Blitzle Back_73: -2092996800
+      Blitzle Back_74: -506356244
+      Blitzle Back_75: 516253223
+      Blitzle Back_76: -2111236949
+      Blitzle Back_77: -1922571057
+      Blitzle Back_78: -945103407
+      Blitzle Back_79: 1738283005
+      Blitzle Back_8: -690248969
+      Blitzle Back_80: -1316213502
+      Blitzle Back_81: -1092527638
+      Blitzle Back_82: 1061544450
+      Blitzle Back_83: -1294410553
+      Blitzle Back_84: -217676095
+      Blitzle Back_85: -1404278363
+      Blitzle Back_86: -864912531
+      Blitzle Back_87: 1011434950
+      Blitzle Back_88: -1709044247
+      Blitzle Back_89: -2103882881
+      Blitzle Back_9: 1443051063
+      Blitzle Back_90: -1455093620
+      Blitzle Back_91: 179327718
+      Blitzle Back_92: -796142627
+      Blitzle Back_93: -1719320320
+      Blitzle Back_94: -1312753312
+      Blitzle Back_95: 809226326
+      Blitzle Back_96: -235278528
+      Blitzle Back_97: 1232400053
+      Blitzle Back_98: 1591884888
+      Blitzle Back_99: -1565237114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

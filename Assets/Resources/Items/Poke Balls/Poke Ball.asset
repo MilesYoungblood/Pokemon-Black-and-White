@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f04d5597604884b3cc6e32462a5b06, type: 3}
+  m_Name: Poke Ball
+  m_EditorClassIdentifier: 
+  name: Poke Ball
+  effect: A device for catching wild Pokemon. It is thrown like a ball at the target.
+    It is designed as a capsule system.
+  sprite: {fileID: 21300000, guid: 4d8230382962bd34b9c18c6538beba4a, type: 3}
+  battleSprite: {fileID: -8049863443701744786, guid: 74471fb50eb47f641a0cf3544692a54c, type: 3}

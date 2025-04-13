@@ -1,0 +1,5349 @@
+fileFormatVersion: 2
+guid: 47c199e5f03f77f4db1c492aa69406bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -413604363612409643
+    second: Tynamo Back_0
+  - first:
+      213: -5726544525897264667
+    second: Tynamo Back_1
+  - first:
+      213: 58037631599167000
+    second: Tynamo Back_2
+  - first:
+      213: -8691252235663426878
+    second: Tynamo Back_3
+  - first:
+      213: 4499790745744515213
+    second: Tynamo Back_4
+  - first:
+      213: 86573651144587989
+    second: Tynamo Back_5
+  - first:
+      213: -5522719554443079516
+    second: Tynamo Back_6
+  - first:
+      213: -6097631369892128687
+    second: Tynamo Back_7
+  - first:
+      213: -4397248218169651613
+    second: Tynamo Back_8
+  - first:
+      213: -8312159805638659434
+    second: Tynamo Back_9
+  - first:
+      213: 5622158069720441910
+    second: Tynamo Back_10
+  - first:
+      213: -2300757519083881210
+    second: Tynamo Back_11
+  - first:
+      213: 2508955740523482048
+    second: Tynamo Back_12
+  - first:
+      213: 1677282723741619020
+    second: Tynamo Back_13
+  - first:
+      213: 4845786319986446241
+    second: Tynamo Back_14
+  - first:
+      213: 1418887825894098649
+    second: Tynamo Back_15
+  - first:
+      213: 8651275457697352831
+    second: Tynamo Back_16
+  - first:
+      213: 2551975204113737788
+    second: Tynamo Back_17
+  - first:
+      213: -463506639525905868
+    second: Tynamo Back_18
+  - first:
+      213: 1877317696668150756
+    second: Tynamo Back_19
+  - first:
+      213: -3927564966315457022
+    second: Tynamo Back_20
+  - first:
+      213: 1071665816396684381
+    second: Tynamo Back_21
+  - first:
+      213: 5416159079651489027
+    second: Tynamo Back_22
+  - first:
+      213: -443044630094202480
+    second: Tynamo Back_23
+  - first:
+      213: -1018849751054554313
+    second: Tynamo Back_24
+  - first:
+      213: 1403426894949551896
+    second: Tynamo Back_25
+  - first:
+      213: -2226724617851029187
+    second: Tynamo Back_26
+  - first:
+      213: -2628869699651368692
+    second: Tynamo Back_27
+  - first:
+      213: 8990981300006420732
+    second: Tynamo Back_28
+  - first:
+      213: 3762958109351738383
+    second: Tynamo Back_29
+  - first:
+      213: -7548333165163021431
+    second: Tynamo Back_30
+  - first:
+      213: 5965949985504976397
+    second: Tynamo Back_31
+  - first:
+      213: -980447058709439016
+    second: Tynamo Back_32
+  - first:
+      213: -3155202639386524844
+    second: Tynamo Back_33
+  - first:
+      213: 1790230149669999872
+    second: Tynamo Back_34
+  - first:
+      213: 7425227172194068612
+    second: Tynamo Back_35
+  - first:
+      213: 1402234879537631450
+    second: Tynamo Back_36
+  - first:
+      213: 3870183817589268794
+    second: Tynamo Back_37
+  - first:
+      213: 8385115614550587367
+    second: Tynamo Back_38
+  - first:
+      213: -9151395116196948537
+    second: Tynamo Back_39
+  - first:
+      213: 4625756942410586308
+    second: Tynamo Back_40
+  - first:
+      213: -6432343210479727644
+    second: Tynamo Back_41
+  - first:
+      213: 494252131845408599
+    second: Tynamo Back_42
+  - first:
+      213: 5767033660579416418
+    second: Tynamo Back_43
+  - first:
+      213: 2946458839324344706
+    second: Tynamo Back_44
+  - first:
+      213: 5469358266526510720
+    second: Tynamo Back_45
+  - first:
+      213: -7060083394749218381
+    second: Tynamo Back_46
+  - first:
+      213: -2584133068606547584
+    second: Tynamo Back_47
+  - first:
+      213: 927544644829047912
+    second: Tynamo Back_48
+  - first:
+      213: 5608805281781033795
+    second: Tynamo Back_49
+  - first:
+      213: 9073052607430863666
+    second: Tynamo Back_50
+  - first:
+      213: 2497673819237066386
+    second: Tynamo Back_51
+  - first:
+      213: -1231986150401205062
+    second: Tynamo Back_52
+  - first:
+      213: -3210764425315498652
+    second: Tynamo Back_53
+  - first:
+      213: 2267048123984269550
+    second: Tynamo Back_54
+  - first:
+      213: -8927652959106725772
+    second: Tynamo Back_55
+  - first:
+      213: -1453318938976705997
+    second: Tynamo Back_56
+  - first:
+      213: -2097251223973811160
+    second: Tynamo Back_57
+  - first:
+      213: 5577847383787635039
+    second: Tynamo Back_58
+  - first:
+      213: 5177115649474743838
+    second: Tynamo Back_59
+  - first:
+      213: 82572835181743911
+    second: Tynamo Back_60
+  - first:
+      213: 7769251290541471343
+    second: Tynamo Back_61
+  - first:
+      213: -996061361342403136
+    second: Tynamo Back_62
+  - first:
+      213: 8314152937901805600
+    second: Tynamo Back_63
+  - first:
+      213: -7607061762028648826
+    second: Tynamo Back_64
+  - first:
+      213: -5331756398009437573
+    second: Tynamo Back_65
+  - first:
+      213: 3778997348132683991
+    second: Tynamo Back_66
+  - first:
+      213: -2032376836339995823
+    second: Tynamo Back_67
+  - first:
+      213: -6977806847838917053
+    second: Tynamo Back_68
+  - first:
+      213: 1009758360616013115
+    second: Tynamo Back_69
+  - first:
+      213: 6486227433713215559
+    second: Tynamo Back_70
+  - first:
+      213: -8336762640298721193
+    second: Tynamo Back_71
+  - first:
+      213: -6348141698988531479
+    second: Tynamo Back_72
+  - first:
+      213: 6475288198384538141
+    second: Tynamo Back_73
+  - first:
+      213: -8386983203588060289
+    second: Tynamo Back_74
+  - first:
+      213: -395764560494402188
+    second: Tynamo Back_75
+  - first:
+      213: -2842017918446362843
+    second: Tynamo Back_76
+  - first:
+      213: -8600507028597938229
+    second: Tynamo Back_77
+  - first:
+      213: -1845297593085664512
+    second: Tynamo Back_78
+  - first:
+      213: -4175818270430449918
+    second: Tynamo Back_79
+  - first:
+      213: 5066998043456616501
+    second: Tynamo Back_80
+  - first:
+      213: -246086854890332828
+    second: Tynamo Back_81
+  - first:
+      213: 5700743004134694365
+    second: Tynamo Back_82
+  - first:
+      213: -5186309329371707312
+    second: Tynamo Back_83
+  - first:
+      213: -8304013307029668683
+    second: Tynamo Back_84
+  - first:
+      213: -374356504869389095
+    second: Tynamo Back_85
+  - first:
+      213: 1666203268032158550
+    second: Tynamo Back_86
+  - first:
+      213: -3293758412527128858
+    second: Tynamo Back_87
+  - first:
+      213: 3258097991626879135
+    second: Tynamo Back_88
+  - first:
+      213: 3115699750838865100
+    second: Tynamo Back_89
+  - first:
+      213: 5760111399159800379
+    second: Tynamo Back_90
+  - first:
+      213: 1128467202067436808
+    second: Tynamo Back_91
+  - first:
+      213: 7844846483257304094
+    second: Tynamo Back_92
+  - first:
+      213: -3546039176527342499
+    second: Tynamo Back_93
+  - first:
+      213: 9204545498635175857
+    second: Tynamo Back_94
+  - first:
+      213: -5069261137239488970
+    second: Tynamo Back_95
+  - first:
+      213: -4882852104350253510
+    second: Tynamo Back_96
+  - first:
+      213: 6471291541696690574
+    second: Tynamo Back_97
+  - first:
+      213: 6961790145883028042
+    second: Tynamo Back_98
+  - first:
+      213: 8587466838924094295
+    second: Tynamo Back_99
+  - first:
+      213: 1427760749241722840
+    second: Tynamo Back_100
+  - first:
+      213: 6510254079508139413
+    second: Tynamo Back_101
+  - first:
+      213: -505334033724110564
+    second: Tynamo Back_102
+  - first:
+      213: 2221238349164874719
+    second: Tynamo Back_103
+  - first:
+      213: 7818379474459232251
+    second: Tynamo Back_104
+  - first:
+      213: -2515211813864120711
+    second: Tynamo Back_105
+  - first:
+      213: -3971442948922840397
+    second: Tynamo Back_106
+  - first:
+      213: 4486206235342744574
+    second: Tynamo Back_107
+  - first:
+      213: -2774085479002739982
+    second: Tynamo Back_108
+  - first:
+      213: 3582850351751666309
+    second: Tynamo Back_109
+  - first:
+      213: -1337976584386232290
+    second: Tynamo Back_110
+  - first:
+      213: 6159983994412210674
+    second: Tynamo Back_111
+  - first:
+      213: -2196536603432010182
+    second: Tynamo Back_112
+  - first:
+      213: 524027504825278385
+    second: Tynamo Back_113
+  - first:
+      213: 4155657287921426490
+    second: Tynamo Back_114
+  - first:
+      213: 4135199250390779981
+    second: Tynamo Back_115
+  - first:
+      213: -5946903436001579390
+    second: Tynamo Back_116
+  - first:
+      213: -6579451623649564704
+    second: Tynamo Back_117
+  - first:
+      213: -8046512926460159147
+    second: Tynamo Back_118
+  - first:
+      213: 7205395744306767314
+    second: Tynamo Back_119
+  - first:
+      213: 812530249853845236
+    second: Tynamo Back_120
+  - first:
+      213: 7694892226749085001
+    second: Tynamo Back_121
+  - first:
+      213: 6246883482271824838
+    second: Tynamo Back_122
+  - first:
+      213: -9145245498433965866
+    second: Tynamo Back_123
+  - first:
+      213: -3563174052772754657
+    second: Tynamo Back_124
+  - first:
+      213: 7132274911724843183
+    second: Tynamo Back_125
+  - first:
+      213: 6437264278670873422
+    second: Tynamo Back_126
+  - first:
+      213: -3335864975022699124
+    second: Tynamo Back_127
+  - first:
+      213: -8154921948831691295
+    second: Tynamo Back_128
+  - first:
+      213: 8746751634253510780
+    second: Tynamo Back_129
+  - first:
+      213: -2763272608409342755
+    second: Tynamo Back_130
+  - first:
+      213: -262790300655441091
+    second: Tynamo Back_131
+  - first:
+      213: -4983062325115130641
+    second: Tynamo Back_132
+  - first:
+      213: 2995334445191675267
+    second: Tynamo Back_133
+  - first:
+      213: -1107040131067343754
+    second: Tynamo Back_134
+  - first:
+      213: -4997750366751174400
+    second: Tynamo Back_135
+  - first:
+      213: -1956629274111138986
+    second: Tynamo Back_136
+  - first:
+      213: 1901813635046396904
+    second: Tynamo Back_137
+  - first:
+      213: 4529150980729466556
+    second: Tynamo Back_138
+  - first:
+      213: -6556493785813126856
+    second: Tynamo Back_139
+  - first:
+      213: 8281893342755276875
+    second: Tynamo Back_140
+  - first:
+      213: 227861296435358886
+    second: Tynamo Back_141
+  - first:
+      213: -4892411670786515011
+    second: Tynamo Back_142
+  - first:
+      213: -4747703602384817978
+    second: Tynamo Back_143
+  - first:
+      213: -5234951517650893393
+    second: Tynamo Back_144
+  - first:
+      213: -2635434657876384298
+    second: Tynamo Back_145
+  - first:
+      213: -7939654317836298769
+    second: Tynamo Back_146
+  - first:
+      213: -8511247839355826682
+    second: Tynamo Back_147
+  - first:
+      213: 6730318951770228609
+    second: Tynamo Back_148
+  - first:
+      213: 8225867228319549130
+    second: Tynamo Back_149
+  - first:
+      213: -2099242029029559838
+    second: Tynamo Back_150
+  - first:
+      213: 1150844738256930683
+    second: Tynamo Back_151
+  - first:
+      213: -3941019289312384821
+    second: Tynamo Back_152
+  - first:
+      213: -74617603083448095
+    second: Tynamo Back_153
+  - first:
+      213: -6194341495954503314
+    second: Tynamo Back_154
+  - first:
+      213: -2222631296103377
+    second: Tynamo Back_155
+  - first:
+      213: 2656131700755771829
+    second: Tynamo Back_156
+  - first:
+      213: 2040405159551348871
+    second: Tynamo Back_157
+  - first:
+      213: 348695406301050744
+    second: Tynamo Back_158
+  - first:
+      213: -2297788734854379057
+    second: Tynamo Back_159
+  - first:
+      213: 6975231782433125460
+    second: Tynamo Back_160
+  - first:
+      213: 7726330082631031434
+    second: Tynamo Back_161
+  - first:
+      213: 5188619858542686411
+    second: Tynamo Back_162
+  - first:
+      213: -7248416578687907710
+    second: Tynamo Back_163
+  - first:
+      213: -8256255583611128391
+    second: Tynamo Back_164
+  - first:
+      213: -2568598725424148784
+    second: Tynamo Back_165
+  - first:
+      213: -1714626499367155675
+    second: Tynamo Back_166
+  - first:
+      213: -1218125074890252220
+    second: Tynamo Back_167
+  - first:
+      213: 4806432169194827566
+    second: Tynamo Back_168
+  - first:
+      213: 3694759478768655695
+    second: Tynamo Back_169
+  - first:
+      213: 7479014837762249497
+    second: Tynamo Back_170
+  - first:
+      213: 4169301337628992291
+    second: Tynamo Back_171
+  - first:
+      213: 7126720534658110655
+    second: Tynamo Back_172
+  - first:
+      213: 3582176736539207656
+    second: Tynamo Back_173
+  - first:
+      213: -8320615475094830918
+    second: Tynamo Back_174
+  - first:
+      213: 6581129455138717294
+    second: Tynamo Back_175
+  - first:
+      213: -6063744650296169541
+    second: Tynamo Back_176
+  - first:
+      213: -2746314947999595922
+    second: Tynamo Back_177
+  - first:
+      213: 8669261614305193585
+    second: Tynamo Back_178
+  - first:
+      213: 6328464731679483300
+    second: Tynamo Back_179
+  - first:
+      213: -4380136616425355551
+    second: Tynamo Back_180
+  - first:
+      213: -647073337166428793
+    second: Tynamo Back_181
+  - first:
+      213: -4997999950928094482
+    second: Tynamo Back_182
+  - first:
+      213: 4193481884434720486
+    second: Tynamo Back_183
+  - first:
+      213: -255305114668075902
+    second: Tynamo Back_184
+  - first:
+      213: -8639940650487648804
+    second: Tynamo Back_185
+  - first:
+      213: -9076739780780189060
+    second: Tynamo Back_186
+  - first:
+      213: -4033313006977265319
+    second: Tynamo Back_187
+  - first:
+      213: -5935168043134573659
+    second: Tynamo Back_188
+  - first:
+      213: -4940524524475592507
+    second: Tynamo Back_189
+  - first:
+      213: -4030815751842510703
+    second: Tynamo Back_190
+  - first:
+      213: 3704809384783228449
+    second: Tynamo Back_191
+  - first:
+      213: 2369241391805999485
+    second: Tynamo Back_192
+  - first:
+      213: -4576813035115255483
+    second: Tynamo Back_193
+  - first:
+      213: 1136877800945898682
+    second: Tynamo Back_194
+  - first:
+      213: 6335264972854526633
+    second: Tynamo Back_195
+  - first:
+      213: -3640748869974590349
+    second: Tynamo Back_196
+  - first:
+      213: -3343999543258068030
+    second: Tynamo Back_197
+  - first:
+      213: -7106387892627559746
+    second: Tynamo Back_198
+  - first:
+      213: -9099997022337578973
+    second: Tynamo Back_199
+  - first:
+      213: -2415981288442895932
+    second: Tynamo Back_200
+  - first:
+      213: 6044826436440481378
+    second: Tynamo Back_201
+  - first:
+      213: -479309245196476845
+    second: Tynamo Back_202
+  - first:
+      213: 3868829110153468437
+    second: Tynamo Back_203
+  - first:
+      213: -3272718578402355931
+    second: Tynamo Back_204
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tynamo Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a52c2fd155564d8ca010f0f8dfcba
+      internalID: 919475899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd91611bec70cd44b63f0a472582709
+      internalID: 302785131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53e56e8f4801940b50121d436440a0
+      internalID: -1697012428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1905b7a17f07b840920994fba528d78
+      internalID: 2083229989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b638a9610d0ed41bef558177e70f8b
+      internalID: 2076403402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d3ec3d81bc72419eda7fce1b082f4
+      internalID: 1816120583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f710c49d1f1e24f83244c4b547d632
+      internalID: 1231436037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd191204442029442a1ed474a3155ea3
+      internalID: -1866843229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54565d328c05e8c4a83febd12a2c7d57
+      internalID: -1897794799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da31102ffa3def47bc12192d2a6c4bb
+      internalID: 556919148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26264c6920f5c2743b945ee35eca08e3
+      internalID: -504768182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a7b9fc36fbb5549aa9811e5c8d52f6
+      internalID: -900696448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5ea7db8292d948a58c2bb2adaed27
+      internalID: -409519201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 280
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08f8fc966e3ba469f312087ed3638b
+      internalID: -231517175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f051424fcac449b060302417bc2f2
+      internalID: 1974557010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cbb40a738141d4db26a7febc02164d
+      internalID: -1253883624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45d981a5a04d94783d32f545ef4c9b
+      internalID: -1570418329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee4610f5ff01e46a71eaab4ecb558a
+      internalID: -1076134405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c30659f7c5ee4f9f86db6aab59b00
+      internalID: -524645898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b20fc283270b34185a5fedc5710f6d
+      internalID: -2030000323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a0e4c5140f344a80b0632d4fbfaab
+      internalID: 1490395007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868401207ec46704dbecace24726a2dc
+      internalID: 199343154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec0696568ba41942817ea4640b166b1
+      internalID: -1584154126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbafd90df9a1394484618e7f966a71c
+      internalID: -1404428716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728e2238bed4e64db9305e8ea5c4f02
+      internalID: -464877016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781aabd3228346d4cbe0fe45ea66aa90
+      internalID: 1221207915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ab485424158f458cb879418e276f7
+      internalID: 1803210803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 260
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393758c5f29911742ab8546da1f0c556
+      internalID: 1591451272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea74d00bca06341b8d3ac86b7ad219
+      internalID: 751152980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e03c26d3fc0e7a4091c549cf5a5ab2f
+      internalID: -1182693148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada90474cc4369f47adc96fdef9ca3c8
+      internalID: -1200901101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba476347ebadb4cb2a3606c6b58385
+      internalID: 1186309744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd25a555f99fe428eb7678e2edf669
+      internalID: 1355540772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd4f235a700a64aaa159189c609826
+      internalID: 172208559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc60718b9430a04da72e0987d310fcb
+      internalID: -102209127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f07a46ef01ff41bfe16b2fd3e1b09
+      internalID: 1179892997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4cc79ceeb90944799431ad0e841ba3
+      internalID: -1322906905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ddd6e30d4dad47804a85698db1d4f
+      internalID: -514704877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c9a7f8522d1144bd434267df7f3c3
+      internalID: -1294594196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0e146e492a364491302cf60ffcc91
+      internalID: -654675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aece8f9836b9843a4d2642286422cd
+      internalID: -1068580536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 240
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f6baea2eb17043b292805e3034033
+      internalID: 685797790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb47236ae6ac184ca86afd87b9308cb
+      internalID: -1614108759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe59c7f76d4194a9a183538e1caae4
+      internalID: -2039200422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433bbb73c66aaa46818e185c44e22a0
+      internalID: 1572745794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1950197919a548a36968eabee0299
+      internalID: -695000670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb50657dc4f6993459aa54f61fdcba6d
+      internalID: 909155706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58247ac24d2e61b4f9fa9a07a459991a
+      internalID: -805159044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455712106318e8e4fa5a340795db69ea
+      internalID: 795267832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f04aa8656be649a245e340ce15d48
+      internalID: -1121385052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5357d1dc8e5a49a7655086a69fe98
+      internalID: 175395298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1393f99b867347bb3d2e18b5078bd
+      internalID: -793259765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08abb9ab9a10986498ff2e3e04be8d5c
+      internalID: -299327188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bcd2d7281d8e6419d07ea2d94cb3f3
+      internalID: -731676344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045801724d402d40adc22b27a6d96be
+      internalID: -816585045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 220
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f04431b1228d0488ff49ea790e7f1f
+      internalID: -1860806687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3601bf878794d245a6aee24e1b4ca41
+      internalID: 1616084115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3a5ebcc6a0c042a4dd3a721aadf7a
+      internalID: -1309018554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0725484e2cbca5b4aaf437f86be94f1c
+      internalID: -1296050858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb80206c969c2a4ca9d8c04001caa64
+      internalID: -337774657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9743e6fa187554bae81b81e6cdd162
+      internalID: -2049149650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afb2ad4418bc2459e2f21ffe73fbc3
+      internalID: -1003141908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41cf11b9a757a48ba33a1b07dabff1
+      internalID: 751841735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84989c685e514f43a33959a3278c377
+      internalID: -2030117358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce931e59e144f44a02760def0f4758
+      internalID: 2124103576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55587abe95a2d0d4a93677d288d0e478
+      internalID: 1452028482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929383b2497c877488b6bebc01e0b5e1
+      internalID: -1722220335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f6443cc9863549b3c97342f2efbf3
+      internalID: -1776298482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188716f5e9fa5546b809e96119bd06f
+      internalID: 58596433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 200
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371072d2549aaec4fb7da6e1a9d73986
+      internalID: -1966906293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00644878d0379345a86eb9d0fe8b072
+      internalID: 374604866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc17f39d027ba745a92164330c7b8c7
+      internalID: -2092852727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990a9292b3b0e4e48aff6c921d906c2a
+      internalID: 1674075303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ebffe6ba32454babd2a5d7c555158
+      internalID: 1993852783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba4d2b83db2ab43b10684525bd8345
+      internalID: 1971425934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b902b8301d25a5d4e953b8cf939a73c7
+      internalID: 328237745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ee90eb564b653468ce7a6854cb30c0
+      internalID: -181795867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e092648e55f93b34fad040ff09e1131f
+      internalID: 1379593752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbe376e5b73ca40b4e2e3990f476d3
+      internalID: -1699835337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72421270f0b1944d823ff58c0dc5624
+      internalID: 89737402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da0a424ad085a46b390e35829bd296
+      internalID: -1718362717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d64c2d6db3ab494b81d1367fc028d39
+      internalID: -1148146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68de088a9241854eabcd42491a18876
+      internalID: -1011831524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 180
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a90613dafb0914185542a5b0e97488
+      internalID: -1876276184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe98221e892c448b215799327c1406
+      internalID: -2005308981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc3f2117973e74fa0a7e309845fa39
+      internalID: 1830290263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a50149ebe10a9498c245e88e1a9a2b
+      internalID: 2004451763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731db0dbe1e0bfc49981cb9a0208cd4b
+      internalID: -462595448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522a76e8df2be84c807edf87f556a63
+      internalID: -1541236479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a12e1980660ba64e80e8518d4d82edd
+      internalID: 623111023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb65dbf5eccbb47ab564702d66c476
+      internalID: -664949964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5065e4df69159164c88439c19bf991b7
+      internalID: 881395202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8091116336760478966013ea8d76e5
+      internalID: -1709816991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec8ddb270797564192e74469fed29ab
+      internalID: 111802890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434bfe525508c1647af8d57174d7db4a
+      internalID: 1913977621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b027e35036014ba43fa07af790424
+      internalID: 1819133456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b740a56a497a8c74ab750a1b83aa2b44
+      internalID: 213860009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 160
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1681c47bc854409840de6ce802e69
+      internalID: 1741152791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31456d1919f6da4a8b651800c10fe3d
+      internalID: 880775060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb52698d1f6b8d42b120f33c0e0f5f0
+      internalID: -626546835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a906ce020c5394f88a4ae702a0dfe8
+      internalID: 1309878076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e82e9a1360a5a41a06ec52954f3dd3
+      internalID: -1088840410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648584e81879784a9c7ce198398f7fc
+      internalID: 814086629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d85611b95d6dd40a224ac4071c88b7
+      internalID: -783106128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8ea2b515f7204fab0a38604143681
+      internalID: 1206337957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5478d443ce41a409617dcc69b6e846
+      internalID: -527969950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7f08dce2873843946632cc1b1b4f8
+      internalID: 1593794446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0232e01c6d838d845a8de37d00bd60dd
+      internalID: 1906980895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2ce2c6a5911944bfb7434f6932d3c
+      internalID: 521849904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1a2c4ba874034fb520cac81ad3acf
+      internalID: 1167726068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4a2371def0cc42a0473f62c2b7c8a
+      internalID: 1850534836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 140
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb6891805612347b5339bd1792a701
+      internalID: 1205346287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba88a45f159038459b28d4d09e23b71
+      internalID: 1803315836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f9002eddad114a8570553322d678c
+      internalID: 492574198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ad9c1ee6b68c4589e3129970e5e09
+      internalID: 1856113496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93298ee77477349ac39f7fb27306fd
+      internalID: -1715238383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8693fba07de4a44bdf84cf6bf8bb35
+      internalID: -1221448810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0239189ff9e64799a4e2ff7669c14
+      internalID: 1953937933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b489087cbfa0347b472f8e72af8f35
+      internalID: -1168040033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e2828330072644986f8686df556e2
+      internalID: 1574328048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab11c78404c5f624ba176a37c7c8362c
+      internalID: 1439288913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180b42f438f6774c94364b40ff05a98
+      internalID: 1554792925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9460e02b5e624948a7640603d9134f4
+      internalID: -124283309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744e949b8e4c6a46adb003f7fa2a3fa
+      internalID: 1512847001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8fdd41e1804944b83b95531d7709dc
+      internalID: -1659530184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 120
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd91b1797b7b2094cb7695a2556a5478
+      internalID: 939229266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309265b46958b4c499f1019ad46ab412
+      internalID: 1367442777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0e625e1f3c57d4e91eeec8b43bcfd5
+      internalID: 164460928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe53f8040b7bba449f9e7227bc420a2
+      internalID: -2037329959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53383a7fd891442ba1023230cb1605
+      internalID: 1575666754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2acbc030a5b25d42b7d302d53f8d311
+      internalID: 313610638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc775964d9b0fd44aaae85c0f3a5bc1
+      internalID: -1041615746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c892aec7dbf59447a3f205eb86ef6b3
+      internalID: -635630257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d48e0c75ca4f3479f109190bbad834
+      internalID: 1063941297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63118e09ee9f7b141a0d67aec96fbb26
+      internalID: 2072021473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11194a19c6fbf3d449addca0ee56523a
+      internalID: 183652923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f5cb16c7948f45b8b57148db29e4a
+      internalID: 831208115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbc93a444ded314cb329df6dc90d896
+      internalID: -726856691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3141a7bbf80a4e8dbeac61bd12427
+      internalID: -2014421403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 100
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a593b8b91fad1434b91d8a86f6334047
+      internalID: 695975427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62a0fd765a43c4c803a0b5df1e4f59
+      internalID: -1627624746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287965b3d434c2c40a80d4d70d1a96ba
+      internalID: -686839009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eedf3a37b3a2b04388dd11366a204d2
+      internalID: -184345441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661389a503c139489a07d509d9344d7
+      internalID: 952338008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637aa87a625ca1343bfbd511bf9ec852
+      internalID: -1562149900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a59d732c39f9449835430ebf7aab87
+      internalID: 929780254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d11a92f3a2e21740a268cfc53feb33b
+      internalID: 135887841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0636b214d8876542ac173bee47b7f93
+      internalID: 1417017804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992f3cd041b59b46b50064bf01aa38e
+      internalID: -1927727484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f791c7a18438244a57e5999e27cc96
+      internalID: -1108498824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087cedbb1b04a748a2df6129a9ac692
+      internalID: -1049161766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f2488d66a3b64ea39684b129c9e4a
+      internalID: -1423131939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b751a86e515a4d8210d8c458db22b
+      internalID: -1564726287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 80
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e1fe2097e8094485f4c1be7c7d06e
+      internalID: 2129277789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63de58cad1edc6498c02d18954f84d0
+      internalID: 1559371588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1bbe97a83d06c4eae3e50928d97032
+      internalID: -713746472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87404ee2f9e30c47b5ea4142dc318f0
+      internalID: -1786295499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a3742e09c62642bae85c32145261e
+      internalID: -1555672783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53a388e08ea054e9e06eb4b46189b7
+      internalID: -664761504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_159
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf829337dee43e54a8121496bb7e123f
+      internalID: 449330459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_160
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02deea8d446824da2112f2ba1afdec
+      internalID: 2009169934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_161
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba393e344ac95de48bad4ce514ab7e5e
+      internalID: 1375313930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_162
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b339bafdf8f807644a09fa4371b81e8c
+      internalID: 1597273491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_163
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcbca81c2d3dcd4194a6b1b3dca6f53
+      internalID: -1485796178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_164
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbba8c6207e2524e832395cf31ff233
+      internalID: 1718002207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_165
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa2c6d42d1eec4c9671a9af0f39d9f
+      internalID: 391462856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_166
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c683471035fa347ab07bbdcbadc52e
+      internalID: -515222565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_167
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 60
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486549f1f1f252841af5c920550343de
+      internalID: -1186538141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b19b81977fa0a43b95ef869b7004c2
+      internalID: -1509917582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b8581d8dbdce459bbb4cd4a499ffa
+      internalID: 1666851286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_170
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc5626f2e56cc4a8882bd74a7cd426
+      internalID: 747217969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9f06c744fc5940b05c551fc519f81
+      internalID: -980319977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_172
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f1fc2d3c409646b0e8f2a94f3badf
+      internalID: -1612326584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_173
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6647850441750a4eaa33bac0c099cf2
+      internalID: 467850996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e829d9877cf7418a978f0dd030a07
+      internalID: 559278626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_175
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55840231b6f5e7e4d97eae1917c4e01f
+      internalID: 1996502482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_176
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9fe54b57c5684d9d49c41523a4993
+      internalID: 1442303658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_177
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d2c2a1119ce946a7a29ee39e8b4f0
+      internalID: -1922757771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_178
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c83bcf99876914b9963a784155f6d9
+      internalID: 178118362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_179
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea07c41df114c54cbf22f1c43ce2bc1
+      internalID: -2068018885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_180
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8d3dde34de73438ddd76087c39905
+      internalID: 292533009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_181
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 40
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe3615cb6d25a94fa1598fa6324d3f2
+      internalID: -2074453420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b286dfecba1f81419c16ab2d74ce538
+      internalID: -1635072209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_183
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7f847034d3f14f83b2c38586856c3
+      internalID: -1232413497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94adfa69977d647bc7edb6ce3ff742
+      internalID: -131273035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_185
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957d08c9c95f12f4c8939adb0fa12b5e
+      internalID: -592912059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_186
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992b2bc7b154b3499c207d48facea55
+      internalID: -1705822364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_187
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0b43e27a0753428cc49952f28f490
+      internalID: -734868828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_188
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923a800f4501694793024c7f33636e2
+      internalID: 200066369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_189
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ec6e7717108b4287d69da90e4692a
+      internalID: 2113354317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_190
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0d8e925b256346a87e327572c69da
+      internalID: -1971824563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_191
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bda20aebe6314db387486123ff76a
+      internalID: -57870782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_192
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959a1c312bf2fe43b591e147b352566
+      internalID: 785147295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_193
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bcd6ff193d3274991a69798e4bf758
+      internalID: -416304044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_194
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877518cd444cf394888deffec7e6075f
+      internalID: -1312485208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_195
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 20
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a2731a32293b4bbd0f6ec8fe63720
+      internalID: -1969584033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae8273b5d2a426409f56000463ef820
+      internalID: -1083390016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_197
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b6f3ae462c804abdffac511443d1e
+      internalID: -159976109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_198
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebb297b9991524e95b331ac62cf8cf
+      internalID: -2043047890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_199
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4896af2b84dfd438a075a80495cacf
+      internalID: 2019862204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_200
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcfb5754259b2448f50b92384ab492
+      internalID: 478996628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_201
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eecd31037bae64fa435363bd4460bf
+      internalID: -1790916520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_202
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d964a179ee871e84d989a00c279efac3
+      internalID: 1316858956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_203
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e50a00fd212fd4a99a4779be5ecbc3
+      internalID: -1921395517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_204
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1dfafa14ab2c84d907c333329e31f6
+      internalID: 1507579784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_205
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb162c2423be464a813e24272946168
+      internalID: -194814202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321947ab9a5337040840b22d7c356819
+      internalID: -1045605287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_207
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17198254d31dae548a559921677d45d8
+      internalID: -500541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_208
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349531ce092556141b049199e3d875b6
+      internalID: -1683369268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Back Anim_209
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf4684d38d547d40b2d315a0404df54
+      internalID: -1142522835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7c0a8c4fb578d9748a6c045190b6703d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tynamo Back_0: 919475899
+      Tynamo Back_1: 302785131
+      Tynamo Back_10: -504768182
+      Tynamo Back_100: 1309878076
+      Tynamo Back_101: -1088840410
+      Tynamo Back_102: 814086629
+      Tynamo Back_103: -783106128
+      Tynamo Back_104: 1206337957
+      Tynamo Back_105: -527969950
+      Tynamo Back_106: 1593794446
+      Tynamo Back_107: 1906980895
+      Tynamo Back_108: 521849904
+      Tynamo Back_109: 1167726068
+      Tynamo Back_11: -900696448
+      Tynamo Back_110: 1850534836
+      Tynamo Back_111: 1205346287
+      Tynamo Back_112: 1803315836
+      Tynamo Back_113: 492574198
+      Tynamo Back_114: 1856113496
+      Tynamo Back_115: -1715238383
+      Tynamo Back_116: -1221448810
+      Tynamo Back_117: 1953937933
+      Tynamo Back_118: -1168040033
+      Tynamo Back_119: 1574328048
+      Tynamo Back_12: -409519201
+      Tynamo Back_120: 1439288913
+      Tynamo Back_121: 1554792925
+      Tynamo Back_122: -124283309
+      Tynamo Back_123: 1512847001
+      Tynamo Back_124: -1659530184
+      Tynamo Back_125: 939229266
+      Tynamo Back_126: 1367442777
+      Tynamo Back_127: 164460928
+      Tynamo Back_128: -2037329959
+      Tynamo Back_129: 1575666754
+      Tynamo Back_13: -231517175
+      Tynamo Back_130: 313610638
+      Tynamo Back_131: -1041615746
+      Tynamo Back_132: -635630257
+      Tynamo Back_133: 1063941297
+      Tynamo Back_134: 2072021473
+      Tynamo Back_135: 183652923
+      Tynamo Back_136: 831208115
+      Tynamo Back_137: -726856691
+      Tynamo Back_138: -2014421403
+      Tynamo Back_139: 695975427
+      Tynamo Back_14: 1974557010
+      Tynamo Back_140: -1627624746
+      Tynamo Back_141: -686839009
+      Tynamo Back_142: -184345441
+      Tynamo Back_143: 952338008
+      Tynamo Back_144: -1562149900
+      Tynamo Back_145: 929780254
+      Tynamo Back_146: 135887841
+      Tynamo Back_147: 1417017804
+      Tynamo Back_148: -1927727484
+      Tynamo Back_149: -1108498824
+      Tynamo Back_15: -1253883624
+      Tynamo Back_150: -1049161766
+      Tynamo Back_151: -1423131939
+      Tynamo Back_152: -1564726287
+      Tynamo Back_153: 2129277789
+      Tynamo Back_154: 1559371588
+      Tynamo Back_155: -713746472
+      Tynamo Back_156: -1786295499
+      Tynamo Back_157: -1555672783
+      Tynamo Back_158: -664761504
+      Tynamo Back_159: 449330459
+      Tynamo Back_16: -1570418329
+      Tynamo Back_160: 2009169934
+      Tynamo Back_161: 1375313930
+      Tynamo Back_162: 1597273491
+      Tynamo Back_163: -1485796178
+      Tynamo Back_164: 1718002207
+      Tynamo Back_165: 391462856
+      Tynamo Back_166: -515222565
+      Tynamo Back_167: -1186538141
+      Tynamo Back_168: -1509917582
+      Tynamo Back_169: 1666851286
+      Tynamo Back_17: -1076134405
+      Tynamo Back_170: 747217969
+      Tynamo Back_171: -980319977
+      Tynamo Back_172: -1612326584
+      Tynamo Back_173: 467850996
+      Tynamo Back_174: 559278626
+      Tynamo Back_175: 1996502482
+      Tynamo Back_176: 1442303658
+      Tynamo Back_177: -1922757771
+      Tynamo Back_178: 178118362
+      Tynamo Back_179: -2068018885
+      Tynamo Back_18: -524645898
+      Tynamo Back_180: 292533009
+      Tynamo Back_181: -2074453420
+      Tynamo Back_182: -1635072209
+      Tynamo Back_183: -1232413497
+      Tynamo Back_184: -131273035
+      Tynamo Back_185: -592912059
+      Tynamo Back_186: -1705822364
+      Tynamo Back_187: -734868828
+      Tynamo Back_188: 200066369
+      Tynamo Back_189: 2113354317
+      Tynamo Back_19: -2030000323
+      Tynamo Back_190: -1971824563
+      Tynamo Back_191: -57870782
+      Tynamo Back_192: 785147295
+      Tynamo Back_193: -416304044
+      Tynamo Back_194: -1312485208
+      Tynamo Back_195: -1969584033
+      Tynamo Back_196: -1083390016
+      Tynamo Back_197: -159976109
+      Tynamo Back_198: -2043047890
+      Tynamo Back_199: 2019862204
+      Tynamo Back_2: -1697012428
+      Tynamo Back_20: 1490395007
+      Tynamo Back_200: 478996628
+      Tynamo Back_201: -1790916520
+      Tynamo Back_202: 1316858956
+      Tynamo Back_203: -1921395517
+      Tynamo Back_204: 1507579784
+      Tynamo Back_205: -194814202
+      Tynamo Back_206: -1045605287
+      Tynamo Back_207: -500541442
+      Tynamo Back_208: -1683369268
+      Tynamo Back_209: -1142522835
+      Tynamo Back_21: 199343154
+      Tynamo Back_22: -1584154126
+      Tynamo Back_23: -1404428716
+      Tynamo Back_24: -464877016
+      Tynamo Back_25: 1221207915
+      Tynamo Back_26: 1803210803
+      Tynamo Back_27: 1591451272
+      Tynamo Back_28: 751152980
+      Tynamo Back_29: -1182693148
+      Tynamo Back_3: 2083229989
+      Tynamo Back_30: -1200901101
+      Tynamo Back_31: 1186309744
+      Tynamo Back_32: 1355540772
+      Tynamo Back_33: 172208559
+      Tynamo Back_34: -102209127
+      Tynamo Back_35: 1179892997
+      Tynamo Back_36: -1322906905
+      Tynamo Back_37: -514704877
+      Tynamo Back_38: -1294594196
+      Tynamo Back_39: -654675994
+      Tynamo Back_4: 2076403402
+      Tynamo Back_40: -1068580536
+      Tynamo Back_41: 685797790
+      Tynamo Back_42: -1614108759
+      Tynamo Back_43: -2039200422
+      Tynamo Back_44: 1572745794
+      Tynamo Back_45: -695000670
+      Tynamo Back_46: 909155706
+      Tynamo Back_47: -805159044
+      Tynamo Back_48: 795267832
+      Tynamo Back_49: -1121385052
+      Tynamo Back_5: 1816120583
+      Tynamo Back_50: 175395298
+      Tynamo Back_51: -793259765
+      Tynamo Back_52: -299327188
+      Tynamo Back_53: -731676344
+      Tynamo Back_54: -816585045
+      Tynamo Back_55: -1860806687
+      Tynamo Back_56: 1616084115
+      Tynamo Back_57: -1309018554
+      Tynamo Back_58: -1296050858
+      Tynamo Back_59: -337774657
+      Tynamo Back_6: 1231436037
+      Tynamo Back_60: -2049149650
+      Tynamo Back_61: -1003141908
+      Tynamo Back_62: 751841735
+      Tynamo Back_63: -2030117358
+      Tynamo Back_64: 2124103576
+      Tynamo Back_65: 1452028482
+      Tynamo Back_66: -1722220335
+      Tynamo Back_67: -1776298482
+      Tynamo Back_68: 58596433
+      Tynamo Back_69: -1966906293
+      Tynamo Back_7: -1866843229
+      Tynamo Back_70: 374604866
+      Tynamo Back_71: -2092852727
+      Tynamo Back_72: 1674075303
+      Tynamo Back_73: 1993852783
+      Tynamo Back_74: 1971425934
+      Tynamo Back_75: 328237745
+      Tynamo Back_76: -181795867
+      Tynamo Back_77: 1379593752
+      Tynamo Back_78: -1699835337
+      Tynamo Back_79: 89737402
+      Tynamo Back_8: -1897794799
+      Tynamo Back_80: -1718362717
+      Tynamo Back_81: -1148146402
+      Tynamo Back_82: -1011831524
+      Tynamo Back_83: -1876276184
+      Tynamo Back_84: -2005308981
+      Tynamo Back_85: 1830290263
+      Tynamo Back_86: 2004451763
+      Tynamo Back_87: -462595448
+      Tynamo Back_88: -1541236479
+      Tynamo Back_89: 623111023
+      Tynamo Back_9: 556919148
+      Tynamo Back_90: -664949964
+      Tynamo Back_91: 881395202
+      Tynamo Back_92: -1709816991
+      Tynamo Back_93: 111802890
+      Tynamo Back_94: 1913977621
+      Tynamo Back_95: 1819133456
+      Tynamo Back_96: 213860009
+      Tynamo Back_97: 1741152791
+      Tynamo Back_98: 880775060
+      Tynamo Back_99: -626546835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

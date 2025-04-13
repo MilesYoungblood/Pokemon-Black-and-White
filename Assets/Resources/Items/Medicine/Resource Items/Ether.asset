@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2743a201b5cf4504b5997df82be4dab5, type: 3}
+  m_Name: Ether
+  m_EditorClassIdentifier: 
+  effect: "It restores the PP of a Pokemon\u2019s selected move by a maximum of 10
+    points."
+  sprite: {fileID: 21300000, guid: f20436a934823e24d8c7e241db8d2972, type: 3}
+  max: 0
+  amount: 10

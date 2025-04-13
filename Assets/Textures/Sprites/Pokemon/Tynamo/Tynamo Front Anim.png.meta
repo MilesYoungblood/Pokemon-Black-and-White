@@ -1,0 +1,5328 @@
+fileFormatVersion: 2
+guid: d758403f79a3e6b4caab9da72840cd4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1839274814031976694
+    second: Tynamo Front_0
+  - first:
+      213: -4339600224260823691
+    second: Tynamo Front_1
+  - first:
+      213: 1047196061849455323
+    second: Tynamo Front_2
+  - first:
+      213: -4754036540600187776
+    second: Tynamo Front_3
+  - first:
+      213: -4077111564381518204
+    second: Tynamo Front_4
+  - first:
+      213: -5647394300415521088
+    second: Tynamo Front_5
+  - first:
+      213: 7158894748110834598
+    second: Tynamo Front_6
+  - first:
+      213: -6352380161197523304
+    second: Tynamo Front_7
+  - first:
+      213: -6159356226711082051
+    second: Tynamo Front_8
+  - first:
+      213: -6130342468365368436
+    second: Tynamo Front_9
+  - first:
+      213: 3963418432315166926
+    second: Tynamo Front_10
+  - first:
+      213: 5655020595370981206
+    second: Tynamo Front_11
+  - first:
+      213: -6398199759666771214
+    second: Tynamo Front_12
+  - first:
+      213: -6373774222148915873
+    second: Tynamo Front_13
+  - first:
+      213: 8423056992437781100
+    second: Tynamo Front_14
+  - first:
+      213: 229392547948895994
+    second: Tynamo Front_15
+  - first:
+      213: 634543794916847102
+    second: Tynamo Front_16
+  - first:
+      213: 3548731837242757213
+    second: Tynamo Front_17
+  - first:
+      213: -2068026934743061981
+    second: Tynamo Front_18
+  - first:
+      213: -1608069230063114287
+    second: Tynamo Front_19
+  - first:
+      213: -4108674730005527218
+    second: Tynamo Front_20
+  - first:
+      213: 4622410309296315608
+    second: Tynamo Front_21
+  - first:
+      213: 3998242132438984213
+    second: Tynamo Front_22
+  - first:
+      213: 7038714973085794579
+    second: Tynamo Front_23
+  - first:
+      213: 1633736778014649854
+    second: Tynamo Front_24
+  - first:
+      213: 5990102528542487158
+    second: Tynamo Front_25
+  - first:
+      213: -2843606166729174384
+    second: Tynamo Front_26
+  - first:
+      213: -6662929853008170412
+    second: Tynamo Front_27
+  - first:
+      213: 7279034830906177988
+    second: Tynamo Front_28
+  - first:
+      213: -3143895157094639980
+    second: Tynamo Front_29
+  - first:
+      213: -7146313038822695073
+    second: Tynamo Front_30
+  - first:
+      213: 1220499174267417850
+    second: Tynamo Front_31
+  - first:
+      213: 8240921573827301792
+    second: Tynamo Front_32
+  - first:
+      213: 1481688398718970133
+    second: Tynamo Front_33
+  - first:
+      213: -3388372783213720602
+    second: Tynamo Front_34
+  - first:
+      213: -5238685695235375547
+    second: Tynamo Front_35
+  - first:
+      213: 1292072032329496330
+    second: Tynamo Front_36
+  - first:
+      213: -8651924898463260485
+    second: Tynamo Front_37
+  - first:
+      213: -3279449085495802990
+    second: Tynamo Front_38
+  - first:
+      213: -4775040798313126450
+    second: Tynamo Front_39
+  - first:
+      213: 3983228825207826797
+    second: Tynamo Front_40
+  - first:
+      213: 3199712935626562402
+    second: Tynamo Front_41
+  - first:
+      213: 6763494390674981524
+    second: Tynamo Front_42
+  - first:
+      213: 3892070638685361507
+    second: Tynamo Front_43
+  - first:
+      213: 5135174320369011036
+    second: Tynamo Front_44
+  - first:
+      213: 7404028420621879482
+    second: Tynamo Front_45
+  - first:
+      213: 1409731427767093035
+    second: Tynamo Front_46
+  - first:
+      213: 1326612722351158594
+    second: Tynamo Front_47
+  - first:
+      213: -5942693235283432408
+    second: Tynamo Front_48
+  - first:
+      213: -6298047758683677052
+    second: Tynamo Front_49
+  - first:
+      213: 4993436140069912249
+    second: Tynamo Front_50
+  - first:
+      213: -347068632230246089
+    second: Tynamo Front_51
+  - first:
+      213: 5599157372347273093
+    second: Tynamo Front_52
+  - first:
+      213: -887519765192477970
+    second: Tynamo Front_53
+  - first:
+      213: -471828485456166864
+    second: Tynamo Front_54
+  - first:
+      213: 4880586397798083855
+    second: Tynamo Front_55
+  - first:
+      213: -4108397580509466614
+    second: Tynamo Front_56
+  - first:
+      213: 5266337623329748751
+    second: Tynamo Front_57
+  - first:
+      213: 5032818702850934925
+    second: Tynamo Front_58
+  - first:
+      213: 5649210508408048484
+    second: Tynamo Front_59
+  - first:
+      213: 3972431753755811215
+    second: Tynamo Front_60
+  - first:
+      213: 1078814785447812106
+    second: Tynamo Front_61
+  - first:
+      213: 2759220739934236274
+    second: Tynamo Front_62
+  - first:
+      213: 1998979754226319224
+    second: Tynamo Front_63
+  - first:
+      213: -875356159793524643
+    second: Tynamo Front_64
+  - first:
+      213: -7726933792415879212
+    second: Tynamo Front_65
+  - first:
+      213: 3248155067089239766
+    second: Tynamo Front_66
+  - first:
+      213: 2357450534509066521
+    second: Tynamo Front_67
+  - first:
+      213: 5071356048437054452
+    second: Tynamo Front_68
+  - first:
+      213: -8807085422429225128
+    second: Tynamo Front_69
+  - first:
+      213: -7212014800489319833
+    second: Tynamo Front_70
+  - first:
+      213: 6496847362118023694
+    second: Tynamo Front_71
+  - first:
+      213: 2810803285669827865
+    second: Tynamo Front_72
+  - first:
+      213: 1606462461164861803
+    second: Tynamo Front_73
+  - first:
+      213: 3282768273473549230
+    second: Tynamo Front_74
+  - first:
+      213: -3214484188438935817
+    second: Tynamo Front_75
+  - first:
+      213: -2142348468722576375
+    second: Tynamo Front_76
+  - first:
+      213: 4865390513955108204
+    second: Tynamo Front_77
+  - first:
+      213: 3265070983570718345
+    second: Tynamo Front_78
+  - first:
+      213: 1942522419573080363
+    second: Tynamo Front_79
+  - first:
+      213: -4508685744581879757
+    second: Tynamo Front_80
+  - first:
+      213: 7850303824302129391
+    second: Tynamo Front_81
+  - first:
+      213: -1637899885877389500
+    second: Tynamo Front_82
+  - first:
+      213: -8170958021623427019
+    second: Tynamo Front_83
+  - first:
+      213: 6002085658038939781
+    second: Tynamo Front_84
+  - first:
+      213: -3989240568933836711
+    second: Tynamo Front_85
+  - first:
+      213: -7056656924821062737
+    second: Tynamo Front_86
+  - first:
+      213: 5559487046435898266
+    second: Tynamo Front_87
+  - first:
+      213: 589603036021297225
+    second: Tynamo Front_88
+  - first:
+      213: 5485614177364273586
+    second: Tynamo Front_89
+  - first:
+      213: 1411791914723585801
+    second: Tynamo Front_90
+  - first:
+      213: 7515744221392572498
+    second: Tynamo Front_91
+  - first:
+      213: 2147624581947166439
+    second: Tynamo Front_92
+  - first:
+      213: -5576075563920577950
+    second: Tynamo Front_93
+  - first:
+      213: -8489814001962606746
+    second: Tynamo Front_94
+  - first:
+      213: -375939975229052916
+    second: Tynamo Front_95
+  - first:
+      213: -7271929616580219316
+    second: Tynamo Front_96
+  - first:
+      213: 352843913190736053
+    second: Tynamo Front_97
+  - first:
+      213: -670409724459969678
+    second: Tynamo Front_98
+  - first:
+      213: -5159838176836643260
+    second: Tynamo Front_99
+  - first:
+      213: 5712672074318644942
+    second: Tynamo Front_100
+  - first:
+      213: 9037280521519472712
+    second: Tynamo Front_101
+  - first:
+      213: 4363433704071460636
+    second: Tynamo Front_102
+  - first:
+      213: -4542811593593804442
+    second: Tynamo Front_103
+  - first:
+      213: -2220630855495788781
+    second: Tynamo Front_104
+  - first:
+      213: -8336327141379122138
+    second: Tynamo Front_105
+  - first:
+      213: 1630527520426649093
+    second: Tynamo Front_106
+  - first:
+      213: -7021709762981792901
+    second: Tynamo Front_107
+  - first:
+      213: 4605673623098462148
+    second: Tynamo Front_108
+  - first:
+      213: 964189516298334644
+    second: Tynamo Front_109
+  - first:
+      213: 3570097823209459851
+    second: Tynamo Front_110
+  - first:
+      213: -731820243725921809
+    second: Tynamo Front_111
+  - first:
+      213: 2708079504669111991
+    second: Tynamo Front_112
+  - first:
+      213: 2651930770991835651
+    second: Tynamo Front_113
+  - first:
+      213: 2604096645751669755
+    second: Tynamo Front_114
+  - first:
+      213: -1502083559489982310
+    second: Tynamo Front_115
+  - first:
+      213: 4861540565851942699
+    second: Tynamo Front_116
+  - first:
+      213: -1850365160047289604
+    second: Tynamo Front_117
+  - first:
+      213: -7934218805530538614
+    second: Tynamo Front_118
+  - first:
+      213: 7363648386503549482
+    second: Tynamo Front_119
+  - first:
+      213: 8778141701375106966
+    second: Tynamo Front_120
+  - first:
+      213: 6191199717903234541
+    second: Tynamo Front_121
+  - first:
+      213: -901386167198736990
+    second: Tynamo Front_122
+  - first:
+      213: -6902290042168218094
+    second: Tynamo Front_123
+  - first:
+      213: -7242530002245485911
+    second: Tynamo Front_124
+  - first:
+      213: 487855028023163243
+    second: Tynamo Front_125
+  - first:
+      213: 9123337713054336511
+    second: Tynamo Front_126
+  - first:
+      213: -1004656194959860197
+    second: Tynamo Front_127
+  - first:
+      213: -1998894678112638707
+    second: Tynamo Front_128
+  - first:
+      213: -4412028316191520708
+    second: Tynamo Front_129
+  - first:
+      213: 8879851655802164524
+    second: Tynamo Front_130
+  - first:
+      213: -5934948804618268057
+    second: Tynamo Front_131
+  - first:
+      213: -5679135974426564257
+    second: Tynamo Front_132
+  - first:
+      213: -6683852464563721946
+    second: Tynamo Front_133
+  - first:
+      213: 7160697539501588290
+    second: Tynamo Front_134
+  - first:
+      213: 4996586614545193226
+    second: Tynamo Front_135
+  - first:
+      213: 2703755396624451757
+    second: Tynamo Front_136
+  - first:
+      213: 2003255434456875940
+    second: Tynamo Front_137
+  - first:
+      213: -7112758798492713469
+    second: Tynamo Front_138
+  - first:
+      213: 7912856628359365371
+    second: Tynamo Front_139
+  - first:
+      213: 5485212628108515125
+    second: Tynamo Front_140
+  - first:
+      213: 5863474173058452226
+    second: Tynamo Front_141
+  - first:
+      213: 981023457546974374
+    second: Tynamo Front_142
+  - first:
+      213: 5233182588320077502
+    second: Tynamo Front_143
+  - first:
+      213: 6079548040855048368
+    second: Tynamo Front_144
+  - first:
+      213: 3305066941293065721
+    second: Tynamo Front_145
+  - first:
+      213: 7740039983630258294
+    second: Tynamo Front_146
+  - first:
+      213: -5696593191089484853
+    second: Tynamo Front_147
+  - first:
+      213: -1179164883680044759
+    second: Tynamo Front_148
+  - first:
+      213: -5112387565432364212
+    second: Tynamo Front_149
+  - first:
+      213: -7321629690829504304
+    second: Tynamo Front_150
+  - first:
+      213: 9062640300563234961
+    second: Tynamo Front_151
+  - first:
+      213: 8618772391528965437
+    second: Tynamo Front_152
+  - first:
+      213: 3938827265981933653
+    second: Tynamo Front_153
+  - first:
+      213: -8258275544158826094
+    second: Tynamo Front_154
+  - first:
+      213: -5709322069442068111
+    second: Tynamo Front_155
+  - first:
+      213: -5654318815268418518
+    second: Tynamo Front_156
+  - first:
+      213: 2266745714984112667
+    second: Tynamo Front_157
+  - first:
+      213: 6501974871873859104
+    second: Tynamo Front_158
+  - first:
+      213: 7284238364317310371
+    second: Tynamo Front_159
+  - first:
+      213: 6597443046173669625
+    second: Tynamo Front_160
+  - first:
+      213: 7030319095926295888
+    second: Tynamo Front_161
+  - first:
+      213: 6543037713629382421
+    second: Tynamo Front_162
+  - first:
+      213: 612638224681704361
+    second: Tynamo Front_163
+  - first:
+      213: -203148927965661917
+    second: Tynamo Front_164
+  - first:
+      213: 6760521578094057198
+    second: Tynamo Front_165
+  - first:
+      213: -1864605645177288566
+    second: Tynamo Front_166
+  - first:
+      213: 6419260806158100967
+    second: Tynamo Front_167
+  - first:
+      213: 7161593647418541052
+    second: Tynamo Front_168
+  - first:
+      213: 8880983149257488771
+    second: Tynamo Front_169
+  - first:
+      213: 2985864050400108832
+    second: Tynamo Front_170
+  - first:
+      213: -3274361338479681847
+    second: Tynamo Front_171
+  - first:
+      213: -31703187884454587
+    second: Tynamo Front_172
+  - first:
+      213: 2408514521337804724
+    second: Tynamo Front_173
+  - first:
+      213: -2105722621576212796
+    second: Tynamo Front_174
+  - first:
+      213: 4000302438183562421
+    second: Tynamo Front_175
+  - first:
+      213: 3211125940579592404
+    second: Tynamo Front_176
+  - first:
+      213: 3343407331055550516
+    second: Tynamo Front_177
+  - first:
+      213: -7097670070572430005
+    second: Tynamo Front_178
+  - first:
+      213: 4700877292636676580
+    second: Tynamo Front_179
+  - first:
+      213: -1243937409543125858
+    second: Tynamo Front_180
+  - first:
+      213: 3944413096964377064
+    second: Tynamo Front_181
+  - first:
+      213: 1891047312652490251
+    second: Tynamo Front_182
+  - first:
+      213: 1452006741015954448
+    second: Tynamo Front_183
+  - first:
+      213: 4642174573605833873
+    second: Tynamo Front_184
+  - first:
+      213: -6259900486253280335
+    second: Tynamo Front_185
+  - first:
+      213: 1046565270140818152
+    second: Tynamo Front_186
+  - first:
+      213: -8600945373250918085
+    second: Tynamo Front_187
+  - first:
+      213: 3313522163746149451
+    second: Tynamo Front_188
+  - first:
+      213: 7318163300782811035
+    second: Tynamo Front_189
+  - first:
+      213: -2287998880811485076
+    second: Tynamo Front_190
+  - first:
+      213: -6530242941667023230
+    second: Tynamo Front_191
+  - first:
+      213: 6070638225313361242
+    second: Tynamo Front_192
+  - first:
+      213: -859140190777135555
+    second: Tynamo Front_193
+  - first:
+      213: 5934428612680598929
+    second: Tynamo Front_194
+  - first:
+      213: -5833206551089846311
+    second: Tynamo Front_195
+  - first:
+      213: -8156637974568932987
+    second: Tynamo Front_196
+  - first:
+      213: 7331724954611138164
+    second: Tynamo Front_197
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tynamo Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81ba5ebcce09344a5e4b74f406f125
+      internalID: 1668971662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9d909a2ec0df48a4d5c5f95a38534
+      internalID: 390489414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f4f1d2a69c43f42bbebf38347f572b
+      internalID: -2004026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2711d4110548334aab80529fec722c7
+      internalID: -1816511837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba66baf7b0c9654eaaa29391cb3df6f
+      internalID: -1466972269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a881d02168c58c4a9fe724bb0f8ad99
+      internalID: -781638944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d60fa9e47bf8e4f94fd4f487985ac4
+      internalID: -1033484312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b50fa665fae614185b602d714c5e52
+      internalID: -2046194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d370d8524f2c14b83eae28bbcc7f15
+      internalID: 1390608090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981bcdf7e68cd845a17d7c08acb560f
+      internalID: 832132663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d8fd4dca5e3e248972b16967e695fc
+      internalID: -128027647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117fe75623a9ce84f953c1bb238daadb
+      internalID: 877911486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b813caa0521a45a948d7ed0aa0e53
+      internalID: -691258793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 266
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f86af88034579d45bea8cf27c38d5a3
+      internalID: 435324549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fb121d99d83c4995d9499ecda7e72
+      internalID: 623182775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90464a6a0833b5f46ba7f68495945e4d
+      internalID: -1130226494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b94117164f640428d1a650a540c6a2
+      internalID: 1470202892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594d9594b9963e4eb77497c0106dc89
+      internalID: 1763971541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47516bdfb45790d43927010a96cc882e
+      internalID: -750053799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067562ebab340441b342daa3ce49373
+      internalID: -556362985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050f69369ff6dfb48b1c58ca134bcf22
+      internalID: 519731384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de3dbbd251ca3c42a6f0062b96bd421
+      internalID: -969692311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1cc4eeb57ea949b0bf3a0550df686
+      internalID: -2140181840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367957a5e068cc8418762e72a61a10c0
+      internalID: -1692201458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a604859cbcb6b43b8f2d6ec53022ef
+      internalID: -818686506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0535c9e9f930f245b1884fa97b72381
+      internalID: 1924864994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3735a2e916e4d842ab2d57c3a5e5876
+      internalID: -2002984194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42b11ff2f8d20499daa49138f3cbc4
+      internalID: 1746130659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642ed78000439a40a6575fb0c9ef815
+      internalID: -220031275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39198d331769af341985a0468d587917
+      internalID: 2110161291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebab38d4f4dbb44fbe6589d6509b7d9
+      internalID: -53099466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68f7da249acc04c9eb9132a64ec85a
+      internalID: 1402278304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf793ae876f49c4a8914006ba6f2656
+      internalID: -867649143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee09ae4e1ad3364880c2d8800d15c16
+      internalID: 1116085364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a617073254610b45b0fe0bf3b6da2cc
+      internalID: -1627061176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f25cc0db6bbb3498ec7e56cfc73865
+      internalID: -1513368364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392fabafc2b09c4990007b3769f5cc4
+      internalID: -1092348904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227bc8d81ae82d04ea652a3883347adf
+      internalID: 464673797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896cc270ad27d74ab6b60474c5b8cae
+      internalID: -1142155114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28768559bcd2944b363cdc91115955
+      internalID: -606954411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9634d01b3f42c4284093d940f49a92
+      internalID: 1906098017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 228
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f009d60d7c2df43b50b07a3472edb7
+      internalID: -1003844510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f7fd0ce6879c49803858000f71af3
+      internalID: 1128983805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd95b428ecb1e4db8f9f7d2bd3225d
+      internalID: 1824306838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02225ac76fd9fe14f9e99f38a5362b6a
+      internalID: -1815329001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2c0eac70bdac4ea1afb023286e1fa
+      internalID: -1010521738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8741c0641c176b409bb6034ef34a86b
+      internalID: -233246776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5923c9cecf1bb4898ae182fa13438b
+      internalID: -1443602774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57da0563d5093479ca8621cb67fe51
+      internalID: 188694032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632ab9777c1d024b9aed2060b672fbe
+      internalID: 663850830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5caa6542951d4649a20cc0762307bef
+      internalID: -130983451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34fb16ef01ddf04dbe46daa59d4d2f6
+      internalID: -150049279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13db3f6adc5624cbd7cbc3271c7b22
+      internalID: 1813268260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b9b5d9a1b81a4792c06c47cf12871
+      internalID: -55371754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ff8ed008052b4fbd53354763e29e0
+      internalID: -893352816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 209
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1fc30ca2b57e642a4dd49f59c0d8f5
+      internalID: -687547046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f23c9a81e51f04b972f1f6f0dcd450
+      internalID: 1471599355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f0c72b9360c514e8177d98c32b238c
+      internalID: 157059645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0815346e153c24ca671fb4651a6061
+      internalID: 1973760940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764dda1377ef7d54aa79eaeaf2c2a9fb
+      internalID: 1926175569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7ce865472de0b47894a2b9ae82abaa
+      internalID: 625864018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d69e277649154da50f0ad018d549c
+      internalID: -1236995069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b935b7181d1049a51a700b0f7ca61
+      internalID: 770108717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd3601a80f789498abaf3b8930fc59
+      internalID: 451292984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c002a2a6f8b9d4ca66513e957abf5c
+      internalID: 749438489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535af6bd4d14f7449cda989d651a25a
+      internalID: -1851553401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59650c8e6cb4444b58d18b49eab20b
+      internalID: -992812315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f353fc0fd13f504db3ed349d0e6f1e4
+      internalID: 652330891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c94ab34bd9a1744944675d8f943c53
+      internalID: -85715568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 190
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905d842843d25b46944a670eea586e1
+      internalID: 1246063029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e90d8f3f4e47499cdf94a0e002681
+      internalID: -842882419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204396167ba8544f82ef050939e046e
+      internalID: 1092219885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038b4c107e8f5348b2b535e134bd304
+      internalID: 1277065236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d0783d87458b44b17f89f270fa86f
+      internalID: 385201626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430a69f301dcd54ca04affdf993b4e2
+      internalID: -1609400017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01148d17fa5fc934ba0bbd72b89b19b9
+      internalID: -1983650317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908dd7ce7e10f4d49a659b83bec023a9
+      internalID: 1292705804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357015834a83d74e93fad1b5c73c65d
+      internalID: -744887714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a994f80623c4f488ac20bb6d67f4ee
+      internalID: -2101163501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9233160374f147bb399355dca03ad
+      internalID: 121397817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cc15404aa0a243b296f96cb8fdef9
+      internalID: -781762495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af446a3b0a3c04d9c70b62c85438c0
+      internalID: -963693993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0969fbfd1260a734fab95800b57ef740
+      internalID: -1145359311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 171
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133aa78ac432bd44cb40a1b4f7a3e2e8
+      internalID: 1383006258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c149a27b63a66e4aaf35093a361fa73
+      internalID: -567980654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43926fcf09b4a324ebf3b9859ec79439
+      internalID: -818310725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055389bc49021ac4085418c63a95d03f
+      internalID: -1881892601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2500bfdde7e3d44b3ad68aa27e8f6a
+      internalID: -866652313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19542bb1fc5a6914ba721d5c25dd63a0
+      internalID: 1468477855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1756cce455b2f4eae760f7a3fe78e4
+      internalID: 367067066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee2b943d08df9b46b029e6a3c9d5200
+      internalID: -370854877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9467b7ef0dbba994fbb88264c2ca9a6d
+      internalID: -1576526550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592e1fa9f611914d9d428d98560f8d6
+      internalID: 1178246276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6433ddd5d3f0754c832ccd762a55631
+      internalID: 811546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b8afecd569b841a12c4907c2cd2d9
+      internalID: 1386488631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40862e8318f446248849426d0682260e
+      internalID: -1425310459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b56ed6e4f46d4486b217418a14f4e
+      internalID: 81729197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 152
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15738a3575fba4797c5786d959392e
+      internalID: 53109324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35926604bda9db4418ee04bcb1c65b91
+      internalID: -1205186494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911feeca39c5be40a827618e5bf6272
+      internalID: -172460574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6588588f7d8813428389e0b37ec785f
+      internalID: 2134794457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d683fe944fc4419291b17c245ab44
+      internalID: 879848473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2ab254a3763145ac1cafc4c9e1b88
+      internalID: 1226274343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7344701648884747b19f8ba781739d2
+      internalID: -1604479184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9dd16f7ee2e845befe0eb2adcd751
+      internalID: 1297579027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5d6dbdc7a6c740a20979dbe380448
+      internalID: 903150818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3396da4ba4f0794eb9939ef9f82651c
+      internalID: -1799356579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e2a1570ff05d4187443a8229a458a
+      internalID: 1971834034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a765bc0d5c9fbf41a399c62235756cb
+      internalID: -786695737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633ff936adfc34642844cc3c0a47e311
+      internalID: -1734478786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbfa8f8b5ea91048bd412293fa37ab7
+      internalID: -375844249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 133
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8509158cdb4a54a8eaca7a3b858a30
+      internalID: -136929553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5675b3d05affc13479321b7417e488ba
+      internalID: 2129714102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240472d3634efd45abca982770213c7
+      internalID: 1546985993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a316444c13ad4fb69c6467315c166
+      internalID: 1013075493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245d5c686926344e859f6d41fb9a6ce
+      internalID: 1552800889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e613a315f033a340badb3de8e64cfc1
+      internalID: 1749220177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3eabea85e14294c816c936df07c3dc
+      internalID: 622292311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b0bcac9f0e5fb47b9bc348a8f8bdf2
+      internalID: -842207418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb7f05d9c76be94c8f2f6ca5c164365
+      internalID: -1443803296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e028c46a9fbb54bb975bf8d15c62a2
+      internalID: 1863703461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4b3c3d27c3ea45ae95e43f2e4e667
+      internalID: 1894536730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8e875ff10ab44b986096a0373b8bf
+      internalID: 1403850873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d016d58f4cbe4bb4cbfbfd16e30d0
+      internalID: -1008363894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52361bc61f67e4045b17005febb851b5
+      internalID: -762686305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 114
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f56863cf1fab14a9926c1b492139c7
+      internalID: 941146935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00207fffadc96e444bf122bd74ae5370
+      internalID: -61579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d9f4f82600884f818ad2419a55649
+      internalID: -1716038346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1701c13fd9c04085fafebfad82f83
+      internalID: 1199622137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb1dd295bdddcc4baf161bb2bd9428a
+      internalID: 619447453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf6ea2c53ccfe409ffe040f50a7e7c
+      internalID: -262247359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69ce46724d5c24db0ed6b979d8d7b6
+      internalID: 1840301020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c87e0d31cda1c43a45b10a5fecd6fb
+      internalID: 1252804144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6084d50181043e24baf381a7f93818fc
+      internalID: -402794642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea19da2c82bb1846962edf18bbcc288
+      internalID: -1229707139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c7fb131229064fae33b1ab0cfeb2b
+      internalID: 119032061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c82021bc2ef004194933e3c54da422
+      internalID: -992363606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3c6385392cbc40aa3eaad6b6d88d9
+      internalID: -1988659575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcc2543e2069f498947ebc62ab32ad
+      internalID: -919000510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 95
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578df7624b5e11e4da4bf2febc39843d
+      internalID: -363208969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7355b01fd5fb0854fbaf221c0c8ae87e
+      internalID: 235723373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc5fb81ba075646bf32e08d174616f
+      internalID: -1937268630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6818d2d68cd547b558632b5dc9815
+      internalID: 653621614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e8637ac570d14fbfb9b3a0c365129
+      internalID: 984710078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392022d70a26b5478c3dd639e17164e
+      internalID: -682817832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb019508d96854c86ca6490036f33a
+      internalID: 2049074778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4dcdbef2846942a4667a6f044ba71
+      internalID: -48817967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a30d57d40df7842923b56692efb27b
+      internalID: 1459266292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d403cbb99289df4c9f7d57c84963c7b
+      internalID: -910382216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c6c7265b544d469045744f86fde17
+      internalID: 1605525694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15effa8143c26745b209c9c9a13841a
+      internalID: -1324542861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62e8ae401671e40b923c5695bf3b16
+      internalID: 831036280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec809bd790729dd44bec463d9bd221a4
+      internalID: 13786530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 76
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f690239527eb674da9cdf719404a9dd
+      internalID: 149576361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba928a3ac391a4aa34c431f0084987
+      internalID: 1469392734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397dae8421414fb46a99c395ab44b4e8
+      internalID: -1199633951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a2146bade6d04e893a9b1157d5b3f
+      internalID: -1218940326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2de3db85b9e749bb6d6b31b3e6669
+      internalID: -1767833942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764245f27d4a1d4498b111241efb392a
+      internalID: 1162792720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f6f4fb6b106641b75cde6f0d79fc5
+      internalID: 2002836177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e4f40468cb9d44b4ee85214566648
+      internalID: 952401241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4838d5e95dbb2441ad5b31edf05de39
+      internalID: 560441115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9640ae3da56a842bf4415cd425bcf0
+      internalID: -1650691564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a99c7cee90a24e86d7c40d5883381
+      internalID: 1039031433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb1644f10d34e4ca6fef2cdc28c619
+      internalID: 751631546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd74ecf05949645a317334f6531320
+      internalID: -82731807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a419c71ad1cd9f44a08c95acd13b050
+      internalID: 663719208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_167
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 57
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fefc5dc57986349ad4fa5475c5cb8a
+      internalID: -1141459951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42c410f981c614c88b4bd9cc492ba3
+      internalID: -1229602911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4143e49d42fe2ec4c8da7a041e247b2d
+      internalID: -664123683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_170
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb0fd1a9a33e74cb0d27d4932d2733
+      internalID: -1826229659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40690c009fa3f734cbbfa4227ceaee2e
+      internalID: 841118998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_172
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf2ffd5f22d0e4a9e8c41f2a3a8f30
+      internalID: 1989241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_173
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65619f7acec7f9644a2eecbd22062f71
+      internalID: -502878476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbf34868c576f4c81899c8faeb9d05
+      internalID: -245865564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_175
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e8a28980222c46ba9e468727e16ff
+      internalID: -975462486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_176
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38600983e32588e499d2bfa0067618a5
+      internalID: -1976868404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_177
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8ead149445d3a468dbac5f3416620f
+      internalID: 570349880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_178
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379cbea7700c49a4a9901dc6ef6a5986
+      internalID: 1275501308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_179
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4dc928023e3fb49b60efcca8340900
+      internalID: -359841906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_180
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382af794b983ab844abf2dbebd30f520
+      internalID: -38315309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_181
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 38
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c3950d26eac944aba23bc7647b8b8
+      internalID: -951044502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ccf0788bfc39e44b4c76a02ca48603
+      internalID: -1946054960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_183
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab0d511a181b842833fd3b5a7b3c17
+      internalID: 2000927864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4e019baec1d045afe04a99e464451
+      internalID: -1274576706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_185
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e596178fdebe6a4580a8c8ce9bf1912
+      internalID: -1975936826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_186
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac1897d297a1f4d9fe6437aaaa7cb6
+      internalID: 1382469023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_187
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13997101828a24c4abdeded405678f40
+      internalID: 157620543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_188
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7041b052cd53d842a07d22a8a2641d8
+      internalID: -1174289450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_189
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8040fc11843cc6468f27b19f3f68d9d
+      internalID: 1704097299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_190
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54743b8e2d381e74586f91bb5410a724
+      internalID: -2059076785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_191
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e98d07fb2a6d64986b8fb74dadb713
+      internalID: 448673488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_192
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55890828d8972c845ae1eb8594c7e6d9
+      internalID: -1753614404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_193
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870264d9088daf4bae9b03b2b56fa18
+      internalID: 398163773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_194
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd255189e85f064b850371324320796
+      internalID: 1420443881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_195
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 19
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4bbfb11cb3d74a959c789833f84f8
+      internalID: -927170884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b702a4c3fdbd4c97236febd9ad00c
+      internalID: 598419033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_197
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4334cfa8ec47478e207206f48cf6b
+      internalID: -1333191510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_198
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f23b135c6b5fa4cbc6870a2f841659
+      internalID: -1412075511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_199
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d0ab4569735a439ea6572afaa12ad
+      internalID: -1352986241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_200
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13efd761f26a54093c9e95eeeab864
+      internalID: 531587438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_201
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17105feb02994a94eaf9f7d91c9c766d
+      internalID: -972998358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_202
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19e5d50defe0545a99fd54d9f4a51c
+      internalID: 517785107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_203
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e44a4f8cfbf194582c1501b05eb7b2
+      internalID: -1091220152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_204
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa9fd224f0b1449a3d5751ba515287
+      internalID: -1007228499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_205
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fa2f4c40893340a9cd04d846d526b
+      internalID: 573200304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c40582de67b846b1fe6444f6a33da
+      internalID: 611374198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_207
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8616cdf1df81cb4e88f1324354ee977
+      internalID: 1591676136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_208
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351786f1f0a37549a2e5919488b928b
+      internalID: -1003680376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tynamo Front Anim_209
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63649f7cd3182364689011db072e4ddf
+      internalID: -659435043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a5ebec2623f229438ec02a2efe9516a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tynamo Front_0: 1668971662
+      Tynamo Front_1: 390489414
+      Tynamo Front_10: -128027647
+      Tynamo Front_100: 2134794457
+      Tynamo Front_101: 879848473
+      Tynamo Front_102: 1226274343
+      Tynamo Front_103: -1604479184
+      Tynamo Front_104: 1297579027
+      Tynamo Front_105: 903150818
+      Tynamo Front_106: -1799356579
+      Tynamo Front_107: 1971834034
+      Tynamo Front_108: -786695737
+      Tynamo Front_109: -1734478786
+      Tynamo Front_11: 877911486
+      Tynamo Front_110: -375844249
+      Tynamo Front_111: -136929553
+      Tynamo Front_112: 2129714102
+      Tynamo Front_113: 1546985993
+      Tynamo Front_114: 1013075493
+      Tynamo Front_115: 1552800889
+      Tynamo Front_116: 1749220177
+      Tynamo Front_117: 622292311
+      Tynamo Front_118: -842207418
+      Tynamo Front_119: -1443803296
+      Tynamo Front_12: -691258793
+      Tynamo Front_120: 1863703461
+      Tynamo Front_121: 1894536730
+      Tynamo Front_122: 1403850873
+      Tynamo Front_123: -1008363894
+      Tynamo Front_124: -762686305
+      Tynamo Front_125: 941146935
+      Tynamo Front_126: -61579735
+      Tynamo Front_127: -1716038346
+      Tynamo Front_128: 1199622137
+      Tynamo Front_129: 619447453
+      Tynamo Front_13: 435324549
+      Tynamo Front_130: -262247359
+      Tynamo Front_131: 1840301020
+      Tynamo Front_132: 1252804144
+      Tynamo Front_133: -402794642
+      Tynamo Front_134: -1229707139
+      Tynamo Front_135: 119032061
+      Tynamo Front_136: -992363606
+      Tynamo Front_137: -1988659575
+      Tynamo Front_138: -919000510
+      Tynamo Front_139: -363208969
+      Tynamo Front_14: 623182775
+      Tynamo Front_140: 235723373
+      Tynamo Front_141: -1937268630
+      Tynamo Front_142: 653621614
+      Tynamo Front_143: 984710078
+      Tynamo Front_144: -682817832
+      Tynamo Front_145: 2049074778
+      Tynamo Front_146: -48817967
+      Tynamo Front_147: 1459266292
+      Tynamo Front_148: -910382216
+      Tynamo Front_149: 1605525694
+      Tynamo Front_15: -1130226494
+      Tynamo Front_150: -1324542861
+      Tynamo Front_151: 831036280
+      Tynamo Front_152: 13786530
+      Tynamo Front_153: 149576361
+      Tynamo Front_154: 1469392734
+      Tynamo Front_155: -1199633951
+      Tynamo Front_156: -1218940326
+      Tynamo Front_157: -1767833942
+      Tynamo Front_158: 1162792720
+      Tynamo Front_159: 2002836177
+      Tynamo Front_16: 1470202892
+      Tynamo Front_160: 952401241
+      Tynamo Front_161: 560441115
+      Tynamo Front_162: -1650691564
+      Tynamo Front_163: 1039031433
+      Tynamo Front_164: 751631546
+      Tynamo Front_165: -82731807
+      Tynamo Front_166: 663719208
+      Tynamo Front_167: -1141459951
+      Tynamo Front_168: -1229602911
+      Tynamo Front_169: -664123683
+      Tynamo Front_17: 1763971541
+      Tynamo Front_170: -1826229659
+      Tynamo Front_171: 841118998
+      Tynamo Front_172: 1989241459
+      Tynamo Front_173: -502878476
+      Tynamo Front_174: -245865564
+      Tynamo Front_175: -975462486
+      Tynamo Front_176: -1976868404
+      Tynamo Front_177: 570349880
+      Tynamo Front_178: 1275501308
+      Tynamo Front_179: -359841906
+      Tynamo Front_18: -750053799
+      Tynamo Front_180: -38315309
+      Tynamo Front_181: -951044502
+      Tynamo Front_182: -1946054960
+      Tynamo Front_183: 2000927864
+      Tynamo Front_184: -1274576706
+      Tynamo Front_185: -1975936826
+      Tynamo Front_186: 1382469023
+      Tynamo Front_187: 157620543
+      Tynamo Front_188: -1174289450
+      Tynamo Front_189: 1704097299
+      Tynamo Front_19: -556362985
+      Tynamo Front_190: -2059076785
+      Tynamo Front_191: 448673488
+      Tynamo Front_192: -1753614404
+      Tynamo Front_193: 398163773
+      Tynamo Front_194: 1420443881
+      Tynamo Front_195: -927170884
+      Tynamo Front_196: 598419033
+      Tynamo Front_197: -1333191510
+      Tynamo Front_198: -1412075511
+      Tynamo Front_199: -1352986241
+      Tynamo Front_2: -2004026818
+      Tynamo Front_20: 519731384
+      Tynamo Front_200: 531587438
+      Tynamo Front_201: -972998358
+      Tynamo Front_202: 517785107
+      Tynamo Front_203: -1091220152
+      Tynamo Front_204: -1007228499
+      Tynamo Front_205: 573200304
+      Tynamo Front_206: 611374198
+      Tynamo Front_207: 1591676136
+      Tynamo Front_208: -1003680376
+      Tynamo Front_209: -659435043
+      Tynamo Front_21: -969692311
+      Tynamo Front_22: -2140181840
+      Tynamo Front_23: -1692201458
+      Tynamo Front_24: -818686506
+      Tynamo Front_25: 1924864994
+      Tynamo Front_26: -2002984194
+      Tynamo Front_27: 1746130659
+      Tynamo Front_28: -220031275
+      Tynamo Front_29: 2110161291
+      Tynamo Front_3: -1816511837
+      Tynamo Front_30: -53099466
+      Tynamo Front_31: 1402278304
+      Tynamo Front_32: -867649143
+      Tynamo Front_33: 1116085364
+      Tynamo Front_34: -1627061176
+      Tynamo Front_35: -1513368364
+      Tynamo Front_36: -1092348904
+      Tynamo Front_37: 464673797
+      Tynamo Front_38: -1142155114
+      Tynamo Front_39: -606954411
+      Tynamo Front_4: -1466972269
+      Tynamo Front_40: 1906098017
+      Tynamo Front_41: -1003844510
+      Tynamo Front_42: 1128983805
+      Tynamo Front_43: 1824306838
+      Tynamo Front_44: -1815329001
+      Tynamo Front_45: -1010521738
+      Tynamo Front_46: -233246776
+      Tynamo Front_47: -1443602774
+      Tynamo Front_48: 188694032
+      Tynamo Front_49: 663850830
+      Tynamo Front_5: -781638944
+      Tynamo Front_50: -130983451
+      Tynamo Front_51: -150049279
+      Tynamo Front_52: 1813268260
+      Tynamo Front_53: -55371754
+      Tynamo Front_54: -893352816
+      Tynamo Front_55: -687547046
+      Tynamo Front_56: 1471599355
+      Tynamo Front_57: 157059645
+      Tynamo Front_58: 1973760940
+      Tynamo Front_59: 1926175569
+      Tynamo Front_6: -1033484312
+      Tynamo Front_60: 625864018
+      Tynamo Front_61: -1236995069
+      Tynamo Front_62: 770108717
+      Tynamo Front_63: 451292984
+      Tynamo Front_64: 749438489
+      Tynamo Front_65: -1851553401
+      Tynamo Front_66: -992812315
+      Tynamo Front_67: 652330891
+      Tynamo Front_68: -85715568
+      Tynamo Front_69: 1246063029
+      Tynamo Front_7: -2046194094
+      Tynamo Front_70: -842882419
+      Tynamo Front_71: 1092219885
+      Tynamo Front_72: 1277065236
+      Tynamo Front_73: 385201626
+      Tynamo Front_74: -1609400017
+      Tynamo Front_75: -1983650317
+      Tynamo Front_76: 1292705804
+      Tynamo Front_77: -744887714
+      Tynamo Front_78: -2101163501
+      Tynamo Front_79: 121397817
+      Tynamo Front_8: 1390608090
+      Tynamo Front_80: -781762495
+      Tynamo Front_81: -963693993
+      Tynamo Front_82: -1145359311
+      Tynamo Front_83: 1383006258
+      Tynamo Front_84: -567980654
+      Tynamo Front_85: -818310725
+      Tynamo Front_86: -1881892601
+      Tynamo Front_87: -866652313
+      Tynamo Front_88: 1468477855
+      Tynamo Front_89: 367067066
+      Tynamo Front_9: 832132663
+      Tynamo Front_90: -370854877
+      Tynamo Front_91: -1576526550
+      Tynamo Front_92: 1178246276
+      Tynamo Front_93: 811546313
+      Tynamo Front_94: 1386488631
+      Tynamo Front_95: -1425310459
+      Tynamo Front_96: 81729197
+      Tynamo Front_97: 53109324
+      Tynamo Front_98: -1205186494
+      Tynamo Front_99: -172460574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

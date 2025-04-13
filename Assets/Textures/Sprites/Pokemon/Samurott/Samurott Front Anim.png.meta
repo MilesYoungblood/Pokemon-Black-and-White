@@ -1,0 +1,4939 @@
+fileFormatVersion: 2
+guid: 2d7e7a3611911d941a350aac8226bee4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7425626784735797883
+    second: Samurott Front_0
+  - first:
+      213: -6956033848774638225
+    second: Samurott Front_1
+  - first:
+      213: -9034368471863881339
+    second: Samurott Front_2
+  - first:
+      213: -2813047003722177315
+    second: Samurott Front_3
+  - first:
+      213: 7498786542983086674
+    second: Samurott Front_4
+  - first:
+      213: -6266110197372933620
+    second: Samurott Front_5
+  - first:
+      213: 2268640373289402893
+    second: Samurott Front_6
+  - first:
+      213: -7418987717913411739
+    second: Samurott Front_7
+  - first:
+      213: 796028680705781634
+    second: Samurott Front_8
+  - first:
+      213: 1906863643495140238
+    second: Samurott Front_9
+  - first:
+      213: -8808047237590275507
+    second: Samurott Front_10
+  - first:
+      213: 521438290502435124
+    second: Samurott Front_11
+  - first:
+      213: 4025843260796969057
+    second: Samurott Front_12
+  - first:
+      213: 6719410594387249151
+    second: Samurott Front_13
+  - first:
+      213: -7808125839921839814
+    second: Samurott Front_14
+  - first:
+      213: 6787976578278844131
+    second: Samurott Front_15
+  - first:
+      213: 2216676404516344565
+    second: Samurott Front_16
+  - first:
+      213: 8648581237090823894
+    second: Samurott Front_17
+  - first:
+      213: 4070950347400219989
+    second: Samurott Front_18
+  - first:
+      213: 758156179943058896
+    second: Samurott Front_19
+  - first:
+      213: 6458427952489818800
+    second: Samurott Front_20
+  - first:
+      213: -3557547215492793423
+    second: Samurott Front_21
+  - first:
+      213: 2336255020075822700
+    second: Samurott Front_22
+  - first:
+      213: 6969902742263288868
+    second: Samurott Front_23
+  - first:
+      213: -2915979862530889849
+    second: Samurott Front_24
+  - first:
+      213: -2706949968707581383
+    second: Samurott Front_25
+  - first:
+      213: -2611492284631345016
+    second: Samurott Front_26
+  - first:
+      213: -130626242344949365
+    second: Samurott Front_27
+  - first:
+      213: 5962162441915018070
+    second: Samurott Front_28
+  - first:
+      213: 3968887366439648751
+    second: Samurott Front_29
+  - first:
+      213: 3372125129910616582
+    second: Samurott Front_30
+  - first:
+      213: 2882396476620929099
+    second: Samurott Front_31
+  - first:
+      213: -4484583331440447717
+    second: Samurott Front_32
+  - first:
+      213: -3910308970450599316
+    second: Samurott Front_33
+  - first:
+      213: 6456551520559438599
+    second: Samurott Front_34
+  - first:
+      213: 8847449151413965188
+    second: Samurott Front_35
+  - first:
+      213: -945782769456652516
+    second: Samurott Front_36
+  - first:
+      213: -1328385862018774704
+    second: Samurott Front_37
+  - first:
+      213: -9105787487077601013
+    second: Samurott Front_38
+  - first:
+      213: 6241009825790807472
+    second: Samurott Front_39
+  - first:
+      213: -163331929473813472
+    second: Samurott Front_40
+  - first:
+      213: 8426574678942776524
+    second: Samurott Front_41
+  - first:
+      213: 6555242821828221897
+    second: Samurott Front_42
+  - first:
+      213: 5230993174235270700
+    second: Samurott Front_43
+  - first:
+      213: 4111328589103808139
+    second: Samurott Front_44
+  - first:
+      213: -15022663629530100
+    second: Samurott Front_45
+  - first:
+      213: -3576973975703636249
+    second: Samurott Front_46
+  - first:
+      213: -1294911772157855982
+    second: Samurott Front_47
+  - first:
+      213: 3486985972735152522
+    second: Samurott Front_48
+  - first:
+      213: -4242790827833051161
+    second: Samurott Front_49
+  - first:
+      213: 4838809225327638132
+    second: Samurott Front_50
+  - first:
+      213: 2330298470910576066
+    second: Samurott Front_51
+  - first:
+      213: -7753767171405885293
+    second: Samurott Front_52
+  - first:
+      213: 3722397743398524455
+    second: Samurott Front_53
+  - first:
+      213: -5258939281249361395
+    second: Samurott Front_54
+  - first:
+      213: -1654441436244960590
+    second: Samurott Front_55
+  - first:
+      213: 7503825995686531066
+    second: Samurott Front_56
+  - first:
+      213: -1983707780951049219
+    second: Samurott Front_57
+  - first:
+      213: 9158676472436991767
+    second: Samurott Front_58
+  - first:
+      213: 5869142347084464723
+    second: Samurott Front_59
+  - first:
+      213: 2557468305513695503
+    second: Samurott Front_60
+  - first:
+      213: 6529184058800472443
+    second: Samurott Front_61
+  - first:
+      213: -8912200991919082284
+    second: Samurott Front_62
+  - first:
+      213: -4243582678543413025
+    second: Samurott Front_63
+  - first:
+      213: -5362733078427170388
+    second: Samurott Front_64
+  - first:
+      213: 6786993428852058856
+    second: Samurott Front_65
+  - first:
+      213: -1585716894618831128
+    second: Samurott Front_66
+  - first:
+      213: -1114254921597188075
+    second: Samurott Front_67
+  - first:
+      213: 1156470082436511550
+    second: Samurott Front_68
+  - first:
+      213: 1018116652575485748
+    second: Samurott Front_69
+  - first:
+      213: 5284465673782067563
+    second: Samurott Front_70
+  - first:
+      213: 5492525894962630791
+    second: Samurott Front_71
+  - first:
+      213: -4741528903365746838
+    second: Samurott Front_72
+  - first:
+      213: 35790043482411362
+    second: Samurott Front_73
+  - first:
+      213: 2214337123662384467
+    second: Samurott Front_74
+  - first:
+      213: -4439173853496780074
+    second: Samurott Front_75
+  - first:
+      213: -3881945802589220081
+    second: Samurott Front_76
+  - first:
+      213: -8029881907256085205
+    second: Samurott Front_77
+  - first:
+      213: 5300062532898655978
+    second: Samurott Front_78
+  - first:
+      213: -603795305075092402
+    second: Samurott Front_79
+  - first:
+      213: 4698421883131580856
+    second: Samurott Front_80
+  - first:
+      213: -2102134906991820112
+    second: Samurott Front_81
+  - first:
+      213: 4087518376973395363
+    second: Samurott Front_82
+  - first:
+      213: -7855938843607778317
+    second: Samurott Front_83
+  - first:
+      213: 9079427647676343856
+    second: Samurott Front_84
+  - first:
+      213: -9077217845467015405
+    second: Samurott Front_85
+  - first:
+      213: -8840193659904661007
+    second: Samurott Front_86
+  - first:
+      213: -8456013853059156870
+    second: Samurott Front_87
+  - first:
+      213: -7255621970123561716
+    second: Samurott Front_88
+  - first:
+      213: -1480323219823687925
+    second: Samurott Front_89
+  - first:
+      213: -6207212335139359232
+    second: Samurott Front_90
+  - first:
+      213: 5585235340842455120
+    second: Samurott Front_91
+  - first:
+      213: -4888239967853239108
+    second: Samurott Front_92
+  - first:
+      213: -1748735253466988707
+    second: Samurott Front_93
+  - first:
+      213: -1676848135693020213
+    second: Samurott Front_94
+  - first:
+      213: 1893131874346606227
+    second: Samurott Front_95
+  - first:
+      213: 5216624549700652901
+    second: Samurott Front_96
+  - first:
+      213: -601636692380803972
+    second: Samurott Front_97
+  - first:
+      213: -2260387475324387272
+    second: Samurott Front_98
+  - first:
+      213: 1764776424513084763
+    second: Samurott Front_99
+  - first:
+      213: 4028485098079666966
+    second: Samurott Front_100
+  - first:
+      213: -6143453253999435992
+    second: Samurott Front_101
+  - first:
+      213: 1624157257488470424
+    second: Samurott Front_102
+  - first:
+      213: -5787130707782704517
+    second: Samurott Front_103
+  - first:
+      213: 7101110971370125428
+    second: Samurott Front_104
+  - first:
+      213: -188371294469199678
+    second: Samurott Front_105
+  - first:
+      213: -64805832322406459
+    second: Samurott Front_106
+  - first:
+      213: -1481682834458809067
+    second: Samurott Front_107
+  - first:
+      213: -3213901457336666747
+    second: Samurott Front_108
+  - first:
+      213: 7846204934313546700
+    second: Samurott Front_109
+  - first:
+      213: 7232238967807155069
+    second: Samurott Front_110
+  - first:
+      213: 6187713607476405092
+    second: Samurott Front_111
+  - first:
+      213: -2642275241727353902
+    second: Samurott Front_112
+  - first:
+      213: -1878112625599137339
+    second: Samurott Front_113
+  - first:
+      213: 5404984660360843388
+    second: Samurott Front_114
+  - first:
+      213: 2155612533045414738
+    second: Samurott Front_115
+  - first:
+      213: -5478875568949016572
+    second: Samurott Front_116
+  - first:
+      213: 5452191838278176991
+    second: Samurott Front_117
+  - first:
+      213: -7999730565523951554
+    second: Samurott Front_118
+  - first:
+      213: -2729108484029574612
+    second: Samurott Front_119
+  - first:
+      213: -8754919669332706806
+    second: Samurott Front_120
+  - first:
+      213: -6832685966327639868
+    second: Samurott Front_121
+  - first:
+      213: -9011377091375479316
+    second: Samurott Front_122
+  - first:
+      213: -5913187660895618669
+    second: Samurott Front_123
+  - first:
+      213: -2696310508972054096
+    second: Samurott Front_124
+  - first:
+      213: -8770922981399615888
+    second: Samurott Front_125
+  - first:
+      213: -534609375312794875
+    second: Samurott Front_126
+  - first:
+      213: 827094642721983774
+    second: Samurott Front_127
+  - first:
+      213: 4590616174598355557
+    second: Samurott Front_128
+  - first:
+      213: -4035445321733740447
+    second: Samurott Front_129
+  - first:
+      213: 8797082706667072463
+    second: Samurott Front_130
+  - first:
+      213: 4210197961332516641
+    second: Samurott Front_131
+  - first:
+      213: 6152629991929311299
+    second: Samurott Front_132
+  - first:
+      213: 78774381273430294
+    second: Samurott Front_133
+  - first:
+      213: -9055433978810483210
+    second: Samurott Front_134
+  - first:
+      213: -1131744285257667110
+    second: Samurott Front_135
+  - first:
+      213: -8856088952225266544
+    second: Samurott Front_136
+  - first:
+      213: -2569859674107581858
+    second: Samurott Front_137
+  - first:
+      213: -5606399473318230122
+    second: Samurott Front_138
+  - first:
+      213: -7702013170396360106
+    second: Samurott Front_139
+  - first:
+      213: 8807174397017626527
+    second: Samurott Front_140
+  - first:
+      213: -7905408730124172033
+    second: Samurott Front_141
+  - first:
+      213: 7304031075072646490
+    second: Samurott Front_142
+  - first:
+      213: 1335842589314584173
+    second: Samurott Front_143
+  - first:
+      213: 4103849412104065074
+    second: Samurott Front_144
+  - first:
+      213: -8467026328568034549
+    second: Samurott Front_145
+  - first:
+      213: 5621925613191477703
+    second: Samurott Front_146
+  - first:
+      213: -1320459208461168931
+    second: Samurott Front_147
+  - first:
+      213: -4040770161858094610
+    second: Samurott Front_148
+  - first:
+      213: -7091928140435341427
+    second: Samurott Front_149
+  - first:
+      213: -1583382092233882754
+    second: Samurott Front_150
+  - first:
+      213: 7566799420397236799
+    second: Samurott Front_151
+  - first:
+      213: 3929708386425079610
+    second: Samurott Front_152
+  - first:
+      213: 2456460455890429037
+    second: Samurott Front_153
+  - first:
+      213: 2207782473976918356
+    second: Samurott Front_154
+  - first:
+      213: 8943403172986811885
+    second: Samurott Front_155
+  - first:
+      213: -6394939448925583053
+    second: Samurott Front_156
+  - first:
+      213: -7883552130593625948
+    second: Samurott Front_157
+  - first:
+      213: 917938211530749198
+    second: Samurott Front_158
+  - first:
+      213: -5066931567015203231
+    second: Samurott Front_159
+  - first:
+      213: 7812496402078291465
+    second: Samurott Front_160
+  - first:
+      213: -2059255850301317665
+    second: Samurott Front_161
+  - first:
+      213: 8998549601181306925
+    second: Samurott Front_162
+  - first:
+      213: -8686687080218196215
+    second: Samurott Front_163
+  - first:
+      213: -6166736759611689492
+    second: Samurott Front_164
+  - first:
+      213: 853553434405223365
+    second: Samurott Front_165
+  - first:
+      213: -5255768986034637748
+    second: Samurott Front_166
+  - first:
+      213: -3188699347625417634
+    second: Samurott Front_167
+  - first:
+      213: -293045773560132600
+    second: Samurott Front_168
+  - first:
+      213: 6737603997391071385
+    second: Samurott Front_169
+  - first:
+      213: 3494512155384045958
+    second: Samurott Front_170
+  - first:
+      213: -3165538019068275321
+    second: Samurott Front_171
+  - first:
+      213: 3992619839325463082
+    second: Samurott Front_172
+  - first:
+      213: 1723553596570602606
+    second: Samurott Front_173
+  - first:
+      213: -7374912700915331211
+    second: Samurott Front_174
+  - first:
+      213: -7797501686471801463
+    second: Samurott Front_175
+  - first:
+      213: -4956596730815324318
+    second: Samurott Front_176
+  - first:
+      213: -4649768729414617255
+    second: Samurott Front_177
+  - first:
+      213: -4647102521809621632
+    second: Samurott Front_178
+  - first:
+      213: -1621006568741248601
+    second: Samurott Front_179
+  - first:
+      213: -4870052330193051804
+    second: Samurott Front_180
+  - first:
+      213: 4522088740187947516
+    second: Samurott Front_181
+  - first:
+      213: 4816956390410050069
+    second: Samurott Front_182
+  - first:
+      213: 7232144216817183221
+    second: Samurott Front_183
+  - first:
+      213: -5817408614293431341
+    second: Samurott Front_184
+  - first:
+      213: -2183641931240268175
+    second: Samurott Front_185
+  - first:
+      213: -3727268253538245133
+    second: Samurott Front_186
+  - first:
+      213: -5265669900681536922
+    second: Samurott Front_187
+  - first:
+      213: 8379630079587654724
+    second: Samurott Front_188
+  - first:
+      213: -7986802375660598598
+    second: Samurott Front_189
+  - first:
+      213: 8525358096392905447
+    second: Samurott Front_190
+  - first:
+      213: -6415348661211266902
+    second: Samurott Front_191
+  - first:
+      213: -160906025603564419
+    second: Samurott Front_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurott Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527af156c63bba4288b877b71de7188
+      internalID: 1320764842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b6e1f4825023438fdb167c1f98038
+      internalID: 815221187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234622ea9b645f46b831404224ba32f
+      internalID: 1010840674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2538e1fca1be144a594ce06f5d77e7
+      internalID: 412425831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155377da1c2c4c04e989cfe99558f920
+      internalID: 1092629203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787bcd10c1ea82438de036de2a61cb6
+      internalID: 1552654649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c11a6c989c3f45ab74fccc228b062
+      internalID: 167299540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc773a96bcacd40a7db976c0df0c89
+      internalID: 1092331688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb649c8081e564fae1fa6f4ba03f29
+      internalID: 792290182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c952e7845b99534d84520a3766955e3
+      internalID: 23980148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a539833d827e429bee2b85fe84634
+      internalID: -1861357605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee7e8fa725a6e46b4c6d75c07a6d8e
+      internalID: -747156804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ec03a904527242a94a50ff725c93c
+      internalID: 203076933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055931d4cd48f4c4aa46dc6b10578850
+      internalID: 1220164479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660f50d9fa4e804785609fe5954fa07
+      internalID: -1898567804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17926a5eac8b4b43a6f4c55a17f072a
+      internalID: 409998527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44fe17b40e8dc4093ea9e9ad548cb6
+      internalID: -1711688132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8071988653cbaf74b88b6197040c6756
+      internalID: -968863926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5cd87d40969e24499b39a7d4ece2d3
+      internalID: 100504744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67548fb6b366c498effb3388b5b933
+      internalID: -1504582875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e9566ba5a5af4c8f16db87f3ee497
+      internalID: -1963980935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814effd5581692c459dcdfdefdb28452
+      internalID: -540065085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd1c5c70b83954ea6b6bfeb52a1960
+      internalID: -1135763485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fae3d621adb8747904633f73a27a78
+      internalID: 952628349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9383515d89972a49851f4388d121093
+      internalID: -1122898529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e21ad67a24bd54aad81ce833943c57
+      internalID: 1595298737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b341736b94ec048856a0f483f8f672
+      internalID: 697666238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 960
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c253b8f2e02c549b1862c5ae03fd2e
+      internalID: -1864780249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c844d9dc551442b902a56a1f0cf19
+      internalID: -953958916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8292a464ab0114391e5597df8a8e21
+      internalID: -121670035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b21866cd1674344b71688ed3f46711
+      internalID: 1551287873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7147f82b00f5946adf7c8f0621e830
+      internalID: -715256807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a01a4f4d3d237b44b50946c5e2a7ba9
+      internalID: 1452841321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a57d0917128b4695258cd75bf8672
+      internalID: 34419304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa76f88e9a9a34c8896c2985213957
+      internalID: 1010229016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6183a5fd8b9cb439903d7e6968e5c4
+      internalID: -1127958347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952328878df888844a6f09c64232152e
+      internalID: -1855704867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd20c839209aad40b416bd0e7f4f35b
+      internalID: 309614974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc039d6b3302fa43816317d84f40db8
+      internalID: -526397451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b64fa4d83143e4694882ce47269bc4
+      internalID: 476085285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89432a2fe389ee84c98c6e07e824b1aa
+      internalID: 1111542692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 880
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01160c61adbede94c843c215a928039e
+      internalID: 1544646700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8272121be142745bd0ec57fb947faf
+      internalID: -716457500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf4295352421a5489f9f51d0d7fae33
+      internalID: -227544268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc974029182401449880d714dc43119a
+      internalID: -1366764416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5318a4bb09d34898afb3a3d898e41
+      internalID: -992551375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09acf32ccf0ad64a8b41b32a2148815
+      internalID: -1032684186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a524258a1e46489567f9b5d4c680d
+      internalID: 1358561436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b573179f8c49fd348bc9e3d0f82a4c37
+      internalID: -811902280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e739edec243943a1a1c1a7a9b4bde
+      internalID: 383973090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07e9578368993479e202cb303bb9a4
+      internalID: 296123393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c3bd6982d1d541ae1d14db43f4a12
+      internalID: 1184523353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6552b9e7a81d140af143c76801cacb
+      internalID: -1792377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0dc16fa4485a4394a6dd39b4d37c9
+      internalID: -276227115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3570e1054acfc5498cf3ad430746804
+      internalID: 1162192610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb403d5fdaa6b0c4e9f35da1af1d09e6
+      internalID: -969698850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97964c8c77b91fb4ab0e35a17048da7c
+      internalID: -1507608361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b75d3aa7ef05684f8637f4663b1ba48
+      internalID: -137071483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c3e4e0d9baba4e98e22ebeaeda96f
+      internalID: -859178957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d950492b202b244eab29626cdbd7468
+      internalID: 440729589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5334f4e06b7a54ca521a8fe1b986ea
+      internalID: 470985992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd93f0146db804ba5479b413e7d1b5
+      internalID: 905708884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ca255ac43d304a987bef979d4c214
+      internalID: 950358263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e6de376e7cd848852ef4f8578af67
+      internalID: -299433590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3a778b9690434e8f50ebff5a91282
+      internalID: 1893981296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed337f504fe9d4db11cbf824ba1492
+      internalID: -68774092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46a210797c4a8478d031e26d1a732f
+      internalID: 1269813626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7294b6de685b9418392393f6eebe7e
+      internalID: -198285633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b8e2a335a8114db91161de1fc67a7
+      internalID: -1637127564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00dd83016ba88409ff14076885323f
+      internalID: -1654270234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce85b7ab71f3004ba0892798d31b5c0
+      internalID: -240566505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c03ae746ab3843b044a889de3648f
+      internalID: -302715454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b00e2a3d36954db85b6a56ae8415c
+      internalID: -1067150623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caaa7a3ce008904f9c7bdfa5bc2f39b
+      internalID: 53589652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab15f4618406664cbee69dc1e79dfcd
+      internalID: 1185962849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03b0bac6ae83c408b3fe2702b3c7d4
+      internalID: 866449071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a9d66b674aa446972fe37798f9278
+      internalID: -104177675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd279d61d0cdc45823c3d59385750b
+      internalID: -1372783266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be329ce6a3c6e45aacdacaffbc7d41
+      internalID: 1830795500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6436369026be48875a62cd9b6dc21
+      internalID: -1700751318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f421e05202bdb34a83c104709936161
+      internalID: 1594024680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1507439c8e3ea4b8bd42842b528215
+      internalID: -976526381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e1808355b80941a10a4f4ba76763c
+      internalID: 139183735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 640
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244414646b2b4f34cbf2853e12828460
+      internalID: 411770209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae628347ccb654449fcd8a07746175a
+      internalID: 208995593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e2aca2150b1348b8b799306126cb6
+      internalID: 387862499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78382e7edaae044599c549203c40dba
+      internalID: -591741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d64b2b0bfa704a817acacbca22d98
+      internalID: -658511310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722cbadfdd4201e498fdb821d29cc5d0
+      internalID: -831757546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4f3336da5d4f47969b32fd328044d
+      internalID: -1151502929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151a2a92cd6fbe4cb4216f106c17300
+      internalID: -203205195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9b009bbe1495e41917661ebf32ebd4
+      internalID: 294607457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6af9c2d05955e4ab798b15b241a6da
+      internalID: -2146391349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25fc2057f51f944391d2f4d58824e24
+      internalID: -1727653793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58240bbc8b82d64c8fc748a60455d74
+      internalID: -600821446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3c70b49fc79d645b0ee2908e927107
+      internalID: -153313665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294e84c90229074892be6b436e0e825
+      internalID: 1268580999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 560
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc2fd3b4e712e43b9450245aa91824
+      internalID: 56084898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c143a487b6f48f4ea5886d2f063847a
+      internalID: -2055010005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c199d46444f894fa6c8661f9689c5b
+      internalID: 818095936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43e6b9581617fd44a472a3bfabc9a8d
+      internalID: -1323797972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acf35933a694a429bf86ba48dbb880
+      internalID: 713277453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1507ecdb100794a8ff484cb79ee66e
+      internalID: 208023199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a66b32e73db84797aa94b97182e20
+      internalID: -134638925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae24a9ea9ae6ff43acb6b689aafbf47
+      internalID: 201646222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79c6fb0afc398b48a2b44613b161db2
+      internalID: -88747098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4010070b2076fd41b4ac8a06c840790
+      internalID: 34686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20007ea56db389440bcbe67d454a0748
+      internalID: -231583320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc3026377726745815dcc441ff2d01
+      internalID: 239577757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d38cf5782ac21449ffd91b008fd333
+      internalID: 81746285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f582f76a33c725b4caf2e70f4f3213fb
+      internalID: -2140932568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8c8a34a4af8545a7c820c89b0ef1f
+      internalID: 1517749235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb5ff6ac2d5634591ff94de724b1dd
+      internalID: -92764768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f2c016a9a3cc429e1e1010351943d
+      internalID: 710002262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd43f9034a56846ab611253d14c833
+      internalID: 1338931816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df49e08f507b348962ba577e0c9672
+      internalID: -1917807124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4185df329afc4888d2c65e0ac3815
+      internalID: 1572448220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663a64c5bed3c34ba817b276842da6c
+      internalID: -1068626895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bbe028cb52997438ed84d94126fa46
+      internalID: 1765646884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a7de7fc313c5e40ae8ab25ebc795da
+      internalID: -924712479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ad5e526ccf9e4ebf4944e626304e7
+      internalID: 1591597371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de119b45840444e991f03918ca75ee
+      internalID: -243302988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177fa7aa075a6c74493756149148a82d
+      internalID: -247256768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1a983ce5078948bf1bf89960d0345
+      internalID: -1074695577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2749939dc6b9bff41823babfb80ec9a7
+      internalID: 1999188008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 400
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66918071c362f242b554060aef24375
+      internalID: -653709669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7c10ce9aa0e94c9ef91ad7771a7c3
+      internalID: 1523471272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e20d138a34b21c479ce8928defe8f29
+      internalID: 1668285019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab6206ceb49f744b9104f553dcb076
+      internalID: 523053832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bedd20137b1ca4f8ad72c4d32dc0b6
+      internalID: 1815540778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a0150b84fe654fa26d3983211d8a6
+      internalID: 291351267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a828a759b3154bb59e41df5b20198
+      internalID: -1251488486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38668676bd53045a23d0e0bd578c93
+      internalID: 1704471701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5252084894ed35459523432b335036b
+      internalID: -1743860848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6c4d12a8e81148b053da919d2a4e9
+      internalID: 192690442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2350b695349d7d242a7f7204ef8ed3d8
+      internalID: 654646357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf717c05b75a3a49828fa41164f7fbe
+      internalID: 1220142894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df92e0eb89b114192c57876173f134
+      internalID: 1668837885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe5614ea0aa524290408116aa932f5
+      internalID: 683816269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 320
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de534e4df29ce44a8db8dd87197e0da
+      internalID: -52960002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeabef3fe3667a4c976658e9db2c0b8
+      internalID: -475617588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269cb77e803d2648baee09b3c487dbd
+      internalID: -1381828398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9535c99934018947b2b0b0efa8a2b3d
+      internalID: 1377326244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81998306609f49e46b44e8abae28bf24
+      internalID: 513463482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2bb2b4a4ca0246b689d908a15bebf
+      internalID: -381557624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d31232d2712114eb7394ccd6e6bf3c
+      internalID: -1198320555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190ea8d102275a499ee425c76bec14f
+      internalID: -1392484886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537458c69b1703f428c12e7ef72e1fc2
+      internalID: -1935688675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c68af314900742a3820c8a576e502
+      internalID: 748652727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86383e3b6e68b4d49a1e72e3a56840ae
+      internalID: -1340884823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855e808335d4a44993ecc509efb07e9
+      internalID: 1328884220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17080deec52d7847b68bb9a238021c2
+      internalID: 39754285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099324f016f9df6459a9c10027f87a8b
+      internalID: -975643078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1192257eb7f8f49892ccd77e8a42e2
+      internalID: 390987615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8135fb4a673144ebe26a16048165de
+      internalID: 450173458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3640affd1bede4b8078204279054f9
+      internalID: 75045325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf4649863761044b00d125684b55ae
+      internalID: 1052817397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0691183e606b4ab4faa5065d879bf
+      internalID: 803647857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3d4b93f2157947b026301b28f125f
+      internalID: -1745461051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff622da8824de1148836f8d7c772c0b3
+      internalID: 1992604759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ad636d9ef6314d856752fb795707e
+      internalID: -1761382168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c484d46f2b2148b9e536797ef925f
+      internalID: -816823631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c2785e000c9345b759d2cac5ffacd
+      internalID: -253350058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05742206e01c97f4ab04cfbdcc1170ab
+      internalID: -1836734272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592ebcb806d697542ba72166eec1dcb2
+      internalID: -1417296339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf068194eb9b747a1d7b7e7ba4d29b
+      internalID: 2009014445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a7711cbbae20468da56f512d36cec
+      internalID: -2069924459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_167
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291d0b0ed39afb41a0b5e0be538706a
+      internalID: -1273718394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f32ca528109e04b804358ba0a2a530
+      internalID: -2086334404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b351a5f15a4b4ab7661969a792a5c
+      internalID: 1962636516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6e07fc86b06643bca933ec97ba0ce
+      internalID: -1231817743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7b16b81fc3f541a949071f3de3bfc
+      internalID: -999681070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72fc7bca1b415f47b6c4c35db1ef15c
+      internalID: -1084963613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_173
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0825945f068c54693450a7ef4e1851
+      internalID: -647405612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1525dace070eab47a6b4124c1d45186
+      internalID: -1826443995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c485dd86ee1f1d41ac26ff2e259ddc7
+      internalID: -2042234990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_176
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e52ac95783cdd94482e38c49465aeff
+      internalID: 1961388319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_177
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0c3cc55ccb5a48928699dd4eabc33
+      internalID: 943300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_178
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1620547792251e74ab8a4deeeeba3463
+      internalID: 2061968792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_179
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c6b4fa78aac449895a7f68d639577
+      internalID: -2098693977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_180
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b265d28fe6344692db0e368cb9759
+      internalID: -1323422960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_181
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 80
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e0e3f63182b745a9b30342661d434
+      internalID: 85580946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626a81d38c70d8478302cd27a4e5cbe
+      internalID: -862711355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76aa0db80e15014f9b865f69352a707
+      internalID: -2055752874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb7157280df2a4c898a8faa1db8c82
+      internalID: -838769097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8415c3c30312429adf63f4070f70b
+      internalID: 1578395310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ee8d2b9d72ac40b8d80df038a1b0b
+      internalID: 181146850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_187
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c65557c1bdc9a4098b1354a041afcc
+      internalID: 63822129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470ae05c939643499545f6c27c07263
+      internalID: -374437851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67aeef1fc5d0041bf7e9aab1dd13e4
+      internalID: 1940405191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc88f59053a68d240a5005a9062dc689
+      internalID: 261895142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_191
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2a23ab7fa7894d8e5602914862af9
+      internalID: 1212530562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurott Front Anim_192
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f99617b4b5f84caf0d3db0fc95490
+      internalID: 445473618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae248b33e04be6047a0bfeb57db38865
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Samurott Front_0: 1320764842
+      Samurott Front_1: 815221187
+      Samurott Front_10: -1861357605
+      Samurott Front_100: -1323797972
+      Samurott Front_101: 713277453
+      Samurott Front_102: 208023199
+      Samurott Front_103: -134638925
+      Samurott Front_104: 201646222
+      Samurott Front_105: -88747098
+      Samurott Front_106: 34686638
+      Samurott Front_107: -231583320
+      Samurott Front_108: 239577757
+      Samurott Front_109: 81746285
+      Samurott Front_11: -747156804
+      Samurott Front_110: -2140932568
+      Samurott Front_111: 1517749235
+      Samurott Front_112: -92764768
+      Samurott Front_113: 710002262
+      Samurott Front_114: 1338931816
+      Samurott Front_115: -1917807124
+      Samurott Front_116: 1572448220
+      Samurott Front_117: -1068626895
+      Samurott Front_118: 1765646884
+      Samurott Front_119: -924712479
+      Samurott Front_12: 203076933
+      Samurott Front_120: 1591597371
+      Samurott Front_121: -243302988
+      Samurott Front_122: -247256768
+      Samurott Front_123: -1074695577
+      Samurott Front_124: 1999188008
+      Samurott Front_125: -653709669
+      Samurott Front_126: 1523471272
+      Samurott Front_127: 1668285019
+      Samurott Front_128: 523053832
+      Samurott Front_129: 1815540778
+      Samurott Front_13: 1220164479
+      Samurott Front_130: 291351267
+      Samurott Front_131: -1251488486
+      Samurott Front_132: 1704471701
+      Samurott Front_133: -1743860848
+      Samurott Front_134: 192690442
+      Samurott Front_135: 654646357
+      Samurott Front_136: 1220142894
+      Samurott Front_137: 1668837885
+      Samurott Front_138: 683816269
+      Samurott Front_139: -52960002
+      Samurott Front_14: -1898567804
+      Samurott Front_140: -475617588
+      Samurott Front_141: -1381828398
+      Samurott Front_142: 1377326244
+      Samurott Front_143: 513463482
+      Samurott Front_144: -381557624
+      Samurott Front_145: -1198320555
+      Samurott Front_146: -1392484886
+      Samurott Front_147: -1935688675
+      Samurott Front_148: 748652727
+      Samurott Front_149: -1340884823
+      Samurott Front_15: 409998527
+      Samurott Front_150: 1328884220
+      Samurott Front_151: 39754285
+      Samurott Front_152: -975643078
+      Samurott Front_153: 390987615
+      Samurott Front_154: 450173458
+      Samurott Front_155: 75045325
+      Samurott Front_156: 1052817397
+      Samurott Front_157: 803647857
+      Samurott Front_158: -1745461051
+      Samurott Front_159: 1992604759
+      Samurott Front_16: -1711688132
+      Samurott Front_160: -1761382168
+      Samurott Front_161: -816823631
+      Samurott Front_162: -253350058
+      Samurott Front_163: -1836734272
+      Samurott Front_164: -1417296339
+      Samurott Front_165: 2009014445
+      Samurott Front_166: -2069924459
+      Samurott Front_167: -1273718394
+      Samurott Front_168: -2086334404
+      Samurott Front_169: 1962636516
+      Samurott Front_17: -968863926
+      Samurott Front_170: -1231817743
+      Samurott Front_171: -999681070
+      Samurott Front_172: -1084963613
+      Samurott Front_173: -647405612
+      Samurott Front_174: -1826443995
+      Samurott Front_175: -2042234990
+      Samurott Front_176: 1961388319
+      Samurott Front_177: 943300460
+      Samurott Front_178: 2061968792
+      Samurott Front_179: -2098693977
+      Samurott Front_18: 100504744
+      Samurott Front_180: -1323422960
+      Samurott Front_181: 85580946
+      Samurott Front_182: -862711355
+      Samurott Front_183: -2055752874
+      Samurott Front_184: -838769097
+      Samurott Front_185: 1578395310
+      Samurott Front_186: 181146850
+      Samurott Front_187: 63822129
+      Samurott Front_188: -374437851
+      Samurott Front_189: 1940405191
+      Samurott Front_19: -1504582875
+      Samurott Front_190: 261895142
+      Samurott Front_191: 1212530562
+      Samurott Front_192: 445473618
+      Samurott Front_2: 1010840674
+      Samurott Front_20: -1963980935
+      Samurott Front_21: -540065085
+      Samurott Front_22: -1135763485
+      Samurott Front_23: 952628349
+      Samurott Front_24: -1122898529
+      Samurott Front_25: 1595298737
+      Samurott Front_26: 697666238
+      Samurott Front_27: -1864780249
+      Samurott Front_28: -953958916
+      Samurott Front_29: -121670035
+      Samurott Front_3: 412425831
+      Samurott Front_30: 1551287873
+      Samurott Front_31: -715256807
+      Samurott Front_32: 1452841321
+      Samurott Front_33: 34419304
+      Samurott Front_34: 1010229016
+      Samurott Front_35: -1127958347
+      Samurott Front_36: -1855704867
+      Samurott Front_37: 309614974
+      Samurott Front_38: -526397451
+      Samurott Front_39: 476085285
+      Samurott Front_4: 1092629203
+      Samurott Front_40: 1111542692
+      Samurott Front_41: 1544646700
+      Samurott Front_42: -716457500
+      Samurott Front_43: -227544268
+      Samurott Front_44: -1366764416
+      Samurott Front_45: -992551375
+      Samurott Front_46: -1032684186
+      Samurott Front_47: 1358561436
+      Samurott Front_48: -811902280
+      Samurott Front_49: 383973090
+      Samurott Front_5: 1552654649
+      Samurott Front_50: 296123393
+      Samurott Front_51: 1184523353
+      Samurott Front_52: -1792377873
+      Samurott Front_53: -276227115
+      Samurott Front_54: 1162192610
+      Samurott Front_55: -969698850
+      Samurott Front_56: -1507608361
+      Samurott Front_57: -137071483
+      Samurott Front_58: -859178957
+      Samurott Front_59: 440729589
+      Samurott Front_6: 167299540
+      Samurott Front_60: 470985992
+      Samurott Front_61: 905708884
+      Samurott Front_62: 950358263
+      Samurott Front_63: -299433590
+      Samurott Front_64: 1893981296
+      Samurott Front_65: -68774092
+      Samurott Front_66: 1269813626
+      Samurott Front_67: -198285633
+      Samurott Front_68: -1637127564
+      Samurott Front_69: -1654270234
+      Samurott Front_7: 1092331688
+      Samurott Front_70: -240566505
+      Samurott Front_71: -302715454
+      Samurott Front_72: -1067150623
+      Samurott Front_73: 53589652
+      Samurott Front_74: 1185962849
+      Samurott Front_75: 866449071
+      Samurott Front_76: -104177675
+      Samurott Front_77: -1372783266
+      Samurott Front_78: 1830795500
+      Samurott Front_79: -1700751318
+      Samurott Front_8: 792290182
+      Samurott Front_80: 1594024680
+      Samurott Front_81: -976526381
+      Samurott Front_82: 139183735
+      Samurott Front_83: 411770209
+      Samurott Front_84: 208995593
+      Samurott Front_85: 387862499
+      Samurott Front_86: -591741979
+      Samurott Front_87: -658511310
+      Samurott Front_88: -831757546
+      Samurott Front_89: -1151502929
+      Samurott Front_9: 23980148
+      Samurott Front_90: -203205195
+      Samurott Front_91: 294607457
+      Samurott Front_92: -2146391349
+      Samurott Front_93: -1727653793
+      Samurott Front_94: -600821446
+      Samurott Front_95: -153313665
+      Samurott Front_96: 1268580999
+      Samurott Front_97: 56084898
+      Samurott Front_98: -2055010005
+      Samurott Front_99: 818095936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

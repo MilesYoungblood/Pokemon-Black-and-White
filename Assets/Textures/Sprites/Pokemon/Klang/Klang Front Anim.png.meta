@@ -1,0 +1,4299 @@
+fileFormatVersion: 2
+guid: 9e56be05bf65c29459240aeed845cb8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7423112533451096512
+    second: Klang Front_0
+  - first:
+      213: 6244672344217202688
+    second: Klang Front_1
+  - first:
+      213: -4964007973389283116
+    second: Klang Front_2
+  - first:
+      213: -1326170388105485349
+    second: Klang Front_3
+  - first:
+      213: -4965692989589666802
+    second: Klang Front_4
+  - first:
+      213: 7102977193385856841
+    second: Klang Front_5
+  - first:
+      213: 7556058921191024613
+    second: Klang Front_6
+  - first:
+      213: -3454072555506699751
+    second: Klang Front_7
+  - first:
+      213: 4497286392834806619
+    second: Klang Front_8
+  - first:
+      213: 2360626158489876268
+    second: Klang Front_9
+  - first:
+      213: -8916681421534659381
+    second: Klang Front_10
+  - first:
+      213: 2332084317285496565
+    second: Klang Front_11
+  - first:
+      213: 4749127373971114992
+    second: Klang Front_12
+  - first:
+      213: -7540622495808256225
+    second: Klang Front_13
+  - first:
+      213: -1365359751807850088
+    second: Klang Front_14
+  - first:
+      213: -2442658268397248998
+    second: Klang Front_15
+  - first:
+      213: -1188299822083636997
+    second: Klang Front_16
+  - first:
+      213: 1835345012051189316
+    second: Klang Front_17
+  - first:
+      213: -6382045939322504605
+    second: Klang Front_18
+  - first:
+      213: 3162247874968745426
+    second: Klang Front_19
+  - first:
+      213: 4406737288725905079
+    second: Klang Front_20
+  - first:
+      213: 8350289852914807178
+    second: Klang Front_21
+  - first:
+      213: 5259500652656710257
+    second: Klang Front_22
+  - first:
+      213: -4242199419817425807
+    second: Klang Front_23
+  - first:
+      213: -5453519961220222742
+    second: Klang Front_24
+  - first:
+      213: -6813842401277545123
+    second: Klang Front_25
+  - first:
+      213: 3326959001621741848
+    second: Klang Front_26
+  - first:
+      213: -2108312582614745010
+    second: Klang Front_27
+  - first:
+      213: -1748167180170575562
+    second: Klang Front_28
+  - first:
+      213: 1520199903756227384
+    second: Klang Front_29
+  - first:
+      213: -6639595917350163190
+    second: Klang Front_30
+  - first:
+      213: 5545497839831153520
+    second: Klang Front_31
+  - first:
+      213: 7463883877772745747
+    second: Klang Front_32
+  - first:
+      213: 181344735629870466
+    second: Klang Front_33
+  - first:
+      213: 1383556644326954958
+    second: Klang Front_34
+  - first:
+      213: -5307705789176629168
+    second: Klang Front_35
+  - first:
+      213: -6241728468988837265
+    second: Klang Front_36
+  - first:
+      213: -6213754386718419325
+    second: Klang Front_37
+  - first:
+      213: 6170484349518051230
+    second: Klang Front_38
+  - first:
+      213: -5464342188929645430
+    second: Klang Front_39
+  - first:
+      213: -1498247603270258866
+    second: Klang Front_40
+  - first:
+      213: -4775520722265378559
+    second: Klang Front_41
+  - first:
+      213: 5552511255274570801
+    second: Klang Front_42
+  - first:
+      213: -3101964763792977938
+    second: Klang Front_43
+  - first:
+      213: 8835086422076126724
+    second: Klang Front_44
+  - first:
+      213: 9182487343177489378
+    second: Klang Front_45
+  - first:
+      213: -8454900088573385963
+    second: Klang Front_46
+  - first:
+      213: 8677718914785574223
+    second: Klang Front_47
+  - first:
+      213: -2460198702524963272
+    second: Klang Front_48
+  - first:
+      213: 7633844494873130333
+    second: Klang Front_49
+  - first:
+      213: -6158514670017957593
+    second: Klang Front_50
+  - first:
+      213: 5806324287261327988
+    second: Klang Front_51
+  - first:
+      213: -788305648221073232
+    second: Klang Front_52
+  - first:
+      213: -6360719082031981086
+    second: Klang Front_53
+  - first:
+      213: 9200298251923406780
+    second: Klang Front_54
+  - first:
+      213: -7852384757187197184
+    second: Klang Front_55
+  - first:
+      213: -4338304370631408692
+    second: Klang Front_56
+  - first:
+      213: 2749831653463207870
+    second: Klang Front_57
+  - first:
+      213: -6881106963451707718
+    second: Klang Front_58
+  - first:
+      213: 1350805747557356441
+    second: Klang Front_59
+  - first:
+      213: 3589956629146961294
+    second: Klang Front_60
+  - first:
+      213: 3002833166192239522
+    second: Klang Front_61
+  - first:
+      213: 8682906114834722711
+    second: Klang Front_62
+  - first:
+      213: 4637048235542324814
+    second: Klang Front_63
+  - first:
+      213: -4961372497258705734
+    second: Klang Front_64
+  - first:
+      213: 8130180444264733180
+    second: Klang Front_65
+  - first:
+      213: -5760248343959952660
+    second: Klang Front_66
+  - first:
+      213: 2077869987485363288
+    second: Klang Front_67
+  - first:
+      213: 5232647015837616612
+    second: Klang Front_68
+  - first:
+      213: 2271588080333717709
+    second: Klang Front_69
+  - first:
+      213: 7577735168639587187
+    second: Klang Front_70
+  - first:
+      213: 8093258057452926822
+    second: Klang Front_71
+  - first:
+      213: -8428484319231622421
+    second: Klang Front_72
+  - first:
+      213: -3359880419671981347
+    second: Klang Front_73
+  - first:
+      213: 8533855109260474646
+    second: Klang Front_74
+  - first:
+      213: -7495989092458545467
+    second: Klang Front_75
+  - first:
+      213: -708784518613143091
+    second: Klang Front_76
+  - first:
+      213: -1056773341543407284
+    second: Klang Front_77
+  - first:
+      213: 3273466079892895511
+    second: Klang Front_78
+  - first:
+      213: -4094917096104827644
+    second: Klang Front_79
+  - first:
+      213: -5567364250007538843
+    second: Klang Front_80
+  - first:
+      213: -3379265823374472913
+    second: Klang Front_81
+  - first:
+      213: -6208178705083110096
+    second: Klang Front_82
+  - first:
+      213: 1273155686251980736
+    second: Klang Front_83
+  - first:
+      213: -5379448334049285770
+    second: Klang Front_84
+  - first:
+      213: 912728220431182388
+    second: Klang Front_85
+  - first:
+      213: 3664483678460173143
+    second: Klang Front_86
+  - first:
+      213: -84809710055465577
+    second: Klang Front_87
+  - first:
+      213: -1862931959496876997
+    second: Klang Front_88
+  - first:
+      213: 6330015473872007966
+    second: Klang Front_89
+  - first:
+      213: -6822776994208621567
+    second: Klang Front_90
+  - first:
+      213: -2491097647180992408
+    second: Klang Front_91
+  - first:
+      213: -3183596343558883419
+    second: Klang Front_92
+  - first:
+      213: 4962180658045997117
+    second: Klang Front_93
+  - first:
+      213: 5825195591546873174
+    second: Klang Front_94
+  - first:
+      213: -8166388044231759055
+    second: Klang Front_95
+  - first:
+      213: -8529363674194285396
+    second: Klang Front_96
+  - first:
+      213: -7002737978494080609
+    second: Klang Front_97
+  - first:
+      213: 6027498234960923002
+    second: Klang Front_98
+  - first:
+      213: -2263708723146749104
+    second: Klang Front_99
+  - first:
+      213: -459580927534353514
+    second: Klang Front_100
+  - first:
+      213: 876707367743993840
+    second: Klang Front_101
+  - first:
+      213: -8903668142827676301
+    second: Klang Front_102
+  - first:
+      213: -7340957728663519431
+    second: Klang Front_103
+  - first:
+      213: 4419666791462020208
+    second: Klang Front_104
+  - first:
+      213: -1119931077408301818
+    second: Klang Front_105
+  - first:
+      213: -4259613137117327575
+    second: Klang Front_106
+  - first:
+      213: -641379435307006091
+    second: Klang Front_107
+  - first:
+      213: 6147838193637340020
+    second: Klang Front_108
+  - first:
+      213: 624884434766702947
+    second: Klang Front_109
+  - first:
+      213: 4902859086301395969
+    second: Klang Front_110
+  - first:
+      213: 752358995698625459
+    second: Klang Front_111
+  - first:
+      213: 4859427949954748027
+    second: Klang Front_112
+  - first:
+      213: -2309068746073970444
+    second: Klang Front_113
+  - first:
+      213: 7028679910465398545
+    second: Klang Front_114
+  - first:
+      213: -7363763049554962351
+    second: Klang Front_115
+  - first:
+      213: 1725626574578134032
+    second: Klang Front_116
+  - first:
+      213: -2949678821956548141
+    second: Klang Front_117
+  - first:
+      213: -1524053531181576013
+    second: Klang Front_118
+  - first:
+      213: -5683581192221111168
+    second: Klang Front_119
+  - first:
+      213: -1840580284623302603
+    second: Klang Front_120
+  - first:
+      213: -1998721119908279689
+    second: Klang Front_121
+  - first:
+      213: -7753476263963968364
+    second: Klang Front_122
+  - first:
+      213: -3864580983795398248
+    second: Klang Front_123
+  - first:
+      213: -3597475914092547518
+    second: Klang Front_124
+  - first:
+      213: 3910529179136118702
+    second: Klang Front_125
+  - first:
+      213: 2747677639435171724
+    second: Klang Front_126
+  - first:
+      213: -7378969397607593812
+    second: Klang Front_127
+  - first:
+      213: 3744991336664671806
+    second: Klang Front_128
+  - first:
+      213: -6813740173426347425
+    second: Klang Front_129
+  - first:
+      213: 7902949860917562498
+    second: Klang Front_130
+  - first:
+      213: -6973148027372845137
+    second: Klang Front_131
+  - first:
+      213: 6862539353483578165
+    second: Klang Front_132
+  - first:
+      213: -9026844414028728047
+    second: Klang Front_133
+  - first:
+      213: 7135394894248142120
+    second: Klang Front_134
+  - first:
+      213: -5858324919284630423
+    second: Klang Front_135
+  - first:
+      213: 2378795950722608954
+    second: Klang Front_136
+  - first:
+      213: -904201513482343786
+    second: Klang Front_137
+  - first:
+      213: -4656279256673345440
+    second: Klang Front_138
+  - first:
+      213: 4926987676771791994
+    second: Klang Front_139
+  - first:
+      213: 928477230123654588
+    second: Klang Front_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Klang Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7eb4b34a808e45a2daaa784e7895b
+      internalID: 2130230066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a4b6bb941c8445bbaf8d1af1bf5f6
+      internalID: -2107387389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec547c34d584e47a66b8f13a79e424
+      internalID: -377312026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55aba7139bb8a94999800e0d1028c8c
+      internalID: -37630795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8044998c771bc41a442039110c3a1b
+      internalID: 2019450987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b3c083baffba4aa4ef66695296033
+      internalID: 966164315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e70d0c56048e64b8e5cb93f39d7ff9
+      internalID: -292570702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffb64051f196143a7a65aad44c3613
+      internalID: -1305585397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3671a1153752a478c8d39556efa783
+      internalID: 429816426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb459908ac15830459779053e384b0f8
+      internalID: -869127455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b9100c4aa7cf43952a42dab6532ea
+      internalID: -3963063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8ad46573ead641af3e5e611669a99
+      internalID: 2116845512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 663
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548a1a4be485b04ebf12a939c67380e
+      internalID: 1039928713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3933cafbb4f68144ba133eb0d7a02492
+      internalID: 1808922374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb17a74f944d2ce47b303ea55a496727
+      internalID: -1487875679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf411a6faa8274e80e63855cfc876d
+      internalID: -1684912578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba62eafe58e0f8f4396a79a61795b1e9
+      internalID: -213445492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757fd035cd4af504ab0257c8a14c74b1
+      internalID: -246601817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360952a4546bbd643882cdef3b98f3d2
+      internalID: 408288438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4b6bcb77bd2445aae756cc76b890f
+      internalID: -163947307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb145326f46184ca45d915b6844a5f
+      internalID: -1497032665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870c28c813c5334c842a394253ecadf
+      internalID: -1089503498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7138f8c2f94c07478605ee5ed068b1d
+      internalID: -54731579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427e1412cfbcd64e999f7b69bf94293
+      internalID: -1122609589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1377a03f8dc147bd6722de4e13bb8
+      internalID: -313731341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 612
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ba6b5ac6a0864c99ae30014b22936
+      internalID: 1126497044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4f2a0d8ef6ae43b12b4c4eedf8ef4
+      internalID: -1554289334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3188dbdb3b85439f2a62bdd06de5c
+      internalID: -1248745754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2774be8fd06774f89b5f2c27fae1a7
+      internalID: -1108516166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab3e60618a1ca4fb9a4805fcc2c574
+      internalID: -1985315721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87256c3c20e9274eace2f2395463f3a
+      internalID: 321480304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069741e66f4ba94b9ed1853a4c08816
+      internalID: 369416125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b67e83d5b7c740b880fb4d4428fdc
+      internalID: 932014203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f45a7625aff1845916eb5057edf20b
+      internalID: 1056983901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2bf9b016298dd4d88657f6293beec9
+      internalID: -701867042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc97e90275d4748a4dcdacf78ff33d
+      internalID: -927939662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424f177d2a11d640875b61ecf74f7f3
+      internalID: 1893115942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838d852181e4424a8beb76d65b6267c
+      internalID: 1223482606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 561
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f482c9af9e21ad8448b35a15a4dada8b
+      internalID: 273271524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f65c1f17ced104cafe7718d79e1671
+      internalID: 741549722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0f02173fc32b46945f3d87d38f936
+      internalID: -1538925976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44bd0fb99f2cf488b15b0d99aefbbb
+      internalID: -771953980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7b31212efdfa4bbfd37cac9258e33
+      internalID: 1814584170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012827ca54684b74f804a0797e201560
+      internalID: -283588895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdb9335235f0b47b501c7efd033253
+      internalID: -429949814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7abe347b6eea469e5ef38814d312e
+      internalID: -138582718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0625d7f8c1a04c9427d2831326c40
+      internalID: 2104583772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ce524ed0fea2478c92bc587951ada
+      internalID: 249545645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0235b18726c7a48855269674d5aba2
+      internalID: 1287325997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2376bb51b684347a99ed8ff1792ad8
+      internalID: -131819740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3362c26ae06fb944a44068c95e73b79
+      internalID: -613160984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 510
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa0cdaf67f7a64fba76d5b65b9f620
+      internalID: -862460079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e49784291f60f4f8164634d260cce3
+      internalID: 2043982975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065189a07fdaf964d9d13bcab02b24f5
+      internalID: 1787741109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f3ca1cf6d7bf428c4d107b80cfd9d
+      internalID: -870340946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37123fe34bd76a949b88f49dbc34f668
+      internalID: 1766282093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf9f42a428a14f49bf3b1e5c0700f52
+      internalID: 861387937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6be126aeea66a439cbb9bce2b0c969
+      internalID: -192318391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4386b6027a8c42418488958d29e59db
+      internalID: 214650859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5bb7030d813c48bd9b6a8068221bf
+      internalID: -1822106635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2163f03e0e07b44be94fce87bf27c0
+      internalID: -1035820509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee485a4a6e79c4b9be3df21e605670
+      internalID: 1895012197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277201257b0dbb4e862791ef77e136d
+      internalID: 853867595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1044cbe606435429543bfde44a601a
+      internalID: 1519150271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 459
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e71ab2dae51cf429d15fdac34853a2
+      internalID: -18867910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a914926c362a45bf6b6592878a726
+      internalID: 371722262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a56eb239badf46aef6c686f134cc4
+      internalID: 343061379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166e21364df7534bae06545fa4abab5
+      internalID: 506921886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a457ca1fbf5d0e46b97b3a486c9748b
+      internalID: 323202494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027365a4d59d4474e820293051a486ac
+      internalID: -691702146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585b7583168728442849e818c05d0521
+      internalID: 1401305526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9c8f58cff40545b15e086a6b5edd1
+      internalID: -1179265980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b9e18143da32428cd5bd7146c1aba
+      internalID: 984735868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1236fd8e18d2d4aa172c3d180611f0
+      internalID: -856047531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03f30f2a9b20c4fb716c9214a432df
+      internalID: -1294127214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4180d78c09f0459bb6358e0e98bed
+      internalID: 410126703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d44a1461019b749a080b0d083b8d6d
+      internalID: -1618233089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 408
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282a74f12be2b5499adac38eb22d45d
+      internalID: -975530063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5aed41360fd94bb1a80f353e2012e
+      internalID: 2064002403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b18b2a92adf4e43befcc2f268e91fa
+      internalID: -939081641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b923739d21f741892cc284f5987cd
+      internalID: 504080568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ec2c91fbcc7f409f4926b5b09d7bf
+      internalID: -185534162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987737fb67387149a0ff46b621def14
+      internalID: -1875114720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b038996acbd2d8498639e099116b11b
+      internalID: -51881049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7126db4b636a924fad8d3067acb44cf
+      internalID: -676396472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b221cab2e95084485bcc56ec849ae4
+      internalID: -634058336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd4a1c995b194459964a5f7c93e56e
+      internalID: 2093038245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c355ac1e56ed429a10cb76321bfa2
+      internalID: 1017405186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd35a05fe058a4fb285b1037f4e828
+      internalID: 414187010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c613aea09aab7b41b337c3080a1c733
+      internalID: -791493795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 357
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631fdae180a2ae4f8199349dc869090
+      internalID: -1109564483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8c6ff1faec5946a4aa8b5e723780a
+      internalID: -1635096451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc40097c1b0b52645bc430914733826c
+      internalID: -349930685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398b40a1dd9ff643804868adc96791c
+      internalID: -446755789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787008facaf585243b6323d90cb3e4a6
+      internalID: 133351064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e04d31683080424381e05a4b5bef447
+      internalID: -984163343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822af62b0a8472249bc64366062567b2
+      internalID: -2068852323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc5f43eb7a7504ab8df156a1a23a56
+      internalID: 888791265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81dbb25033820642b237f662cae5d8a
+      internalID: 83334499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0fdf0754dbc84098d1ba79985320a
+      internalID: -136204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0677ec0b25ff44be9d88c988a7bc9
+      internalID: -680976803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef9527ef4fad943959719d5653c61a
+      internalID: -1880753838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae4bd8c4d52a64281cd82744c2e837
+      internalID: 1757297991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 306
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d46597dbeab14e9f267d8bfdb7b8a
+      internalID: 1036186560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab221f3dc36269541bd7a4cd4fe4ec42
+      internalID: 700161519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737c85ecbe14f54c812ed72972b4804
+      internalID: 1005017304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28660221606fcc4690fa5b78da31858
+      internalID: -1727709858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c972eeb04a87469d7703567d12a1f
+      internalID: -1125321366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f325762c8f294d8209db0056cb644
+      internalID: 559474579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd7aa79ecda1949b912be684920865
+      internalID: 1143810855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158865dd5c48cb84caab1cb2f5f7de44
+      internalID: 1429222555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c736b5e5457947926f9b0657313a9
+      internalID: 997606300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e5da4c5c7f1e4488cae5dd9970024
+      internalID: 1979741501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecddf83750b2b448d7243488276b80
+      internalID: 910357958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d9a806c56f9647af5253b89eb53b2
+      internalID: -1447532623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1ed893c16e62429c52331f72f775b
+      internalID: 1178734728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 255
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacd78805e2e14241ac1115529df950f
+      internalID: 1427654037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5e8c12a9a31c4a8b590c381092766
+      internalID: 1313436778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceceef4b7ab5baa408a7ae44f1e54de2
+      internalID: -717512308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124cdde38b5e15345bc5fd8800a5dd4c
+      internalID: 744172884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebaf47e5ecd6c14591373747354b872
+      internalID: 2011182015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b478cf5077ba341826327390e33a43
+      internalID: -1033776898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f76db9eb39270044a89a796447dd63d
+      internalID: 1658322922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bdbd26cd048a948ac93c64896a8569
+      internalID: -20470642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3686cce9596b3143a44e1e564f3c28a
+      internalID: 1935658891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b4e87c197fda4bb1e83d444ee8e4c
+      internalID: 117294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539866551da341447b95cacad017b76b
+      internalID: -1224431770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c6f5c11ae73d4f95ff665bc9b6b85
+      internalID: -681526736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f235998c8a6196c4dac0e9bd63e63782
+      internalID: 1296216396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 204
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2c080123951d45970af98f424b17f
+      internalID: -1894098104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05740a246f313a14d9a45706b6e2f63c
+      internalID: -728344708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d2e5285fb2d94f8bab5f83e115598
+      internalID: -1222460980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034add9b24c2e9d4bab39baa3e3b0fbe
+      internalID: 1871125710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4e333a0f4a7f45a0d3b82f26ef2a0
+      internalID: 449481039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c94db6992bea428a2b42958d84ace
+      internalID: 494067504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67ba8b695b8fe46a0bffd087580485
+      internalID: -1076235181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b997e83cbaebe3488fba3db074f6c35
+      internalID: -1514240783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb083c18bd5e3484d859cc5b1670bd74
+      internalID: -1092506545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9d87134369f6438e861c0d63618d8
+      internalID: -521668034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599627f357e00114f91cec58dddd5a32
+      internalID: -2025376174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16a38e0d16d34469a59700a91f2985
+      internalID: 1118880933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399aa46637c6074da97c6bfb54c60f9
+      internalID: 2040929983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 153
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8081a4a40e53499e2ebedba79e2b7
+      internalID: 953221402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9edf82ff4ffc1048a9250b1567df63f
+      internalID: -974060986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d36189be39bcc40b2f9f7d6b04a666
+      internalID: 1748279327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a534d8667ed34b9aaef56e79ce882
+      internalID: -284425613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100bdd602499a34eaa54a75fd47c875
+      internalID: -345776659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9601bccb49cc846969eee9b7b5fd0a
+      internalID: -1683266956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1191cce495946449bd5de33bd963272
+      internalID: -1656819978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6aa47359f26864fbaabeeb9603dde9
+      internalID: -435386377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9285cb8ebb8bb74a990842468246902
+      internalID: -1858612725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b70bd30abd8544eab222f9f566e84d
+      internalID: -1338053586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e70145073c4c42bb6b8ff22324452
+      internalID: 1958815318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f70b86c6ceae4e85de3755f15f22c
+      internalID: -1026807029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbdf4ca6b7150b4ca9c6c069537f6cd
+      internalID: 848721374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 102
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f7fc8056a1874db77333f3c580159
+      internalID: -135990005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26521f37a8c0ea14fb8d951de845b44a
+      internalID: -1416455987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05842d56e4ede3346a6fd538423f325b
+      internalID: 200914628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8d679f7df92144be8b63e78c000cd
+      internalID: 849871325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc2537caa8d6543950d65a4363c834
+      internalID: -204998626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1211db4143814cb90acf72a8f175c
+      internalID: -792636713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80da494ba374b0743b36aa8e4ef8d8fa
+      internalID: 1856037025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40649545f67aec64bb4b7f556b4449a9
+      internalID: 740199138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9233b5e8df5c4d8f84af3a6ac4145
+      internalID: -1606487004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896118775b410ea42aebaff903f8dd31
+      internalID: 887939519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4bcfd2c43c09f49b952ab00dbb9ecd
+      internalID: 993491612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74157daeff9fedb4593d7866ce6f12f8
+      internalID: -1995444383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_167
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ddad6986eda34a9fe61c6eda71143
+      internalID: -857620370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_168
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 51
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff37ebfdd1e1244c98d8b18049ed6f4
+      internalID: 445002591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48976e6afd3241548bf841309a53099a
+      internalID: -642714814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klang Front Anim_170
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa09d436def8b84ebce0fbc645c7adf
+      internalID: 1407642104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b2e79d6c324cbd419563113b96d0f03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Klang Front_0: 2130230066
+      Klang Front_1: -2107387389
+      Klang Front_10: -3963063
+      Klang Front_100: -680976803
+      Klang Front_101: -1880753838
+      Klang Front_102: 1757297991
+      Klang Front_103: 1036186560
+      Klang Front_104: 700161519
+      Klang Front_105: 1005017304
+      Klang Front_106: -1727709858
+      Klang Front_107: -1125321366
+      Klang Front_108: 559474579
+      Klang Front_109: 1143810855
+      Klang Front_11: 2116845512
+      Klang Front_110: 1429222555
+      Klang Front_111: 997606300
+      Klang Front_112: 1979741501
+      Klang Front_113: 910357958
+      Klang Front_114: -1447532623
+      Klang Front_115: 1178734728
+      Klang Front_116: 1427654037
+      Klang Front_117: 1313436778
+      Klang Front_118: -717512308
+      Klang Front_119: 744172884
+      Klang Front_12: 1039928713
+      Klang Front_120: 2011182015
+      Klang Front_121: -1033776898
+      Klang Front_122: 1658322922
+      Klang Front_123: -20470642
+      Klang Front_124: 1935658891
+      Klang Front_125: 117294990
+      Klang Front_126: -1224431770
+      Klang Front_127: -681526736
+      Klang Front_128: 1296216396
+      Klang Front_129: -1894098104
+      Klang Front_13: 1808922374
+      Klang Front_130: -728344708
+      Klang Front_131: -1222460980
+      Klang Front_132: 1871125710
+      Klang Front_133: 449481039
+      Klang Front_134: 494067504
+      Klang Front_135: -1076235181
+      Klang Front_136: -1514240783
+      Klang Front_137: -1092506545
+      Klang Front_138: -521668034
+      Klang Front_139: -2025376174
+      Klang Front_14: -1487875679
+      Klang Front_140: 1118880933
+      Klang Front_141: 2040929983
+      Klang Front_142: 953221402
+      Klang Front_143: -974060986
+      Klang Front_144: 1748279327
+      Klang Front_145: -284425613
+      Klang Front_146: -345776659
+      Klang Front_147: -1683266956
+      Klang Front_148: -1656819978
+      Klang Front_149: -435386377
+      Klang Front_15: -1684912578
+      Klang Front_150: -1858612725
+      Klang Front_151: -1338053586
+      Klang Front_152: 1958815318
+      Klang Front_153: -1026807029
+      Klang Front_154: 848721374
+      Klang Front_155: -135990005
+      Klang Front_156: -1416455987
+      Klang Front_157: 200914628
+      Klang Front_158: 849871325
+      Klang Front_159: -204998626
+      Klang Front_16: -213445492
+      Klang Front_160: -792636713
+      Klang Front_161: 1856037025
+      Klang Front_162: 740199138
+      Klang Front_163: -1606487004
+      Klang Front_164: 887939519
+      Klang Front_165: 993491612
+      Klang Front_166: -1995444383
+      Klang Front_167: -857620370
+      Klang Front_168: 445002591
+      Klang Front_169: -642714814
+      Klang Front_17: -246601817
+      Klang Front_170: 1407642104
+      Klang Front_18: 408288438
+      Klang Front_19: -163947307
+      Klang Front_2: -377312026
+      Klang Front_20: -1497032665
+      Klang Front_21: -1089503498
+      Klang Front_22: -54731579
+      Klang Front_23: -1122609589
+      Klang Front_24: -313731341
+      Klang Front_25: 1126497044
+      Klang Front_26: -1554289334
+      Klang Front_27: -1248745754
+      Klang Front_28: -1108516166
+      Klang Front_29: -1985315721
+      Klang Front_3: -37630795
+      Klang Front_30: 321480304
+      Klang Front_31: 369416125
+      Klang Front_32: 932014203
+      Klang Front_33: 1056983901
+      Klang Front_34: -701867042
+      Klang Front_35: -927939662
+      Klang Front_36: 1893115942
+      Klang Front_37: 1223482606
+      Klang Front_38: 273271524
+      Klang Front_39: 741549722
+      Klang Front_4: 2019450987
+      Klang Front_40: -1538925976
+      Klang Front_41: -771953980
+      Klang Front_42: 1814584170
+      Klang Front_43: -283588895
+      Klang Front_44: -429949814
+      Klang Front_45: -138582718
+      Klang Front_46: 2104583772
+      Klang Front_47: 249545645
+      Klang Front_48: 1287325997
+      Klang Front_49: -131819740
+      Klang Front_5: 966164315
+      Klang Front_50: -613160984
+      Klang Front_51: -862460079
+      Klang Front_52: 2043982975
+      Klang Front_53: 1787741109
+      Klang Front_54: -870340946
+      Klang Front_55: 1766282093
+      Klang Front_56: 861387937
+      Klang Front_57: -192318391
+      Klang Front_58: 214650859
+      Klang Front_59: -1822106635
+      Klang Front_6: -292570702
+      Klang Front_60: -1035820509
+      Klang Front_61: 1895012197
+      Klang Front_62: 853867595
+      Klang Front_63: 1519150271
+      Klang Front_64: -18867910
+      Klang Front_65: 371722262
+      Klang Front_66: 343061379
+      Klang Front_67: 506921886
+      Klang Front_68: 323202494
+      Klang Front_69: -691702146
+      Klang Front_7: -1305585397
+      Klang Front_70: 1401305526
+      Klang Front_71: -1179265980
+      Klang Front_72: 984735868
+      Klang Front_73: -856047531
+      Klang Front_74: -1294127214
+      Klang Front_75: 410126703
+      Klang Front_76: -1618233089
+      Klang Front_77: -975530063
+      Klang Front_78: 2064002403
+      Klang Front_79: -939081641
+      Klang Front_8: 429816426
+      Klang Front_80: 504080568
+      Klang Front_81: -185534162
+      Klang Front_82: -1875114720
+      Klang Front_83: -51881049
+      Klang Front_84: -676396472
+      Klang Front_85: -634058336
+      Klang Front_86: 2093038245
+      Klang Front_87: 1017405186
+      Klang Front_88: 414187010
+      Klang Front_89: -791493795
+      Klang Front_9: -869127455
+      Klang Front_90: -1109564483
+      Klang Front_91: -1635096451
+      Klang Front_92: -349930685
+      Klang Front_93: -446755789
+      Klang Front_94: 133351064
+      Klang Front_95: -984163343
+      Klang Front_96: -2068852323
+      Klang Front_97: 888791265
+      Klang Front_98: 83334499
+      Klang Front_99: -136204919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

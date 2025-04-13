@@ -1,0 +1,4265 @@
+fileFormatVersion: 2
+guid: 09c9403e67cc26147b5b4094769c7484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4876832810273198573
+    second: EmboarFrontSpriteSheet_0
+  - first:
+      213: -8293401687709726585
+    second: EmboarFrontSpriteSheet_1
+  - first:
+      213: -3160852736752949796
+    second: EmboarFrontSpriteSheet_2
+  - first:
+      213: -4572457167236016714
+    second: EmboarFrontSpriteSheet_3
+  - first:
+      213: -8021033208647938292
+    second: EmboarFrontSpriteSheet_4
+  - first:
+      213: 3321971366740559555
+    second: EmboarFrontSpriteSheet_5
+  - first:
+      213: -2665259691095719902
+    second: EmboarFrontSpriteSheet_6
+  - first:
+      213: 2375161229078176311
+    second: EmboarFrontSpriteSheet_7
+  - first:
+      213: -7434631703987571969
+    second: EmboarFrontSpriteSheet_8
+  - first:
+      213: 3127899798281428020
+    second: EmboarFrontSpriteSheet_9
+  - first:
+      213: -1600127927389743938
+    second: EmboarFrontSpriteSheet_10
+  - first:
+      213: -7864247630029669662
+    second: EmboarFrontSpriteSheet_11
+  - first:
+      213: 3710769372447897388
+    second: EmboarFrontSpriteSheet_12
+  - first:
+      213: 2932559201689762973
+    second: EmboarFrontSpriteSheet_13
+  - first:
+      213: 4892105125147377243
+    second: EmboarFrontSpriteSheet_14
+  - first:
+      213: -4345478247233783572
+    second: EmboarFrontSpriteSheet_15
+  - first:
+      213: -8081271164325735992
+    second: EmboarFrontSpriteSheet_16
+  - first:
+      213: -8307639974553351404
+    second: EmboarFrontSpriteSheet_17
+  - first:
+      213: -1481995925944809343
+    second: EmboarFrontSpriteSheet_18
+  - first:
+      213: 8646985584794602515
+    second: EmboarFrontSpriteSheet_19
+  - first:
+      213: 5058613475961967925
+    second: EmboarFrontSpriteSheet_20
+  - first:
+      213: 8626368675480121026
+    second: EmboarFrontSpriteSheet_21
+  - first:
+      213: -4406834544993267207
+    second: EmboarFrontSpriteSheet_22
+  - first:
+      213: -993546235895875848
+    second: EmboarFrontSpriteSheet_23
+  - first:
+      213: -3587383696486064052
+    second: EmboarFrontSpriteSheet_24
+  - first:
+      213: -1553999056057731667
+    second: EmboarFrontSpriteSheet_25
+  - first:
+      213: 6240774671590276927
+    second: EmboarFrontSpriteSheet_26
+  - first:
+      213: 8384935762664006462
+    second: EmboarFrontSpriteSheet_27
+  - first:
+      213: -4985479622483058231
+    second: EmboarFrontSpriteSheet_28
+  - first:
+      213: 4566735737425570918
+    second: EmboarFrontSpriteSheet_29
+  - first:
+      213: -5271623848379871124
+    second: EmboarFrontSpriteSheet_30
+  - first:
+      213: -4102925447618078400
+    second: EmboarFrontSpriteSheet_31
+  - first:
+      213: -3910605120123595048
+    second: EmboarFrontSpriteSheet_32
+  - first:
+      213: 2953772095194523847
+    second: EmboarFrontSpriteSheet_33
+  - first:
+      213: 8404893465133166354
+    second: EmboarFrontSpriteSheet_34
+  - first:
+      213: -6857548045708313851
+    second: EmboarFrontSpriteSheet_35
+  - first:
+      213: 6279601584316821826
+    second: EmboarFrontSpriteSheet_36
+  - first:
+      213: -2516807480942602146
+    second: EmboarFrontSpriteSheet_37
+  - first:
+      213: 99375534824385638
+    second: EmboarFrontSpriteSheet_38
+  - first:
+      213: -3521922945974217332
+    second: EmboarFrontSpriteSheet_39
+  - first:
+      213: 8868868211857964516
+    second: EmboarFrontSpriteSheet_40
+  - first:
+      213: 7561318562892839179
+    second: EmboarFrontSpriteSheet_41
+  - first:
+      213: 4313408933936235493
+    second: EmboarFrontSpriteSheet_42
+  - first:
+      213: 986901234898099199
+    second: EmboarFrontSpriteSheet_43
+  - first:
+      213: 111923744280214703
+    second: EmboarFrontSpriteSheet_44
+  - first:
+      213: 3300617417788675981
+    second: EmboarFrontSpriteSheet_45
+  - first:
+      213: 512648808540453614
+    second: EmboarFrontSpriteSheet_46
+  - first:
+      213: -8835807487242312703
+    second: EmboarFrontSpriteSheet_47
+  - first:
+      213: -6746840551374507576
+    second: EmboarFrontSpriteSheet_48
+  - first:
+      213: 506188738281095017
+    second: EmboarFrontSpriteSheet_49
+  - first:
+      213: 3734547824570022153
+    second: EmboarFrontSpriteSheet_50
+  - first:
+      213: -3627054092117989519
+    second: EmboarFrontSpriteSheet_51
+  - first:
+      213: 2568490428659537510
+    second: EmboarFrontSpriteSheet_52
+  - first:
+      213: -7822076136057405643
+    second: EmboarFrontSpriteSheet_53
+  - first:
+      213: -2313564408509350636
+    second: EmboarFrontSpriteSheet_54
+  - first:
+      213: -6569253515862196373
+    second: EmboarFrontSpriteSheet_55
+  - first:
+      213: 439274883781378234
+    second: EmboarFrontSpriteSheet_56
+  - first:
+      213: -876181721053855008
+    second: EmboarFrontSpriteSheet_57
+  - first:
+      213: 4589778550124477
+    second: EmboarFrontSpriteSheet_58
+  - first:
+      213: 5790191030345780465
+    second: EmboarFrontSpriteSheet_59
+  - first:
+      213: 5334914687268250315
+    second: EmboarFrontSpriteSheet_60
+  - first:
+      213: 8742354106494008090
+    second: EmboarFrontSpriteSheet_61
+  - first:
+      213: -2181118410703820277
+    second: EmboarFrontSpriteSheet_62
+  - first:
+      213: -1411819855834407867
+    second: EmboarFrontSpriteSheet_63
+  - first:
+      213: -7402059538855483189
+    second: EmboarFrontSpriteSheet_64
+  - first:
+      213: -6875887590701559523
+    second: EmboarFrontSpriteSheet_65
+  - first:
+      213: -1752337214501727110
+    second: EmboarFrontSpriteSheet_66
+  - first:
+      213: 7286185312605377554
+    second: EmboarFrontSpriteSheet_67
+  - first:
+      213: -619598004585916184
+    second: EmboarFrontSpriteSheet_68
+  - first:
+      213: -2512417254835873864
+    second: EmboarFrontSpriteSheet_69
+  - first:
+      213: 5461479526018913302
+    second: EmboarFrontSpriteSheet_70
+  - first:
+      213: 366991539790235144
+    second: EmboarFrontSpriteSheet_71
+  - first:
+      213: 2551007281894570914
+    second: EmboarFrontSpriteSheet_72
+  - first:
+      213: -6246229046009193645
+    second: EmboarFrontSpriteSheet_73
+  - first:
+      213: -2319852453779637512
+    second: EmboarFrontSpriteSheet_74
+  - first:
+      213: 4003097540481988743
+    second: EmboarFrontSpriteSheet_75
+  - first:
+      213: -8535427879664865372
+    second: EmboarFrontSpriteSheet_76
+  - first:
+      213: 9089923956292921478
+    second: EmboarFrontSpriteSheet_77
+  - first:
+      213: -8972329081443958537
+    second: EmboarFrontSpriteSheet_78
+  - first:
+      213: -3162793458046844362
+    second: EmboarFrontSpriteSheet_79
+  - first:
+      213: -3546249733610706904
+    second: EmboarFrontSpriteSheet_80
+  - first:
+      213: 2873158760725366595
+    second: EmboarFrontSpriteSheet_81
+  - first:
+      213: -6880478752406750411
+    second: EmboarFrontSpriteSheet_82
+  - first:
+      213: 2256911367097359513
+    second: EmboarFrontSpriteSheet_83
+  - first:
+      213: 8774628331487153179
+    second: EmboarFrontSpriteSheet_84
+  - first:
+      213: 9190460644031836002
+    second: EmboarFrontSpriteSheet_85
+  - first:
+      213: -7213187531466585624
+    second: EmboarFrontSpriteSheet_86
+  - first:
+      213: 3352427057231487816
+    second: EmboarFrontSpriteSheet_87
+  - first:
+      213: -8706005322540899403
+    second: EmboarFrontSpriteSheet_88
+  - first:
+      213: 5543760583415475175
+    second: EmboarFrontSpriteSheet_89
+  - first:
+      213: 6549676512187005136
+    second: EmboarFrontSpriteSheet_90
+  - first:
+      213: 309224988010056069
+    second: EmboarFrontSpriteSheet_91
+  - first:
+      213: 3884681581392266863
+    second: EmboarFrontSpriteSheet_92
+  - first:
+      213: 5143182352230776651
+    second: EmboarFrontSpriteSheet_93
+  - first:
+      213: 8719253863325548662
+    second: EmboarFrontSpriteSheet_94
+  - first:
+      213: 8111467937104777639
+    second: EmboarFrontSpriteSheet_95
+  - first:
+      213: 4823446016045792053
+    second: EmboarFrontSpriteSheet_96
+  - first:
+      213: 2238983947773582918
+    second: EmboarFrontSpriteSheet_97
+  - first:
+      213: -169440584735502624
+    second: EmboarFrontSpriteSheet_98
+  - first:
+      213: 5469544450057178846
+    second: EmboarFrontSpriteSheet_99
+  - first:
+      213: 732426969567799795
+    second: EmboarFrontSpriteSheet_100
+  - first:
+      213: 2552352719236919209
+    second: EmboarFrontSpriteSheet_101
+  - first:
+      213: 3455404206379874093
+    second: EmboarFrontSpriteSheet_102
+  - first:
+      213: 7986949155806924277
+    second: EmboarFrontSpriteSheet_103
+  - first:
+      213: -9219310183214414463
+    second: EmboarFrontSpriteSheet_104
+  - first:
+      213: -9058100607715800164
+    second: EmboarFrontSpriteSheet_105
+  - first:
+      213: -4456687410242690283
+    second: EmboarFrontSpriteSheet_106
+  - first:
+      213: -6523524224302548378
+    second: EmboarFrontSpriteSheet_107
+  - first:
+      213: 7986745316087243190
+    second: EmboarFrontSpriteSheet_108
+  - first:
+      213: 5178377806870694611
+    second: EmboarFrontSpriteSheet_109
+  - first:
+      213: 6564846402224159957
+    second: EmboarFrontSpriteSheet_110
+  - first:
+      213: 2480635780736075131
+    second: EmboarFrontSpriteSheet_111
+  - first:
+      213: 2393070177767360088
+    second: EmboarFrontSpriteSheet_112
+  - first:
+      213: 1917990334527099316
+    second: EmboarFrontSpriteSheet_113
+  - first:
+      213: -5331763430586924046
+    second: EmboarFrontSpriteSheet_114
+  - first:
+      213: 3111031605635149085
+    second: EmboarFrontSpriteSheet_115
+  - first:
+      213: 7716238717204987807
+    second: EmboarFrontSpriteSheet_116
+  - first:
+      213: -863821305341294142
+    second: EmboarFrontSpriteSheet_117
+  - first:
+      213: -5836100846735280026
+    second: EmboarFrontSpriteSheet_118
+  - first:
+      213: 8632209955822588458
+    second: EmboarFrontSpriteSheet_119
+  - first:
+      213: -9169364264771789223
+    second: EmboarFrontSpriteSheet_120
+  - first:
+      213: -2231235405128144803
+    second: EmboarFrontSpriteSheet_121
+  - first:
+      213: -3862410311323404103
+    second: EmboarFrontSpriteSheet_122
+  - first:
+      213: -8454703881630215798
+    second: EmboarFrontSpriteSheet_123
+  - first:
+      213: 521972098631182296
+    second: EmboarFrontSpriteSheet_124
+  - first:
+      213: -5640914603120641704
+    second: EmboarFrontSpriteSheet_125
+  - first:
+      213: 4360753778412924236
+    second: EmboarFrontSpriteSheet_126
+  - first:
+      213: 412166807291996804
+    second: EmboarFrontSpriteSheet_127
+  - first:
+      213: -4055839211828833175
+    second: EmboarFrontSpriteSheet_128
+  - first:
+      213: -9165227961624175568
+    second: EmboarFrontSpriteSheet_129
+  - first:
+      213: -7570032113124303916
+    second: EmboarFrontSpriteSheet_130
+  - first:
+      213: 1499619086570164348
+    second: EmboarFrontSpriteSheet_131
+  - first:
+      213: 8522315123699235358
+    second: EmboarFrontSpriteSheet_132
+  - first:
+      213: -9144986693709179812
+    second: EmboarFrontSpriteSheet_133
+  - first:
+      213: 4299982845434733037
+    second: EmboarFrontSpriteSheet_134
+  - first:
+      213: 3017001960666195817
+    second: EmboarFrontSpriteSheet_135
+  - first:
+      213: -2111651478738746773
+    second: EmboarFrontSpriteSheet_136
+  - first:
+      213: 8803431785860091272
+    second: EmboarFrontSpriteSheet_137
+  - first:
+      213: -2915807254567376623
+    second: EmboarFrontSpriteSheet_138
+  - first:
+      213: 5114495098172452055
+    second: EmboarFrontSpriteSheet_139
+  - first:
+      213: -4178452765711570541
+    second: EmboarFrontSpriteSheet_140
+  - first:
+      213: 4657036460018203110
+    second: EmboarFrontSpriteSheet_141
+  - first:
+      213: -812092233626147834
+    second: EmboarFrontSpriteSheet_142
+  - first:
+      213: 3921926746659409203
+    second: EmboarFrontSpriteSheet_143
+  - first:
+      213: 1091795280692651424
+    second: EmboarFrontSpriteSheet_144
+  - first:
+      213: -1546377236369245410
+    second: EmboarFrontSpriteSheet_145
+  - first:
+      213: -3833142111316180906
+    second: EmboarFrontSpriteSheet_146
+  - first:
+      213: 5815144768936114878
+    second: EmboarFrontSpriteSheet_147
+  - first:
+      213: -5785843090151866964
+    second: EmboarFrontSpriteSheet_148
+  - first:
+      213: -4944470958754255984
+    second: EmboarFrontSpriteSheet_149
+  - first:
+      213: -4863398693342860047
+    second: EmboarFrontSpriteSheet_150
+  - first:
+      213: 8481975427449867197
+    second: EmboarFrontSpriteSheet_151
+  - first:
+      213: -4375032841538442191
+    second: EmboarFrontSpriteSheet_152
+  - first:
+      213: -3988964201446316237
+    second: EmboarFrontSpriteSheet_153
+  - first:
+      213: 1357470800215104623
+    second: EmboarFrontSpriteSheet_154
+  - first:
+      213: 7625746751381583577
+    second: EmboarFrontSpriteSheet_155
+  - first:
+      213: 6375925775634985726
+    second: EmboarFrontSpriteSheet_156
+  - first:
+      213: -5288296814463143225
+    second: EmboarFrontSpriteSheet_157
+  - first:
+      213: -7110449980356499016
+    second: EmboarFrontSpriteSheet_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emboar Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e22bac562025cb0800000000000000
+      internalID: -4876832810273198573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cf68fa1be7ec80800000000000000
+      internalID: -8293401687709726585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5e48ece256224d0800000000000000
+      internalID: -3160852736752949796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5553cae6e5b80c0800000000000000
+      internalID: -4572457167236016714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f8de24bc09fa090800000000000000
+      internalID: -8021033208647938292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c607948b530a1e20800000000000000
+      internalID: 3321971366740559555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220821e9e68130bd0800000000000000
+      internalID: -2665259691095719902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7322c7fbd8446f020800000000000000
+      internalID: 2375161229078176311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b6f70bd1e2d890800000000000000
+      internalID: -7434631703987571969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c94915b48886b20800000000000000
+      internalID: 3127899798281428020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb490ccb0243bc9e0800000000000000
+      internalID: -1600127927389743938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 988
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eabf5272749cd290800000000000000
+      internalID: -7864247630029669662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f720751d4f7330800000000000000
+      internalID: 3710769372447897388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c758b7e0b82b820800000000000000
+      internalID: 2932559201689762973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ef64c11bf34e340800000000000000
+      internalID: 4892105125147377243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce87176be82c1b3c0800000000000000
+      internalID: -4345478247233783572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d1c441be89df80800000000000000
+      internalID: -8081271164325735992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b89ea757555bc80800000000000000
+      internalID: -8307639974553351404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188cb7bae84ee6be0800000000000000
+      internalID: -1481995925944809343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c0b9f5393400870800000000000000
+      internalID: 8646985584794602515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53597ba972ec33640800000000000000
+      internalID: 5058613475961967925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceac8b1b9407b770800000000000000
+      internalID: 8626368675480121026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f191c96457c7d2c0800000000000000
+      internalID: -4406834544993267207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 912
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ff7566f63632f0800000000000000
+      internalID: -993546235895875848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40abe9e88d073ec0800000000000000
+      internalID: -3587383696486064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5f26a87161f6ae0800000000000000
+      internalID: -1553999056057731667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb46faf7fab9650800000000000000
+      internalID: 6240774671590276927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ae0e96a64d5470800000000000000
+      internalID: 8384935762664006462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e2f292b400dab0800000000000000
+      internalID: -4985479622483058231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c255425fd406f30800000000000000
+      internalID: 4566735737425570918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6017d74a0e67d6b0800000000000000
+      internalID: -5271623848379871124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04950da2b0b7f07c0800000000000000
+      internalID: -4102925447618078400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6953ecc5dbab9c0800000000000000
+      internalID: -3910605120123595048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e7812218edf820800000000000000
+      internalID: 2953772095194523847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fa344531e24a470800000000000000
+      internalID: 8404893465133166354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 836
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb161a26815d0a0800000000000000
+      internalID: -6857548045708313851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2413f24ce50a52750800000000000000
+      internalID: 6279601584316821826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58de524ee0821dd0800000000000000
+      internalID: -2516807480942602146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c629cb58d016100800000000000000
+      internalID: 99375534824385638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d8e69dbd9f1fc0800000000000000
+      internalID: -3521922945974217332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed3c8f36ac841b70800000000000000
+      internalID: 8868868211857964516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b097bcedb233fe860800000000000000
+      internalID: 7561318562892839179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3044e629e4cdb30800000000000000
+      internalID: 4313408933936235493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbde7eb17d22bd00800000000000000
+      internalID: 986901234898099199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf0cb6d02ad8100800000000000000
+      internalID: 111923744280214703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d2c6dd062ecd20800000000000000
+      internalID: 3300617417788675981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeab49f006b4d1700800000000000000
+      internalID: 512648808540453614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 760
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1046f2b87e7e06580800000000000000
+      internalID: -8835807487242312703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13f1bc3486e52a0800000000000000
+      internalID: -6746840551374507576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f3c8eb9f7560700800000000000000
+      internalID: 506188738281095017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9093430c577c3d330800000000000000
+      internalID: 3734547824570022153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1772e2a258d1aadc0800000000000000
+      internalID: -3627054092117989519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6661e39bf6c15a320800000000000000
+      internalID: 2568490428659537510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ffc388237627390800000000000000
+      internalID: -7822076136057405643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d30d1ad6194efd0800000000000000
+      internalID: -2313564408509350636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f3c839bb255d4a0800000000000000
+      internalID: -6569253515862196373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04a8eed2e981600800000000000000
+      internalID: 439274883781378234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e205eded5d27d3f0800000000000000
+      internalID: -876181721053855008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe318116e401000800000000000000
+      internalID: 4589778550124477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 684
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc9697014ea5050800000000000000
+      internalID: 5790191030345780465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc263a974ac690a40800000000000000
+      internalID: 5334914687268250315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb04aadb4135970800000000000000
+      internalID: 8742354106494008090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a2fec8c5c1bb1e0800000000000000
+      internalID: -2181118410703820277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c952e3255386ce0800000000000000
+      internalID: -1411819855834407867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc82a34311a964990800000000000000
+      internalID: -7402059538855483189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1197b09aa0f390a0800000000000000
+      internalID: -6875887590701559523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745de276927ea7e0800000000000000
+      internalID: -1752337214501727110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214138d10fabd1560800000000000000
+      internalID: 7286185312605377554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89d19c5eeb667f0800000000000000
+      internalID: -619598004585916184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b712fd61d9122dd0800000000000000
+      internalID: -2512417254835873864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141d6851b21bcb40800000000000000
+      internalID: 5461479526018913302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 608
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80645cc6cd0d71500800000000000000
+      internalID: 366991539790235144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb2c86b9ff66320800000000000000
+      internalID: 2551007281894570914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b15eec6cfe059a0800000000000000
+      internalID: -6246229046009193645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa75210c7a3ecfd0800000000000000
+      internalID: -2319852453779637512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7883ba5f00cdd8730800000000000000
+      internalID: 4003097540481988743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af2c9ae0911c8980800000000000000
+      internalID: -8535427879664865372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68827228da5e52e70800000000000000
+      internalID: 9089923956292921478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f040a4ec32eb7380800000000000000
+      internalID: -8972329081443958537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632403b6b108b14d0800000000000000
+      internalID: -3162793458046844362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8286f47f7a039cec0800000000000000
+      internalID: -3546249733610706904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34746549ba28fd720800000000000000
+      internalID: 2873158760725366595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b3c2e6701a380a0800000000000000
+      internalID: -6880478752406750411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 532
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c11654ee8225f10800000000000000
+      internalID: 2256911367097359513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cce5e3afdb5c970800000000000000
+      internalID: 8774628331487153179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa9b933431b8f70800000000000000
+      internalID: 9190460644031836002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e948a0482c95eb90800000000000000
+      internalID: -7213187531466585624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843e0b985a6368e20800000000000000
+      internalID: 3352427057231487816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32a49194e0e2780800000000000000
+      internalID: -8706005322540899403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebaa46e0e46fec40800000000000000
+      internalID: 5543760583415475175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d830ae061025ea50800000000000000
+      internalID: 6549676512187005136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589830efc769a4400800000000000000
+      internalID: 309224988010056069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66836cf05929e530800000000000000
+      internalID: 3884681581392266863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff5cf7911406740800000000000000
+      internalID: 5143182352230776651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c8fd2133010970800000000000000
+      internalID: 8719253863325548662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 456
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d916cc19b19070800000000000000
+      internalID: 8111467937104777639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbeab889250f240800000000000000
+      internalID: 4823446016045792053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e98d0b908721f10800000000000000
+      internalID: 2238983947773582918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee4e489fa606adf0800000000000000
+      internalID: -169440584735502624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede0edcc2b9b7eb40800000000000000
+      internalID: 5469544450057178846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f92101c27a1a2a00800000000000000
+      internalID: 732426969567799795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af6e937647cb6320800000000000000
+      internalID: 2552352719236919209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b9a471df04ff20800000000000000
+      internalID: 3455404206379874093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd4af6c0f757de60800000000000000
+      internalID: 7986949155806924277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850d5ffb3e6e0080800000000000000
+      internalID: -9219310183214414463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b89593d792b4280800000000000000
+      internalID: -9058100607715800164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136785b96aa622c0800000000000000
+      internalID: -4456687410242690283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 380
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a7ac6f749c775a0800000000000000
+      internalID: -6523524224302548378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b125e4ac8e96de60800000000000000
+      internalID: 7986745316087243190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4b4bdd2b4dd740800000000000000
+      internalID: 5178377806870694611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc729155050b1b50800000000000000
+      internalID: 6564846402224159957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c5ef791dfc6220800000000000000
+      internalID: 2480635780736075131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856876cc5a4e53120800000000000000
+      internalID: 2393070177767360088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1de1c1c021e9a10800000000000000
+      internalID: 1917990334527099316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c275a865c106b0800000000000000
+      internalID: -5331763430586924046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d65ea23ca9c2b20800000000000000
+      internalID: 3111031605635149085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7e1d1b36951b60800000000000000
+      internalID: 7716238717204987807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9c7b979171304f0800000000000000
+      internalID: -863821305341294142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bcfc6331020fa0800000000000000
+      internalID: -5836100846735280026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 304
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22556b2835cbc770800000000000000
+      internalID: 8632209955822588458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95edd1658cfdfb080800000000000000
+      internalID: -9169364264771789223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58ef0b783f0901e0800000000000000
+      internalID: -2231235405128144803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b833c82946f56ac0800000000000000
+      internalID: -3862410311323404103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8190565d9bdaaa80800000000000000
+      internalID: -8454703881630215798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a391bbda6e3700800000000000000
+      internalID: 521972098631182296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8593ea82e0277b1b0800000000000000
+      internalID: -5640914603120641704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dae3b0572848c30800000000000000
+      internalID: 4360753778412924236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa8d8078f48b500800000000000000
+      internalID: 412166807291996804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96497d0c9b3c6b7c0800000000000000
+      internalID: -4055839211828833175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd9e57ab19ec080800000000000000
+      internalID: -9165227961624175568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1dee96e7d1f690800000000000000
+      internalID: -7570032113124303916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 228
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7019692d97bfc410800000000000000
+      internalID: 1499619086570164348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a380ca378554670800000000000000
+      internalID: 8522315123699235358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c545ac5ed0b761180800000000000000
+      internalID: -9144986693709179812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1296a9d9b9cab30800000000000000
+      internalID: 4299982845434733037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9676a286c4b8ed920800000000000000
+      internalID: 3017001960666195817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6249580b28e1b2e0800000000000000
+      internalID: -2111651478738746773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc29011921c2a70800000000000000
+      internalID: 8803431785860091272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119210620c8f887d0800000000000000
+      internalID: -2915807254567376623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcab0ca1365af640800000000000000
+      internalID: 5114495098172452055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399630519572306c0800000000000000
+      internalID: -4178452765711570541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97d618cfd11a040800000000000000
+      internalID: 4657036460018203110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042cd98a6edab4f0800000000000000
+      internalID: -812092233626147834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dccb9c89b7d6630800000000000000
+      internalID: 3921926746659409203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52221f506d62f00800000000000000
+      internalID: 1091795280692651424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf579b81a2a8ae0800000000000000
+      internalID: -1546377236369245410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65088610f81fdcac0800000000000000
+      internalID: -3833142111316180906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba78ed7b5b83b050800000000000000
+      internalID: 5815144768936114878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad795d3d5e84bfa0800000000000000
+      internalID: -5785843090151866964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba7352cd5b16bb0800000000000000
+      internalID: -4944470958754255984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2332e7acb18cb0800000000000000
+      internalID: -4863398693342860047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbcdba36b706b570800000000000000
+      internalID: 8481975427449867197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cee6f7fc2c843c0800000000000000
+      internalID: -4375032841538442191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ea07713a54a8c0800000000000000
+      internalID: -3988964201446316237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c59c72084b6d210800000000000000
+      internalID: 1357470800215104623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 76
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63037744814d960800000000000000
+      internalID: 7625746751381583577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2fafa36b6db7850800000000000000
+      internalID: 6375925775634985726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2381bd0123c96b0800000000000000
+      internalID: -5288296814463143225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9eaa76a6b925d90800000000000000
+      internalID: -7110449980356499016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f8e2d5602d6a4da871dcbb4b0b165
+      internalID: 711221972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db17985542b5d4cb6b42b2aab62bc1
+      internalID: -1762471674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab15daae7e45044bbada6ffa517d0ad
+      internalID: 1679505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a12473c6ca84754397108e66f075c09
+      internalID: 431681598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71c9e39bceb9842919eefd58c893c5
+      internalID: 1568144557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1540284a9bef4ca811a81f18c9110
+      internalID: -458085691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21257b7dcb7764e8211e935011b790
+      internalID: 2018727346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emboar Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d94e0541920e04bbe77e4767252dec
+      internalID: 1240597950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21bdec9524bd897419d3d237ab84bf37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EmboarFrontSpriteSheet_0: -4876832810273198573
+      EmboarFrontSpriteSheet_1: -8293401687709726585
+      EmboarFrontSpriteSheet_10: -1600127927389743938
+      EmboarFrontSpriteSheet_100: 732426969567799795
+      EmboarFrontSpriteSheet_101: 2552352719236919209
+      EmboarFrontSpriteSheet_102: 3455404206379874093
+      EmboarFrontSpriteSheet_103: 7986949155806924277
+      EmboarFrontSpriteSheet_104: -9219310183214414463
+      EmboarFrontSpriteSheet_105: -9058100607715800164
+      EmboarFrontSpriteSheet_106: -4456687410242690283
+      EmboarFrontSpriteSheet_107: -6523524224302548378
+      EmboarFrontSpriteSheet_108: 7986745316087243190
+      EmboarFrontSpriteSheet_109: 5178377806870694611
+      EmboarFrontSpriteSheet_11: -7864247630029669662
+      EmboarFrontSpriteSheet_110: 6564846402224159957
+      EmboarFrontSpriteSheet_111: 2480635780736075131
+      EmboarFrontSpriteSheet_112: 2393070177767360088
+      EmboarFrontSpriteSheet_113: 1917990334527099316
+      EmboarFrontSpriteSheet_114: -5331763430586924046
+      EmboarFrontSpriteSheet_115: 3111031605635149085
+      EmboarFrontSpriteSheet_116: 7716238717204987807
+      EmboarFrontSpriteSheet_117: -863821305341294142
+      EmboarFrontSpriteSheet_118: -5836100846735280026
+      EmboarFrontSpriteSheet_119: 8632209955822588458
+      EmboarFrontSpriteSheet_12: 3710769372447897388
+      EmboarFrontSpriteSheet_120: -9169364264771789223
+      EmboarFrontSpriteSheet_121: -2231235405128144803
+      EmboarFrontSpriteSheet_122: -3862410311323404103
+      EmboarFrontSpriteSheet_123: -8454703881630215798
+      EmboarFrontSpriteSheet_124: 521972098631182296
+      EmboarFrontSpriteSheet_125: -5640914603120641704
+      EmboarFrontSpriteSheet_126: 4360753778412924236
+      EmboarFrontSpriteSheet_127: 412166807291996804
+      EmboarFrontSpriteSheet_128: -4055839211828833175
+      EmboarFrontSpriteSheet_129: -9165227961624175568
+      EmboarFrontSpriteSheet_13: 2932559201689762973
+      EmboarFrontSpriteSheet_130: -7570032113124303916
+      EmboarFrontSpriteSheet_131: 1499619086570164348
+      EmboarFrontSpriteSheet_132: 8522315123699235358
+      EmboarFrontSpriteSheet_133: -9144986693709179812
+      EmboarFrontSpriteSheet_134: 4299982845434733037
+      EmboarFrontSpriteSheet_135: 3017001960666195817
+      EmboarFrontSpriteSheet_136: -2111651478738746773
+      EmboarFrontSpriteSheet_137: 8803431785860091272
+      EmboarFrontSpriteSheet_138: -2915807254567376623
+      EmboarFrontSpriteSheet_139: 5114495098172452055
+      EmboarFrontSpriteSheet_14: 4892105125147377243
+      EmboarFrontSpriteSheet_140: -4178452765711570541
+      EmboarFrontSpriteSheet_141: 4657036460018203110
+      EmboarFrontSpriteSheet_142: -812092233626147834
+      EmboarFrontSpriteSheet_143: 3921926746659409203
+      EmboarFrontSpriteSheet_144: 1091795280692651424
+      EmboarFrontSpriteSheet_145: -1546377236369245410
+      EmboarFrontSpriteSheet_146: -3833142111316180906
+      EmboarFrontSpriteSheet_147: 5815144768936114878
+      EmboarFrontSpriteSheet_148: -5785843090151866964
+      EmboarFrontSpriteSheet_149: -4944470958754255984
+      EmboarFrontSpriteSheet_15: -4345478247233783572
+      EmboarFrontSpriteSheet_150: -4863398693342860047
+      EmboarFrontSpriteSheet_151: 8481975427449867197
+      EmboarFrontSpriteSheet_152: -4375032841538442191
+      EmboarFrontSpriteSheet_153: -3988964201446316237
+      EmboarFrontSpriteSheet_154: 1357470800215104623
+      EmboarFrontSpriteSheet_155: 7625746751381583577
+      EmboarFrontSpriteSheet_156: 6375925775634985726
+      EmboarFrontSpriteSheet_157: -5288296814463143225
+      EmboarFrontSpriteSheet_158: -7110449980356499016
+      EmboarFrontSpriteSheet_159: 711221972
+      EmboarFrontSpriteSheet_16: -8081271164325735992
+      EmboarFrontSpriteSheet_160: -1762471674
+      EmboarFrontSpriteSheet_161: 1679505589
+      EmboarFrontSpriteSheet_162: 431681598
+      EmboarFrontSpriteSheet_163: 1568144557
+      EmboarFrontSpriteSheet_164: -458085691
+      EmboarFrontSpriteSheet_165: 2018727346
+      EmboarFrontSpriteSheet_166: 1240597950
+      EmboarFrontSpriteSheet_17: -8307639974553351404
+      EmboarFrontSpriteSheet_18: -1481995925944809343
+      EmboarFrontSpriteSheet_19: 8646985584794602515
+      EmboarFrontSpriteSheet_2: -3160852736752949796
+      EmboarFrontSpriteSheet_20: 5058613475961967925
+      EmboarFrontSpriteSheet_21: 8626368675480121026
+      EmboarFrontSpriteSheet_22: -4406834544993267207
+      EmboarFrontSpriteSheet_23: -993546235895875848
+      EmboarFrontSpriteSheet_24: -3587383696486064052
+      EmboarFrontSpriteSheet_25: -1553999056057731667
+      EmboarFrontSpriteSheet_26: 6240774671590276927
+      EmboarFrontSpriteSheet_27: 8384935762664006462
+      EmboarFrontSpriteSheet_28: -4985479622483058231
+      EmboarFrontSpriteSheet_29: 4566735737425570918
+      EmboarFrontSpriteSheet_3: -4572457167236016714
+      EmboarFrontSpriteSheet_30: -5271623848379871124
+      EmboarFrontSpriteSheet_31: -4102925447618078400
+      EmboarFrontSpriteSheet_32: -3910605120123595048
+      EmboarFrontSpriteSheet_33: 2953772095194523847
+      EmboarFrontSpriteSheet_34: 8404893465133166354
+      EmboarFrontSpriteSheet_35: -6857548045708313851
+      EmboarFrontSpriteSheet_36: 6279601584316821826
+      EmboarFrontSpriteSheet_37: -2516807480942602146
+      EmboarFrontSpriteSheet_38: 99375534824385638
+      EmboarFrontSpriteSheet_39: -3521922945974217332
+      EmboarFrontSpriteSheet_4: -8021033208647938292
+      EmboarFrontSpriteSheet_40: 8868868211857964516
+      EmboarFrontSpriteSheet_41: 7561318562892839179
+      EmboarFrontSpriteSheet_42: 4313408933936235493
+      EmboarFrontSpriteSheet_43: 986901234898099199
+      EmboarFrontSpriteSheet_44: 111923744280214703
+      EmboarFrontSpriteSheet_45: 3300617417788675981
+      EmboarFrontSpriteSheet_46: 512648808540453614
+      EmboarFrontSpriteSheet_47: -8835807487242312703
+      EmboarFrontSpriteSheet_48: -6746840551374507576
+      EmboarFrontSpriteSheet_49: 506188738281095017
+      EmboarFrontSpriteSheet_5: 3321971366740559555
+      EmboarFrontSpriteSheet_50: 3734547824570022153
+      EmboarFrontSpriteSheet_51: -3627054092117989519
+      EmboarFrontSpriteSheet_52: 2568490428659537510
+      EmboarFrontSpriteSheet_53: -7822076136057405643
+      EmboarFrontSpriteSheet_54: -2313564408509350636
+      EmboarFrontSpriteSheet_55: -6569253515862196373
+      EmboarFrontSpriteSheet_56: 439274883781378234
+      EmboarFrontSpriteSheet_57: -876181721053855008
+      EmboarFrontSpriteSheet_58: 4589778550124477
+      EmboarFrontSpriteSheet_59: 5790191030345780465
+      EmboarFrontSpriteSheet_6: -2665259691095719902
+      EmboarFrontSpriteSheet_60: 5334914687268250315
+      EmboarFrontSpriteSheet_61: 8742354106494008090
+      EmboarFrontSpriteSheet_62: -2181118410703820277
+      EmboarFrontSpriteSheet_63: -1411819855834407867
+      EmboarFrontSpriteSheet_64: -7402059538855483189
+      EmboarFrontSpriteSheet_65: -6875887590701559523
+      EmboarFrontSpriteSheet_66: -1752337214501727110
+      EmboarFrontSpriteSheet_67: 7286185312605377554
+      EmboarFrontSpriteSheet_68: -619598004585916184
+      EmboarFrontSpriteSheet_69: -2512417254835873864
+      EmboarFrontSpriteSheet_7: 2375161229078176311
+      EmboarFrontSpriteSheet_70: 5461479526018913302
+      EmboarFrontSpriteSheet_71: 366991539790235144
+      EmboarFrontSpriteSheet_72: 2551007281894570914
+      EmboarFrontSpriteSheet_73: -6246229046009193645
+      EmboarFrontSpriteSheet_74: -2319852453779637512
+      EmboarFrontSpriteSheet_75: 4003097540481988743
+      EmboarFrontSpriteSheet_76: -8535427879664865372
+      EmboarFrontSpriteSheet_77: 9089923956292921478
+      EmboarFrontSpriteSheet_78: -8972329081443958537
+      EmboarFrontSpriteSheet_79: -3162793458046844362
+      EmboarFrontSpriteSheet_8: -7434631703987571969
+      EmboarFrontSpriteSheet_80: -3546249733610706904
+      EmboarFrontSpriteSheet_81: 2873158760725366595
+      EmboarFrontSpriteSheet_82: -6880478752406750411
+      EmboarFrontSpriteSheet_83: 2256911367097359513
+      EmboarFrontSpriteSheet_84: 8774628331487153179
+      EmboarFrontSpriteSheet_85: 9190460644031836002
+      EmboarFrontSpriteSheet_86: -7213187531466585624
+      EmboarFrontSpriteSheet_87: 3352427057231487816
+      EmboarFrontSpriteSheet_88: -8706005322540899403
+      EmboarFrontSpriteSheet_89: 5543760583415475175
+      EmboarFrontSpriteSheet_9: 3127899798281428020
+      EmboarFrontSpriteSheet_90: 6549676512187005136
+      EmboarFrontSpriteSheet_91: 309224988010056069
+      EmboarFrontSpriteSheet_92: 3884681581392266863
+      EmboarFrontSpriteSheet_93: 5143182352230776651
+      EmboarFrontSpriteSheet_94: 8719253863325548662
+      EmboarFrontSpriteSheet_95: 8111467937104777639
+      EmboarFrontSpriteSheet_96: 4823446016045792053
+      EmboarFrontSpriteSheet_97: 2238983947773582918
+      EmboarFrontSpriteSheet_98: -169440584735502624
+      EmboarFrontSpriteSheet_99: 5469544450057178846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4356 @@
+fileFormatVersion: 2
+guid: 7fd87255a2b3754489051ffa7e6b1bfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8978766915243093105
+    second: Ferroseed Back_0
+  - first:
+      213: -6855916460197113161
+    second: Ferroseed Back_1
+  - first:
+      213: -9059916858856030859
+    second: Ferroseed Back_2
+  - first:
+      213: -8977906766545332071
+    second: Ferroseed Back_3
+  - first:
+      213: 593470548991759410
+    second: Ferroseed Back_4
+  - first:
+      213: -4379641967265386114
+    second: Ferroseed Back_5
+  - first:
+      213: 661821469746163274
+    second: Ferroseed Back_6
+  - first:
+      213: -590717415078353496
+    second: Ferroseed Back_7
+  - first:
+      213: -5361400194547922334
+    second: Ferroseed Back_8
+  - first:
+      213: 3632613781708943259
+    second: Ferroseed Back_9
+  - first:
+      213: -5462364317000109620
+    second: Ferroseed Back_10
+  - first:
+      213: 7367895946592053743
+    second: Ferroseed Back_11
+  - first:
+      213: 5554900191386814642
+    second: Ferroseed Back_12
+  - first:
+      213: -8991562608794699195
+    second: Ferroseed Back_13
+  - first:
+      213: 8255321996353103236
+    second: Ferroseed Back_14
+  - first:
+      213: 4248651306893274864
+    second: Ferroseed Back_15
+  - first:
+      213: 5101090382434135388
+    second: Ferroseed Back_16
+  - first:
+      213: 1016505432093657332
+    second: Ferroseed Back_17
+  - first:
+      213: 6893979849811019497
+    second: Ferroseed Back_18
+  - first:
+      213: 1955468600130018031
+    second: Ferroseed Back_19
+  - first:
+      213: 907837508739955931
+    second: Ferroseed Back_20
+  - first:
+      213: -2755956718717550350
+    second: Ferroseed Back_21
+  - first:
+      213: -3390013442663109551
+    second: Ferroseed Back_22
+  - first:
+      213: 8296410082684833501
+    second: Ferroseed Back_23
+  - first:
+      213: 6655774195394145108
+    second: Ferroseed Back_24
+  - first:
+      213: -608737514232247694
+    second: Ferroseed Back_25
+  - first:
+      213: 9084653105573327833
+    second: Ferroseed Back_26
+  - first:
+      213: 7354035700821778654
+    second: Ferroseed Back_27
+  - first:
+      213: 1112149404761818340
+    second: Ferroseed Back_28
+  - first:
+      213: -7074957604778448635
+    second: Ferroseed Back_29
+  - first:
+      213: 1384889126520326722
+    second: Ferroseed Back_30
+  - first:
+      213: 5127998589271326897
+    second: Ferroseed Back_31
+  - first:
+      213: 5724298057856764014
+    second: Ferroseed Back_32
+  - first:
+      213: 1786998611051186160
+    second: Ferroseed Back_33
+  - first:
+      213: -4278620297649685049
+    second: Ferroseed Back_34
+  - first:
+      213: 6563352506205614278
+    second: Ferroseed Back_35
+  - first:
+      213: 6471066873996121399
+    second: Ferroseed Back_36
+  - first:
+      213: -5521978648664806046
+    second: Ferroseed Back_37
+  - first:
+      213: 3277273910758930535
+    second: Ferroseed Back_38
+  - first:
+      213: 826466174912745448
+    second: Ferroseed Back_39
+  - first:
+      213: -3508221870046595697
+    second: Ferroseed Back_40
+  - first:
+      213: 2562892487335069501
+    second: Ferroseed Back_41
+  - first:
+      213: -5845935349229937490
+    second: Ferroseed Back_42
+  - first:
+      213: 7996533671058737542
+    second: Ferroseed Back_43
+  - first:
+      213: -181493740992505662
+    second: Ferroseed Back_44
+  - first:
+      213: -2049666197509788321
+    second: Ferroseed Back_45
+  - first:
+      213: -1746955285908938652
+    second: Ferroseed Back_46
+  - first:
+      213: 6427219387093057038
+    second: Ferroseed Back_47
+  - first:
+      213: 1186696193158525829
+    second: Ferroseed Back_48
+  - first:
+      213: -494048330639364868
+    second: Ferroseed Back_49
+  - first:
+      213: 5683187060013769635
+    second: Ferroseed Back_50
+  - first:
+      213: -1603613662221256282
+    second: Ferroseed Back_51
+  - first:
+      213: 4965965201696826610
+    second: Ferroseed Back_52
+  - first:
+      213: -3489058736041560273
+    second: Ferroseed Back_53
+  - first:
+      213: 5814288752818794771
+    second: Ferroseed Back_54
+  - first:
+      213: -3518955126590108394
+    second: Ferroseed Back_55
+  - first:
+      213: -8921035100754312261
+    second: Ferroseed Back_56
+  - first:
+      213: -7994504041454675540
+    second: Ferroseed Back_57
+  - first:
+      213: 9154677553181677228
+    second: Ferroseed Back_58
+  - first:
+      213: 7106247201742362894
+    second: Ferroseed Back_59
+  - first:
+      213: -6737835624441200264
+    second: Ferroseed Back_60
+  - first:
+      213: 2246198478152194619
+    second: Ferroseed Back_61
+  - first:
+      213: -5466754801232718107
+    second: Ferroseed Back_62
+  - first:
+      213: -3820805119824260279
+    second: Ferroseed Back_63
+  - first:
+      213: 4927483126769557839
+    second: Ferroseed Back_64
+  - first:
+      213: 4667746682846860119
+    second: Ferroseed Back_65
+  - first:
+      213: 8818033000478300533
+    second: Ferroseed Back_66
+  - first:
+      213: 3160738279466052995
+    second: Ferroseed Back_67
+  - first:
+      213: -2119935111065196846
+    second: Ferroseed Back_68
+  - first:
+      213: -2527780809508020239
+    second: Ferroseed Back_69
+  - first:
+      213: -7068460308419115770
+    second: Ferroseed Back_70
+  - first:
+      213: -2875938864957032444
+    second: Ferroseed Back_71
+  - first:
+      213: -2685662902543348047
+    second: Ferroseed Back_72
+  - first:
+      213: 3679307592410340184
+    second: Ferroseed Back_73
+  - first:
+      213: -5932392061112046556
+    second: Ferroseed Back_74
+  - first:
+      213: -6221106487737796825
+    second: Ferroseed Back_75
+  - first:
+      213: 7114106180770077022
+    second: Ferroseed Back_76
+  - first:
+      213: 5769776409307809567
+    second: Ferroseed Back_77
+  - first:
+      213: 5371346201343182096
+    second: Ferroseed Back_78
+  - first:
+      213: 9111753995983175058
+    second: Ferroseed Back_79
+  - first:
+      213: 2827342980306004869
+    second: Ferroseed Back_80
+  - first:
+      213: 4569899865559594361
+    second: Ferroseed Back_81
+  - first:
+      213: 7916699289109895693
+    second: Ferroseed Back_82
+  - first:
+      213: 8956118974991431207
+    second: Ferroseed Back_83
+  - first:
+      213: 7664042203282366728
+    second: Ferroseed Back_84
+  - first:
+      213: 5783327729559883896
+    second: Ferroseed Back_85
+  - first:
+      213: 180081672284640963
+    second: Ferroseed Back_86
+  - first:
+      213: 8231074659342713436
+    second: Ferroseed Back_87
+  - first:
+      213: -191176003587119508
+    second: Ferroseed Back_88
+  - first:
+      213: 7665484104801902313
+    second: Ferroseed Back_89
+  - first:
+      213: 6727734381904659564
+    second: Ferroseed Back_90
+  - first:
+      213: 7126593874296602834
+    second: Ferroseed Back_91
+  - first:
+      213: -882712471975525741
+    second: Ferroseed Back_92
+  - first:
+      213: -1298864806013690598
+    second: Ferroseed Back_93
+  - first:
+      213: 3558559247746868070
+    second: Ferroseed Back_94
+  - first:
+      213: 7724935818317180889
+    second: Ferroseed Back_95
+  - first:
+      213: -4882993434019938878
+    second: Ferroseed Back_96
+  - first:
+      213: -1681444678375416323
+    second: Ferroseed Back_97
+  - first:
+      213: 4173942691333596759
+    second: Ferroseed Back_98
+  - first:
+      213: -6108571168709820342
+    second: Ferroseed Back_99
+  - first:
+      213: 4168853180537895341
+    second: Ferroseed Back_100
+  - first:
+      213: -2966533512899834605
+    second: Ferroseed Back_101
+  - first:
+      213: -953493545109433564
+    second: Ferroseed Back_102
+  - first:
+      213: -1224479853274169121
+    second: Ferroseed Back_103
+  - first:
+      213: 7787724167947123220
+    second: Ferroseed Back_104
+  - first:
+      213: 3742225819570150611
+    second: Ferroseed Back_105
+  - first:
+      213: -4194735991154128770
+    second: Ferroseed Back_106
+  - first:
+      213: 4646408715579788884
+    second: Ferroseed Back_107
+  - first:
+      213: 3302943025966645438
+    second: Ferroseed Back_108
+  - first:
+      213: -454301167579107343
+    second: Ferroseed Back_109
+  - first:
+      213: 9068732072283601272
+    second: Ferroseed Back_110
+  - first:
+      213: -741870780063665019
+    second: Ferroseed Back_111
+  - first:
+      213: -5565518582405554969
+    second: Ferroseed Back_112
+  - first:
+      213: 2665331477768488187
+    second: Ferroseed Back_113
+  - first:
+      213: 4554571389019993569
+    second: Ferroseed Back_114
+  - first:
+      213: -4558918457085784905
+    second: Ferroseed Back_115
+  - first:
+      213: -6716407935112202320
+    second: Ferroseed Back_116
+  - first:
+      213: 8697105172730333209
+    second: Ferroseed Back_117
+  - first:
+      213: -4131804243164317751
+    second: Ferroseed Back_118
+  - first:
+      213: -8838679268860665933
+    second: Ferroseed Back_119
+  - first:
+      213: 3618881807401550363
+    second: Ferroseed Back_120
+  - first:
+      213: -4411733098940607670
+    second: Ferroseed Back_121
+  - first:
+      213: 6713026750037896206
+    second: Ferroseed Back_122
+  - first:
+      213: -6664926582324225966
+    second: Ferroseed Back_123
+  - first:
+      213: 790780795733592672
+    second: Ferroseed Back_124
+  - first:
+      213: 8770407091949704765
+    second: Ferroseed Back_125
+  - first:
+      213: 9147210473147396454
+    second: Ferroseed Back_126
+  - first:
+      213: 4662588983696044716
+    second: Ferroseed Back_127
+  - first:
+      213: -1720295591470096955
+    second: Ferroseed Back_128
+  - first:
+      213: 5083489971076617772
+    second: Ferroseed Back_129
+  - first:
+      213: 6818495394596049910
+    second: Ferroseed Back_130
+  - first:
+      213: 3881614340122207055
+    second: Ferroseed Back_131
+  - first:
+      213: 8722507536968171708
+    second: Ferroseed Back_132
+  - first:
+      213: -645968519035522639
+    second: Ferroseed Back_133
+  - first:
+      213: 5153332939055198938
+    second: Ferroseed Back_134
+  - first:
+      213: 8111795841410406906
+    second: Ferroseed Back_135
+  - first:
+      213: 103507835441635324
+    second: Ferroseed Back_136
+  - first:
+      213: -8778418483525152884
+    second: Ferroseed Back_137
+  - first:
+      213: 7716940481902513224
+    second: Ferroseed Back_138
+  - first:
+      213: 5965393095268610749
+    second: Ferroseed Back_139
+  - first:
+      213: 2399586703922125753
+    second: Ferroseed Back_140
+  - first:
+      213: 5462164767490961376
+    second: Ferroseed Back_141
+  - first:
+      213: 3102787095880942611
+    second: Ferroseed Back_142
+  - first:
+      213: -1495294370562399055
+    second: Ferroseed Back_143
+  - first:
+      213: -5513036077499397900
+    second: Ferroseed Back_144
+  - first:
+      213: 1762863159128240651
+    second: Ferroseed Back_145
+  - first:
+      213: 648543461400325382
+    second: Ferroseed Back_146
+  - first:
+      213: -4654890650331751316
+    second: Ferroseed Back_147
+  - first:
+      213: 6017715840905560299
+    second: Ferroseed Back_148
+  - first:
+      213: 3868135078341794740
+    second: Ferroseed Back_149
+  - first:
+      213: 5034885240058477052
+    second: Ferroseed Back_150
+  - first:
+      213: 2923268755356878280
+    second: Ferroseed Back_151
+  - first:
+      213: 6574261289418711567
+    second: Ferroseed Back_152
+  - first:
+      213: -7999507063540637550
+    second: Ferroseed Back_153
+  - first:
+      213: -6201470919783428425
+    second: Ferroseed Back_154
+  - first:
+      213: 302554104566058641
+    second: Ferroseed Back_155
+  - first:
+      213: -5081972267468079324
+    second: Ferroseed Back_156
+  - first:
+      213: -355263690932247697
+    second: Ferroseed Back_157
+  - first:
+      213: 264541264544283576
+    second: Ferroseed Back_158
+  - first:
+      213: 2581040773692798068
+    second: Ferroseed Back_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc58c56dca770949ae7a64345ba8d78
+      internalID: 1883903019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7183202df63e14695e977176ca116b
+      internalID: -1486543389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c472f7afa1034d46b98b304f5747815
+      internalID: 679842774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038891ccede0264b95f48035fe05af6
+      internalID: 1241717101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef147c2f50d404fac9a7561af09851
+      internalID: 1923495480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e55b3af69ceef6419fd807f26189037
+      internalID: 1695216877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9fb386bfd081a49996c07b4eff7b0b
+      internalID: 1286947775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74563517a8e824792c052010df9bf7
+      internalID: 1460160390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6199ed8548150408331811cdce7775
+      internalID: -1563585126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c55c264e8068749865e7b8324e46a0
+      internalID: 1266364216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f025dcafba4ae4e44841869ec7444d0c
+      internalID: -1456462432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ec78a1e8bce84e9ce706e292d667b
+      internalID: -355737797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 546
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac8b335b4fa794d95a938b0831df26
+      internalID: 1753966130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfcb375785a6842b384a842bc75726
+      internalID: 193715183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283eec0aaece834e8f2de6eba7dc0c8
+      internalID: 361455452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f58e8fc2393e419ee176e21a29727
+      internalID: 1193879774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344bff2a01176b241a70c964cb4cd210
+      internalID: 1498415390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb12ea0d7e10da4189bb6ebdd244a06
+      internalID: 2039595586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c959a40e60a24593ba330a9d431a3
+      internalID: -135269418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03281cbc0f60eff40b8804ec0a0a1438
+      internalID: 78697168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cda8f2cf8d050b4898881981ca0979b
+      internalID: 1083106036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a258a3a7c5704d8294c1162a2d82f
+      internalID: 1276799538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ac913f850623449bde33641d7e7085
+      internalID: -1189622103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412696e3369ee25438cefea89acfc716
+      internalID: 992371057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5920d135aa1cda429226b7f4bcc9c07
+      internalID: 975135503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 504
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d854da6d724044aae9b305ef72958
+      internalID: 1628450643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3f8b416c72674d940c81152439104
+      internalID: 431239130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3611ea936bc8f4298806e7562f546b
+      internalID: 1877126835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed22703f438ca4e8a5083f19b9641a
+      internalID: 443611326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a0d10c3b411e7459177b797c87dfd0
+      internalID: 2116779311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2c39547dc8134781395f626250300
+      internalID: -2082350540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b966a3e37566427458869c7dbe6aecc0
+      internalID: -1904218782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68035ab5c5cc541a2dd5e532a9619c
+      internalID: -1332618122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c758c7b3be314fba493873e41a5d3
+      internalID: 1320055845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0f86b78b7cca46a35dd526ef942da
+      internalID: 1247428548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af188147a1dc5644195eee54c4e4a218
+      internalID: -1196142455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb00fd8dc0a71d4f84536f9156ba6af
+      internalID: -1142852039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f78b7f318f61a4fa42562641272e82
+      internalID: 826365490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 462
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66978e46167ca3740ab9f997621c51bc
+      internalID: -1996413343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f6876b06b22c14a950fa0bb8538151
+      internalID: 1359214125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b554b1c3ccce4424b89461755b5ee539
+      internalID: 1078750777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e62329dd030f246bb573b12c722da5
+      internalID: -2083293408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d3dc8ac1d4914bb71bfdcce647452
+      internalID: -1406688066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fa347884448e41bbc9c1c0b0aaa74
+      internalID: -1213190755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1841b1a735c64dba64eadd05a1aef
+      internalID: 335536472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa12aac06fb72ce4a809c72a372f5b2b
+      internalID: 680765484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21642b1c12d777d4281a38fcb80a229e
+      internalID: -1471780126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d5b1e3e32bd874ca5b3b1f6f4929c5
+      internalID: -1525162010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eba5827994dd445a579d131a5f750b
+      internalID: 1760385881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0281738ead95ef4dafc89cdb618ac7d
+      internalID: -359281985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbc767ae28d9e469ef07764aed3844
+      internalID: 578895436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 420
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed61d6130be204987ee7eaa3ff3353
+      internalID: 357613456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3d6b6e3997424ab0ce1c8de63bad3
+      internalID: -1406145692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ccd6f6788961f499f98bb3ff1df7bf
+      internalID: 733149591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e96381bc365f4596fc3fc7f35894c
+      internalID: -1750709026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bbdc58bfe308b47b0a3b42ee0c5633
+      internalID: -1151590080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449a2a23ead7d848a07244f4d635f95
+      internalID: -1455789123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfc3e93570d494182ff22eea9f7e30
+      internalID: 1392102868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab81e001bc60584fb761d5e4c022adc
+      internalID: -1698053973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7233417e2a4ae43ac89d4f20955612
+      internalID: -1429559450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54558f3a17c517e4882054fa0b89654a
+      internalID: 1747681640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4903b45b84a6bf6409ee54233c53a591
+      internalID: -1604387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68f1dfb6bcef648b81fdc44d8a45e7
+      internalID: -2111993927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34ff07a5d41e14daa69b63ef8503bc
+      internalID: 562681637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 378
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b9a83b67743b141981eb1c8d858afd
+      internalID: -1313535485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04cf3f99c33df1468b05945820f91e8
+      internalID: 1142846656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07bb5d867161b4cb5e6f1e178accb4
+      internalID: -240555595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78342475aa1be174d9e5a9834a2e78be
+      internalID: -1552271612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e9d5c4ad77ec4eb85d002949ff15b
+      internalID: -1383047873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf171c869dec24abfa58e2c164ab47
+      internalID: -186629108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff586760d397e0942ba7681b5af94058
+      internalID: -20201519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e473faead9a6af449f325bdf641eea8
+      internalID: 892228831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab142560e317504090e63f7e663d74a
+      internalID: 1755575705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abaf6be3698f744ba19c17c83f033e
+      internalID: -1264075590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcf81184f9b5742825e98a2ea88b22
+      internalID: -473749381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622cd51ee8c5b24cb909be246025723
+      internalID: -243638675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5400b084247ab44b8fa6b12eaa52bb0
+      internalID: 1644692243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 336
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ce4d5a4cbc774ea76cf37181b4b5c
+      internalID: -1221111852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299ba5966b958b45957a2505a9ab91a
+      internalID: -1756361478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2996ebedba1343a646ee33cfec90f
+      internalID: -1974490441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72ce6d4eaf5eb429d052a24656ae47
+      internalID: 821723307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1b60e8a72b264f8394119910fe0b6
+      internalID: 1222692305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b507a659be103d4e980fd320bd493cf
+      internalID: -920315745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b405512a64289f94fbba1a6c0c31692d
+      internalID: -1522093822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d220346ad6e19408f35c62c950c849
+      internalID: -1502929147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c6743c407d57448bc57447ee12558
+      internalID: 1444556286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690199dbab71e804991237eef503a320
+      internalID: 539248182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866118f621915c439134e004e07b2cb
+      internalID: -1537123131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722e5c6a77b99848879232c833a95c8
+      internalID: 708062772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de928210c346245a8fd50188df1884
+      internalID: 1825963392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 294
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37282d2e4a35e45af4c95cdf8ce847
+      internalID: -1428339339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15dfc6102225ae4bbd34ab7335198cd
+      internalID: 616426510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891fbe3d97d0ae408afe6286da98c44
+      internalID: -1940993278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49005ad6c4a0bea498f8983d747c86c0
+      internalID: -1447390998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc4385c553a84449142d662bc23c96
+      internalID: -1823604645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc862b0883641404f817e6d991a41b0d
+      internalID: -1286705594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7781cec4c876a14a8ec77473b4c586a
+      internalID: -1848179127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19104f3524186c947907b3538c7c03b5
+      internalID: -1236637700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b16f3b023933d46b738d9ebe997f40
+      internalID: -2146961655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97347cd824cf1694f9177f4d3e5cec80
+      internalID: 1611526839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80123423d9801fc45a2df246741902d1
+      internalID: -2116349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ca53904dcb0e4e86bba1d3c409b48
+      internalID: 380937369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9ef8bf8c40f54d90a8724cb9dc721
+      internalID: -808827293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 252
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24a2a453532c54eb27373cb424c6a7
+      internalID: -1007533803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91bdc9aec8c094f86c3cd0f7de7dec
+      internalID: -1358122329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123fb8bd25aef541a839fdc7b1c6c41
+      internalID: 1093072362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524af524015a184188a6a7cd18947c7
+      internalID: 2009492074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be149bcae2c782459a278b79bd6a131
+      internalID: 1044368712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c9cf882ce17c44bc502af40d389df
+      internalID: 982209123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2262a429293745f448006d8b34dc4034
+      internalID: 684504415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca544e132e69c4ea3e42c0e8aac128
+      internalID: 237469790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d59d04508ffcb4fbcf6e87d202f416
+      internalID: -1243213496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e122570e08f60444900dec199b78135
+      internalID: -93509778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8fc88996cd0b546a0d6c7d8a2c4389
+      internalID: 702692924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c747a9226ad2b245bd0c04620d742b5
+      internalID: 1182118795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8298781aea6ff3e4c9be1e5b979c8560
+      internalID: 427492659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 210
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc7fd2164b0aa43aa1fe11c0f6af13
+      internalID: 1398085426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a83bdb3d3b3874e806dbc2d488ceb6
+      internalID: 1227619312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d146b67143cad24f85bd9ee6ff149a1
+      internalID: -2114552641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a17fa4aebd54944bd49b17cf8f320a
+      internalID: 196402007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ec439aa3411f4a9ea77a4b567fdc4
+      internalID: 711531841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69abbf4fd988fbc41bfb5e59c9632c29
+      internalID: -1498330750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791111a915b762d41864c5fece5a1ec5
+      internalID: 154172795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4032ee4669c2541aac6eee42bf2314
+      internalID: -2135890344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c37974bcc3484581a79945aa8acce
+      internalID: 114193958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c30279016178c43b3654b77c70c9bf
+      internalID: 1743601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93e58a3d0b0854c84a796c92c7849d
+      internalID: -518028983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebdbb67c994bca4fab6580fbd8b369b
+      internalID: -399845288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f96833d9d3c34290a18bf9d9524a1
+      internalID: -254247250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 168
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e60dcdfa2b6004a8adbfb7a0288d23
+      internalID: -341122113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e4c4e512292f4cbde0dcefc7055ab
+      internalID: 676381342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7fc37472c70be44b88843322d3f7af
+      internalID: -544074484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b52c8303e007c46a2c5143c356cf35
+      internalID: -945678950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d43633fbc4964dace622568f8edf5
+      internalID: 1891992181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329e7c3077df514c94d71f889fcc5c2
+      internalID: 882145969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953664680e456b4439cdf804cafbc39b
+      internalID: -1471425626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6858b6b960346c4d996f518f5c1db0b
+      internalID: 798844294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82bed5719404224cb2ca33c79bbc523
+      internalID: -1699756925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8406a2b04f78724cb29c473d8cd2d9f
+      internalID: -1427956782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41314cd5a613ff349a5a3ad8c9a1f61f
+      internalID: 337476399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77325cc51c6e9d40846696c6dabeb84
+      internalID: 1755136407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfde49965b3a004db9d88f16c5cd856
+      internalID: -2081608649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 126
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a22522618fd9439c9d0db3b42ae65
+      internalID: -646854620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399d8407c97c664796913fefa51db75
+      internalID: 1231483052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d872282cd18e1e4e8006ca35547d22c
+      internalID: 2094289893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44e7826ce16954fa18111d63d5840e
+      internalID: -575507787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4cf9b446ae3cc46a38bd30c4200679
+      internalID: -228660672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ad649785d65140a3228e7b3adfaab
+      internalID: -2108112547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a7b21515177d7489e8bf9f519e11fc
+      internalID: 805274938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b20236e2016cec4aac60bd253aed89a
+      internalID: -1652477658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffcc28eaee7674095df1998d49e817
+      internalID: 148514493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4346ccd9a1ef4abf3bb44618dd69c
+      internalID: -676688132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe030dfb78c61d4b8463b912a3a5157
+      internalID: 1628430818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ee1c206c67694ba25afbb8cc610bc
+      internalID: 693222242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be72ca0ac57b1c74ea1052895dd80d27
+      internalID: 891250992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 84
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687caf13d2fca544bb7e6a8b340e532
+      internalID: 1480515094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e2ec3474347f4880353514e234f32
+      internalID: -661910219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd168e1da3fbe4b85c5b1ee2da2160
+      internalID: -1780737712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf1ed967875dc41a4843d611783162
+      internalID: 1260323672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_159
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d084ce9656dbc4282adaf7127e6625
+      internalID: -1488181603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68f532c348ff54691de20bc6b7d4bf
+      internalID: -1017228731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_161
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051532c9d17d804e8864b01f9eddd19
+      internalID: -1947852330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_162
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dae4a8739a81b459ce247526a75a88
+      internalID: -576470196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_163
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc5d50bf928d94c8687e4d8b49db95
+      internalID: -77265116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_164
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd023c39babd1f46976154b84ca4bcb
+      internalID: 128733023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c9bc1809a86e4cbe1bfda564a45b5
+      internalID: 1980406761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_166
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53523e8c0a0d4564e85c671154861f4e
+      internalID: -130886926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_167
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8872cbbc943c2443b499782e178b8a8
+      internalID: -464606588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_168
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 42
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ba81ddd008db449e01e71a6a3dbf3
+      internalID: 1325528596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8325e105ee1ab40be6930bd2b2135f
+      internalID: 1851301422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ferroseed Back Anim_170
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92fa90e13645464fbc21b86f4be29ab
+      internalID: 239252267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f59cda06e5ecca459af0a548b35c93c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ferroseed Back_0: 1883903019
+      Ferroseed Back_1: -1486543389
+      Ferroseed Back_10: -1456462432
+      Ferroseed Back_100: -2116349
+      Ferroseed Back_101: 380937369
+      Ferroseed Back_102: -808827293
+      Ferroseed Back_103: -1007533803
+      Ferroseed Back_104: -1358122329
+      Ferroseed Back_105: 1093072362
+      Ferroseed Back_106: 2009492074
+      Ferroseed Back_107: 1044368712
+      Ferroseed Back_108: 982209123
+      Ferroseed Back_109: 684504415
+      Ferroseed Back_11: -355737797
+      Ferroseed Back_110: 237469790
+      Ferroseed Back_111: -1243213496
+      Ferroseed Back_112: -93509778
+      Ferroseed Back_113: 702692924
+      Ferroseed Back_114: 1182118795
+      Ferroseed Back_115: 427492659
+      Ferroseed Back_116: 1398085426
+      Ferroseed Back_117: 1227619312
+      Ferroseed Back_118: -2114552641
+      Ferroseed Back_119: 196402007
+      Ferroseed Back_12: 1753966130
+      Ferroseed Back_120: 711531841
+      Ferroseed Back_121: -1498330750
+      Ferroseed Back_122: 154172795
+      Ferroseed Back_123: -2135890344
+      Ferroseed Back_124: 114193958
+      Ferroseed Back_125: 1743601
+      Ferroseed Back_126: -518028983
+      Ferroseed Back_127: -399845288
+      Ferroseed Back_128: -254247250
+      Ferroseed Back_129: -341122113
+      Ferroseed Back_13: 193715183
+      Ferroseed Back_130: 676381342
+      Ferroseed Back_131: -544074484
+      Ferroseed Back_132: -945678950
+      Ferroseed Back_133: 1891992181
+      Ferroseed Back_134: 882145969
+      Ferroseed Back_135: -1471425626
+      Ferroseed Back_136: 798844294
+      Ferroseed Back_137: -1699756925
+      Ferroseed Back_138: -1427956782
+      Ferroseed Back_139: 337476399
+      Ferroseed Back_14: 361455452
+      Ferroseed Back_140: 1755136407
+      Ferroseed Back_141: -2081608649
+      Ferroseed Back_142: -646854620
+      Ferroseed Back_143: 1231483052
+      Ferroseed Back_144: 2094289893
+      Ferroseed Back_145: -575507787
+      Ferroseed Back_146: -228660672
+      Ferroseed Back_147: -2108112547
+      Ferroseed Back_148: 805274938
+      Ferroseed Back_149: -1652477658
+      Ferroseed Back_15: 1193879774
+      Ferroseed Back_150: 148514493
+      Ferroseed Back_151: -676688132
+      Ferroseed Back_152: 1628430818
+      Ferroseed Back_153: 693222242
+      Ferroseed Back_154: 891250992
+      Ferroseed Back_155: 1480515094
+      Ferroseed Back_156: -661910219
+      Ferroseed Back_157: -1780737712
+      Ferroseed Back_158: 1260323672
+      Ferroseed Back_159: -1488181603
+      Ferroseed Back_16: 1498415390
+      Ferroseed Back_160: -1017228731
+      Ferroseed Back_161: -1947852330
+      Ferroseed Back_162: -576470196
+      Ferroseed Back_163: -77265116
+      Ferroseed Back_164: 128733023
+      Ferroseed Back_165: 1980406761
+      Ferroseed Back_166: -130886926
+      Ferroseed Back_167: -464606588
+      Ferroseed Back_168: 1325528596
+      Ferroseed Back_169: 1851301422
+      Ferroseed Back_17: 2039595586
+      Ferroseed Back_170: 239252267
+      Ferroseed Back_18: -135269418
+      Ferroseed Back_19: 78697168
+      Ferroseed Back_2: 679842774
+      Ferroseed Back_20: 1083106036
+      Ferroseed Back_21: 1276799538
+      Ferroseed Back_22: -1189622103
+      Ferroseed Back_23: 992371057
+      Ferroseed Back_24: 975135503
+      Ferroseed Back_25: 1628450643
+      Ferroseed Back_26: 431239130
+      Ferroseed Back_27: 1877126835
+      Ferroseed Back_28: 443611326
+      Ferroseed Back_29: 2116779311
+      Ferroseed Back_3: 1241717101
+      Ferroseed Back_30: -2082350540
+      Ferroseed Back_31: -1904218782
+      Ferroseed Back_32: -1332618122
+      Ferroseed Back_33: 1320055845
+      Ferroseed Back_34: 1247428548
+      Ferroseed Back_35: -1196142455
+      Ferroseed Back_36: -1142852039
+      Ferroseed Back_37: 826365490
+      Ferroseed Back_38: -1996413343
+      Ferroseed Back_39: 1359214125
+      Ferroseed Back_4: 1923495480
+      Ferroseed Back_40: 1078750777
+      Ferroseed Back_41: -2083293408
+      Ferroseed Back_42: -1406688066
+      Ferroseed Back_43: -1213190755
+      Ferroseed Back_44: 335536472
+      Ferroseed Back_45: 680765484
+      Ferroseed Back_46: -1471780126
+      Ferroseed Back_47: -1525162010
+      Ferroseed Back_48: 1760385881
+      Ferroseed Back_49: -359281985
+      Ferroseed Back_5: 1695216877
+      Ferroseed Back_50: 578895436
+      Ferroseed Back_51: 357613456
+      Ferroseed Back_52: -1406145692
+      Ferroseed Back_53: 733149591
+      Ferroseed Back_54: -1750709026
+      Ferroseed Back_55: -1151590080
+      Ferroseed Back_56: -1455789123
+      Ferroseed Back_57: 1392102868
+      Ferroseed Back_58: -1698053973
+      Ferroseed Back_59: -1429559450
+      Ferroseed Back_6: 1286947775
+      Ferroseed Back_60: 1747681640
+      Ferroseed Back_61: -1604387681
+      Ferroseed Back_62: -2111993927
+      Ferroseed Back_63: 562681637
+      Ferroseed Back_64: -1313535485
+      Ferroseed Back_65: 1142846656
+      Ferroseed Back_66: -240555595
+      Ferroseed Back_67: -1552271612
+      Ferroseed Back_68: -1383047873
+      Ferroseed Back_69: -186629108
+      Ferroseed Back_7: 1460160390
+      Ferroseed Back_70: -20201519
+      Ferroseed Back_71: 892228831
+      Ferroseed Back_72: 1755575705
+      Ferroseed Back_73: -1264075590
+      Ferroseed Back_74: -473749381
+      Ferroseed Back_75: -243638675
+      Ferroseed Back_76: 1644692243
+      Ferroseed Back_77: -1221111852
+      Ferroseed Back_78: -1756361478
+      Ferroseed Back_79: -1974490441
+      Ferroseed Back_8: -1563585126
+      Ferroseed Back_80: 821723307
+      Ferroseed Back_81: 1222692305
+      Ferroseed Back_82: -920315745
+      Ferroseed Back_83: -1522093822
+      Ferroseed Back_84: -1502929147
+      Ferroseed Back_85: 1444556286
+      Ferroseed Back_86: 539248182
+      Ferroseed Back_87: -1537123131
+      Ferroseed Back_88: 708062772
+      Ferroseed Back_89: 1825963392
+      Ferroseed Back_9: 1266364216
+      Ferroseed Back_90: -1428339339
+      Ferroseed Back_91: 616426510
+      Ferroseed Back_92: -1940993278
+      Ferroseed Back_93: -1447390998
+      Ferroseed Back_94: -1823604645
+      Ferroseed Back_95: -1286705594
+      Ferroseed Back_96: -1848179127
+      Ferroseed Back_97: -1236637700
+      Ferroseed Back_98: -2146961655
+      Ferroseed Back_99: 1611526839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

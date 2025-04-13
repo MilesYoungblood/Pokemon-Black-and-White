@@ -1,0 +1,1798 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 60f407976e4c12447904564b6f4d685c
+  m_SerializeEntries:
+  - m_GUID: 884e26b2ed2e5f14ab7368cfff0394e6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/494.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c34c22b154bb0d4f8cd9314c76f3fd4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/495.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77884b90aef09d84783cafa9c6b736e6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/496.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcb6375ee7e9df34c8b6336f098b7d8e
+    m_Address: Assets/Audio/SFX/Pokemon Cries/497.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9414f2a9b3c794392cee2eac0a3946
+    m_Address: Assets/Audio/SFX/Pokemon Cries/498.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85bb6cbac1dbbb4b89a4687193d94a0
+    m_Address: Assets/Audio/SFX/Pokemon Cries/499.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88975fc0bef729144a5d53ed57828bbb
+    m_Address: Assets/Audio/SFX/Pokemon Cries/500.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a03f483089251954ea5d193eab8b3fa2
+    m_Address: Assets/Audio/SFX/Pokemon Cries/501.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3772e3a6cd094f742bc77f63d641ec2d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/502.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40445e34c40bbea469ff61afff223863
+    m_Address: Assets/Audio/SFX/Pokemon Cries/503.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44c37b28b90d5274aa3e5f430fcb9e19
+    m_Address: Assets/Audio/SFX/Pokemon Cries/504.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b3afae4de50f447910077b9d1df0c5
+    m_Address: Assets/Audio/SFX/Pokemon Cries/505.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbf2d11aeae988f4ea3aaf5b221bbdc4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/506.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21b1336e0a244584bad744086224f9b4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/507.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 778a718c07e68f24fa1885bdd9c80d73
+    m_Address: Assets/Audio/SFX/Pokemon Cries/508.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cb2f626fb4916048b2faad295420cf4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/509.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52f20f74b11581a4e9e5e9e5b73a2221
+    m_Address: Assets/Audio/SFX/Pokemon Cries/510.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c99f6450b68aed44944624993463fef
+    m_Address: Assets/Audio/SFX/Pokemon Cries/511.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e19ee123777a9c4da287278938ba172
+    m_Address: Assets/Audio/SFX/Pokemon Cries/512.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6686aa8fcd3ef78429b944510cd3d0e6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/513.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f29e1c11bb643149a3613fa6aa3dbce
+    m_Address: Assets/Audio/SFX/Pokemon Cries/514.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03f0755e71158a840a5cf479e128fea9
+    m_Address: Assets/Audio/SFX/Pokemon Cries/515.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 220d67f4d1252d54cae54184da6dbbc7
+    m_Address: Assets/Audio/SFX/Pokemon Cries/516.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b626bb5f3b39d9445a5e31c194d538b9
+    m_Address: Assets/Audio/SFX/Pokemon Cries/517.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 072c2c49ee33d3347bffef0d436293f1
+    m_Address: Assets/Audio/SFX/Pokemon Cries/518.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3eb961d374d18d4f8216326804b2553
+    m_Address: Assets/Audio/SFX/Pokemon Cries/519.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3322fe52f6f706242b02ca7a011029a1
+    m_Address: Assets/Audio/SFX/Pokemon Cries/520.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e5de549432eecb43a7f4af0e922b281
+    m_Address: Assets/Audio/SFX/Pokemon Cries/521.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf0a5a466359d8945b3e54421d68088a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/522.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5419378ffe0fd7c4c9682c1a3eb6522d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/523.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04d87b28c5278fe46b827ecb9085a9d3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/524.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ab68bf863886c84caae6de5b99f45e9
+    m_Address: Assets/Audio/SFX/Pokemon Cries/525.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8f4db776f1d31b4c8095ad66edf9272
+    m_Address: Assets/Audio/SFX/Pokemon Cries/526.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f16a01c482ba0354e9ab4734e6a47ca2
+    m_Address: Assets/Audio/SFX/Pokemon Cries/527.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37cac53a19fa88145b4b17e81fdbe082
+    m_Address: Assets/Audio/SFX/Pokemon Cries/528.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aee1367095a6a642803198a3859876a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/529.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13518e3e5dd998541a74c0ea3557ad67
+    m_Address: Assets/Audio/SFX/Pokemon Cries/530.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa0f3339b9da13d4e91555c66f3d11a0
+    m_Address: Assets/Audio/SFX/Pokemon Cries/531.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44de76ae43e75bc479ef38f97de48c67
+    m_Address: Assets/Audio/SFX/Pokemon Cries/532.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 562e7fba053eec647a8d5ae540394843
+    m_Address: Assets/Audio/SFX/Pokemon Cries/533.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dadae6bf2d31fb04eacb88e1cd24be5d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/534.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1b29c3355e06bc45a2a70dd9034d617
+    m_Address: Assets/Audio/SFX/Pokemon Cries/535.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b133862cff1abf945aa7b59810758325
+    m_Address: Assets/Audio/SFX/Pokemon Cries/536.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb15fd2f04069f4cabef46faf71524a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/537.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f9c94615a159434d899ee4fe06de549
+    m_Address: Assets/Audio/SFX/Pokemon Cries/538.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deea25c12299f5b4b9d73852b1ccf0d4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/539.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0983d630baa5b654fbca4940e9c7c2cb
+    m_Address: Assets/Audio/SFX/Pokemon Cries/540.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c646563b29b46743b67bdaaaa7b47a8
+    m_Address: Assets/Audio/SFX/Pokemon Cries/541.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 817bf7f979c2de44fbebf5bee6f02136
+    m_Address: Assets/Audio/SFX/Pokemon Cries/542.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e97b90a384e8b5e478cb9eb230b73ae4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/543.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c79c5b69ed9e4b947bd4a70edf6e52ed
+    m_Address: Assets/Audio/SFX/Pokemon Cries/544.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebf2d4f15ce106b49b0cf27d48105f24
+    m_Address: Assets/Audio/SFX/Pokemon Cries/545.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d0a7a3892ceb0240ad1c0e8617f8d86
+    m_Address: Assets/Audio/SFX/Pokemon Cries/546.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1184df0aca393b5408984cdee5fd6efc
+    m_Address: Assets/Audio/SFX/Pokemon Cries/547.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7509ffc4f6b4d5e4ba871748fa2ad5ef
+    m_Address: Assets/Audio/SFX/Pokemon Cries/548.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a351bbd62a792ad4c9f675eb2c673f13
+    m_Address: Assets/Audio/SFX/Pokemon Cries/549.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84301a0f9f58d174fb47c774104b313a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/550.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8124201197dd47143aa99f3aff910c5d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/551.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ca0155ce09644748a80840768215005
+    m_Address: Assets/Audio/SFX/Pokemon Cries/552.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 771dce15743a3494a9ac098f08764298
+    m_Address: Assets/Audio/SFX/Pokemon Cries/553.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc40bb9b9843b404d93ca4c8bd8330a6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/554.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0721b815b7c163040a5172d73cb9a568
+    m_Address: Assets/Audio/SFX/Pokemon Cries/555.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbca383c8bf9fee46a169863f305b559
+    m_Address: Assets/Audio/SFX/Pokemon Cries/556.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3525746d2676c204b9c8d7d33be35fb5
+    m_Address: Assets/Audio/SFX/Pokemon Cries/557.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57d6e1ec46dd3f64c984d6f51bb4cde9
+    m_Address: Assets/Audio/SFX/Pokemon Cries/558.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e1b204de2db3494c98dcfcc9d038a48
+    m_Address: Assets/Audio/SFX/Pokemon Cries/559.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabb9eb471b192f45a9d8b777612f0e0
+    m_Address: Assets/Audio/SFX/Pokemon Cries/560.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad46c4a4a76e8a341ba37d950238cbe6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/561.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d7ee1079552e5e45933cb92fc909f41
+    m_Address: Assets/Audio/SFX/Pokemon Cries/562.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf2486ca329647449b4d336be6e1fa0b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/563.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e42c1116e004b5547b74d149b97dddc4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/564.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53466ebd6f2a7c145804074741c2d12a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/565.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d5ea522d1c8c454c9e270f7cc537ac3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/566.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc1010f712a180a46b9785b8799d2121
+    m_Address: Assets/Audio/SFX/Pokemon Cries/567.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8564dd8ba13e6cd4480d4b83062169b6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/568.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84d52be35e405624491d89a37731e794
+    m_Address: Assets/Audio/SFX/Pokemon Cries/569.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7eb3b1e24f01604e915a4634409c483
+    m_Address: Assets/Audio/SFX/Pokemon Cries/570.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6e9fd5860a99bc48bd26bc011e7214d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/571.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf0a50a9b93ad0428fa6f5430d14b26
+    m_Address: Assets/Audio/SFX/Pokemon Cries/572.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb05c8ccda7647c47a79d185ba2be955
+    m_Address: Assets/Audio/SFX/Pokemon Cries/573.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6834a2cf5058c774ea9f34e12d3d72dd
+    m_Address: Assets/Audio/SFX/Pokemon Cries/574.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48640cdbc57b14e4dbe3d4f785d1f198
+    m_Address: Assets/Audio/SFX/Pokemon Cries/575.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6391ba6e11993004c9645ab4cda9efde
+    m_Address: Assets/Audio/SFX/Pokemon Cries/576.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cafa10b09c58f584baa92eb80035c955
+    m_Address: Assets/Audio/SFX/Pokemon Cries/577.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8ffdfc2a146592469ed13e69c94a4be
+    m_Address: Assets/Audio/SFX/Pokemon Cries/578.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c44534f3d175b5468f05ec3a87174f5
+    m_Address: Assets/Audio/SFX/Pokemon Cries/579.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a502aefa080bae4882e65ad07b64513
+    m_Address: Assets/Audio/SFX/Pokemon Cries/580.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23452ff09a0dabe4ab2effbaf480598a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/581.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf64b65f22c4cbe47a43d5f98c498999
+    m_Address: Assets/Audio/SFX/Pokemon Cries/582.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0e68de33615202479b3d3220341b703
+    m_Address: Assets/Audio/SFX/Pokemon Cries/583.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef19381192f180459da4ef795681258
+    m_Address: Assets/Audio/SFX/Pokemon Cries/584.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1b57337dce803b4983e59ef3bedb10c
+    m_Address: Assets/Audio/SFX/Pokemon Cries/585.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12425942760e43d4e9fe96e89c9ff7ad
+    m_Address: Assets/Audio/SFX/Pokemon Cries/586.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff642c9057bf66c41a460f79d7615f6c
+    m_Address: Assets/Audio/SFX/Pokemon Cries/587.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26347f12e9ed3af4b94ae8a10b00713e
+    m_Address: Assets/Audio/SFX/Pokemon Cries/588.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11668eaee3c072b45aa25eb51fad9f1c
+    m_Address: Assets/Audio/SFX/Pokemon Cries/589.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5c1e41b93f91284391cc82baebc1fca
+    m_Address: Assets/Audio/SFX/Pokemon Cries/590.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e19c352de69321641b23df27328431c8
+    m_Address: Assets/Audio/SFX/Pokemon Cries/591.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c63af786f7238b3428463d2c41307e6d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/592.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14e0f64c8bb421c44bfcd894d6565d1d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/593.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7923b6e000099cf49a0dd73132c6ba26
+    m_Address: Assets/Audio/SFX/Pokemon Cries/594.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8996c37c54aa4564bb2b1ab95a412b12
+    m_Address: Assets/Audio/SFX/Pokemon Cries/595.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f69f5db9b60e6e641b03e5e529336394
+    m_Address: Assets/Audio/SFX/Pokemon Cries/596.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 471f536dd14322140ae3275dbee6fa30
+    m_Address: Assets/Audio/SFX/Pokemon Cries/597.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da5651030e2afea40a37b3bdb81ff1b5
+    m_Address: Assets/Audio/SFX/Pokemon Cries/598.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 767f104fa452d424a9f29503c7d8490b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/599.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0081a001b849064491725f6d806c55d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/600.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d5425e6cc8b9c446a17df6895b6b8d3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/601.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a8de56580de94458b5859a3dfc12dc
+    m_Address: Assets/Audio/SFX/Pokemon Cries/602.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae7513963ef9a75478e4db719fbce3ec
+    m_Address: Assets/Audio/SFX/Pokemon Cries/603.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c92d6d2e05f051448325b8efdf57ca5
+    m_Address: Assets/Audio/SFX/Pokemon Cries/604.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d647d612943a99488b3dcc031ecf40a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/605.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5de70c6d8f51e3b46a65b096c51b9ae0
+    m_Address: Assets/Audio/SFX/Pokemon Cries/606.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76e1598c671652e4cad12b399ce3e54b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/607.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df442c7aa3a11cc489791a93d2cf189b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/608.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e72ffc8f9d6b574aabb9bdd7d84d2b3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/609.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d517d220f8afdd24a92190cb010854d6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/610.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf051116bf3456b4f892bf3cf9b177ea
+    m_Address: Assets/Audio/SFX/Pokemon Cries/611.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 036bd14d7876c5c44be4be631ada42f6
+    m_Address: Assets/Audio/SFX/Pokemon Cries/612.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf0545b5113b374193b7871983600f3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/613.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 224bcbc7cf994ba4fa141e1da67f21e3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/614.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 785749697aa1c024b9bf543dab82b60f
+    m_Address: Assets/Audio/SFX/Pokemon Cries/615.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 442f08ebe85e27341bc680331a6daf18
+    m_Address: Assets/Audio/SFX/Pokemon Cries/616.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78c8e4b8bd6b00c4a8c3956b7064aac9
+    m_Address: Assets/Audio/SFX/Pokemon Cries/617.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a74411ed0cd3ba43af592bae53ae9f8
+    m_Address: Assets/Audio/SFX/Pokemon Cries/618.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5a3f2a9a8b3d074a8c57c71d55e75dd
+    m_Address: Assets/Audio/SFX/Pokemon Cries/619.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3e71a7041eeace4cbf8db1b38d1541a
+    m_Address: Assets/Audio/SFX/Pokemon Cries/620.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327e224aaa51dbc41bf0274da383c0c1
+    m_Address: Assets/Audio/SFX/Pokemon Cries/621.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 954ebfbbc5666a34dafeb529a0976aec
+    m_Address: Assets/Audio/SFX/Pokemon Cries/622.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6fd6f2cb687f9459c513ac2703bf7f
+    m_Address: Assets/Audio/SFX/Pokemon Cries/623.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fea741b34b92654092a9d34a17c2b20
+    m_Address: Assets/Audio/SFX/Pokemon Cries/624.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2e1b5f5c97bf9c41857fa481bffa32f
+    m_Address: Assets/Audio/SFX/Pokemon Cries/625.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97d3e72ca9eff3147b39650d462bb543
+    m_Address: Assets/Audio/SFX/Pokemon Cries/626.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afafc8a1718b7a14081131216d3c8e3d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/627.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9d1e564ffaa5c44d964beb6c4a667c4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/628.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0920a72560583d2418bbaecfd51068a1
+    m_Address: Assets/Audio/SFX/Pokemon Cries/629.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19184356d04fa1e4d8da49f0cceffa8b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/630.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6aa522a470a57b4ead40cf4a486155e
+    m_Address: Assets/Audio/SFX/Pokemon Cries/631.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a6a29afcbd259d45970497841e9e6ea
+    m_Address: Assets/Audio/SFX/Pokemon Cries/632.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83cb3c4338ac66e4b80de80cc5380a51
+    m_Address: Assets/Audio/SFX/Pokemon Cries/633.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b0a7ec11b7ece94aa0743f0f28d6318
+    m_Address: Assets/Audio/SFX/Pokemon Cries/634.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7eb4b911df723d40976da61c93059bd
+    m_Address: Assets/Audio/SFX/Pokemon Cries/635.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd5890f3a2c06d4ebf0ab238fd77cea
+    m_Address: Assets/Audio/SFX/Pokemon Cries/636.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e90dc2ed3615674fb80d2594ff8f5a4
+    m_Address: Assets/Audio/SFX/Pokemon Cries/637.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88fd7515caf52c46ae52753d69f9e13
+    m_Address: Assets/Audio/SFX/Pokemon Cries/638.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c85793e3dfd56104fa22b8707561afe7
+    m_Address: Assets/Audio/SFX/Pokemon Cries/639.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5814607cbec952f4dad38405d86d2a45
+    m_Address: Assets/Audio/SFX/Pokemon Cries/640.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f888597eb69d4304780101ae9b2f814b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/641.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4807a39096452fa41bed82d5762b6d53
+    m_Address: Assets/Audio/SFX/Pokemon Cries/641t.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bea4d79e32a1b847986e0dd3aac5a58
+    m_Address: Assets/Audio/SFX/Pokemon Cries/642.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e233c989a58b6a4cbceb7969db826e0
+    m_Address: Assets/Audio/SFX/Pokemon Cries/642t.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abda4c05925f2b846956d4cf40608a6c
+    m_Address: Assets/Audio/SFX/Pokemon Cries/643.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faf86b70a17300c45bd444dd00f52de3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/644.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec8f370b61b7d5a478075d0443dc8fb2
+    m_Address: Assets/Audio/SFX/Pokemon Cries/645.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8fed4c0d5ecebc4ab870ad0ee78c922
+    m_Address: Assets/Audio/SFX/Pokemon Cries/645t.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ff1392e8ce9b440930850f50a17819
+    m_Address: Assets/Audio/SFX/Pokemon Cries/646.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5538835e043f503428a143909d99872b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/646bk.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9c0bd5440489b4cb79eb636924522d
+    m_Address: Assets/Audio/SFX/Pokemon Cries/646wk.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75cad00bb2e6cbd40b41abbe43669d3b
+    m_Address: Assets/Audio/SFX/Pokemon Cries/647.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf3675527a3f39d41bb3787d0b9e19e3
+    m_Address: Assets/Audio/SFX/Pokemon Cries/648.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba29eaef8ddf58e47b06c574ab8d1062
+    m_Address: Assets/Audio/SFX/Pokemon Cries/649.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1068abd0e6def3f41be46b228ec71eb3
+    m_Address: Assets/Audio/SFX/Accept.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cac8f52beab10d448221186a3d55768
+    m_Address: Assets/Audio/SFX/Bump.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 101f5764d37755044bf5e3d5dc2487d2
+    m_Address: Assets/Audio/SFX/Select.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45660d0c9fb7def4d94f31a719ef3c14
+    m_Address: Assets/Audio/SFX/Spotted.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9046e40bdd1870945a9137780d26b0fb
+    m_Address: Assets/Audio/Music/Disc 1/14 - Route 1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37c6607b719d6fa4a9665387fb553235
+    m_Address: Assets/Audio/Music/Disc 1/07 - Nuvema Town.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e83a477bd698ae49b3446f30a2eab3f
+    m_Address: Assets/Audio/Music/Disc 1/01 - Coronation Day.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d8083419731494b8bfc3fe3ac2a5fc
+    m_Address: Assets/Audio/Music/Disc 1/02 - A New Adventure!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5436521b18180b4408e254a9b3b76e64
+    m_Address: Assets/Audio/Music/Disc 1/03 - Title Screen.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae0b12f8257e5b64d9c4e65ab6df7e8b
+    m_Address: Assets/Audio/Music/Disc 1/04 - Onward to Adventure!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29099a6dee092b64d8b518c3902b9c08
+    m_Address: Assets/Audio/Music/Disc 1/05 - Onward to Adventure! (Part 2).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1283f5f3fe90ba428eb38796168815e
+    m_Address: Assets/Audio/Music/Disc 1/06 - A Day of Beginnings.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb80bae10aa12ba478f45a10c49597cd
+    m_Address: Assets/Audio/Music/Disc 1/08 - Battle! (Cheren-Bianca).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 277fa1a40414eec45956785340c40495
+    m_Address: Assets/Audio/Music/Disc 1/09 - Hurry Along .mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a78972cacc55b541a696206d3608bea
+    m_Address: Assets/Audio/Music/Disc 1/10 - Professor Juniper.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d23b5956f978174691c06e592cd8c5c
+    m_Address: "Assets/Audio/Music/Disc 1/11 - Juniper Pok\xE9mon Lab.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5607417c4a6f5f47bede127ce99d41f
+    m_Address: Assets/Audio/Music/Disc 1/12 - Obtained a Key Item!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecee1fa2de31b984098549a46c046525
+    m_Address: Assets/Audio/Music/Disc 1/13 - Let's Go Together!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff70f9dc9f713e34c834c0411ca25ef8
+    m_Address: "Assets/Audio/Music/Disc 1/15 - Battle! (Wild Pok\xE9mon).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cda4f22b55a95a043b3c763515b51f2d
+    m_Address: "Assets/Audio/Music/Disc 1/16 - Victory! (Wild Pok\xE9mon).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26cb5dcd171fd9345a387ddc201f51c7
+    m_Address: Assets/Audio/Music/Disc 1/17 - Level Up!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11fa5e48a9182a4bba19b83dbf48a89
+    m_Address: Assets/Audio/Music/Disc 1/18 - Accumula Town.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ad51ae95f43e64caad8a11eeb9ddd2
+    m_Address: Assets/Audio/Music/Disc 1/19 - Hurry Along 2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46bdb176edc042c4499b0fe2ce5afc68
+    m_Address: "Assets/Audio/Music/Disc 1/20 - Pok\xE9mon Center.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bce634987149d374aa15d6eec0282fcb
+    m_Address: "Assets/Audio/Music/Disc 1/21 - Pok\xE9mon Healed.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c6278a2941a3a4fa9fb064b72f08da
+    m_Address: "Assets/Audio/Music/Disc 1/22 - Pok\xE9dex Evaluation - You've Just
+      Begun!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c13f96eb14bceeb428dc77a347d3d097
+    m_Address: Assets/Audio/Music/Disc 1/23 - Team Plasma Plots.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb6b2100f3ce5924da3873d862dc6fd6
+    m_Address: Assets/Audio/Music/Disc 1/24 - Route 2 (Spring).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ef5bbbecf651143bd71b90df39602f
+    m_Address: Assets/Audio/Music/Disc 1/25 - Route 2 (Summer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d1d065f494d3046971a01145778d4e
+    m_Address: Assets/Audio/Music/Disc 1/26 - Xtransceiver.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebd298d8fd0824441858b56602054638
+    m_Address: Assets/Audio/Music/Disc 1/27 - Trainers' Eyes Meet (Youngster).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6288b3afe11d6746bf9d33c04af2782
+    m_Address: Assets/Audio/Music/Disc 1/28 - Battle! (Trainer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d183dee9251ca74fbe268631c141227
+    m_Address: Assets/Audio/Music/Disc 1/29 - Victory! (Trainer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 261c172987f1e05409ac92dd35fd8b9d
+    m_Address: Assets/Audio/Music/Disc 1/30 - Trainers' Eyes Meet (Lass).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d719f91c0bff03844bf2ab6522f61ad6
+    m_Address: Assets/Audio/Music/Disc 1/31 - Obtained an Item!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82fefac1b9adedd45aed1ab3bd8ac809
+    m_Address: Assets/Audio/Music/Disc 1/32 - Striaton City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bbca5db49e63be499f382058573b804
+    m_Address: "Assets/Audio/Music/Disc 1/33 - Pok\xE9dex Evaluation - You're on
+      Your Way!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0b3a61f3a18064d92ca65a8d9844f9
+    m_Address: Assets/Audio/Music/Disc 1/34 - Dreamyard.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e41f08c21ec0b2428bcb9bc26df1333
+    m_Address: Assets/Audio/Music/Disc 1/35 - Team Plasma Appears!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57bbd3c24dd70074aac5a9ad679b2238
+    m_Address: Assets/Audio/Music/Disc 1/36 - Battle! (Team Plasma).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b341d74728ceb1c48b01f3f3ffb81d3a
+    m_Address: Assets/Audio/Music/Disc 1/37 - Victory! (Team Plasma).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da1eaa1df91786429fb64f8255b49a6
+    m_Address: Assets/Audio/Music/Disc 1/38 - Evolution.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba58fea8ab5c4f54e9f3af92091a0f04
+    m_Address: "Assets/Audio/Music/Disc 1/39 - Congratulations! Your Pok\xE9mon Evolved!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c4b7f375b31fc54bbbe79c051b2ccfc
+    m_Address: Assets/Audio/Music/Disc 1/40 - Trainers' Eyes Meet (Twins).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c865f644fa7267409accd7a629c3e64
+    m_Address: Assets/Audio/Music/Disc 1/41 - Cheren.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4da9063b4c1353468938767ba1299f9
+    m_Address: Assets/Audio/Music/Disc 1/42 - There's Trouble!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03f02142069518f4995ad918b8d55fee
+    m_Address: Assets/Audio/Music/Disc 1/43 - Nacrene City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c432584bf53e4cb44b0babd5eed1f158
+    m_Address: "Assets/Audio/Music/Disc 1/44 - Pok\xE9dex Evaluation - Keep at It!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eac58b601e9660e4c93f4003e73fcb5f
+    m_Address: "Assets/Audio/Music/Disc 1/45 - Pok\xE9mon Gym.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f84af7fc6d4e94a4c9945a7a96531b1e
+    m_Address: Assets/Audio/Music/Disc 1/46 - Battle! (Gym Leader).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aac9dd2158be63c429eb17464a4ff5ff
+    m_Address: Assets/Audio/Music/Disc 1/47 - Victory Lies Before You!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d9c2a81ec1ec74293d62ecd577aaac
+    m_Address: Assets/Audio/Music/Disc 1/48 - Victory! (Gym Leader).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 385481f1e370c1d4a893b75c45209611
+    m_Address: Assets/Audio/Music/Disc 1/49 - Obtained a Badge!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a98dc3255d70ad94381d8c1ce677abae
+    m_Address: Assets/Audio/Music/Disc 1/50 - Obtained a TM!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b93e7268779729c49a8345cb2e2f5511
+    m_Address: Assets/Audio/Music/Disc 1/51 - Gate.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f0e19bb59e0704419010292f4fb13e9
+    m_Address: Assets/Audio/Music/Disc 1/52 - Skyarrow Bridge.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b570bf817949e6c4bb94d9e0d041e1d5
+    m_Address: Assets/Audio/Music/Disc 1/53 - Castelia City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c4037582846e084f9dfff27a925e10c
+    m_Address: "Assets/Audio/Music/Disc 1/54 - Trainers' Eyes Meet (Clerk \u2642).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58ff802de40c36a438cd83453c0d1009
+    m_Address: Assets/Audio/Music/Disc 1/55 - Route 4 (Spring).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a82fe858ee332254b9383e0ea3e6d1b5
+    m_Address: Assets/Audio/Music/Disc 1/56 - Trainers' Eyes Meet (Backpacker).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b7a5aef3c2a0cc4ab39b0e7c44a3bb5
+    m_Address: Assets/Audio/Music/Disc 1/57 - Nimbasa City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eefb3f895067584bbb2d4b5fccda041
+    m_Address: Assets/Audio/Music/Disc 1/58 - Bianca.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf1952d73fe333a4ebe0cbb55959d9a5
+    m_Address: Assets/Audio/Music/Disc 1/59 - An Unwavering Heart.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bd3c5f6e540f9b41a10bf6fb5df38aa
+    m_Address: Assets/Audio/Music/Disc 1/60 - Prisoner to a Formula.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9938857ab9211042b2b2f79594e763b
+    m_Address: Assets/Audio/Music/Disc 1/61 - Battle! (N).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc7c752796f82e48b88fc0efcadae19
+    m_Address: Assets/Audio/Music/Disc 1/62 - A Tight Spot During Battle!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7daa30e6c00da624ea0cfca7c9b08384
+    m_Address: Assets/Audio/Music/Disc 1/63 - Cycling.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28b2b6b475a3a294bb0b69d2f9ef03a6
+    m_Address: Assets/Audio/Music/Disc 1/64 - Champion Alder.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c796f7aab24b43e45a18318750f6d257
+    m_Address: Assets/Audio/Music/Disc 2/01 - Driftveil Drawbridge.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1ef84d894cc41f4baca015164ffa6af
+    m_Address: Assets/Audio/Music/Disc 2/02 - Driftveil City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 282441c73db95bc46a48e23cc51e2afd
+    m_Address: Assets/Audio/Music/Disc 2/03 - Cold Storage.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4b905db79c186c4e801e0abd6ba3063
+    m_Address: Assets/Audio/Music/Disc 2/04 - Route 6 (Spring).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 380872a9f36f7dd4ebcb7fc1d71d4282
+    m_Address: Assets/Audio/Music/Disc 2/05 - Route 6 (Summer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19083e58e6557af45bd68e553e285813
+    m_Address: Assets/Audio/Music/Disc 2/06 - Trainers' Eyes Meet (Parasol Lady).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ceb76d727e585a245a0c9aa72f40e4fc
+    m_Address: Assets/Audio/Music/Disc 2/07 - Trainers' Eyes Meet (Scientist).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 028461a7cb2992841981500d9dc5d713
+    m_Address: Assets/Audio/Music/Disc 2/08 - Chargestone Cave.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 007b37911d7397241991089329b98c19
+    m_Address: Assets/Audio/Music/Disc 2/09 - Mistralton City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cba9497328eae24f892749f5f41f27d
+    m_Address: Assets/Audio/Music/Disc 2/10 - Cedric Juniper.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df5d0ab56329b1f4eb6146b56789dfa5
+    m_Address: "Assets/Audio/Music/Disc 2/11 - Pok\xE9dex Evaluation - Not Bad!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1266835db2c5a408d6c165d247dcf3
+    m_Address: Assets/Audio/Music/Disc 2/12 - Move Deleted.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a2d95c230cd6fe468019ffaf92d0e35
+    m_Address: Assets/Audio/Music/Disc 2/13 - Trainers' Eyes Meet (Psychic).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbb7bd44c51078d408ca5e39622964fb
+    m_Address: Assets/Audio/Music/Disc 2/14 - Icirrus City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fae77c265e451146bbbc3db2d926588
+    m_Address: Assets/Audio/Music/Disc 2/15 - Dragonspiral Tower.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e09b66b02fa2e2244a5e00e4cdcd69fb
+    m_Address: Assets/Audio/Music/Disc 2/16 - Trainers' Eyes Meet (Team Plasma).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcf1bd0273238024098eb7e82759ec33
+    m_Address: Assets/Audio/Music/Disc 2/17 - Dragonspiral Tower Top Floor.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61da28428c470ca4d95dfe695482cbab
+    m_Address: Assets/Audio/Music/Disc 2/18 - Route 4 (Summer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 838a4a54b869fe04991bd7acd59c4071
+    m_Address: Assets/Audio/Music/Disc 2/19 - Relic Castle.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a572833d7d374614ba528bd40c8217ca
+    m_Address: Assets/Audio/Music/Disc 2/20 - Light Stone-Dark Stone.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ac200ba6f4a67e4cb75e52b8f8bb3a6
+    m_Address: Assets/Audio/Music/Disc 2/21 - Tubeline Bridge.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f421852ddded5194081d17394f17dee9
+    m_Address: Assets/Audio/Music/Disc 2/22 - Shopping Mall Nine.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78f93e2d4ddb89842a9f3611400c93d1
+    m_Address: Assets/Audio/Music/Disc 2/23 - Trainers' Eyes Meet (Roughneck).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1685a760a7951764fb99a947ab358cdb
+    m_Address: Assets/Audio/Music/Disc 2/24 - Opelucid City (Black).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fd3fbc731bc79042ad5214f9faf73cf
+    m_Address: Assets/Audio/Music/Disc 2/25 - Opelucid City (White).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ebcc24c9532ce943aee37ffb62ff01a
+    m_Address: Assets/Audio/Music/Disc 2/26 - Route 10.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd76dcd8a07d93142a0eccdd82207f25
+    m_Address: Assets/Audio/Music/Disc 2/27 - Victory Road.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f50f1352af4fa4a4a95d3d24018eb89b
+    m_Address: Assets/Audio/Music/Disc 2/28 - Trainers' Eyes Meet (Ace Trainer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4942ed91927f5e1418d3085bf7b1e3bc
+    m_Address: "Assets/Audio/Music/Disc 2/29 - Pok\xE9mon League.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdc3aba9c2905ce4e914c1ef58c7fa77
+    m_Address: Assets/Audio/Music/Disc 2/30 - Battle! (Elite Four).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31ee3cd048e4dd544962a9b2031e82c3
+    m_Address: "Assets/Audio/Music/Disc 2/31 - The Pok\xE9mon League Besieged!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cc2a3773e0f21a46a6ce953e40390c7
+    m_Address: "Assets/Audio/Music/Disc 2/32 - The Pok\xE9mon League Besieged! (Alt).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 750b847b7d1681148b567bc8da25c6e9
+    m_Address: Assets/Audio/Music/Disc 2/33 - Embracing One's Duty.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8114f8273d87d524dbbb44259d2bd749
+    m_Address: Assets/Audio/Music/Disc 2/34 - N's Castle.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae05efc82d6ef0741a56316c5dadb5a0
+    m_Address: "Assets/Audio/Music/Disc 2/35 - The Pok\xE9mon Child, N.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f028327621162be4e8c766900e4ff642
+    m_Address: Assets/Audio/Music/Disc 2/36 - N's Dragon.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6d0dc597aa74e43811052394a263c0
+    m_Address: Assets/Audio/Music/Disc 2/37 - N's Dragon (Alt).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 310fdf7f8fcb77b438794764cca89603
+    m_Address: Assets/Audio/Music/Disc 2/38 - The Dragon Awakes.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fcc17733452aa341b47e922ec767874
+    m_Address: Assets/Audio/Music/Disc 2/39 - The Dragon Awakes (Alt).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89db649f43477a5489b9a1832d84a0d4
+    m_Address: Assets/Audio/Music/Disc 2/40 - Battle! (Reshiram-Zekrom).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faec5332fb09d984b946561fa43132aa
+    m_Address: Assets/Audio/Music/Disc 2/41 - Final Battle! (N).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d18c8aceebecde24caeaf06c658560df
+    m_Address: Assets/Audio/Music/Disc 2/42 - Ghetsis' Ambitions.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97f4742a7d00779448903eeda37efaf1
+    m_Address: Assets/Audio/Music/Disc 2/43 - Battle! (Ghetsis).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00578bf34ea18cf44aed9e016a2664e7
+    m_Address: Assets/Audio/Music/Disc 2/44 - Farewell.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7852105e47e50d4e9dc4db69461adce
+    m_Address: Assets/Audio/Music/Disc 2/45 - Onward to Our Own Futures.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cc891755774de34e940b4e64bb654e1
+    m_Address: Assets/Audio/Music/Disc 3/01 - Looker.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4180c3736a8e4ec4e9d812e0c4432802
+    m_Address: Assets/Audio/Music/Disc 3/02 - Route 2 (Autumn).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab67ee57ecd434d4282d00f78877fc0e
+    m_Address: Assets/Audio/Music/Disc 3/03 - Route 2 (Winter).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 627fe15a5cc747d4390edfbc0b8f2750
+    m_Address: "Assets/Audio/Music/Disc 3/04 - Received a Pok\xE9mon Egg!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77c42cf11cdbde94da5dda9f77b79245
+    m_Address: Assets/Audio/Music/Disc 3/05 - Royal Unova.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea203f4b1c756e041bb589f16ff3daec
+    m_Address: Assets/Audio/Music/Disc 3/06 - Nintendo Wi-Fi Connection.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67597ef6283ab1144acb8f2b07f37555
+    m_Address: Assets/Audio/Music/Disc 3/07 - Global Terminal.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93a2297501bb7a6479285315d9e70715
+    m_Address: Assets/Audio/Music/Disc 3/08 - GTS.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1a2f064ccd38f34693ae9171412c63c
+    m_Address: Assets/Audio/Music/Disc 3/09 - Spin Trade.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef516ffda1d1189439b4248350e98029
+    m_Address: "Assets/Audio/Music/Disc 3/10 - Pok\xE9dex Evaluation - Just a Little
+      More!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7ea90f40b94dbb498b9856e39b9bf18
+    m_Address: Assets/Audio/Music/Disc 3/11 - Route 4 (Autumn).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c561e4433c44a047a3869a5e960dd0c
+    m_Address: Assets/Audio/Music/Disc 3/12 - Gear Station.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5706d66fed2dc524885a19c976c5feac
+    m_Address: Assets/Audio/Music/Disc 3/13 - Battle Subway.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 614bc606ea9675f47959b9b80a744684
+    m_Address: Assets/Audio/Music/Disc 3/14 - Battle! (Battle Subway Trainer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96fc9a35086e7b7498a4dbb3a6d192b9
+    m_Address: Assets/Audio/Music/Disc 3/15 - Received Battle Points!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38687611290d91343a9b29d880c48450
+    m_Address: Assets/Audio/Music/Disc 3/16 - Musical Theater.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65513586caaa4de498a00af1cfd0c071
+    m_Address: Assets/Audio/Music/Disc 3/17 - Received Props!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32565f7cc449fd14e953112b25664b19
+    m_Address: Assets/Audio/Music/Disc 3/18 - Dress Up with Props.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41612749f0d18b541984cb37f8e20178
+    m_Address: Assets/Audio/Music/Disc 3/19 - The Curtain for the Musical Rises!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40edfb5be52451e429a41acea6349d3d
+    m_Address: Assets/Audio/Music/Disc 3/20 - Musical - Stardom.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aec066886fae624ba0bc99961f4ca0f
+    m_Address: Assets/Audio/Music/Disc 3/21 - Musical - Forest Stroll.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c63ee6395579504793e2e548014ddd0
+    m_Address: "Assets/Audio/Music/Disc 3/22 - Musical - A Sweet Soir\xE9e.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b9d1abda9a25d468b0273861aa688d
+    m_Address: Assets/Audio/Music/Disc 3/23 - Musical - Exciting Nimbasa.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c58fc4c1eed121443a479d06fc6acd70
+    m_Address: Assets/Audio/Music/Disc 3/24 - Musical - Charming Munna.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f99658990d051494baad2d04fc88edb2
+    m_Address: "Assets/Audio/Music/Disc 3/25 - Musical - Pok\xE9mon Smash!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcd3d750e49c3f64386a819c90871386
+    m_Address: "Assets/Audio/Music/Disc 3/26 - Musical - Carnival Pok\xE9mon.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a00a62137badcae46ab21a96a53e8082
+    m_Address: Assets/Audio/Music/Disc 3/27 - Musical - Meloettaaa!!!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7ad63a8a3c47946847658488e7de79
+    m_Address: Assets/Audio/Music/Disc 3/28 - Musical - Carnival Ludicolo!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3457b77fee79fe45ab398ef934becca
+    m_Address: Assets/Audio/Music/Disc 3/29 - A Ferris Wheel Ride Together.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dada42be460405749b3c73c6bc9bd615
+    m_Address: Assets/Audio/Music/Disc 3/30 - Feeling Check.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 120754182967eca46a8929c6b3404c35
+    m_Address: Assets/Audio/Music/Disc 3/31 - Feeling Check - Perfect!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55d1af913ff34864abed3760e267c326
+    m_Address: Assets/Audio/Music/Disc 3/32 - Feeling Check - Getting Close.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c133d3e3ad3ba645830f9d673735ff6
+    m_Address: Assets/Audio/Music/Disc 3/33 - Feeling Check - Lukewarm.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fb8d6401e9892f41af46dfa977b6fe5
+    m_Address: Assets/Audio/Music/Disc 3/34 - Route 6 (Autumn).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f489e84d1323c4d8ce224937bedbea
+    m_Address: Assets/Audio/Music/Disc 3/35 - Route 6 (Winter).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 493e0a639e131464588c01fab45652b2
+    m_Address: "Assets/Audio/Music/Disc 3/36 - Battle! (Legendary Pok\xE9mon).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ec553753e900fb46a8edb5d1beba531
+    m_Address: Assets/Audio/Music/Disc 3/37 - Anville Town.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03fa315136dcbb54bb49a6c39f3a87ae
+    m_Address: Assets/Audio/Music/Disc 3/38 - Marvelous Bridge.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9e627542fbaad44be5fd4e64f3e45b
+    m_Address: Assets/Audio/Music/Disc 3/39 - Route 12 (Spring).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5633e38d028a0f44897c539d53ea6f1f
+    m_Address: Assets/Audio/Music/Disc 3/40 - Route 12 (Summer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79937e1bbc2c5cb4aaa1c6695fae42a5
+    m_Address: Assets/Audio/Music/Disc 3/41 - Trainers' Eyes Meet (Cyclist).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36b22132dc119774ea12969b3cc39d05
+    m_Address: "Assets/Audio/Music/Disc 3/42 - Pok\xE9 Transfer Lab.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcaecf2a287e8b24fa7a1c2ea1986caf
+    m_Address: "Assets/Audio/Music/Disc 3/43 - Pok\xE9 Transfer - Choose Your Pok\xE9mon!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d679a7e8ddbd3f44acb53146e582771
+    m_Address: "Assets/Audio/Music/Disc 3/44 - Pok\xE9 Transfer - Catch Your Pok\xE9mon!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3add805783774e4a80956072f755e33
+    m_Address: "Assets/Audio/Music/Disc 3/45 - Trainers' Eyes Meet (Pok\xE9 Fan).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1102297d3893c184a9d32cf4b48b2041
+    m_Address: Assets/Audio/Music/Disc 3/46 - Black City.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f3b6ad9c1c20bd4581b364263813861
+    m_Address: Assets/Audio/Music/Disc 3/47 - White Forest.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39c74129288cf2e448655824f0a2d6d3
+    m_Address: Assets/Audio/Music/Disc 3/48 - Game Sync.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2f598a8703e8845b479d5b6bdaf673
+    m_Address: Assets/Audio/Music/Disc 3/49 - Entralink.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1f3b647a96cf764b8148d322fe055b1
+    m_Address: Assets/Audio/Music/Disc 3/50 - Begin an Entralink Mission!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9bf7c8d7d26e3c428cb3712b829ede7
+    m_Address: Assets/Audio/Music/Disc 3/51 - Someone's Entralink.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6a0be95e8529cc4f9a856c5e6af1d11
+    m_Address: Assets/Audio/Music/Disc 3/52 - Mission Accomplished!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7452d8cb5e4468e4ea1ba469fb20ee32
+    m_Address: Assets/Audio/Music/Disc 3/53 - Mission Failed!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 288658b3d7c53ef4bb76c44131c8df9c
+    m_Address: Assets/Audio/Music/Disc 3/54 - Trainers' Eyes Meet (Gentleman).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9c97205c9a050d4aad6f1cf10bcdaf8
+    m_Address: Assets/Audio/Music/Disc 3/55 - Undella Town (Autumn-Winter-Spring).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f3e89f2e844e82459c0d68ab6e80c45
+    m_Address: Assets/Audio/Music/Disc 3/56 - Undella Town (Summer).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b8792beac5e65b4e998d62d18eaf26c
+    m_Address: Assets/Audio/Music/Disc 3/57 - Cynthia.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a02ec5402d6eda14d8ed2fd4d92c5b57
+    m_Address: Assets/Audio/Music/Disc 3/58 - Battle! (Cynthia).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3100d203b70ea34eb0b8e59b1616cb8
+    m_Address: Assets/Audio/Music/Disc 3/59 - Lostlorn Forest.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 690a863ca4f16784c9ef89729f40f994
+    m_Address: "Assets/Audio/Music/Disc 3/60 - Battle! (Strong Wild Pok\xE9mon).mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de8a11ff9502b40419505c3b0f4493f8
+    m_Address: Assets/Audio/Music/Disc 4/01 - Surf.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa645fe631325444e84aa064149784cf
+    m_Address: Assets/Audio/Music/Disc 4/02 - Abyssal Ruins.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84a6b56d504fbe498a41fb55c324b61
+    m_Address: Assets/Audio/Music/Disc 4/03 - Route 12 (Autumn).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10225641fb9c1fe4ab8ab10646871e3f
+    m_Address: Assets/Audio/Music/Disc 4/04 - Route 12 (Winter).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47331777c374d6644a5d2744a44f3661
+    m_Address: Assets/Audio/Music/Disc 4/05 - Lacunosa Town.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5664f922a9882d489ba028dead0258c
+    m_Address: Assets/Audio/Music/Disc 4/06 - Village Bridge.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0b196cf21ec4a642a023d14f964d430
+    m_Address: Assets/Audio/Music/Disc 4/07 - Mystery Gift.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4349330d1d9fea24fbb44ead06b61818
+    m_Address: Assets/Audio/Music/Disc 4/08 - Route 4 (Winter).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 401ccad9a56489540892f90c8ca5d95b
+    m_Address: Assets/Audio/Music/Disc 4/09 - Challenging a Battle Competition.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55c09f6954252ce43bf3c59a4a266577
+    m_Address: Assets/Audio/Music/Disc 4/10 - Final Battle! (World Championships).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02d9f726a740ba64aa4d2c54f5347707
+    m_Address: Assets/Audio/Music/Disc 4/11 - Team Rocket!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bab792cd2adbeff4e97685800e860fe7
+    m_Address: Assets/Audio/Music/Disc 4/12 - Battle! (Kyurem).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e32c54bceb1a6334abf4142b80534977
+    m_Address: Assets/Audio/Music/Disc 4/13 - Unity Tower.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96f6b12845a344a48b998e107a224d3a
+    m_Address: Assets/Audio/Music/Disc 4/14 - Relic Song.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63be76048df174d4492d11580cb26cb3
+    m_Address: Assets/Audio/Music/Disc 4/15 - Obtained a Berry!.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a252e35c96ad77498c92f8382ead9a2
+    m_Address: "Assets/Audio/Music/Disc 4/16 - Pok\xE9dex Evaluation - Complete!.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e85f5e9d1e9cb94d931f4f8cf2c1f7c
+    m_Address: Assets/Audio/Music/Disc 4/17 - Battle! (Champion).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca56f96f8e54d524ca06cc0ae590cd17
+    m_Address: Assets/Audio/Music/Disc 4/18 - Victory! (Champion).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baa537a1b2cab9a44a7a6f6c5e7ce848
+    m_Address: Assets/Audio/Music/Disc 4/19 - Hall of Fame.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da673431ab151bb4d80df46a63c7a95c
+    m_Address: Assets/Audio
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0360a64e9e01e2742bae23d7bf23363f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d3f2851fa891cbb41a04ab7641b8e157, type: 2}
+    - {fileID: 11400000, guid: f32f7e43703eca543850b0fbe92ae5d0, type: 2}

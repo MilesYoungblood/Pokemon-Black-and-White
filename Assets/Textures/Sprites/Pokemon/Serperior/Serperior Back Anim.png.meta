@@ -1,0 +1,3539 @@
+fileFormatVersion: 2
+guid: e14032d1d2b9c7c46a523b0f532d0245
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6351239909306424286
+    second: SerperiorBackSpriteSheet_0
+  - first:
+      213: -8772451743716683787
+    second: SerperiorBackSpriteSheet_1
+  - first:
+      213: -3753450712941029546
+    second: SerperiorBackSpriteSheet_2
+  - first:
+      213: 4785683161021090035
+    second: SerperiorBackSpriteSheet_3
+  - first:
+      213: 6298621559343364584
+    second: SerperiorBackSpriteSheet_4
+  - first:
+      213: 3506998840222681318
+    second: SerperiorBackSpriteSheet_5
+  - first:
+      213: 1047264910823096947
+    second: SerperiorBackSpriteSheet_6
+  - first:
+      213: -8402680563116992626
+    second: SerperiorBackSpriteSheet_7
+  - first:
+      213: 2870812256639556324
+    second: SerperiorBackSpriteSheet_8
+  - first:
+      213: -2862495666211172075
+    second: SerperiorBackSpriteSheet_9
+  - first:
+      213: 4458198691782168958
+    second: SerperiorBackSpriteSheet_10
+  - first:
+      213: -7981530198109243065
+    second: SerperiorBackSpriteSheet_11
+  - first:
+      213: 450238919071029139
+    second: SerperiorBackSpriteSheet_12
+  - first:
+      213: 4487235650098612036
+    second: SerperiorBackSpriteSheet_13
+  - first:
+      213: 3206836334904386139
+    second: SerperiorBackSpriteSheet_14
+  - first:
+      213: -3547703103224123317
+    second: SerperiorBackSpriteSheet_15
+  - first:
+      213: -3862644393948868050
+    second: SerperiorBackSpriteSheet_16
+  - first:
+      213: -4430260637732264878
+    second: SerperiorBackSpriteSheet_17
+  - first:
+      213: -4036715206453500669
+    second: SerperiorBackSpriteSheet_18
+  - first:
+      213: -8887272943983316494
+    second: SerperiorBackSpriteSheet_19
+  - first:
+      213: -6780622127716902979
+    second: SerperiorBackSpriteSheet_20
+  - first:
+      213: -6254576071643870407
+    second: SerperiorBackSpriteSheet_21
+  - first:
+      213: -3155273447369195893
+    second: SerperiorBackSpriteSheet_22
+  - first:
+      213: 5893737655534823584
+    second: SerperiorBackSpriteSheet_23
+  - first:
+      213: 7349375097417437775
+    second: SerperiorBackSpriteSheet_24
+  - first:
+      213: 2387679563192860092
+    second: SerperiorBackSpriteSheet_25
+  - first:
+      213: 6223330580630718957
+    second: SerperiorBackSpriteSheet_26
+  - first:
+      213: 3081240107631045996
+    second: SerperiorBackSpriteSheet_27
+  - first:
+      213: -3620846639348745468
+    second: SerperiorBackSpriteSheet_28
+  - first:
+      213: 3604685040985789474
+    second: SerperiorBackSpriteSheet_29
+  - first:
+      213: -7551012112567769894
+    second: SerperiorBackSpriteSheet_30
+  - first:
+      213: -1457212746700094782
+    second: SerperiorBackSpriteSheet_31
+  - first:
+      213: -4582757399728828194
+    second: SerperiorBackSpriteSheet_32
+  - first:
+      213: -5454153017343576305
+    second: SerperiorBackSpriteSheet_33
+  - first:
+      213: 8547659870300817373
+    second: SerperiorBackSpriteSheet_34
+  - first:
+      213: 4274733020323491926
+    second: SerperiorBackSpriteSheet_35
+  - first:
+      213: -1108221740790372887
+    second: SerperiorBackSpriteSheet_36
+  - first:
+      213: -3909196317809993317
+    second: SerperiorBackSpriteSheet_37
+  - first:
+      213: 5372276026145498395
+    second: SerperiorBackSpriteSheet_38
+  - first:
+      213: -2145390039344606264
+    second: SerperiorBackSpriteSheet_39
+  - first:
+      213: -2931908443592644147
+    second: SerperiorBackSpriteSheet_40
+  - first:
+      213: -6149489511152023658
+    second: SerperiorBackSpriteSheet_41
+  - first:
+      213: -4898350399017728745
+    second: SerperiorBackSpriteSheet_42
+  - first:
+      213: 8153364265236163664
+    second: SerperiorBackSpriteSheet_43
+  - first:
+      213: -6814164165664931954
+    second: SerperiorBackSpriteSheet_44
+  - first:
+      213: -8750829608575326339
+    second: SerperiorBackSpriteSheet_45
+  - first:
+      213: -3377081324777765864
+    second: SerperiorBackSpriteSheet_46
+  - first:
+      213: -1074414614947805881
+    second: SerperiorBackSpriteSheet_47
+  - first:
+      213: 4217491093656026544
+    second: SerperiorBackSpriteSheet_48
+  - first:
+      213: -873662440018081085
+    second: SerperiorBackSpriteSheet_49
+  - first:
+      213: 7333147711045223823
+    second: SerperiorBackSpriteSheet_50
+  - first:
+      213: 5289282662882832517
+    second: SerperiorBackSpriteSheet_51
+  - first:
+      213: 4369473097862776417
+    second: SerperiorBackSpriteSheet_52
+  - first:
+      213: -4676092854747656095
+    second: SerperiorBackSpriteSheet_53
+  - first:
+      213: -3958985729023392626
+    second: SerperiorBackSpriteSheet_54
+  - first:
+      213: 7896051581647915837
+    second: SerperiorBackSpriteSheet_55
+  - first:
+      213: 1127343874509606578
+    second: SerperiorBackSpriteSheet_56
+  - first:
+      213: 2250165826834236689
+    second: SerperiorBackSpriteSheet_57
+  - first:
+      213: -7243941111775741453
+    second: SerperiorBackSpriteSheet_58
+  - first:
+      213: 1074829542935197139
+    second: SerperiorBackSpriteSheet_59
+  - first:
+      213: -8624031746720121901
+    second: SerperiorBackSpriteSheet_60
+  - first:
+      213: -6487749133586068592
+    second: SerperiorBackSpriteSheet_61
+  - first:
+      213: -4602491940325148783
+    second: SerperiorBackSpriteSheet_62
+  - first:
+      213: 1141932650491056290
+    second: SerperiorBackSpriteSheet_63
+  - first:
+      213: -3708568581316247490
+    second: SerperiorBackSpriteSheet_64
+  - first:
+      213: 8512928411352856146
+    second: SerperiorBackSpriteSheet_65
+  - first:
+      213: 8784413462523016647
+    second: SerperiorBackSpriteSheet_66
+  - first:
+      213: 1012125379207907400
+    second: SerperiorBackSpriteSheet_67
+  - first:
+      213: 1088786698005716766
+    second: SerperiorBackSpriteSheet_68
+  - first:
+      213: -891745182756158842
+    second: SerperiorBackSpriteSheet_69
+  - first:
+      213: -686594050459986765
+    second: SerperiorBackSpriteSheet_70
+  - first:
+      213: 8144472385267494101
+    second: SerperiorBackSpriteSheet_71
+  - first:
+      213: 2103445662554833958
+    second: SerperiorBackSpriteSheet_72
+  - first:
+      213: -7800728364425293398
+    second: SerperiorBackSpriteSheet_73
+  - first:
+      213: -2942059822322442488
+    second: SerperiorBackSpriteSheet_74
+  - first:
+      213: -7963125720581901344
+    second: SerperiorBackSpriteSheet_75
+  - first:
+      213: 217440946200600412
+    second: SerperiorBackSpriteSheet_76
+  - first:
+      213: -6863349516626425871
+    second: SerperiorBackSpriteSheet_77
+  - first:
+      213: -6728369847132640568
+    second: SerperiorBackSpriteSheet_78
+  - first:
+      213: -3428058755855657093
+    second: SerperiorBackSpriteSheet_79
+  - first:
+      213: -5342576157332403264
+    second: SerperiorBackSpriteSheet_80
+  - first:
+      213: 331232825289460278
+    second: SerperiorBackSpriteSheet_81
+  - first:
+      213: 3150100705905308795
+    second: SerperiorBackSpriteSheet_82
+  - first:
+      213: -1063022530268125996
+    second: SerperiorBackSpriteSheet_83
+  - first:
+      213: -684749615014786512
+    second: SerperiorBackSpriteSheet_84
+  - first:
+      213: -9141798796514464921
+    second: SerperiorBackSpriteSheet_85
+  - first:
+      213: -7480912680590737547
+    second: SerperiorBackSpriteSheet_86
+  - first:
+      213: -3767905181343477470
+    second: SerperiorBackSpriteSheet_87
+  - first:
+      213: -4033311696359741722
+    second: SerperiorBackSpriteSheet_88
+  - first:
+      213: -446232511015725812
+    second: SerperiorBackSpriteSheet_89
+  - first:
+      213: -5028088219265745264
+    second: SerperiorBackSpriteSheet_90
+  - first:
+      213: -7819777927721340180
+    second: SerperiorBackSpriteSheet_91
+  - first:
+      213: -8479625297887997763
+    second: SerperiorBackSpriteSheet_92
+  - first:
+      213: 5444026777837085955
+    second: SerperiorBackSpriteSheet_93
+  - first:
+      213: -5283214261388356937
+    second: SerperiorBackSpriteSheet_94
+  - first:
+      213: 8198716566942980966
+    second: SerperiorBackSpriteSheet_95
+  - first:
+      213: -6108003160498995591
+    second: SerperiorBackSpriteSheet_96
+  - first:
+      213: 6317335688283895893
+    second: SerperiorBackSpriteSheet_97
+  - first:
+      213: -5267290913828411735
+    second: SerperiorBackSpriteSheet_98
+  - first:
+      213: -4048052256792893869
+    second: SerperiorBackSpriteSheet_99
+  - first:
+      213: -7715317999037386400
+    second: SerperiorBackSpriteSheet_100
+  - first:
+      213: -3734684231417796062
+    second: SerperiorBackSpriteSheet_101
+  - first:
+      213: 5878330141521635340
+    second: SerperiorBackSpriteSheet_102
+  - first:
+      213: 6501072748693341957
+    second: SerperiorBackSpriteSheet_103
+  - first:
+      213: 285215052982269967
+    second: SerperiorBackSpriteSheet_104
+  - first:
+      213: -8202100053394253259
+    second: SerperiorBackSpriteSheet_105
+  - first:
+      213: 4945068743552630044
+    second: SerperiorBackSpriteSheet_106
+  - first:
+      213: 6799167181637619893
+    second: SerperiorBackSpriteSheet_107
+  - first:
+      213: -790693853836814597
+    second: SerperiorBackSpriteSheet_108
+  - first:
+      213: -6754852428616861327
+    second: SerperiorBackSpriteSheet_109
+  - first:
+      213: -3170532104070128587
+    second: SerperiorBackSpriteSheet_110
+  - first:
+      213: 8305209235027379115
+    second: SerperiorBackSpriteSheet_111
+  - first:
+      213: 6534490011755609986
+    second: SerperiorBackSpriteSheet_112
+  - first:
+      213: -7026923215145035341
+    second: SerperiorBackSpriteSheet_113
+  - first:
+      213: -6131330977529069713
+    second: SerperiorBackSpriteSheet_114
+  - first:
+      213: 2159500357646897158
+    second: SerperiorBackSpriteSheet_115
+  - first:
+      213: -2899519667051976429
+    second: SerperiorBackSpriteSheet_116
+  - first:
+      213: -5019978142434881676
+    second: SerperiorBackSpriteSheet_117
+  - first:
+      213: 5188603370726570964
+    second: SerperiorBackSpriteSheet_118
+  - first:
+      213: 2557362164383451800
+    second: SerperiorBackSpriteSheet_119
+  - first:
+      213: -3279004434627899386
+    second: SerperiorBackSpriteSheet_120
+  - first:
+      213: 4983688902858937904
+    second: SerperiorBackSpriteSheet_121
+  - first:
+      213: 4173952416392184820
+    second: SerperiorBackSpriteSheet_122
+  - first:
+      213: -9147321237621372444
+    second: SerperiorBackSpriteSheet_123
+  - first:
+      213: 6088578184296048836
+    second: SerperiorBackSpriteSheet_124
+  - first:
+      213: -4522747704955520448
+    second: SerperiorBackSpriteSheet_125
+  - first:
+      213: 8864931720664037507
+    second: SerperiorBackSpriteSheet_126
+  - first:
+      213: -109248425456419719
+    second: SerperiorBackSpriteSheet_127
+  - first:
+      213: 1914332447286290770
+    second: SerperiorBackSpriteSheet_128
+  - first:
+      213: 5717173118053530461
+    second: SerperiorBackSpriteSheet_129
+  - first:
+      213: 154591410131478505
+    second: SerperiorBackSpriteSheet_130
+  - first:
+      213: -3564147901323892528
+    second: SerperiorBackSpriteSheet_131
+  - first:
+      213: 4779220709957122272
+    second: SerperiorBackSpriteSheet_132
+  - first:
+      213: -6310914386541868045
+    second: SerperiorBackSpriteSheet_133
+  - first:
+      213: -9058812435894914636
+    second: SerperiorBackSpriteSheet_134
+  - first:
+      213: 1566011046355672554
+    second: SerperiorBackSpriteSheet_135
+  - first:
+      213: -2599285605605181081
+    second: SerperiorBackSpriteSheet_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serperior Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025877684e47b5479f1c36525523bd1
+      internalID: 441236558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64dff9c8857bb46896b76741d741af
+      internalID: -1991092236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69039d5d29775d4da7caab4462d42da
+      internalID: 2123157231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6262f0ce4785a44a23d6fc617bc9f7
+      internalID: -1936919527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd950127a4e7f344bb2ac60099c4d34
+      internalID: -962747001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc3364903991a47b34be322e07ac3c
+      internalID: -125879265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2ed82a70929747a072e56185a2b72
+      internalID: -797368788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac833e53bbb234ab129549bc8ceb00
+      internalID: 1464205340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4dbe282d931a489dacc4d37356c52
+      internalID: 1340466446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1224e9cc8b05438f2de6948c67969
+      internalID: 1659444120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40381f8ff05a50f4bb64db6d3e53fb29
+      internalID: 65717527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 880
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47d851bacfb6a46a97fe74c19b29a6
+      internalID: 2052063170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d710ecb15089643bc344cab7c8a0c8
+      internalID: 643826071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d0fe1b32004c4cad2f097cd5b77d7
+      internalID: 1631492489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc6c215b1fd87f4a9144bca9ebad479
+      internalID: -2099144138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7ebfd09ed6824ba929a2f182075b4
+      internalID: -978201774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ef68ad87395843bf4fbed7e68cec9
+      internalID: 1447708885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e45555b164cf743bcfc09d682dc629
+      internalID: 690480999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859616d3d3ecaf140b34b38a3cbbc89f
+      internalID: 1895924926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5dbc828262c342a97d3855d6c6297
+      internalID: 806060828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603bce8969b7a0f46bc6cf9960d9c1b8
+      internalID: -1462298384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416083f13d9f4a4badacb0ab1b62945
+      internalID: 362006944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb45b48bf3c3db4cbcf2fc0cf5096f1
+      internalID: 1712747878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 800
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990a747ced2c5e4f8e9ba4591296117
+      internalID: -1230855671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39481be4407c5647b3c1fb89462cbd7
+      internalID: -1006617089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f78769ade59714ca6b44dc7577deaf
+      internalID: -115924886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a74c403eeace044acd540e87dc50af
+      internalID: 587396322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4fd4992967924f94ce76acc487adf
+      internalID: -1098647647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56457aae9f51a2a4a8e83dfb9c5807de
+      internalID: -1311504509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df3e9d26fdf414e8499209ffdf0b44
+      internalID: 1656797860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5b68f07a5ba146bc470785be95fbb
+      internalID: 362495669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d7d3320062d64c91caaf55c971e13
+      internalID: 239126932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c15a3ce4c9d942acefca560a5ae68
+      internalID: 1918619033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0fb7883cc032743a02bb908cc42e5c
+      internalID: -1133550289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1115be5ca97d46aa503508fc5a0c4
+      internalID: -155638935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 720
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75876ae61bd255a458e9d0a16243f55c
+      internalID: -1732076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4c4bf6a94e5b4a8977e1c17b751d1
+      internalID: 498019744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e2eea1a70f89f4e96de2a17f5bba01
+      internalID: -187465003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f0bbdf26f3ca47a4c76f4d3013355
+      internalID: 535612125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77299e88dbf60784da4c6569728217a6
+      internalID: -543285936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbaa44956d8db4b87f20bc32434fbc
+      internalID: 443293550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada590a7433fa0489edc7346d459ebc
+      internalID: -575654172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d280daaeea0cc214bb9d90d9c01acb2e
+      internalID: -361325556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361910312585e5f4fb707fab633d7938
+      internalID: 101760800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0327d5025282849a06c59423d0a6e8
+      internalID: -2119664549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f907815ca0f3047b4e7fbe88699424
+      internalID: 3845470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af059b67bb67894f97bc908af2afddb
+      internalID: 1087423686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 640
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8cce7efb3c65342aeaa559d76d50bd
+      internalID: -991334317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb74d4f59d413428f02bdc138e8cc7
+      internalID: 1662318492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04730600682e36443bd9fdff7b6de199
+      internalID: -797222482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e6aae55a2251439da404756fc543d
+      internalID: -1956387146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf6a01980817441b073c7bdd2130b4
+      internalID: -734388428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfcf8de0d4ae7f42813cc5b4791dd64
+      internalID: 513232297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795d637a9c9b9141b26064a6b4975d9
+      internalID: -1821692300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b273b636699fb47b45fc5a9e3b0db6
+      internalID: 28799157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175299a73c827cb4eb1da6c70afe2a1f
+      internalID: -1115580456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86feddefaad6db74aaed32a2fb751fb5
+      internalID: 1201429551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69392c940dbbdae488c97601ca3095c8
+      internalID: -70020918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9553fdd84dbe0904fbc839b52af9963e
+      internalID: -1509856104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 560
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e56ddd268024a45b3785e0b7cc93e5
+      internalID: 1644026518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7439a598f66a74a86ee7bcdd4664e2
+      internalID: 1923397716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28d1ab6585675146b8ad0172f6eb6f3
+      internalID: 1254826907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bea4e376f49d4fbdfb5c7fdfa6e35
+      internalID: 983836312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83778d793e646dc4e8666834a93fa3b2
+      internalID: -1993599449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d4054195022b4e91c47c95ebff637
+      internalID: -1031114863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5acd2e1c1a73d4c8978bcf17950018
+      internalID: -1235125611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7c29ccacbd9ff4e865ab8d3e71e074
+      internalID: 1411859320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a311a451eeca9e4e9061856b741a4e5
+      internalID: 92942625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e14c4a2ece3b439fa809ae6ffb3dd
+      internalID: 1553788139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd42024dfc47f4eb8a799da36405ab
+      internalID: -904581757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad429be4eda2674408a8afdafd0d9736
+      internalID: -1839943693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 480
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73507a37fd55d4da4968fa055c02e0
+      internalID: -1964899070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754f99ce995ec146aa86867f93afc2f
+      internalID: 1285874203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015a986cb40aa2429b37c1d55bba66e
+      internalID: 1945075815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfcc2bb0899ed94082ab2aba60215eb
+      internalID: -236980917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95392fffdedda764287e950d927d57ca
+      internalID: 391512555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c57956c13ddad4fab34f22888965a0
+      internalID: 1462053544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c00544b0161747b8d90bc864986a6
+      internalID: -1118278149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a395ff403b5b8a49b3613db07413c6b
+      internalID: -174988624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f977721c257f148adbda6578fee8af
+      internalID: 27779120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff941bfc35a1da47b5f82aebe64ee47
+      internalID: -331026143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192fbeb3bbdb73341b63d3776f086292
+      internalID: -1518212763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a1a98c45051045b0a5f58092cfcc0
+      internalID: -131962490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 400
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1019533c049eab41a4965305097fef9
+      internalID: 2072166850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96d893c7bd0f44e928cdc7c52fd5c4
+      internalID: 756779552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf097c4b69f62e64c83d8e03262d7dc5
+      internalID: -2036871641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59161308b0ca3b74bbc9826e36862215
+      internalID: 954563894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6107a02d02431d4580f82ed9436a4c0
+      internalID: -1822685388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc607c9b105d53429caf0cdfe3dc9b6
+      internalID: -1311944830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a7071dd4bd004c8c212da956abfbf
+      internalID: 1159080618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76964f201da7f409b24830475b078e
+      internalID: 1157511805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255308f92d912d47b4c7d551f405ab3
+      internalID: -5969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aecc5759b18e4e4a9ca2809a5c3cd74
+      internalID: -216519613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341056e8b65364499b675460fc8024b
+      internalID: 1351653097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7241228d5e7e94badf0f12ef4832e6
+      internalID: -1213009154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 320
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454aeca44623e2048b5e43ee9e18c9b6
+      internalID: -145734447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a7fe1b7fa2074d9a97102107765da
+      internalID: -504615602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f115027e21140fd4c80041f2fa4cb1c4
+      internalID: 640761378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3bef7a8193c9a45b890cfe3884e56f
+      internalID: -260734545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b920e3cbce51b4785d1d331083de4b
+      internalID: 269624761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2c67f5bebf714d9f0d3a2f77f6a6d
+      internalID: -777416841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b090a52afaa04a9d7e140686d876f
+      internalID: -1538135506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac7877068748049a698d49481a3592
+      internalID: -1419855646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510ddadf42d220e49a254c78489b67e5
+      internalID: -1056885316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6e1a90e96ece4bb5af3bfce152a63
+      internalID: 799336285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01ad65580ece054c8eacd0a629d7e5e
+      internalID: -908635187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e5690e1325a64498100ea56c0c6af
+      internalID: 593354357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 240
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061d96355677f8459b70c1b06395ffe
+      internalID: -162642752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64bfa3418885a45a0e26a45b3e50f0
+      internalID: 749496480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff35ce312f9cff408d3e92811cb57da
+      internalID: -1683826509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8157768f3c93b734eb0cb1ebcec9fe1b
+      internalID: -1734521631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf8db252df2f9e4c90a66df72f11c30
+      internalID: 727213435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52eef9cf2ac9624588a2599f1c0cfc1
+      internalID: 1497170602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30df2805dc45049a665955b57ef32b
+      internalID: 302494090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5d62e7614d2f4ea2be08eb357ed73
+      internalID: 1557045761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8f3ca223b8a984a850f050aaa048ce
+      internalID: 94268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdff001a5b64fe438a2b4cac54e15a7
+      internalID: -865808207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a0590ae1ceed4895e6261db91cbbb
+      internalID: 1971682725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83176d17468977a4391dbdba369a7521
+      internalID: -333144464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 160
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eaffbc540b42c478d7c312e0bf4c92
+      internalID: 132741873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d312a1e8e0e14546bb5a066f09736c6
+      internalID: 66724129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be54ed08be2ae242b52afbb4182334e
+      internalID: 938510424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e806e9d51c2543b26ebd9c2c068a7
+      internalID: -1465600747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb97ef5d06c6f64dbcdbe79c09f0f1d
+      internalID: -518363104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cff9cd4316e3a40b9eda18d8892381
+      internalID: -1214852592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d23627c0c9fd14ea31a3bea680ec1a
+      internalID: 1131191345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af88dae81aea1439b222cc44d9893b
+      internalID: -1805754129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6009250ee29f87428e451bc88cc90d8
+      internalID: 1896152523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9191ff1108371b14f8917da63bf36331
+      internalID: -2003308155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fcd286a55ff3345bb45f2f63f7e0d1
+      internalID: 465901244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f747c3e8d8ab84faca350b9ab29e38
+      internalID: -240418251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db8e15b92138443a23ee96423f9e8c
+      internalID: -1445914942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d7965d0a98684da01a983de5fab33
+      internalID: 1202212536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eaca753b123c8419a98f5bebb686f8
+      internalID: 1421997725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201212e68faafc4ab2e1829529ca4a9
+      internalID: 1791690081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09840e4b3870f4d4aadbc341afa4649c
+      internalID: 1722445699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serperior Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635252f34949df24cb0d29a6011ae66e
+      internalID: 819745558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 010ce7c441b06eb4880d010b296a3312
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SerperiorBackSpriteSheet_0: 441236558
+      SerperiorBackSpriteSheet_1: -1991092236
+      SerperiorBackSpriteSheet_10: 65717527
+      SerperiorBackSpriteSheet_100: -777416841
+      SerperiorBackSpriteSheet_101: -1538135506
+      SerperiorBackSpriteSheet_102: -1419855646
+      SerperiorBackSpriteSheet_103: -1056885316
+      SerperiorBackSpriteSheet_104: 799336285
+      SerperiorBackSpriteSheet_105: -908635187
+      SerperiorBackSpriteSheet_106: 593354357
+      SerperiorBackSpriteSheet_107: -162642752
+      SerperiorBackSpriteSheet_108: 749496480
+      SerperiorBackSpriteSheet_109: -1683826509
+      SerperiorBackSpriteSheet_11: 2052063170
+      SerperiorBackSpriteSheet_110: -1734521631
+      SerperiorBackSpriteSheet_111: 727213435
+      SerperiorBackSpriteSheet_112: 1497170602
+      SerperiorBackSpriteSheet_113: 302494090
+      SerperiorBackSpriteSheet_114: 1557045761
+      SerperiorBackSpriteSheet_115: 94268031
+      SerperiorBackSpriteSheet_116: -865808207
+      SerperiorBackSpriteSheet_117: 1971682725
+      SerperiorBackSpriteSheet_118: -333144464
+      SerperiorBackSpriteSheet_119: 132741873
+      SerperiorBackSpriteSheet_12: 643826071
+      SerperiorBackSpriteSheet_120: 66724129
+      SerperiorBackSpriteSheet_121: 938510424
+      SerperiorBackSpriteSheet_122: -1465600747
+      SerperiorBackSpriteSheet_123: -518363104
+      SerperiorBackSpriteSheet_124: -1214852592
+      SerperiorBackSpriteSheet_125: 1131191345
+      SerperiorBackSpriteSheet_126: -1805754129
+      SerperiorBackSpriteSheet_127: 1896152523
+      SerperiorBackSpriteSheet_128: -2003308155
+      SerperiorBackSpriteSheet_129: 465901244
+      SerperiorBackSpriteSheet_13: 1631492489
+      SerperiorBackSpriteSheet_130: -240418251
+      SerperiorBackSpriteSheet_131: -1445914942
+      SerperiorBackSpriteSheet_132: 1202212536
+      SerperiorBackSpriteSheet_133: 1421997725
+      SerperiorBackSpriteSheet_134: 1791690081
+      SerperiorBackSpriteSheet_135: 1722445699
+      SerperiorBackSpriteSheet_136: 819745558
+      SerperiorBackSpriteSheet_14: -2099144138
+      SerperiorBackSpriteSheet_15: -978201774
+      SerperiorBackSpriteSheet_16: 1447708885
+      SerperiorBackSpriteSheet_17: 690480999
+      SerperiorBackSpriteSheet_18: 1895924926
+      SerperiorBackSpriteSheet_19: 806060828
+      SerperiorBackSpriteSheet_2: 2123157231
+      SerperiorBackSpriteSheet_20: -1462298384
+      SerperiorBackSpriteSheet_21: 362006944
+      SerperiorBackSpriteSheet_22: 1712747878
+      SerperiorBackSpriteSheet_23: -1230855671
+      SerperiorBackSpriteSheet_24: -1006617089
+      SerperiorBackSpriteSheet_25: -115924886
+      SerperiorBackSpriteSheet_26: 587396322
+      SerperiorBackSpriteSheet_27: -1098647647
+      SerperiorBackSpriteSheet_28: -1311504509
+      SerperiorBackSpriteSheet_29: 1656797860
+      SerperiorBackSpriteSheet_3: -1936919527
+      SerperiorBackSpriteSheet_30: 362495669
+      SerperiorBackSpriteSheet_31: 239126932
+      SerperiorBackSpriteSheet_32: 1918619033
+      SerperiorBackSpriteSheet_33: -1133550289
+      SerperiorBackSpriteSheet_34: -155638935
+      SerperiorBackSpriteSheet_35: -1732076659
+      SerperiorBackSpriteSheet_36: 498019744
+      SerperiorBackSpriteSheet_37: -187465003
+      SerperiorBackSpriteSheet_38: 535612125
+      SerperiorBackSpriteSheet_39: -543285936
+      SerperiorBackSpriteSheet_4: -962747001
+      SerperiorBackSpriteSheet_40: 443293550
+      SerperiorBackSpriteSheet_41: -575654172
+      SerperiorBackSpriteSheet_42: -361325556
+      SerperiorBackSpriteSheet_43: 101760800
+      SerperiorBackSpriteSheet_44: -2119664549
+      SerperiorBackSpriteSheet_45: 3845470
+      SerperiorBackSpriteSheet_46: 1087423686
+      SerperiorBackSpriteSheet_47: -991334317
+      SerperiorBackSpriteSheet_48: 1662318492
+      SerperiorBackSpriteSheet_49: -797222482
+      SerperiorBackSpriteSheet_5: -125879265
+      SerperiorBackSpriteSheet_50: -1956387146
+      SerperiorBackSpriteSheet_51: -734388428
+      SerperiorBackSpriteSheet_52: 513232297
+      SerperiorBackSpriteSheet_53: -1821692300
+      SerperiorBackSpriteSheet_54: 28799157
+      SerperiorBackSpriteSheet_55: -1115580456
+      SerperiorBackSpriteSheet_56: 1201429551
+      SerperiorBackSpriteSheet_57: -70020918
+      SerperiorBackSpriteSheet_58: -1509856104
+      SerperiorBackSpriteSheet_59: 1644026518
+      SerperiorBackSpriteSheet_6: -797368788
+      SerperiorBackSpriteSheet_60: 1923397716
+      SerperiorBackSpriteSheet_61: 1254826907
+      SerperiorBackSpriteSheet_62: 983836312
+      SerperiorBackSpriteSheet_63: -1993599449
+      SerperiorBackSpriteSheet_64: -1031114863
+      SerperiorBackSpriteSheet_65: -1235125611
+      SerperiorBackSpriteSheet_66: 1411859320
+      SerperiorBackSpriteSheet_67: 92942625
+      SerperiorBackSpriteSheet_68: 1553788139
+      SerperiorBackSpriteSheet_69: -904581757
+      SerperiorBackSpriteSheet_7: 1464205340
+      SerperiorBackSpriteSheet_70: -1839943693
+      SerperiorBackSpriteSheet_71: -1964899070
+      SerperiorBackSpriteSheet_72: 1285874203
+      SerperiorBackSpriteSheet_73: 1945075815
+      SerperiorBackSpriteSheet_74: -236980917
+      SerperiorBackSpriteSheet_75: 391512555
+      SerperiorBackSpriteSheet_76: 1462053544
+      SerperiorBackSpriteSheet_77: -1118278149
+      SerperiorBackSpriteSheet_78: -174988624
+      SerperiorBackSpriteSheet_79: 27779120
+      SerperiorBackSpriteSheet_8: 1340466446
+      SerperiorBackSpriteSheet_80: -331026143
+      SerperiorBackSpriteSheet_81: -1518212763
+      SerperiorBackSpriteSheet_82: -131962490
+      SerperiorBackSpriteSheet_83: 2072166850
+      SerperiorBackSpriteSheet_84: 756779552
+      SerperiorBackSpriteSheet_85: -2036871641
+      SerperiorBackSpriteSheet_86: 954563894
+      SerperiorBackSpriteSheet_87: -1822685388
+      SerperiorBackSpriteSheet_88: -1311944830
+      SerperiorBackSpriteSheet_89: 1159080618
+      SerperiorBackSpriteSheet_9: 1659444120
+      SerperiorBackSpriteSheet_90: 1157511805
+      SerperiorBackSpriteSheet_91: -5969495
+      SerperiorBackSpriteSheet_92: -216519613
+      SerperiorBackSpriteSheet_93: 1351653097
+      SerperiorBackSpriteSheet_94: -1213009154
+      SerperiorBackSpriteSheet_95: -145734447
+      SerperiorBackSpriteSheet_96: -504615602
+      SerperiorBackSpriteSheet_97: 640761378
+      SerperiorBackSpriteSheet_98: -260734545
+      SerperiorBackSpriteSheet_99: 269624761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

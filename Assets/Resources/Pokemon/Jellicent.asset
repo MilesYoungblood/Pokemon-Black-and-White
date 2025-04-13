@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cab56a31c5179244ae7006dd0feb5bf, type: 3}
+  m_Name: Jellicent
+  m_EditorClassIdentifier: 
+  name: Jellicent
+  species: Floating
+  height: 2.2
+  weight: 135
+  type1: 3
+  type2: 14
+  dex: 99
+  hp: 100
+  attack: 60
+  defense: 70
+  spAttack: 85
+  spDefense: 85
+  speed: 60
+  minLevel: 40
+  evYield:
+    stat: 0
+    value: 1
+  catchRate: 60
+  learnableMoves: []
+  machineMoves: []
+  frontSprite: {fileID: 0}
+  backSprite: {fileID: 0}
+  frontSpriteSheet: []
+  backSpriteSheet: []

@@ -1,0 +1,4239 @@
+fileFormatVersion: 2
+guid: bc611759a02209a42a613753a7fab560
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3027546956543746355
+    second: Scrafty Back_0
+  - first:
+      213: -2775561805365513386
+    second: Scrafty Back_1
+  - first:
+      213: -2638343289618180349
+    second: Scrafty Back_2
+  - first:
+      213: -1911921435833630550
+    second: Scrafty Back_3
+  - first:
+      213: -5018818757540400723
+    second: Scrafty Back_4
+  - first:
+      213: -4318609072725068170
+    second: Scrafty Back_5
+  - first:
+      213: 6600168841448177899
+    second: Scrafty Back_6
+  - first:
+      213: 7318217690948779166
+    second: Scrafty Back_7
+  - first:
+      213: 1964389008529578946
+    second: Scrafty Back_8
+  - first:
+      213: -2819612837839783576
+    second: Scrafty Back_9
+  - first:
+      213: 6515944367595528332
+    second: Scrafty Back_10
+  - first:
+      213: -8959285140063811904
+    second: Scrafty Back_11
+  - first:
+      213: -2698602390441134297
+    second: Scrafty Back_12
+  - first:
+      213: 1652443420230301628
+    second: Scrafty Back_13
+  - first:
+      213: -7057263212014352157
+    second: Scrafty Back_14
+  - first:
+      213: 8117325016097729542
+    second: Scrafty Back_15
+  - first:
+      213: 8747923039536013272
+    second: Scrafty Back_16
+  - first:
+      213: -8376079774671004996
+    second: Scrafty Back_17
+  - first:
+      213: -1801053083473369373
+    second: Scrafty Back_18
+  - first:
+      213: 2881292335561646902
+    second: Scrafty Back_19
+  - first:
+      213: -8275888344137740230
+    second: Scrafty Back_20
+  - first:
+      213: 176158182797827390
+    second: Scrafty Back_21
+  - first:
+      213: 2672637837896957735
+    second: Scrafty Back_22
+  - first:
+      213: 2929141050675888
+    second: Scrafty Back_23
+  - first:
+      213: 6134367048894523447
+    second: Scrafty Back_24
+  - first:
+      213: 5052944230918714068
+    second: Scrafty Back_25
+  - first:
+      213: -7614861354623655817
+    second: Scrafty Back_26
+  - first:
+      213: 5806456583266304642
+    second: Scrafty Back_27
+  - first:
+      213: 2538045201732294186
+    second: Scrafty Back_28
+  - first:
+      213: -6652779353003212324
+    second: Scrafty Back_29
+  - first:
+      213: -7343716907496930416
+    second: Scrafty Back_30
+  - first:
+      213: -2852218609088833851
+    second: Scrafty Back_31
+  - first:
+      213: -3195407373875913013
+    second: Scrafty Back_32
+  - first:
+      213: 2935934148528600718
+    second: Scrafty Back_33
+  - first:
+      213: -3286647656324322616
+    second: Scrafty Back_34
+  - first:
+      213: -519549998531354611
+    second: Scrafty Back_35
+  - first:
+      213: 5707948233998958191
+    second: Scrafty Back_36
+  - first:
+      213: 4926885936250193523
+    second: Scrafty Back_37
+  - first:
+      213: 330601408482755945
+    second: Scrafty Back_38
+  - first:
+      213: 8717347268937040335
+    second: Scrafty Back_39
+  - first:
+      213: 7377011426476150313
+    second: Scrafty Back_40
+  - first:
+      213: -4143617467981293232
+    second: Scrafty Back_41
+  - first:
+      213: -7434459006603373951
+    second: Scrafty Back_42
+  - first:
+      213: 3428128065706476788
+    second: Scrafty Back_43
+  - first:
+      213: 1467480674917046965
+    second: Scrafty Back_44
+  - first:
+      213: -2117292927949741092
+    second: Scrafty Back_45
+  - first:
+      213: 1471149909155631984
+    second: Scrafty Back_46
+  - first:
+      213: 6944005873219894693
+    second: Scrafty Back_47
+  - first:
+      213: 7380564408167714915
+    second: Scrafty Back_48
+  - first:
+      213: 1520400963742101002
+    second: Scrafty Back_49
+  - first:
+      213: -8640912017079631880
+    second: Scrafty Back_50
+  - first:
+      213: -7033558105148933708
+    second: Scrafty Back_51
+  - first:
+      213: -4295218106697791724
+    second: Scrafty Back_52
+  - first:
+      213: -7803571628776057251
+    second: Scrafty Back_53
+  - first:
+      213: -4310626758026239548
+    second: Scrafty Back_54
+  - first:
+      213: 1479562032765029182
+    second: Scrafty Back_55
+  - first:
+      213: -5923170811180896167
+    second: Scrafty Back_56
+  - first:
+      213: -4264913209661965833
+    second: Scrafty Back_57
+  - first:
+      213: 602424854075332253
+    second: Scrafty Back_58
+  - first:
+      213: -1226798378672923293
+    second: Scrafty Back_59
+  - first:
+      213: -6470429514607190241
+    second: Scrafty Back_60
+  - first:
+      213: -6549885662508735887
+    second: Scrafty Back_61
+  - first:
+      213: -1659439953120799149
+    second: Scrafty Back_62
+  - first:
+      213: 8807153110345313546
+    second: Scrafty Back_63
+  - first:
+      213: -2886702127588929363
+    second: Scrafty Back_64
+  - first:
+      213: 3465773756669131063
+    second: Scrafty Back_65
+  - first:
+      213: -3946418771811376513
+    second: Scrafty Back_66
+  - first:
+      213: 7717414873037972022
+    second: Scrafty Back_67
+  - first:
+      213: -7994587428018232218
+    second: Scrafty Back_68
+  - first:
+      213: -4428413019191164677
+    second: Scrafty Back_69
+  - first:
+      213: 7265135665012438752
+    second: Scrafty Back_70
+  - first:
+      213: -2762099496116262746
+    second: Scrafty Back_71
+  - first:
+      213: -4482403733633822585
+    second: Scrafty Back_72
+  - first:
+      213: 2509806162981134582
+    second: Scrafty Back_73
+  - first:
+      213: -2255866875015671105
+    second: Scrafty Back_74
+  - first:
+      213: 7148617872275597276
+    second: Scrafty Back_75
+  - first:
+      213: 137464705351791528
+    second: Scrafty Back_76
+  - first:
+      213: 6389798074552387461
+    second: Scrafty Back_77
+  - first:
+      213: 1577201683116316130
+    second: Scrafty Back_78
+  - first:
+      213: 9131865844074197795
+    second: Scrafty Back_79
+  - first:
+      213: 6433689246867027326
+    second: Scrafty Back_80
+  - first:
+      213: -2947108670919854657
+    second: Scrafty Back_81
+  - first:
+      213: -4760613011004161090
+    second: Scrafty Back_82
+  - first:
+      213: 8865712612330067599
+    second: Scrafty Back_83
+  - first:
+      213: 9073602214339465394
+    second: Scrafty Back_84
+  - first:
+      213: 8868722750076058304
+    second: Scrafty Back_85
+  - first:
+      213: -6621330216883840547
+    second: Scrafty Back_86
+  - first:
+      213: -8403558478212611632
+    second: Scrafty Back_87
+  - first:
+      213: 6482138108896446487
+    second: Scrafty Back_88
+  - first:
+      213: -4299629054665335489
+    second: Scrafty Back_89
+  - first:
+      213: -6879301639657500279
+    second: Scrafty Back_90
+  - first:
+      213: -4980803942701132094
+    second: Scrafty Back_91
+  - first:
+      213: -4432803842739496505
+    second: Scrafty Back_92
+  - first:
+      213: -8317294067427712679
+    second: Scrafty Back_93
+  - first:
+      213: 270542774569108826
+    second: Scrafty Back_94
+  - first:
+      213: -4313204677357228034
+    second: Scrafty Back_95
+  - first:
+      213: 1456719465879908957
+    second: Scrafty Back_96
+  - first:
+      213: 5774943688631489473
+    second: Scrafty Back_97
+  - first:
+      213: 4427027706029545202
+    second: Scrafty Back_98
+  - first:
+      213: 8371737039982515121
+    second: Scrafty Back_99
+  - first:
+      213: 6196928209550160949
+    second: Scrafty Back_100
+  - first:
+      213: 8452883928322714687
+    second: Scrafty Back_101
+  - first:
+      213: -1045426576961169221
+    second: Scrafty Back_102
+  - first:
+      213: -3095998829878913330
+    second: Scrafty Back_103
+  - first:
+      213: 3468664271506760378
+    second: Scrafty Back_104
+  - first:
+      213: -1431429316895727457
+    second: Scrafty Back_105
+  - first:
+      213: -8540106890129708588
+    second: Scrafty Back_106
+  - first:
+      213: 932165806686277580
+    second: Scrafty Back_107
+  - first:
+      213: 5457003812398246359
+    second: Scrafty Back_108
+  - first:
+      213: -7129757285881363160
+    second: Scrafty Back_109
+  - first:
+      213: -3480714367039281788
+    second: Scrafty Back_110
+  - first:
+      213: 2212393420837055925
+    second: Scrafty Back_111
+  - first:
+      213: 8372980716611843441
+    second: Scrafty Back_112
+  - first:
+      213: 3485657603486228370
+    second: Scrafty Back_113
+  - first:
+      213: -4926011574213897086
+    second: Scrafty Back_114
+  - first:
+      213: -2176998037892262548
+    second: Scrafty Back_115
+  - first:
+      213: 5573180586014515405
+    second: Scrafty Back_116
+  - first:
+      213: 4874131462022976885
+    second: Scrafty Back_117
+  - first:
+      213: -2928099465905209789
+    second: Scrafty Back_118
+  - first:
+      213: 445170895681893855
+    second: Scrafty Back_119
+  - first:
+      213: 424766632973276628
+    second: Scrafty Back_120
+  - first:
+      213: 3278140466292716509
+    second: Scrafty Back_121
+  - first:
+      213: -6682050559875662861
+    second: Scrafty Back_122
+  - first:
+      213: -3487485788345147020
+    second: Scrafty Back_123
+  - first:
+      213: -434393690377306119
+    second: Scrafty Back_124
+  - first:
+      213: -6806760375250981548
+    second: Scrafty Back_125
+  - first:
+      213: 8167384228358894229
+    second: Scrafty Back_126
+  - first:
+      213: 6637982366220077924
+    second: Scrafty Back_127
+  - first:
+      213: -6904892260740087429
+    second: Scrafty Back_128
+  - first:
+      213: -402135535663109110
+    second: Scrafty Back_129
+  - first:
+      213: -989167190625082829
+    second: Scrafty Back_130
+  - first:
+      213: -5944451865795335109
+    second: Scrafty Back_131
+  - first:
+      213: 3164556281558205425
+    second: Scrafty Back_132
+  - first:
+      213: -2778324189818474184
+    second: Scrafty Back_133
+  - first:
+      213: 6300186843697172129
+    second: Scrafty Back_134
+  - first:
+      213: 8622801660600216894
+    second: Scrafty Back_135
+  - first:
+      213: -3930540624847430442
+    second: Scrafty Back_136
+  - first:
+      213: -2337322757224421137
+    second: Scrafty Back_137
+  - first:
+      213: 5680940093408721952
+    second: Scrafty Back_138
+  - first:
+      213: -5696112454019409805
+    second: Scrafty Back_139
+  - first:
+      213: 2450814756539094994
+    second: Scrafty Back_140
+  - first:
+      213: -5451519510301153149
+    second: Scrafty Back_141
+  - first:
+      213: -5738073329191179883
+    second: Scrafty Back_142
+  - first:
+      213: -2779557083340701677
+    second: Scrafty Back_143
+  - first:
+      213: -5770047861438260630
+    second: Scrafty Back_144
+  - first:
+      213: 3192065089310332503
+    second: Scrafty Back_145
+  - first:
+      213: 2029602759705242949
+    second: Scrafty Back_146
+  - first:
+      213: 2172834129143567914
+    second: Scrafty Back_147
+  - first:
+      213: -6478240326500302889
+    second: Scrafty Back_148
+  - first:
+      213: -6305385812515865540
+    second: Scrafty Back_149
+  - first:
+      213: -7905731605221448271
+    second: Scrafty Back_150
+  - first:
+      213: 3465266528511224930
+    second: Scrafty Back_151
+  - first:
+      213: -5408809677077995438
+    second: Scrafty Back_152
+  - first:
+      213: -7308796308991743467
+    second: Scrafty Back_153
+  - first:
+      213: 849808384121845447
+    second: Scrafty Back_154
+  - first:
+      213: 4006689030474093558
+    second: Scrafty Back_155
+  - first:
+      213: -6342331929071518610
+    second: Scrafty Back_156
+  - first:
+      213: -6385762802713110470
+    second: Scrafty Back_157
+  - first:
+      213: -5718086878036931056
+    second: Scrafty Back_158
+  - first:
+      213: 4314621114307158993
+    second: Scrafty Back_159
+  - first:
+      213: -800591755287589941
+    second: Scrafty Back_160
+  - first:
+      213: -3276653333458626201
+    second: Scrafty Back_161
+  - first:
+      213: -8670817059586448682
+    second: Scrafty Back_162
+  - first:
+      213: -8897556756277435592
+    second: Scrafty Back_163
+  - first:
+      213: 2683250577099967284
+    second: Scrafty Back_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scrafty Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f543e1bad68aa42a3a9731cdc4f348
+      internalID: -231515186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9394f2e3bf8094fb52a76afa57d559
+      internalID: -619173116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d072c0945ff9d47a68c32a73bc9cc2
+      internalID: 493297860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081d76b0d1a85f409fc7976d6ec55ca
+      internalID: -441190457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416697a3cb2e31145bd927c723b5104f
+      internalID: -547802181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f6bda798c474e4f98eaec6d1ba27b1
+      internalID: 572513330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b5efa662db654d99ad216eaccfeef
+      internalID: 957088267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b628fc4c1f9d74da4cbb720f104391
+      internalID: 1532335566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d79111763901343a23a01839f6680a
+      internalID: 62034424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8499e71cfe3a44ac61bfc27d15021
+      internalID: 669352638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbcc874d23af141a204d9f902c36f3
+      internalID: 1788740923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41570831ec19395469e8ac0e3f6beba6
+      internalID: -1436793289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 936
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f79a9a6e08908544953ae8fd44b72a8
+      internalID: -1054114233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229d052d01951e48baab1b78399a834
+      internalID: 1329220664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dfac69073bf984aad910eda979884d
+      internalID: 1705651374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa8e3ca2737af448be9fd009fe29f6
+      internalID: -1619397632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4612342be56b4997f685996927c83
+      internalID: -226895680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da76f09a5bf3d84099b19e63a41a5ca
+      internalID: -85214932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e474b6d8bf9a14992ae1d7aa84d253
+      internalID: 2044501031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e49093c90e38e46a6cf29012d1bc59
+      internalID: -1019704477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c90d8034ca28458083640acfaebc3
+      internalID: 1182977704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439400c994a1d8044b17eaca03b39eec
+      internalID: -2030203223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c621eb3ac1196448d2231df814b942
+      internalID: -1333654663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caebe4ae57a19f45aaad829fc967a77
+      internalID: 1753488848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9c7fa99c1440340b985f3cf1341353
+      internalID: -805308911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 858
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e764924c0f85bd4e8fcbe8aa54dddc7
+      internalID: -2031096611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17219463e25fcb041b37d1db94e0ea51
+      internalID: -2003100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d4b1374efdc1544bf32d83e8043b67
+      internalID: 83923379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612316a867bcc8d4c8d94cd136a372f7
+      internalID: 953763479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea1e0072f2e5945a7be078ad6d7125
+      internalID: -121182519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f7dfb526a62545ad4182a677f5268
+      internalID: 702923327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ffc6c56ffe364a92a38230190f5af
+      internalID: 975053529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a8aa4a638daa4a8f83f158dac53b7
+      internalID: 873543097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa7d3edb20b3a4c9ba687746faac8f
+      internalID: 63160238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fcb22a9c336424abc880ba716cd140
+      internalID: -1331991208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80dc4d4dfbe0e14f9755a5804dfb844
+      internalID: -1275655748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26172c644145c449823eb6dbfa4d1e
+      internalID: 1717935743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612cebdc533228f4887c9d895cd8deaa
+      internalID: 338783166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 780
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6394707acec5d1744b3e44187d21352e
+      internalID: -597686319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37c0306bcb55144cb66380f1922fc24
+      internalID: -740845590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08c140466b4a44b8b24452d41713bd
+      internalID: 516676767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94cbbb268150054182b901aff7d83c8
+      internalID: 1078020811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aef46eb6304ef4f93ecac7d8c6e95c
+      internalID: 908999983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e217f9727e00624ba3d711e3562c10a
+      internalID: -1707626667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15358c5b1b1bfea4ea4d6cedbaec16cb
+      internalID: -1959677503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2274e57442b4f46a005ef91126a98a
+      internalID: -1832237327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81bcfede968ae4f8b73f82967d2dcd
+      internalID: 2125105281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501965b355e6fef478fa5183a43816cd
+      internalID: 1467756525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6feaedb612b14a948da32f7619c8e
+      internalID: -62260661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25064484fd3a044aa9da0241116411
+      internalID: 643009153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48369e06215e844b98daf24c3781ab0
+      internalID: -2114807292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 702
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d74de803b58d499b448420729d8fd
+      internalID: -1706245325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092138cc3f884d847b9be1f79d773028
+      internalID: 619129449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7bc6f057d1f5641ac5ea809f56d354
+      internalID: 1000222390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae0898ae7f6bcf4b82a45dbfa65371e
+      internalID: 534859065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc28dfe3356ad489d1434a2a37f3df
+      internalID: -1733493470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16839ca22fa044a8dae52725840b0c
+      internalID: 29459072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c13c1610fdf98f4d82412d09c390f16
+      internalID: 299350442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83920e3af09a17f4b90a0765542ce166
+      internalID: 908823925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375686f70c80b1a48920d368fdb845b5
+      internalID: -1810649272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bceb274c5db3b04c9340b4d06d10539
+      internalID: 1081882816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785e3a7ac6efbb498cfa5b2ae351c47
+      internalID: -957330923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0baa24eb974341b1b17114602dd8b
+      internalID: -790843964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500ae0afe80a6446955db13bb140753
+      internalID: 354864774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fd589dac6af34e87695c62b945ce4
+      internalID: 255177638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1b59e7e84370d48876241bc61f286c
+      internalID: -982462603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9a69e2cc70374e98bb77b4a2b660c
+      internalID: 184405040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bbda764d594a4bac22f7a952a8745
+      internalID: 564096874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c49585cd207e4b9663891e3bcbc43
+      internalID: 1529429664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aec1d2b9b93ea48906a1142f6e5c92
+      internalID: 99185310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b9f3b2490c0d4396bb0de2d714361
+      internalID: -1494516869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe44bc142013b49a6f3171df06d913
+      internalID: 997341730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586935e963c763c4aaed146a5b90c3cb
+      internalID: 1732221080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91eae04cbdc80c45852b5ef0e033c9b
+      internalID: 1041542606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec016c0b37f9f6345964f3e28e99d492
+      internalID: 953566892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426223efaf853df4c9129f9f1165cbbe
+      internalID: -1166307245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad78126fb8a124289d913feef643a9
+      internalID: 1485540385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 546
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ce4d97c20a1a44ac0b9eda6eb0622
+      internalID: -2037197108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844bea8178404864c8d3806658bfaf7f
+      internalID: 1790859686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f522e33f49126cb469f82c374cfed85f
+      internalID: -2098910995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abfdbd18ef841a4cbfc61a89e3ecb97
+      internalID: -647968824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea43b14a26bf7439fc0007364aa641
+      internalID: 1545096592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd8fd033f92b84b937910e878a4988
+      internalID: -660259315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb6d3b71e043f41b9a8fafd61c99b5
+      internalID: -61199684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841e11ccf4c84e4ba92c4e222500df0
+      internalID: -2062531229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a3bd40c897464181d4bf5576388e0
+      internalID: 1946440260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d39c0683520b041b9b6c3444500961
+      internalID: -1453867863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44f7180034cc542b15d4d8bd6f14fe
+      internalID: 1994495536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c832f11c0b135d949bfc40b1a56bb09a
+      internalID: -1129498213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34a0cd74fbc0f4492474eb4f71b73c
+      internalID: 987314768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 468
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04069322014707b4b91f968d3ed2671e
+      internalID: -435373972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879917b411351a43bb34ed8133833eb
+      internalID: 338182345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c100550c6905e48af2ed9db4ff1e4e
+      internalID: -158856873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36afcba5e80b474db7cee0a668c74a9
+      internalID: 1254906228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c41ade1ba58c43ade980f46b0e3f9
+      internalID: 2120015748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36ad953fba7a64d9b20e75ca95b3ac
+      internalID: -759367756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd2cbf09238bf4a984c6a38a982baa
+      internalID: -603275181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b7613b302e5a4cae633dda75c6fbd
+      internalID: 222855915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a67629c5100d41bb5baf38cffbce7
+      internalID: 402018718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c574f0f63f4e408132cd25f3d2cf3
+      internalID: 531764909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbf89f353be80b4fa51aec2edf9905a
+      internalID: -1644838120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735838725de34a4d87d5de1242d33d4
+      internalID: -1203067934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa11d75b76f10844b34add68f6b52a9
+      internalID: 312000906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 390
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63130182945558442b81bbc54b8b5322
+      internalID: 72298065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79697d0ae14d144a47bfeb875156a9
+      internalID: 779864394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3b28b8c94c5a46a7126857d2c2f00
+      internalID: 312431851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb0c0a4942e66428ae9ae903fbfe43
+      internalID: 1938304665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba79225fe2fb2249a476c7238eb2f54
+      internalID: 1434897636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49330a8c8e031024bb92577a07ecffce
+      internalID: -145778453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc71c0b76c5564c98e5b0bae4e3cfa
+      internalID: 1078825267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ff881e9efb3c47b937d152106dd7d
+      internalID: 738282758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e55701cb605748a9db5ca7cc66356
+      internalID: -2094285893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3349e0999a52045911b0fd55ae90a3
+      internalID: 474826315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea6d00f69ae224db0a05f17a7a3bfb
+      internalID: 726805363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4763355cd92d7048a1b1783859f5019
+      internalID: -907836825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ae88d853a7314dbdd503f6ffae9c5
+      internalID: -730689639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53965580afe6f7f40826ff7d88b2d3d6
+      internalID: 1799849995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8374a2a939ec4c8887de5f71bb0dd
+      internalID: 19453717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad93d018c076d14baaffd8886ea12c9
+      internalID: -166517795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8219679d5c72394ca7dac3b7b5b307e
+      internalID: -1670945830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1e8f1654ae3b4c965cde39079d242
+      internalID: -349721535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679de6559ab453f48936c03a06add861
+      internalID: 2118474039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c1ffbb67fa05a4b9412ad8bd9de576
+      internalID: 1196556674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f95989e7e520743afe82cc8ef8bcef
+      internalID: -299919511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85883f398002b0748bc31d35e92f6ee6
+      internalID: -242816010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65427da3ffab22c4abb6138e0d79d53b
+      internalID: 144999803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307a54d04f6a8147bda0067bb9dc1a3
+      internalID: -158548295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1269641ed30dc44b65fd8471b98c00
+      internalID: 440630997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa17f928136254c9ab0b7b082c02ed
+      internalID: -1332934088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 234
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99a84e36e6af849a2b36556c2b227f
+      internalID: 1748396135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6872db51de32c4f4188cc543ca8084d0
+      internalID: -1593011550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0e9b235742804b93076f924494ed2
+      internalID: 1940050514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d9646bcf3028449ee742222c1aed4
+      internalID: -2076771197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea62b5360a29c341a4e4bf0f3dbbf99
+      internalID: -340001207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56216c427ca6242a64b691e470c490
+      internalID: 697860053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51080873252a064985eab80d8a1bee2
+      internalID: 122710761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee2c6d953925c84f9f0d33b654ec121
+      internalID: -1951221339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b318ecabf313f4fb5de97ab7c06a0f
+      internalID: 1865229017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffcaf2006f84ae4c9308de230b39620
+      internalID: 1145751889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6a9f509e99d347843f994a322be2f
+      internalID: 751101165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb093bfc0f334f45a7ca44ff0f912dd
+      internalID: 1971903378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac880fb56052b40819cae1a63d7b67
+      internalID: -10037206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338564935b3f5340a97442a923ef6f4
+      internalID: -500508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434b427c70be054ca4217b8e9e499aa
+      internalID: 2069904205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd33c63781fa8a4e9d79c74b52a05a2
+      internalID: 1009399269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d3232a1c1c6049833342f2c9078d7
+      internalID: 1841126189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde8be2837e0da45885c54ac14f1ef2
+      internalID: -987603497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61141dcc78896243a017081da3481a0
+      internalID: -1300327476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c7ff28adad8a4bbddd36c99fd4f3d
+      internalID: -1658130618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3977530f22a2943a20f65133903903
+      internalID: 163275912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574608b030bfc444b6b8015af251961
+      internalID: 207186326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f389c8d2fb70f942ae6ee66e384b6d6
+      internalID: -1382271861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917bc95cdfc34f45b670ed0e2084c75
+      internalID: -112691001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d1880d6a6dd3428b74ed7de62c340
+      internalID: -1261845316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6e4ca6c9283a458c5bbbe271e4780
+      internalID: 1339181428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 78
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb79c8440c65de45a0162446df36fad
+      internalID: -1520320079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486690b85a0a6048814ec7e852748eb
+      internalID: -476219992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931dc041e2d5e34fa32693a4b1c0aab
+      internalID: -162509785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d465a88abd5724dbb1abf74f04adea
+      internalID: 626428878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d660a661988a344bff6de34ffb5516
+      internalID: 1137737677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a869e068af057a468e6289a68697bad
+      internalID: 145983079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda7ccc1fdbb714f8e87b21dc5f350b
+      internalID: 1616211746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad9bc9e1120897418cb233c9d8a1e97
+      internalID: -1256520158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_163
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21dcefddbf1e1e4f9fb27fc5639b4b7
+      internalID: 355609615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrafty Back Anim_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4da40f3566d224fa9ffb027b4d52b3
+      internalID: 736125778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 016fef5b50303e94fbc914cd91d0d4f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scrafty Back_0: -231515186
+      Scrafty Back_1: -619173116
+      Scrafty Back_10: 1788740923
+      Scrafty Back_100: -1644838120
+      Scrafty Back_101: -1203067934
+      Scrafty Back_102: 312000906
+      Scrafty Back_103: 72298065
+      Scrafty Back_104: 779864394
+      Scrafty Back_105: 312431851
+      Scrafty Back_106: 1938304665
+      Scrafty Back_107: 1434897636
+      Scrafty Back_108: -145778453
+      Scrafty Back_109: 1078825267
+      Scrafty Back_11: -1436793289
+      Scrafty Back_110: 738282758
+      Scrafty Back_111: -2094285893
+      Scrafty Back_112: 474826315
+      Scrafty Back_113: 726805363
+      Scrafty Back_114: -907836825
+      Scrafty Back_115: -730689639
+      Scrafty Back_116: 1799849995
+      Scrafty Back_117: 19453717
+      Scrafty Back_118: -166517795
+      Scrafty Back_119: -1670945830
+      Scrafty Back_12: -1054114233
+      Scrafty Back_120: -349721535
+      Scrafty Back_121: 2118474039
+      Scrafty Back_122: 1196556674
+      Scrafty Back_123: -299919511
+      Scrafty Back_124: -242816010
+      Scrafty Back_125: 144999803
+      Scrafty Back_126: -158548295
+      Scrafty Back_127: 440630997
+      Scrafty Back_128: -1332934088
+      Scrafty Back_129: 1748396135
+      Scrafty Back_13: 1329220664
+      Scrafty Back_130: -1593011550
+      Scrafty Back_131: 1940050514
+      Scrafty Back_132: -2076771197
+      Scrafty Back_133: -340001207
+      Scrafty Back_134: 697860053
+      Scrafty Back_135: 122710761
+      Scrafty Back_136: -1951221339
+      Scrafty Back_137: 1865229017
+      Scrafty Back_138: 1145751889
+      Scrafty Back_139: 751101165
+      Scrafty Back_14: 1705651374
+      Scrafty Back_140: 1971903378
+      Scrafty Back_141: -10037206
+      Scrafty Back_142: -500508969
+      Scrafty Back_143: 2069904205
+      Scrafty Back_144: 1009399269
+      Scrafty Back_145: 1841126189
+      Scrafty Back_146: -987603497
+      Scrafty Back_147: -1300327476
+      Scrafty Back_148: -1658130618
+      Scrafty Back_149: 163275912
+      Scrafty Back_15: -1619397632
+      Scrafty Back_150: 207186326
+      Scrafty Back_151: -1382271861
+      Scrafty Back_152: -112691001
+      Scrafty Back_153: -1261845316
+      Scrafty Back_154: 1339181428
+      Scrafty Back_155: -1520320079
+      Scrafty Back_156: -476219992
+      Scrafty Back_157: -162509785
+      Scrafty Back_158: 626428878
+      Scrafty Back_159: 1137737677
+      Scrafty Back_16: -226895680
+      Scrafty Back_160: 145983079
+      Scrafty Back_161: 1616211746
+      Scrafty Back_162: -1256520158
+      Scrafty Back_163: 355609615
+      Scrafty Back_164: 736125778
+      Scrafty Back_17: -85214932
+      Scrafty Back_18: 2044501031
+      Scrafty Back_19: -1019704477
+      Scrafty Back_2: 493297860
+      Scrafty Back_20: 1182977704
+      Scrafty Back_21: -2030203223
+      Scrafty Back_22: -1333654663
+      Scrafty Back_23: 1753488848
+      Scrafty Back_24: -805308911
+      Scrafty Back_25: -2031096611
+      Scrafty Back_26: -2003100857
+      Scrafty Back_27: 83923379
+      Scrafty Back_28: 953763479
+      Scrafty Back_29: -121182519
+      Scrafty Back_3: -441190457
+      Scrafty Back_30: 702923327
+      Scrafty Back_31: 975053529
+      Scrafty Back_32: 873543097
+      Scrafty Back_33: 63160238
+      Scrafty Back_34: -1331991208
+      Scrafty Back_35: -1275655748
+      Scrafty Back_36: 1717935743
+      Scrafty Back_37: 338783166
+      Scrafty Back_38: -597686319
+      Scrafty Back_39: -740845590
+      Scrafty Back_4: -547802181
+      Scrafty Back_40: 516676767
+      Scrafty Back_41: 1078020811
+      Scrafty Back_42: 908999983
+      Scrafty Back_43: -1707626667
+      Scrafty Back_44: -1959677503
+      Scrafty Back_45: -1832237327
+      Scrafty Back_46: 2125105281
+      Scrafty Back_47: 1467756525
+      Scrafty Back_48: -62260661
+      Scrafty Back_49: 643009153
+      Scrafty Back_5: 572513330
+      Scrafty Back_50: -2114807292
+      Scrafty Back_51: -1706245325
+      Scrafty Back_52: 619129449
+      Scrafty Back_53: 1000222390
+      Scrafty Back_54: 534859065
+      Scrafty Back_55: -1733493470
+      Scrafty Back_56: 29459072
+      Scrafty Back_57: 299350442
+      Scrafty Back_58: 908823925
+      Scrafty Back_59: -1810649272
+      Scrafty Back_6: 957088267
+      Scrafty Back_60: 1081882816
+      Scrafty Back_61: -957330923
+      Scrafty Back_62: -790843964
+      Scrafty Back_63: 354864774
+      Scrafty Back_64: 255177638
+      Scrafty Back_65: -982462603
+      Scrafty Back_66: 184405040
+      Scrafty Back_67: 564096874
+      Scrafty Back_68: 1529429664
+      Scrafty Back_69: 99185310
+      Scrafty Back_7: 1532335566
+      Scrafty Back_70: -1494516869
+      Scrafty Back_71: 997341730
+      Scrafty Back_72: 1732221080
+      Scrafty Back_73: 1041542606
+      Scrafty Back_74: 953566892
+      Scrafty Back_75: -1166307245
+      Scrafty Back_76: 1485540385
+      Scrafty Back_77: -2037197108
+      Scrafty Back_78: 1790859686
+      Scrafty Back_79: -2098910995
+      Scrafty Back_8: 62034424
+      Scrafty Back_80: -647968824
+      Scrafty Back_81: 1545096592
+      Scrafty Back_82: -660259315
+      Scrafty Back_83: -61199684
+      Scrafty Back_84: -2062531229
+      Scrafty Back_85: 1946440260
+      Scrafty Back_86: -1453867863
+      Scrafty Back_87: 1994495536
+      Scrafty Back_88: -1129498213
+      Scrafty Back_89: 987314768
+      Scrafty Back_9: 669352638
+      Scrafty Back_90: -435373972
+      Scrafty Back_91: 338182345
+      Scrafty Back_92: -158856873
+      Scrafty Back_93: 1254906228
+      Scrafty Back_94: 2120015748
+      Scrafty Back_95: -759367756
+      Scrafty Back_96: -603275181
+      Scrafty Back_97: 222855915
+      Scrafty Back_98: 402018718
+      Scrafty Back_99: 531764909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

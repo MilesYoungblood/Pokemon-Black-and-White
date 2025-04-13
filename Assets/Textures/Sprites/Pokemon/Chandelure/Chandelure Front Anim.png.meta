@@ -1,0 +1,4307 @@
+fileFormatVersion: 2
+guid: 05529b5042921f04780afca154d8d373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2332848533630867327
+    second: Chandelure Front_0
+  - first:
+      213: -7523412810566668651
+    second: Chandelure Front_1
+  - first:
+      213: 6252750256321247410
+    second: Chandelure Front_2
+  - first:
+      213: 2786743225922161794
+    second: Chandelure Front_3
+  - first:
+      213: 9145529865899350480
+    second: Chandelure Front_4
+  - first:
+      213: -7521604239647994701
+    second: Chandelure Front_5
+  - first:
+      213: 6130162006055937179
+    second: Chandelure Front_6
+  - first:
+      213: -1934214243649599675
+    second: Chandelure Front_7
+  - first:
+      213: 8613583224507479822
+    second: Chandelure Front_8
+  - first:
+      213: 3691029474344370939
+    second: Chandelure Front_9
+  - first:
+      213: -8555855555242795619
+    second: Chandelure Front_10
+  - first:
+      213: 5444888819781962923
+    second: Chandelure Front_11
+  - first:
+      213: 1214194937102357066
+    second: Chandelure Front_12
+  - first:
+      213: 798866705834725035
+    second: Chandelure Front_13
+  - first:
+      213: -7191711962515345819
+    second: Chandelure Front_14
+  - first:
+      213: -3772303290657775890
+    second: Chandelure Front_15
+  - first:
+      213: -6765863577141690112
+    second: Chandelure Front_16
+  - first:
+      213: -2564493802666775035
+    second: Chandelure Front_17
+  - first:
+      213: -6264458105875637053
+    second: Chandelure Front_18
+  - first:
+      213: -1655794012275858648
+    second: Chandelure Front_19
+  - first:
+      213: 70789101494340435
+    second: Chandelure Front_20
+  - first:
+      213: 8473278745190190301
+    second: Chandelure Front_21
+  - first:
+      213: 1080046860732191310
+    second: Chandelure Front_22
+  - first:
+      213: 4589150582968652626
+    second: Chandelure Front_23
+  - first:
+      213: -3528042374227433181
+    second: Chandelure Front_24
+  - first:
+      213: 8769196597928622834
+    second: Chandelure Front_25
+  - first:
+      213: -5297580963010259590
+    second: Chandelure Front_26
+  - first:
+      213: 7542328909614165174
+    second: Chandelure Front_27
+  - first:
+      213: -6162119360802996923
+    second: Chandelure Front_28
+  - first:
+      213: 688973717813078918
+    second: Chandelure Front_29
+  - first:
+      213: -362413675761629861
+    second: Chandelure Front_30
+  - first:
+      213: 7702075914510792951
+    second: Chandelure Front_31
+  - first:
+      213: -3697166832751007816
+    second: Chandelure Front_32
+  - first:
+      213: -3978213007399774055
+    second: Chandelure Front_33
+  - first:
+      213: -5086903377166255116
+    second: Chandelure Front_34
+  - first:
+      213: -3118064186666383023
+    second: Chandelure Front_35
+  - first:
+      213: 3375370212024188647
+    second: Chandelure Front_36
+  - first:
+      213: -7053687374859687183
+    second: Chandelure Front_37
+  - first:
+      213: -5698162665813660751
+    second: Chandelure Front_38
+  - first:
+      213: -698273387833492805
+    second: Chandelure Front_39
+  - first:
+      213: 2122183998607826504
+    second: Chandelure Front_40
+  - first:
+      213: -8084373049177635580
+    second: Chandelure Front_41
+  - first:
+      213: 7245434862314042240
+    second: Chandelure Front_42
+  - first:
+      213: -8392545009206694211
+    second: Chandelure Front_43
+  - first:
+      213: -726626526310324496
+    second: Chandelure Front_44
+  - first:
+      213: -217252856403134663
+    second: Chandelure Front_45
+  - first:
+      213: 8875911252650127031
+    second: Chandelure Front_46
+  - first:
+      213: -6790040471756630521
+    second: Chandelure Front_47
+  - first:
+      213: -8617425102720089075
+    second: Chandelure Front_48
+  - first:
+      213: -3994430202974786231
+    second: Chandelure Front_49
+  - first:
+      213: -3851476963929263443
+    second: Chandelure Front_50
+  - first:
+      213: -4162272776218026930
+    second: Chandelure Front_51
+  - first:
+      213: 8779542939397171507
+    second: Chandelure Front_52
+  - first:
+      213: 3824611893248817079
+    second: Chandelure Front_53
+  - first:
+      213: 6105025270400828316
+    second: Chandelure Front_54
+  - first:
+      213: -1893521372538130650
+    second: Chandelure Front_55
+  - first:
+      213: 9223253588868174029
+    second: Chandelure Front_56
+  - first:
+      213: 6804796434905182298
+    second: Chandelure Front_57
+  - first:
+      213: -2315582314990693102
+    second: Chandelure Front_58
+  - first:
+      213: 3716946074392359468
+    second: Chandelure Front_59
+  - first:
+      213: -5668261811506891873
+    second: Chandelure Front_60
+  - first:
+      213: -3412255281557106902
+    second: Chandelure Front_61
+  - first:
+      213: -4614694132142142856
+    second: Chandelure Front_62
+  - first:
+      213: -4564972782982405495
+    second: Chandelure Front_63
+  - first:
+      213: 2022723402326076634
+    second: Chandelure Front_64
+  - first:
+      213: 7901430333355636280
+    second: Chandelure Front_65
+  - first:
+      213: -658301952010797791
+    second: Chandelure Front_66
+  - first:
+      213: 6712527263237763508
+    second: Chandelure Front_67
+  - first:
+      213: 2372496365152934444
+    second: Chandelure Front_68
+  - first:
+      213: -3517076667592929475
+    second: Chandelure Front_69
+  - first:
+      213: -3768657413694144046
+    second: Chandelure Front_70
+  - first:
+      213: -3566227925527879947
+    second: Chandelure Front_71
+  - first:
+      213: -6940991755970040716
+    second: Chandelure Front_72
+  - first:
+      213: 7840259049066414516
+    second: Chandelure Front_73
+  - first:
+      213: 807912210552264718
+    second: Chandelure Front_74
+  - first:
+      213: -7284920765441141485
+    second: Chandelure Front_75
+  - first:
+      213: 2662700121509852710
+    second: Chandelure Front_76
+  - first:
+      213: -7480120328800582759
+    second: Chandelure Front_77
+  - first:
+      213: -5037547393645357910
+    second: Chandelure Front_78
+  - first:
+      213: -3775731519093207156
+    second: Chandelure Front_79
+  - first:
+      213: -4168830864906637542
+    second: Chandelure Front_80
+  - first:
+      213: -5491669187723852034
+    second: Chandelure Front_81
+  - first:
+      213: -6662030239795654915
+    second: Chandelure Front_82
+  - first:
+      213: 9065259388405690628
+    second: Chandelure Front_83
+  - first:
+      213: -1685158418386101362
+    second: Chandelure Front_84
+  - first:
+      213: -8392795575106319897
+    second: Chandelure Front_85
+  - first:
+      213: -5840372005920316315
+    second: Chandelure Front_86
+  - first:
+      213: -2458105886431554545
+    second: Chandelure Front_87
+  - first:
+      213: 7699708011729386676
+    second: Chandelure Front_88
+  - first:
+      213: 409872708790663442
+    second: Chandelure Front_89
+  - first:
+      213: 97359808163762945
+    second: Chandelure Front_90
+  - first:
+      213: -291573668466177141
+    second: Chandelure Front_91
+  - first:
+      213: -1077534615088257083
+    second: Chandelure Front_92
+  - first:
+      213: -6154678428987205319
+    second: Chandelure Front_93
+  - first:
+      213: 3857004673450653538
+    second: Chandelure Front_94
+  - first:
+      213: 4603707649061953726
+    second: Chandelure Front_95
+  - first:
+      213: 4228988784266443275
+    second: Chandelure Front_96
+  - first:
+      213: 6930002076797078330
+    second: Chandelure Front_97
+  - first:
+      213: -3959693379373625589
+    second: Chandelure Front_98
+  - first:
+      213: 1813177139628574281
+    second: Chandelure Front_99
+  - first:
+      213: 4491037192460768079
+    second: Chandelure Front_100
+  - first:
+      213: -2537191986939251559
+    second: Chandelure Front_101
+  - first:
+      213: 5806917064347866563
+    second: Chandelure Front_102
+  - first:
+      213: 2580816562358057201
+    second: Chandelure Front_103
+  - first:
+      213: -143212162426726031
+    second: Chandelure Front_104
+  - first:
+      213: 1230524613560040225
+    second: Chandelure Front_105
+  - first:
+      213: 6358954642697446646
+    second: Chandelure Front_106
+  - first:
+      213: -1470007078454953711
+    second: Chandelure Front_107
+  - first:
+      213: 5207382931638693871
+    second: Chandelure Front_108
+  - first:
+      213: 50380499241354531
+    second: Chandelure Front_109
+  - first:
+      213: 4026239218703834758
+    second: Chandelure Front_110
+  - first:
+      213: -7687100860330691115
+    second: Chandelure Front_111
+  - first:
+      213: 4246197813517159552
+    second: Chandelure Front_112
+  - first:
+      213: -5614052861091529993
+    second: Chandelure Front_113
+  - first:
+      213: -3860069790793060371
+    second: Chandelure Front_114
+  - first:
+      213: 7193886698903326258
+    second: Chandelure Front_115
+  - first:
+      213: 354701115591815028
+    second: Chandelure Front_116
+  - first:
+      213: 2521671484007084993
+    second: Chandelure Front_117
+  - first:
+      213: -3898429885346238635
+    second: Chandelure Front_118
+  - first:
+      213: -5956015082046206893
+    second: Chandelure Front_119
+  - first:
+      213: -5773096970060071602
+    second: Chandelure Front_120
+  - first:
+      213: 2811992451673007336
+    second: Chandelure Front_121
+  - first:
+      213: 8555175564231575253
+    second: Chandelure Front_122
+  - first:
+      213: -3455156055112624850
+    second: Chandelure Front_123
+  - first:
+      213: -5226863553200976945
+    second: Chandelure Front_124
+  - first:
+      213: -7459037526632277625
+    second: Chandelure Front_125
+  - first:
+      213: 4352079430105886083
+    second: Chandelure Front_126
+  - first:
+      213: -6200305049383871641
+    second: Chandelure Front_127
+  - first:
+      213: 2659621241012913871
+    second: Chandelure Front_128
+  - first:
+      213: -4160470832139219077
+    second: Chandelure Front_129
+  - first:
+      213: 2940097223634451067
+    second: Chandelure Front_130
+  - first:
+      213: 1780244759067540070
+    second: Chandelure Front_131
+  - first:
+      213: 7320881179831147829
+    second: Chandelure Front_132
+  - first:
+      213: 3692185771117454343
+    second: Chandelure Front_133
+  - first:
+      213: -1741157403426285398
+    second: Chandelure Front_134
+  - first:
+      213: 8203726752912064637
+    second: Chandelure Front_135
+  - first:
+      213: -3964938259794474933
+    second: Chandelure Front_136
+  - first:
+      213: 2402887439165291993
+    second: Chandelure Front_137
+  - first:
+      213: -5002669033685336773
+    second: Chandelure Front_138
+  - first:
+      213: -6312640462030765833
+    second: Chandelure Front_139
+  - first:
+      213: -8444368376105541501
+    second: Chandelure Front_140
+  - first:
+      213: 1114691943741582718
+    second: Chandelure Front_141
+  - first:
+      213: -2534489639138111331
+    second: Chandelure Front_142
+  - first:
+      213: 1040346115282948916
+    second: Chandelure Front_143
+  - first:
+      213: -6876899855676497085
+    second: Chandelure Front_144
+  - first:
+      213: 3504345371176059276
+    second: Chandelure Front_145
+  - first:
+      213: -7681779519336257871
+    second: Chandelure Front_146
+  - first:
+      213: -542061992342816431
+    second: Chandelure Front_147
+  - first:
+      213: -8096755269618819644
+    second: Chandelure Front_148
+  - first:
+      213: 7137247965652868651
+    second: Chandelure Front_149
+  - first:
+      213: 9084257589051302620
+    second: Chandelure Front_150
+  - first:
+      213: -2187064589966903300
+    second: Chandelure Front_151
+  - first:
+      213: 7805760630673390767
+    second: Chandelure Front_152
+  - first:
+      213: 2598782325856118580
+    second: Chandelure Front_153
+  - first:
+      213: 8713893925561520975
+    second: Chandelure Front_154
+  - first:
+      213: -3250239102311992426
+    second: Chandelure Front_155
+  - first:
+      213: 6793082808242359307
+    second: Chandelure Front_156
+  - first:
+      213: -2203106264920936117
+    second: Chandelure Front_157
+  - first:
+      213: -4730438530275962581
+    second: Chandelure Front_158
+  - first:
+      213: -8561934125970078010
+    second: Chandelure Front_159
+  - first:
+      213: 6529455104264038409
+    second: Chandelure Front_160
+  - first:
+      213: 456354993666136307
+    second: Chandelure Front_161
+  - first:
+      213: -5310882633938132543
+    second: Chandelure Front_162
+  - first:
+      213: 6523592778078367449
+    second: Chandelure Front_163
+  - first:
+      213: -9149899188127217562
+    second: Chandelure Front_164
+  - first:
+      213: -8698862261813381407
+    second: Chandelure Front_165
+  - first:
+      213: 5295778793017905690
+    second: Chandelure Front_166
+  - first:
+      213: -3585842083186441910
+    second: Chandelure Front_167
+  - first:
+      213: -1886606815763865759
+    second: Chandelure Front_168
+  - first:
+      213: -8191331896535815447
+    second: Chandelure Front_169
+  - first:
+      213: -3846034024095038624
+    second: Chandelure Front_170
+  - first:
+      213: 1804513557057890212
+    second: Chandelure Front_171
+  - first:
+      213: 1908318196262441602
+    second: Chandelure Front_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chandelure Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf52f812f4004a4c9df66609ee724c2
+      internalID: -528714614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f597e315037c34cbdfbb8d6f6605b1
+      internalID: 1454726303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635c3b9ef308d0479a602f9ea919e7b
+      internalID: 112240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7dbbf1e92de474d87834868ef03ba9
+      internalID: -1154152969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e87dedda00a94f8acade0bbbe2d85
+      internalID: -1469679131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e291aaa88a3ecc4583b01d33479ec53
+      internalID: 574767511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4981f2fbaa58942a6092dd88554ae4
+      internalID: -34233116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75307cfc6150a1e45a2e4575492e84a9
+      internalID: 1469821528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f28575ef9977048a9cb82615497ac6
+      internalID: 1645487916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a6880079931c49a647c75e9c2e2bf
+      internalID: -301132897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d7f2eefaa2cc349ad4de401aa27404
+      internalID: -432207119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15234984e05216043b44fd0304ca1004
+      internalID: -725204428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1080
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866bbaf9661aaee499121fc1504dcea3
+      internalID: -42628858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a36ba7bf46a534ba3f3b638c60a3ad
+      internalID: 2115844753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ed6498db98fa4b975742371eb5fa8
+      internalID: 322974453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391385c80ab61fe4da1cf2f8cf9d75af
+      internalID: 1415637362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6226cc92e3404b8fe63dc4c0dda4f
+      internalID: 203103118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14881fd399a43274799cf8b067aa5fac
+      internalID: 1308534337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f805f3bafd552499f7b140a10e171e
+      internalID: 1783130306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52807e4623069945b424eef85f7161b
+      internalID: 1544252844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c93737c4d6d8d4d8389b152952d945
+      internalID: 1283851354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0d3decb517f04ea1fe5cc9a364d7e
+      internalID: 27955471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980592a00fca4741aa8e93a5ffaf653
+      internalID: -1043087622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b450c5f2c63cc4e86dbe465fe465d8
+      internalID: 433276132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b004b75bf7362448bcdb6f41a48cfd0
+      internalID: -1908729262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 990
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009e8c3417a4b94f892a76642165c1a
+      internalID: -5890133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683a6cea15d93340976209b6c622f04
+      internalID: 407600174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0098cccfa93af241b9bb4b13acdd7c6
+      internalID: -1497882437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d6c371fa671c44bd5ab816807709f
+      internalID: -1767147515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bd0f5187d2a474f8b411ebd36b040b
+      internalID: -1381056030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b225c2e93512e41be78d46273705d7
+      internalID: -465856662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd58fc9f5275644e860a876b7a664a1
+      internalID: 1436008019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506cc80a15d68a14f96dcaf8be5ca08c
+      internalID: -1540117528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adf92388fbfdf40bf706c990ad7ecf
+      internalID: 284582069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e201deebc7d44e9c545793c91f87b
+      internalID: 1818099248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd8bc9da6930224ea860b7e4d1b2e8a
+      internalID: 1472417293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf35491a5e74ab4091f1c90f59f8140
+      internalID: -669693041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a236a1b2242ca64d96900ae10c4290e
+      internalID: -1505975585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 900
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3c1096b1ab2646bcc2194996e4df3
+      internalID: -1980958388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8582ab17a8744b99e21a5409e13b5
+      internalID: 998850353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1770ba7b2f301a43b3eeb688eacb0c6
+      internalID: -1778638246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eada54d742512d4391bbf307021984d
+      internalID: -1250884908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a65ce02b723ac14e8baebb63c676616
+      internalID: 1205103818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d5c5275f2a47459028d062f16243f
+      internalID: 1964077679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad60c1ff0cc2354fab0d6a4664a514c
+      internalID: 1636438147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166adafcc1233b46a550f962207742f
+      internalID: 1033085024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6743b452dc274791e8d5c37ae64a7
+      internalID: -568347563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10088216c5ab3a42825e8cf5dc5db8e
+      internalID: 699441960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63912fdcc486924ab206cf563fe4f5b
+      internalID: -1547441297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d25dc18e3d56048b19f1e932ed842c
+      internalID: -1760917889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07a9ef5ecd80341b3987f424292b98
+      internalID: 6418311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 810
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914f3f42fe824f4697ccc8efd679425
+      internalID: -1064721821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f743c9dfddc7f94497464c4c9267c9c
+      internalID: 1598551376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc79a8b91d0a1c47a9b7dcab6870326
+      internalID: 1190111509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d86deb76522946834df36b0d256cb
+      internalID: 832395157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8e72ff79db43441b7c6a5d5dc42b08
+      internalID: -1793443316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7ea7249ec1514c8b26c0b91701a20
+      internalID: -1726890535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a721675e0d46c3498b74cf827e42259
+      internalID: 1282605392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c79c64527092641be46cee1c8f2a31
+      internalID: 1317549610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f87da1a2dc774e8d1f411e540af2d
+      internalID: 44043618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565755f9457c06449ffd076b9c788f2
+      internalID: -94666966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678a825a2826c34895e97bdeab3000e
+      internalID: -1992085590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a230739d98b21b4d93142bcd81cdfca
+      internalID: 2067482531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d863636bec9e42a48aac6dc3f959e739
+      internalID: 1096789736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 720
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92636af30e80708408529102d9243b51
+      internalID: -1854874080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e38b84295f6746a5abc96709600c6
+      internalID: 1892621168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c839fc74c16994d87b57c36150107c
+      internalID: -1422299477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e7bd4216742149a2fc03b10390f7f
+      internalID: -932320283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b056fc6c11809419661dbab850371e
+      internalID: 1298395524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52e652d2f83694db7c6089a6fd55f7
+      internalID: 1052205832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b83df4a2fa920458c5a50e8b20c428
+      internalID: -1428080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95f49f2c082b848b6629f28e8ef413
+      internalID: 386903287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3de62b2888034191c10f1fc8aa7d2
+      internalID: 466616307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc828ac811059b46907f388a1f78a9f
+      internalID: 1447008457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e4a0c94e77514a8ed40e7caa2212a
+      internalID: 1881736831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5041e9a25d9d48b998430ab36fa41
+      internalID: -1441400003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21a1dcceea2a94d95e742255a69a6f
+      internalID: 1497965406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 630
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a382121f00f02d04788dab02013b25a0
+      internalID: 749223417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bc25dfa3ab7443b46c16927b822e9
+      internalID: 763199173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79283a855e7756b4aa5b818129fe253e
+      internalID: -94440514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881207c4d69e734999073b2a3caf8c6
+      internalID: 213740191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f3a2c09f61444ebe7cf5204c1f55c
+      internalID: 1278925063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777cd20a77b8b3499a1ad4243ca7b25
+      internalID: -1078748502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4778bfd3dcce2845a0a29f438d8f5f8
+      internalID: 1808233654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34765658c44ea1241a4cc0b049404056
+      internalID: -1264642142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12874a6bd0f786f4c971f922b7e6f95e
+      internalID: -981116553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d697e5c39833e40bc17df7452bb58d
+      internalID: 1689241284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7988d935cf544f8d92c0d54649d3a
+      internalID: -228851445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7864559a30398b41ab08759a40bd1c5
+      internalID: 1483327268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ed2086a1dc734d9a3c679f7606ff5
+      internalID: 1609711901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 540
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815cb01ab98e374da3fdc24f700a369
+      internalID: -277691390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761967203edc63544b9dd247a26211cb
+      internalID: -2109321610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2645d156bfb06479ee14c9b0ea58bb
+      internalID: -964965328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3913fe128535046922aad4065de744
+      internalID: 1348490367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56321d337cb9a4aadfbce72afc6cb9
+      internalID: -1945780433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5335a51ba0f6247a4e2a8737b644c5
+      internalID: 120483735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951efa33c9a3f884f9531d0a0ae75821
+      internalID: -935745614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc953a775558dc84488f70b2b4ed71b8
+      internalID: -1808168871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e54c651a725e45af34fa284aa5a86
+      internalID: -407760064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7629c1cf99e5545ba97deb2defc1e9
+      internalID: 651350446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091747a489f936449afbe686865a323
+      internalID: -861180731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01cd7c69537fe40aff8dd2831dd3a8
+      internalID: 928255113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c338208f8aca498eb300144463f71
+      internalID: -2084100554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 450
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe46deaf453da4983f3da039700f81
+      internalID: -2132592587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c656a6b7a8ad64aa18b0efdbaa31b0
+      internalID: -1500250989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98b84e054a3a841977ca63e594da1a
+      internalID: -2131967295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643d66b28bad8e44b502a1af8f0720a
+      internalID: 693152402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717aee280487af7419ac1969719bf92a
+      internalID: 408363249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f44ac50c07b1488f0a05ee6eda1a0
+      internalID: -877391933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1176ff054adb429752ecf756939f2
+      internalID: -508162462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13564830b0d1c040b263cce9791b784
+      internalID: 1299644658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30732910368946458844c6608e3dd79
+      internalID: -1544773702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c7bfea3864384c9c97189b22a9a7e
+      internalID: -624113188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243c76a9691a4a458f99062260687d6
+      internalID: 699682596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7093a034ba664a9578807ad323cb9
+      internalID: -857844022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c98d7cba9385c43baf2ee8ecd9c68c
+      internalID: -897225628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 360
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cdad47c86095043968dd06a3dbe87a
+      internalID: 455632232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff1048081620f4a8e996e628ee885c
+      internalID: 55717754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004416e10d2b354f9be08a9bbfc2a57
+      internalID: -2106552786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da475a0fd1c93340b27d6f44a5a446a
+      internalID: -896798522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01037e4a2a409ab4ba2e63509b6130ab
+      internalID: -1416758572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d4536b8881d045a1d8989ce12bce2
+      internalID: 2039296922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db197986a451e4095c6e1098cf15b2
+      internalID: -718109674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62376dd7a18bd0740a3bdd937e883da5
+      internalID: 1040986899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd4042fd7f7764d8af10c981ed1667
+      internalID: -1209717329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3cbe5ce1a14f4893a05c2ac6764fd
+      internalID: 1611736172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5b0939d5ae6440bf8cca2df2c6c23
+      internalID: -181092541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383db619810f2f24889f585c1aa14db8
+      internalID: -2004049954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52238e8939aa5c9438437491fc1ea616
+      internalID: 561557114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 270
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af226ecb215d6d48880554ae55be519
+      internalID: 1451012573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f98ff1354f6d74099b574c1c1c403a
+      internalID: -671439115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6964930bfd094fbce7b0076450afb
+      internalID: 1796960448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811ff372cf7ecc45ba9fd8552d55781
+      internalID: 185228297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85601507f4071cc4a972ebc6cef37f7d
+      internalID: -1500780559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0600c55179e1934bb5becc4f4bb1e48
+      internalID: 887345960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e295423ccbc614c92a066c79a52284
+      internalID: 1000854844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efbe0000f2f2e4c991f2e46afd270f
+      internalID: -1151555425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17b8d8da5f91c4d8a86a01b4a423b0
+      internalID: -253752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234b519dd208c24ead5cda1ed9eab4b
+      internalID: 1417703271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce1ef95e99cbe48bc9b4f240a5f845
+      internalID: 1687641932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad78a198430b54fb0c342c063c2cb1
+      internalID: -1158404866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd136b4e6ac4d46895acb7e81912e5
+      internalID: -1172482171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 180
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117da57a698839944bfa8f8de997f889
+      internalID: -1094884575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7af136811eae6428f4a040d25f9aa3
+      internalID: -19744263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b70f82fdc6e748a80ca937b66f080
+      internalID: -803687179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687b29bc7adce046b55ed504bf4f944
+      internalID: -232192852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12176f35663c1a848b54b0d61ec382f0
+      internalID: -1846064662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302127b4d8e0f3f4ca06139efaa82499
+      internalID: -1466260583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d16e265a9667345aae3e4a7f571c68
+      internalID: 29705412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44939c7cfe808e45a6c7a3b04789361
+      internalID: 22284318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513efed63e62f2b48ac81fed6a719478
+      internalID: -379649188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20817ec7fc25fa4e8d0caec553bb42a
+      internalID: -1366833365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11064145abe0cd4d8549b0d9ee6e29d
+      internalID: 311874010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674a9475fcc35dd4fa584091ae2768fd
+      internalID: -799217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb870f083d5fbff4188f96177853994d
+      internalID: 1966863722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 90
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4be46f87b30eb4d851bf467db98e52
+      internalID: 1225297074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d7787adf3c4c41998f24e1d01bdfe
+      internalID: -1936791583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe77fa1381b1f247bd06d88b2296357
+      internalID: -262464201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15058305547010740ac347f8a55d1ce9
+      internalID: 437637410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0e8814f4bf0e469309b1b06b53e19
+      internalID: 549466814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392bcddd1b76e0041a1d5f21b9287344
+      internalID: 733673848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1adee46ddeaa489fa3bd591d40f66
+      internalID: -1847442433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3940d5a7f1a094db0aaf23337cb418
+      internalID: -943942151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d97e342975ff41b8b19d83b2a4df8
+      internalID: 1156054063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02e7a229d18214cbeef394b07b30f3
+      internalID: 299028253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05175fbc9221a4f9dce3fa52d14ce8
+      internalID: 84196230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b762e6c288c643a2ffc00300a8baf
+      internalID: 1126204290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dd74b33bfa89ec4ea048f552b6ce356
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chandelure Front_0: -528714614
+      Chandelure Front_1: 1454726303
+      Chandelure Front_10: -432207119
+      Chandelure Front_100: -861180731
+      Chandelure Front_101: 928255113
+      Chandelure Front_102: -2084100554
+      Chandelure Front_103: -2132592587
+      Chandelure Front_104: -1500250989
+      Chandelure Front_105: -2131967295
+      Chandelure Front_106: 693152402
+      Chandelure Front_107: 408363249
+      Chandelure Front_108: -877391933
+      Chandelure Front_109: -508162462
+      Chandelure Front_11: -725204428
+      Chandelure Front_110: 1299644658
+      Chandelure Front_111: -1544773702
+      Chandelure Front_112: -624113188
+      Chandelure Front_113: 699682596
+      Chandelure Front_114: -857844022
+      Chandelure Front_115: -897225628
+      Chandelure Front_116: 455632232
+      Chandelure Front_117: 55717754
+      Chandelure Front_118: -2106552786
+      Chandelure Front_119: -896798522
+      Chandelure Front_12: -42628858
+      Chandelure Front_120: -1416758572
+      Chandelure Front_121: 2039296922
+      Chandelure Front_122: -718109674
+      Chandelure Front_123: 1040986899
+      Chandelure Front_124: -1209717329
+      Chandelure Front_125: 1611736172
+      Chandelure Front_126: -181092541
+      Chandelure Front_127: -2004049954
+      Chandelure Front_128: 561557114
+      Chandelure Front_129: 1451012573
+      Chandelure Front_13: 2115844753
+      Chandelure Front_130: -671439115
+      Chandelure Front_131: 1796960448
+      Chandelure Front_132: 185228297
+      Chandelure Front_133: -1500780559
+      Chandelure Front_134: 887345960
+      Chandelure Front_135: 1000854844
+      Chandelure Front_136: -1151555425
+      Chandelure Front_137: -253752808
+      Chandelure Front_138: 1417703271
+      Chandelure Front_139: 1687641932
+      Chandelure Front_14: 322974453
+      Chandelure Front_140: -1158404866
+      Chandelure Front_141: -1172482171
+      Chandelure Front_142: -1094884575
+      Chandelure Front_143: -19744263
+      Chandelure Front_144: -803687179
+      Chandelure Front_145: -232192852
+      Chandelure Front_146: -1846064662
+      Chandelure Front_147: -1466260583
+      Chandelure Front_148: 29705412
+      Chandelure Front_149: 22284318
+      Chandelure Front_15: 1415637362
+      Chandelure Front_150: -379649188
+      Chandelure Front_151: -1366833365
+      Chandelure Front_152: 311874010
+      Chandelure Front_153: -799217216
+      Chandelure Front_154: 1966863722
+      Chandelure Front_155: 1225297074
+      Chandelure Front_156: -1936791583
+      Chandelure Front_157: -262464201
+      Chandelure Front_158: 437637410
+      Chandelure Front_159: 549466814
+      Chandelure Front_16: 203103118
+      Chandelure Front_160: 733673848
+      Chandelure Front_161: -1847442433
+      Chandelure Front_162: -943942151
+      Chandelure Front_163: 1156054063
+      Chandelure Front_164: 299028253
+      Chandelure Front_165: 84196230
+      Chandelure Front_166: 1126204290
+      Chandelure Front_17: 1308534337
+      Chandelure Front_18: 1783130306
+      Chandelure Front_19: 1544252844
+      Chandelure Front_2: 112240607
+      Chandelure Front_20: 1283851354
+      Chandelure Front_21: 27955471
+      Chandelure Front_22: -1043087622
+      Chandelure Front_23: 433276132
+      Chandelure Front_24: -1908729262
+      Chandelure Front_25: -5890133
+      Chandelure Front_26: 407600174
+      Chandelure Front_27: -1497882437
+      Chandelure Front_28: -1767147515
+      Chandelure Front_29: -1381056030
+      Chandelure Front_3: -1154152969
+      Chandelure Front_30: -465856662
+      Chandelure Front_31: 1436008019
+      Chandelure Front_32: -1540117528
+      Chandelure Front_33: 284582069
+      Chandelure Front_34: 1818099248
+      Chandelure Front_35: 1472417293
+      Chandelure Front_36: -669693041
+      Chandelure Front_37: -1505975585
+      Chandelure Front_38: -1980958388
+      Chandelure Front_39: 998850353
+      Chandelure Front_4: -1469679131
+      Chandelure Front_40: -1778638246
+      Chandelure Front_41: -1250884908
+      Chandelure Front_42: 1205103818
+      Chandelure Front_43: 1964077679
+      Chandelure Front_44: 1636438147
+      Chandelure Front_45: 1033085024
+      Chandelure Front_46: -568347563
+      Chandelure Front_47: 699441960
+      Chandelure Front_48: -1547441297
+      Chandelure Front_49: -1760917889
+      Chandelure Front_5: 574767511
+      Chandelure Front_50: 6418311
+      Chandelure Front_51: -1064721821
+      Chandelure Front_52: 1598551376
+      Chandelure Front_53: 1190111509
+      Chandelure Front_54: 832395157
+      Chandelure Front_55: -1793443316
+      Chandelure Front_56: -1726890535
+      Chandelure Front_57: 1282605392
+      Chandelure Front_58: 1317549610
+      Chandelure Front_59: 44043618
+      Chandelure Front_6: -34233116
+      Chandelure Front_60: -94666966
+      Chandelure Front_61: -1992085590
+      Chandelure Front_62: 2067482531
+      Chandelure Front_63: 1096789736
+      Chandelure Front_64: -1854874080
+      Chandelure Front_65: 1892621168
+      Chandelure Front_66: -1422299477
+      Chandelure Front_67: -932320283
+      Chandelure Front_68: 1298395524
+      Chandelure Front_69: 1052205832
+      Chandelure Front_7: 1469821528
+      Chandelure Front_70: -1428080747
+      Chandelure Front_71: 386903287
+      Chandelure Front_72: 466616307
+      Chandelure Front_73: 1447008457
+      Chandelure Front_74: 1881736831
+      Chandelure Front_75: -1441400003
+      Chandelure Front_76: 1497965406
+      Chandelure Front_77: 749223417
+      Chandelure Front_78: 763199173
+      Chandelure Front_79: -94440514
+      Chandelure Front_8: 1645487916
+      Chandelure Front_80: 213740191
+      Chandelure Front_81: 1278925063
+      Chandelure Front_82: -1078748502
+      Chandelure Front_83: 1808233654
+      Chandelure Front_84: -1264642142
+      Chandelure Front_85: -981116553
+      Chandelure Front_86: 1689241284
+      Chandelure Front_87: -228851445
+      Chandelure Front_88: 1483327268
+      Chandelure Front_89: 1609711901
+      Chandelure Front_9: -301132897
+      Chandelure Front_90: -277691390
+      Chandelure Front_91: -2109321610
+      Chandelure Front_92: -964965328
+      Chandelure Front_93: 1348490367
+      Chandelure Front_94: -1945780433
+      Chandelure Front_95: 120483735
+      Chandelure Front_96: -935745614
+      Chandelure Front_97: -1808168871
+      Chandelure Front_98: -407760064
+      Chandelure Front_99: 651350446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

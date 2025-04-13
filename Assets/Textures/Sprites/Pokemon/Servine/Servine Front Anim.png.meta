@@ -1,0 +1,4561 @@
+fileFormatVersion: 2
+guid: 3c7c384407d16b74a8c9d27bf01b07fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1013144412516240096
+    second: Servine Front_0
+  - first:
+      213: -5033256902251908334
+    second: Servine Front_1
+  - first:
+      213: 6355082717570703278
+    second: Servine Front_2
+  - first:
+      213: -3468995068646239974
+    second: Servine Front_3
+  - first:
+      213: -3786753325525964422
+    second: Servine Front_4
+  - first:
+      213: 7741447878437751812
+    second: Servine Front_5
+  - first:
+      213: 305503658212053764
+    second: Servine Front_6
+  - first:
+      213: -5217313350912853225
+    second: Servine Front_7
+  - first:
+      213: -1456780465688729323
+    second: Servine Front_8
+  - first:
+      213: -6539690091058025169
+    second: Servine Front_9
+  - first:
+      213: -4420853317991877074
+    second: Servine Front_10
+  - first:
+      213: 7551943646359227604
+    second: Servine Front_11
+  - first:
+      213: 791693084745227621
+    second: Servine Front_12
+  - first:
+      213: 388112539182474747
+    second: Servine Front_13
+  - first:
+      213: 5584663686198338680
+    second: Servine Front_14
+  - first:
+      213: 4701520332191733830
+    second: Servine Front_15
+  - first:
+      213: -8022003661333616646
+    second: Servine Front_16
+  - first:
+      213: 4901642060370001220
+    second: Servine Front_17
+  - first:
+      213: 507034896565678140
+    second: Servine Front_18
+  - first:
+      213: 7070775905352969847
+    second: Servine Front_19
+  - first:
+      213: 3179798245898831867
+    second: Servine Front_20
+  - first:
+      213: 393154041577265558
+    second: Servine Front_21
+  - first:
+      213: -5446766050344472394
+    second: Servine Front_22
+  - first:
+      213: 6948454195727281410
+    second: Servine Front_23
+  - first:
+      213: 8843220099984615269
+    second: Servine Front_24
+  - first:
+      213: -8991673111802359775
+    second: Servine Front_25
+  - first:
+      213: -7081627378706627574
+    second: Servine Front_26
+  - first:
+      213: 5620886692916323815
+    second: Servine Front_27
+  - first:
+      213: -8388938427282257548
+    second: Servine Front_28
+  - first:
+      213: 7326113982177366104
+    second: Servine Front_29
+  - first:
+      213: 2404104083699779870
+    second: Servine Front_30
+  - first:
+      213: -3681365881358346810
+    second: Servine Front_31
+  - first:
+      213: 1746060819297117583
+    second: Servine Front_32
+  - first:
+      213: 7047872397222484839
+    second: Servine Front_33
+  - first:
+      213: 3993628216012254078
+    second: Servine Front_34
+  - first:
+      213: 7677556517767185660
+    second: Servine Front_35
+  - first:
+      213: 7733384297547854667
+    second: Servine Front_36
+  - first:
+      213: -2468527483598491210
+    second: Servine Front_37
+  - first:
+      213: 3833579573613749364
+    second: Servine Front_38
+  - first:
+      213: -5486004758896103443
+    second: Servine Front_39
+  - first:
+      213: 2941987126077550977
+    second: Servine Front_40
+  - first:
+      213: -5114088497539857069
+    second: Servine Front_41
+  - first:
+      213: -8260952777788129225
+    second: Servine Front_42
+  - first:
+      213: 3476585243798763732
+    second: Servine Front_43
+  - first:
+      213: -1185242149212839486
+    second: Servine Front_44
+  - first:
+      213: 4802919646276089524
+    second: Servine Front_45
+  - first:
+      213: -330181720875458066
+    second: Servine Front_46
+  - first:
+      213: 3073528952927102419
+    second: Servine Front_47
+  - first:
+      213: 8025942419505379096
+    second: Servine Front_48
+  - first:
+      213: -8815878067662329892
+    second: Servine Front_49
+  - first:
+      213: 6938171153953061725
+    second: Servine Front_50
+  - first:
+      213: -5183624083488546386
+    second: Servine Front_51
+  - first:
+      213: 5538039207185125996
+    second: Servine Front_52
+  - first:
+      213: 5592475737620778285
+    second: Servine Front_53
+  - first:
+      213: 6747911281399944071
+    second: Servine Front_54
+  - first:
+      213: -8524178435199521033
+    second: Servine Front_55
+  - first:
+      213: 2482962876335730032
+    second: Servine Front_56
+  - first:
+      213: 660594902055266411
+    second: Servine Front_57
+  - first:
+      213: -2908886155120337254
+    second: Servine Front_58
+  - first:
+      213: -7817340062004856162
+    second: Servine Front_59
+  - first:
+      213: 3090276406009855590
+    second: Servine Front_60
+  - first:
+      213: 8940101582469567326
+    second: Servine Front_61
+  - first:
+      213: -9002255577958043620
+    second: Servine Front_62
+  - first:
+      213: 915650673866346997
+    second: Servine Front_63
+  - first:
+      213: 2477235072202506759
+    second: Servine Front_64
+  - first:
+      213: 6576721278559445879
+    second: Servine Front_65
+  - first:
+      213: 8768317034966052497
+    second: Servine Front_66
+  - first:
+      213: 8050556355041407161
+    second: Servine Front_67
+  - first:
+      213: 1868120410906754296
+    second: Servine Front_68
+  - first:
+      213: 1103794890625413996
+    second: Servine Front_69
+  - first:
+      213: -1424604166859490155
+    second: Servine Front_70
+  - first:
+      213: -8455711377051018865
+    second: Servine Front_71
+  - first:
+      213: -743412815020309980
+    second: Servine Front_72
+  - first:
+      213: -4775160126528847938
+    second: Servine Front_73
+  - first:
+      213: 6281385038290413556
+    second: Servine Front_74
+  - first:
+      213: -7701250197495881619
+    second: Servine Front_75
+  - first:
+      213: -6835429313239429139
+    second: Servine Front_76
+  - first:
+      213: -785936031611552851
+    second: Servine Front_77
+  - first:
+      213: -6137808102613939764
+    second: Servine Front_78
+  - first:
+      213: 132723692125488613
+    second: Servine Front_79
+  - first:
+      213: -1596268535583312111
+    second: Servine Front_80
+  - first:
+      213: 3445653319345259013
+    second: Servine Front_81
+  - first:
+      213: -9165924289381053523
+    second: Servine Front_82
+  - first:
+      213: 2636395500213304848
+    second: Servine Front_83
+  - first:
+      213: -1812009227764536989
+    second: Servine Front_84
+  - first:
+      213: 7838926024373592697
+    second: Servine Front_85
+  - first:
+      213: -2220345243605145945
+    second: Servine Front_86
+  - first:
+      213: 4253870578734873411
+    second: Servine Front_87
+  - first:
+      213: -2202030417986695688
+    second: Servine Front_88
+  - first:
+      213: -5239010204283734194
+    second: Servine Front_89
+  - first:
+      213: -7604366365056019400
+    second: Servine Front_90
+  - first:
+      213: -2936459373839328437
+    second: Servine Front_91
+  - first:
+      213: 7959619277038245256
+    second: Servine Front_92
+  - first:
+      213: -8185803322677053868
+    second: Servine Front_93
+  - first:
+      213: 2980564656163529843
+    second: Servine Front_94
+  - first:
+      213: -4289983996262141370
+    second: Servine Front_95
+  - first:
+      213: -2088696780236053037
+    second: Servine Front_96
+  - first:
+      213: 5882887571771993096
+    second: Servine Front_97
+  - first:
+      213: 6821417562028180844
+    second: Servine Front_98
+  - first:
+      213: -7136856441653390773
+    second: Servine Front_99
+  - first:
+      213: -6700002726190945785
+    second: Servine Front_100
+  - first:
+      213: 2001486118222868749
+    second: Servine Front_101
+  - first:
+      213: 4385113978584046487
+    second: Servine Front_102
+  - first:
+      213: 7367116966030178367
+    second: Servine Front_103
+  - first:
+      213: 2100339173125689024
+    second: Servine Front_104
+  - first:
+      213: 9170546470567576345
+    second: Servine Front_105
+  - first:
+      213: -2994508075580666506
+    second: Servine Front_106
+  - first:
+      213: -7046259204819508655
+    second: Servine Front_107
+  - first:
+      213: -423656386073121667
+    second: Servine Front_108
+  - first:
+      213: 2076845163470800051
+    second: Servine Front_109
+  - first:
+      213: 3331632931750824262
+    second: Servine Front_110
+  - first:
+      213: 7238874621066812550
+    second: Servine Front_111
+  - first:
+      213: -8613241005182041122
+    second: Servine Front_112
+  - first:
+      213: -4389325005411530896
+    second: Servine Front_113
+  - first:
+      213: 5538985071043308499
+    second: Servine Front_114
+  - first:
+      213: 6601106721992514718
+    second: Servine Front_115
+  - first:
+      213: -8279347459955951941
+    second: Servine Front_116
+  - first:
+      213: -5194206591076105375
+    second: Servine Front_117
+  - first:
+      213: -5691719856565410945
+    second: Servine Front_118
+  - first:
+      213: -7903479533783568531
+    second: Servine Front_119
+  - first:
+      213: 5448385766360500282
+    second: Servine Front_120
+  - first:
+      213: 8877412051332121898
+    second: Servine Front_121
+  - first:
+      213: 2564789267710790177
+    second: Servine Front_122
+  - first:
+      213: 4482784376329736565
+    second: Servine Front_123
+  - first:
+      213: 6562776176832385971
+    second: Servine Front_124
+  - first:
+      213: -2154403995569729007
+    second: Servine Front_125
+  - first:
+      213: 5292183724150550351
+    second: Servine Front_126
+  - first:
+      213: 642177333185100969
+    second: Servine Front_127
+  - first:
+      213: 498415080211682462
+    second: Servine Front_128
+  - first:
+      213: 2312100803195375406
+    second: Servine Front_129
+  - first:
+      213: 3626293008990890165
+    second: Servine Front_130
+  - first:
+      213: 8977055451155040272
+    second: Servine Front_131
+  - first:
+      213: -2889512534173768055
+    second: Servine Front_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Servine Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958032a204bb336459fe7fd437b1dc85
+      internalID: 119829495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d97891c5e2984db2f4b20266b7aa1
+      internalID: 1257478864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46fcf3f1771284cb72f4cd69132a1d
+      internalID: 1178460944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca8a00cda5a3b4a88ebfc83534e8b5
+      internalID: 900989071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c1721b35146740b1e3c71e2200a36
+      internalID: 273572474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424493df3599e744dabb5c770e374d5f
+      internalID: 38776478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed9fa24a9cf537438edd0e78781fa26
+      internalID: 330192174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ca00e75d9c5947bd05be3516bba81
+      internalID: -473451477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51732cc370ca6154ab520fcce3ddbcda
+      internalID: -676824854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942f35d4b18cb5429cd893ed7548b82
+      internalID: 1357016561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ccb96e62a008c4791f725dec5fd2cd
+      internalID: -319882426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58edd3187b3fd1d4ea43d5e00ee6557e
+      internalID: 227553392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debbcdfa341b0624c8e36e15d47a0186
+      internalID: 794193467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 754
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f258ed8afc714a9c3b2c0f0f83483
+      internalID: 545722654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d54332caf294f48bcf4c14c72599fa
+      internalID: -1444853696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be9df837e93584c85cf1141625f237
+      internalID: -804820420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d660312cff7aaa941887248ec69e62c8
+      internalID: 386962719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a63fc9d4c70945bac0d37a4103c96
+      internalID: 1746940525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf40feadc37d4418aeb37c7c530bdf
+      internalID: -220532766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf65eff1d8c70f459aaeaef01db3a98
+      internalID: -1092707724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e3174d4b127b428465c15578ed541
+      internalID: -1290711084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd137eae6ba90d541806a452c2457e84
+      internalID: -942949130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1399e1e75618b242b56d34a0b836b8a
+      internalID: 1190596051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003c45398a51be4fac789ab0fa3ba1c
+      internalID: 85332308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d74775d3bfc942a714e8c0223c8e0
+      internalID: 775830214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73318cbe2795e984786a9e6b3995e2ca
+      internalID: 810236137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106794d26b770a14fa58424143bd76b2
+      internalID: -2115662940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0d5545598bc5468324176b56822f1
+      internalID: 630136268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e3516caa05734585f87b56a09f046
+      internalID: 1003884214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f25647e6235d43a42c58ae36e2cf0
+      internalID: 470079431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b484b97fce1ff4f924b5dd17930565
+      internalID: 544949720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c560ce67dfa84bb4c5cbb66cd71ed
+      internalID: 1225528005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b913d9741ad1d4ebf76043a857afdd
+      internalID: 1703070677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fc5a3706703c42a349c81a161c964
+      internalID: -1838914994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46103982dda83724f8e94b2b0a89127d
+      internalID: -1374329774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e44ceb45a88a84dacd72fe5ec506c3
+      internalID: -1317250770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48c6da5e3b7644da48e6c46fddd8b0
+      internalID: 2126162781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0044d6ac4af533e468e1b613bcf1af23
+      internalID: 2016396129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c10b119235eff44486b08a8fb584c6a
+      internalID: 911922019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a0fcf96f19914b80bf80c8a232b69
+      internalID: 121347613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b7d7596d4cd44093c01b8aa448625
+      internalID: 1614062557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 638
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1322f960c0204db9910c79015d7c0
+      internalID: -2143895668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbde272817a90543a67d55c34b2b96a
+      internalID: -926560384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142e20dd072a9b4d8e9a7c93f415a10
+      internalID: -2038215514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7cad84d311d6142a57c1dec5c58dc2
+      internalID: 1817140317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43129d3aa0252be4aa63e48f8c1995ae
+      internalID: 556621700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ba9b88df7d0047b78d2b3dd0ced54
+      internalID: -1630855861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b54ab2204a384ebe8d544032f1d2e
+      internalID: 1299806452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c8c2d45d63ed478c526da9a685e2f
+      internalID: 1832719482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06524615e55afd429ed7f60e0576b54
+      internalID: 104800667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2bf8f26429f9c40ab35128a26a6fe0
+      internalID: -140003019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772b0dfc912de44691cd865a9e32276
+      internalID: 1463248777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c35d3eb0e414843b5f56ff415ea82e
+      internalID: 1196222367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442d944f22ef4140bcf58e8fe5b370f
+      internalID: -644643519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc78ece9fc5fe4a93b4ea6a8349ff1
+      internalID: 1277032395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 580
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c29d3c9e478d4d9b6cd114d257d51
+      internalID: -959265617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11800a5de94a643a8566be44750517
+      internalID: -899905871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba236f4793146f3438531ad00f869c76
+      internalID: 1172861065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb71ae6725d6f143a57b9d4c4eab4e7
+      internalID: 661491349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c16d00635c6bc45af2d69dcc90f275
+      internalID: 265220854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d3bb012d5ac440b370c944af67ae1
+      internalID: 813412712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115bd8bbef66b64990641b4c7d3df5f
+      internalID: -840748146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e0c363aa88264da59f969378f8606
+      internalID: -1244390662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3f95dc732e00439bff2bc7c430e33
+      internalID: 919689413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e4b4c0454b4c4d85b0ce9e8b57020
+      internalID: -423860651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd555c84d6c484998688a0901569c8
+      internalID: -1334546528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afbdffbccdf284c8d4ca66578127f0
+      internalID: 1403815712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068a67ebbf07ee408cb1c5967f93090
+      internalID: -1253379137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32a2b883421c14d90e2bfb88d91e61
+      internalID: -1036819259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 522
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9a8b81cf03244ea2d45b007eb1712
+      internalID: 552447464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39be80adf15b734cb7e1ac8a7db513d
+      internalID: 722139401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e4b24e9ade364a8b7c60a0559aadb
+      internalID: -711688961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a750306d66bf941a34308d033a8d64
+      internalID: 1267490301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a977b846fae27478b82c13f215414d
+      internalID: 951781336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd79fdedd69414396f27a218629f36
+      internalID: 827189718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea6376affa91b418122f96bbaa62b2
+      internalID: -1084144820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83ef76004036549b784b453e97a774
+      internalID: -974303489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a3d69d4e9e46d43ad49e3535c84dcd
+      internalID: -1031408855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbe2e5d1b05843489dbcd747d200d34
+      internalID: 1096715296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7563d7feddda4db7e0c541a2752a8
+      internalID: 237567921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fb5572afbb734abcff56fe217b128
+      internalID: -1132975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade1469a73a8cf45bc5cfbcb4ec6284
+      internalID: 1834422818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa09065d994d241b9b39a0fe6451e2
+      internalID: 1770414238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 464
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23192a18477e09a409a2fc5cf45ee61b
+      internalID: -2055681103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fec8f35716424eb17fa3cda088ac5
+      internalID: 158852679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261dbc9edc842045be197920c3d0cf2
+      internalID: 1773001212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33323ad16c10c14daf58393d8b7b859
+      internalID: -1809338436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a3d3f6e5cc5341935ae051adc7576
+      internalID: 2049822038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263dc33fdd56db4e93278509cb4cd42
+      internalID: 705743399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0c565c16b38d459d8dc75a8fb6d7e
+      internalID: -435677367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba376f6b32b92a047a6e88373e51562a
+      internalID: -135973988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c1099be565624692e735805070105
+      internalID: -812641449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08907622f9f04d459707dcd6a8068c0
+      internalID: -136907321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f475a2cf44fb954cae0986c754645c5
+      internalID: -357872939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4ab9d1161901499e425bf08b8e5c3
+      internalID: -1547901949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2084e4d5f554f488300d855a0b7d6d
+      internalID: -559956595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25fa26f3279f834fbc0ae523b70e771
+      internalID: -1812423616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 406
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34a1a3e0f77a74d929352876eb55a1
+      internalID: 1731895967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676a24c108217d4da5dfb228b5f1f00
+      internalID: -57019119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94a63bd30b8da24294eb4729d83f989
+      internalID: -455546369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602b042449c1664685cffa240ae1382
+      internalID: 869053240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3dfa08bb20ae74ab3985ac25495103
+      internalID: 1444607774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483672e2612be044884b126cf54356c
+      internalID: 516133850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9418ea5c7dba5f748be603a33f0b7378
+      internalID: -2036741847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaff13f7db86c943a1ab811f05f06bd
+      internalID: 1324285717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d46147f1addc148965782e0245781b
+      internalID: 522736933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0662ff7aafa6c4d907f7530e319c07
+      internalID: -1944536045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e35795febe8ea48b9b7eb6329018e1
+      internalID: 697906032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f50f73e246df4191ab00a66f84941
+      internalID: 1613641898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4944f025f0d0460428972ca27262f3a5
+      internalID: 2104829966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739554a490a744b44be1895bcf428695
+      internalID: 1191677418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 348
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db684b963e77542bcd58aaf8fd28bd
+      internalID: 1996809791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911757274849015438bc15560dfda32f
+      internalID: -828501210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a2fd9f45324340839f26d049b5fbe
+      internalID: -1695231652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e5a4aead7bd04c9e8dc70304172fb
+      internalID: -570167547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51fbec1f143f8d4cbb414d84bcfd950
+      internalID: -356052936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4227296ca543ce4c89cb4faaeaa5b5b
+      internalID: 238292837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9cdb5a45effd7419bf182a374eeca3
+      internalID: -684864088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda019f5637e5364ea11737fcee79742
+      internalID: 624919840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445a7a204c740b4cbe52c2512a0e09d
+      internalID: -1486757065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f71984971ac74c9aa0a6670f49dda
+      internalID: 1008943599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c97d6ecef3af154dbfd913b43bcff53
+      internalID: 194323425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce5daf5dc550f4b8b5b0801b7b5334
+      internalID: 225975266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a101f53e44fbe74da3ed2aeef84b808
+      internalID: -1948423283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf22f9139095214ca2c72fa743e5c88
+      internalID: -736206140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 290
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920d32a19b28f346a588e668a34e1d8
+      internalID: 401100901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065fd625f65e86847a4e44ccf3f7d316
+      internalID: -1121853653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9160847ecdb524db3d82d0700979f0
+      internalID: -1499097879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58aa395a17c87441887f720e79422fa
+      internalID: -1863650901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269aa71ec2b35dc42b8e04ce7bb3e68a
+      internalID: -990406965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae423b50dd0969b4ca8eadf22c188d70
+      internalID: 623936209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0902131db7e84c49bb02e9c36519ae4
+      internalID: -1431795481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459ba0eb7ba9a24288353fb30012d9e
+      internalID: -1142283445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fb55e506370641a23e64d17351f34
+      internalID: 958962026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9690ff129161e141b68098aafadb500
+      internalID: 1524481483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac301785965ed2448e5ed4898b14581
+      internalID: -297222085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9ffdaf1e20494da47312e7c007682
+      internalID: 567707068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c13bf9bcd17c42babd95ae8ccfdeb
+      internalID: -1343971036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc445dd8fb52a4c9fff83a9275eb50
+      internalID: 1543355976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 232
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c583e8d698e5d458fcca5a06ece52f
+      internalID: 218865925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ac9e79a5f2144a978ec499c6666f5
+      internalID: -251020552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc478703841ded45838e5a2befafef7
+      internalID: -1529243541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13270677dedf02341821eca202e58350
+      internalID: 933337533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a54252eab09224085262dd5b38b1c1
+      internalID: -296906781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c02a41be9c6afa49a0cffd176ea42c0
+      internalID: 1106190689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a365cc92d427f42992b5eadfe0d9fc
+      internalID: 2028907683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba455e3b382af76488a089095654cf8b
+      internalID: -1392963903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf55510a27f2449847816a6a4c3aed
+      internalID: 1819587693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499122661a76e47408ad1de55247f973
+      internalID: -1515290424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e32e16d4127f34d922def52b9bf30a
+      internalID: -989657490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f94a7cdad18994db3e15a3d974f1ff
+      internalID: 874006723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35029f85c698f48a1d8a1c92c07aee
+      internalID: 259209926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bcea7da7176b349b65f432b2ff8c71
+      internalID: -684260527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 174
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5d8f361ab96844b5b8bda2deec22b
+      internalID: -447546688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1375ac94304346a875e3d51675af3
+      internalID: -491334621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51db898436864f4f97eb7efdc46082e
+      internalID: 1076284697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4bf6ef112c2d45b582ccecbf1c2e3
+      internalID: 264359261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370416eb54dda464db306eb64ccdea61
+      internalID: 1559888687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655e842e4933a24c82cf68bd05efd57
+      internalID: 1750331625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4d3a5475bd534a9c6b3fc10378670
+      internalID: -1064458094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ff0be8a199ad499d362102b694e1d
+      internalID: 425916956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d95d706d702354e9ce7803ca41c5e4
+      internalID: -254180334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c827fb5b467940956e24a0497aa8f
+      internalID: 1553223488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e63a3cd637df4caec4c590cc17641
+      internalID: -648060779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b181dae429e046a69ae9d4e62cfbe
+      internalID: 1883728592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88e8affad0cd2478b525f2ba57146e
+      internalID: -1853314840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c8bf25b61f9142ad863431112effd
+      internalID: 400030419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_167
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 116
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2fa73c2f51a7549b9d7fa6c671029d
+      internalID: 1414686993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5db8df5c2d01a4fa42473b61e1a41c
+      internalID: 1168904598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_169
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa4d99e8f073f40b3c8c1f27d56ea5
+      internalID: 1289634969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_170
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a9b0efb0def146b130fb5270e8329
+      internalID: -124079247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_171
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3ebaf370abca4cb1a161fb5b5fe4e
+      internalID: -258383106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_172
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629fbf0bf927b440a4ea9b35f10b11b
+      internalID: 12545352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_173
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4298f41d069140912f663d1ffeb65
+      internalID: 668022588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3640e0ff92a3ed44ab60f24fda98c33b
+      internalID: -1573083951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_175
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7d090f9b13004aabb86ea5868be7f
+      internalID: -2033305970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_176
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6deb2a89a841a4088ddb188601b2a0
+      internalID: 300043510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_177
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d2031617042d4ea7ea87a58e424ad
+      internalID: -2058381743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_178
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fbb8f44228812458f78a8bf7a957d3
+      internalID: 1637589621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_179
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13fa288f91097498db90268486d852
+      internalID: 1948455851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_180
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5333b51917494a8f0bbb0cd7cc385
+      internalID: 1833368924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_181
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 58
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41500f1a6f0804c99cdc40de700ba0
+      internalID: 1326307474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51374db1740f69f43bc19d51a97e741d
+      internalID: 1456995475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Servine Front Anim_183
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0f44e6fd440e439ec3ae3b38e6880
+      internalID: 727868974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5bbd31296132ce4439c18bd0d0a50021
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Servine Front_0: 119829495
+      Servine Front_1: 1257478864
+      Servine Front_10: -319882426
+      Servine Front_100: 869053240
+      Servine Front_101: 1444607774
+      Servine Front_102: 516133850
+      Servine Front_103: -2036741847
+      Servine Front_104: 1324285717
+      Servine Front_105: 522736933
+      Servine Front_106: -1944536045
+      Servine Front_107: 697906032
+      Servine Front_108: 1613641898
+      Servine Front_109: 2104829966
+      Servine Front_11: 227553392
+      Servine Front_110: 1191677418
+      Servine Front_111: 1996809791
+      Servine Front_112: -828501210
+      Servine Front_113: -1695231652
+      Servine Front_114: -570167547
+      Servine Front_115: -356052936
+      Servine Front_116: 238292837
+      Servine Front_117: -684864088
+      Servine Front_118: 624919840
+      Servine Front_119: -1486757065
+      Servine Front_12: 794193467
+      Servine Front_120: 1008943599
+      Servine Front_121: 194323425
+      Servine Front_122: 225975266
+      Servine Front_123: -1948423283
+      Servine Front_124: -736206140
+      Servine Front_125: 401100901
+      Servine Front_126: -1121853653
+      Servine Front_127: -1499097879
+      Servine Front_128: -1863650901
+      Servine Front_129: -990406965
+      Servine Front_13: 545722654
+      Servine Front_130: 623936209
+      Servine Front_131: -1431795481
+      Servine Front_132: -1142283445
+      Servine Front_133: 958962026
+      Servine Front_134: 1524481483
+      Servine Front_135: -297222085
+      Servine Front_136: 567707068
+      Servine Front_137: -1343971036
+      Servine Front_138: 1543355976
+      Servine Front_139: 218865925
+      Servine Front_14: -1444853696
+      Servine Front_140: -251020552
+      Servine Front_141: -1529243541
+      Servine Front_142: 933337533
+      Servine Front_143: -296906781
+      Servine Front_144: 1106190689
+      Servine Front_145: 2028907683
+      Servine Front_146: -1392963903
+      Servine Front_147: 1819587693
+      Servine Front_148: -1515290424
+      Servine Front_149: -989657490
+      Servine Front_15: -804820420
+      Servine Front_150: 874006723
+      Servine Front_151: 259209926
+      Servine Front_152: -684260527
+      Servine Front_153: -447546688
+      Servine Front_154: -491334621
+      Servine Front_155: 1076284697
+      Servine Front_156: 264359261
+      Servine Front_157: 1559888687
+      Servine Front_158: 1750331625
+      Servine Front_159: -1064458094
+      Servine Front_16: 386962719
+      Servine Front_160: 425916956
+      Servine Front_161: -254180334
+      Servine Front_162: 1553223488
+      Servine Front_163: -648060779
+      Servine Front_164: 1883728592
+      Servine Front_165: -1853314840
+      Servine Front_166: 400030419
+      Servine Front_167: 1414686993
+      Servine Front_168: 1168904598
+      Servine Front_169: 1289634969
+      Servine Front_17: 1746940525
+      Servine Front_170: -124079247
+      Servine Front_171: -258383106
+      Servine Front_172: 12545352
+      Servine Front_173: 668022588
+      Servine Front_174: -1573083951
+      Servine Front_175: -2033305970
+      Servine Front_176: 300043510
+      Servine Front_177: -2058381743
+      Servine Front_178: 1637589621
+      Servine Front_179: 1948455851
+      Servine Front_18: -220532766
+      Servine Front_180: 1833368924
+      Servine Front_181: 1326307474
+      Servine Front_182: 1456995475
+      Servine Front_183: 727868974
+      Servine Front_19: -1092707724
+      Servine Front_2: 1178460944
+      Servine Front_20: -1290711084
+      Servine Front_21: -942949130
+      Servine Front_22: 1190596051
+      Servine Front_23: 85332308
+      Servine Front_24: 775830214
+      Servine Front_25: 810236137
+      Servine Front_26: -2115662940
+      Servine Front_27: 630136268
+      Servine Front_28: 1003884214
+      Servine Front_29: 470079431
+      Servine Front_3: 900989071
+      Servine Front_30: 544949720
+      Servine Front_31: 1225528005
+      Servine Front_32: 1703070677
+      Servine Front_33: -1838914994
+      Servine Front_34: -1374329774
+      Servine Front_35: -1317250770
+      Servine Front_36: 2126162781
+      Servine Front_37: 2016396129
+      Servine Front_38: 911922019
+      Servine Front_39: 121347613
+      Servine Front_4: 273572474
+      Servine Front_40: 1614062557
+      Servine Front_41: -2143895668
+      Servine Front_42: -926560384
+      Servine Front_43: -2038215514
+      Servine Front_44: 1817140317
+      Servine Front_45: 556621700
+      Servine Front_46: -1630855861
+      Servine Front_47: 1299806452
+      Servine Front_48: 1832719482
+      Servine Front_49: 104800667
+      Servine Front_5: 38776478
+      Servine Front_50: -140003019
+      Servine Front_51: 1463248777
+      Servine Front_52: 1196222367
+      Servine Front_53: -644643519
+      Servine Front_54: 1277032395
+      Servine Front_55: -959265617
+      Servine Front_56: -899905871
+      Servine Front_57: 1172861065
+      Servine Front_58: 661491349
+      Servine Front_59: 265220854
+      Servine Front_6: 330192174
+      Servine Front_60: 813412712
+      Servine Front_61: -840748146
+      Servine Front_62: -1244390662
+      Servine Front_63: 919689413
+      Servine Front_64: -423860651
+      Servine Front_65: -1334546528
+      Servine Front_66: 1403815712
+      Servine Front_67: -1253379137
+      Servine Front_68: -1036819259
+      Servine Front_69: 552447464
+      Servine Front_7: -473451477
+      Servine Front_70: 722139401
+      Servine Front_71: -711688961
+      Servine Front_72: 1267490301
+      Servine Front_73: 951781336
+      Servine Front_74: 827189718
+      Servine Front_75: -1084144820
+      Servine Front_76: -974303489
+      Servine Front_77: -1031408855
+      Servine Front_78: 1096715296
+      Servine Front_79: 237567921
+      Servine Front_8: -676824854
+      Servine Front_80: -1132975647
+      Servine Front_81: 1834422818
+      Servine Front_82: 1770414238
+      Servine Front_83: -2055681103
+      Servine Front_84: 158852679
+      Servine Front_85: 1773001212
+      Servine Front_86: -1809338436
+      Servine Front_87: 2049822038
+      Servine Front_88: 705743399
+      Servine Front_89: -435677367
+      Servine Front_9: 1357016561
+      Servine Front_90: -135973988
+      Servine Front_91: -812641449
+      Servine Front_92: -136907321
+      Servine Front_93: -357872939
+      Servine Front_94: -1547901949
+      Servine Front_95: -559956595
+      Servine Front_96: -1812423616
+      Servine Front_97: 1731895967
+      Servine Front_98: -57019119
+      Servine Front_99: -455546369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

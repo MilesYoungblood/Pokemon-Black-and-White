@@ -1,0 +1,4664 @@
+fileFormatVersion: 2
+guid: 2c59608354044d04ea02497c76542b7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1161398060605238748
+    second: Haxorus Front_0
+  - first:
+      213: -1914368446070667093
+    second: Haxorus Front_1
+  - first:
+      213: -4182620913763433931
+    second: Haxorus Front_2
+  - first:
+      213: 5647340360391878627
+    second: Haxorus Front_3
+  - first:
+      213: 3703185266304315671
+    second: Haxorus Front_4
+  - first:
+      213: 4785746164124864772
+    second: Haxorus Front_5
+  - first:
+      213: 1507740718242116108
+    second: Haxorus Front_6
+  - first:
+      213: -7839525086662986347
+    second: Haxorus Front_7
+  - first:
+      213: -3549651769407091042
+    second: Haxorus Front_8
+  - first:
+      213: -2912743365413116553
+    second: Haxorus Front_9
+  - first:
+      213: -3864369122171076216
+    second: Haxorus Front_10
+  - first:
+      213: 6664835327522105198
+    second: Haxorus Front_11
+  - first:
+      213: 7929387146171271003
+    second: Haxorus Front_12
+  - first:
+      213: -6530346117678288004
+    second: Haxorus Front_13
+  - first:
+      213: -4629078485806117462
+    second: Haxorus Front_14
+  - first:
+      213: 2174680132787421690
+    second: Haxorus Front_15
+  - first:
+      213: -796667720623946005
+    second: Haxorus Front_16
+  - first:
+      213: 8042286093897075365
+    second: Haxorus Front_17
+  - first:
+      213: 1982554152259058174
+    second: Haxorus Front_18
+  - first:
+      213: 3978511682861397192
+    second: Haxorus Front_19
+  - first:
+      213: 3065909432704487293
+    second: Haxorus Front_20
+  - first:
+      213: -6138871082555865905
+    second: Haxorus Front_21
+  - first:
+      213: -8718547106511181600
+    second: Haxorus Front_22
+  - first:
+      213: 8549080057565177861
+    second: Haxorus Front_23
+  - first:
+      213: 503065449602671005
+    second: Haxorus Front_24
+  - first:
+      213: -4764960958998739555
+    second: Haxorus Front_25
+  - first:
+      213: 4568757160885440903
+    second: Haxorus Front_26
+  - first:
+      213: 380981091344517321
+    second: Haxorus Front_27
+  - first:
+      213: 9023374143676685180
+    second: Haxorus Front_28
+  - first:
+      213: 3695114725515602949
+    second: Haxorus Front_29
+  - first:
+      213: -3842872462559752387
+    second: Haxorus Front_30
+  - first:
+      213: 6749513428085689628
+    second: Haxorus Front_31
+  - first:
+      213: -3001446648073093878
+    second: Haxorus Front_32
+  - first:
+      213: 3349019948107923558
+    second: Haxorus Front_33
+  - first:
+      213: 3859122590134231617
+    second: Haxorus Front_34
+  - first:
+      213: -7461763971155139266
+    second: Haxorus Front_35
+  - first:
+      213: -780184906281357183
+    second: Haxorus Front_36
+  - first:
+      213: -8231348444482261527
+    second: Haxorus Front_37
+  - first:
+      213: 8784054418277176061
+    second: Haxorus Front_38
+  - first:
+      213: 8287158978625031028
+    second: Haxorus Front_39
+  - first:
+      213: 7646010105540644811
+    second: Haxorus Front_40
+  - first:
+      213: 3452215162710954857
+    second: Haxorus Front_41
+  - first:
+      213: -8015200211080549719
+    second: Haxorus Front_42
+  - first:
+      213: -5311587640292863813
+    second: Haxorus Front_43
+  - first:
+      213: -8602298734187298682
+    second: Haxorus Front_44
+  - first:
+      213: -2431205012440900544
+    second: Haxorus Front_45
+  - first:
+      213: -2681566938199720147
+    second: Haxorus Front_46
+  - first:
+      213: 1585243611139898697
+    second: Haxorus Front_47
+  - first:
+      213: 4304754210400369979
+    second: Haxorus Front_48
+  - first:
+      213: -1681477248304194666
+    second: Haxorus Front_49
+  - first:
+      213: 5480033473738565205
+    second: Haxorus Front_50
+  - first:
+      213: 8920775165294948607
+    second: Haxorus Front_51
+  - first:
+      213: 8965217945474122514
+    second: Haxorus Front_52
+  - first:
+      213: 9075333167196543598
+    second: Haxorus Front_53
+  - first:
+      213: 2533803966266913153
+    second: Haxorus Front_54
+  - first:
+      213: 8820838990553265618
+    second: Haxorus Front_55
+  - first:
+      213: 6815274526196500320
+    second: Haxorus Front_56
+  - first:
+      213: -4759418322389421599
+    second: Haxorus Front_57
+  - first:
+      213: 7346994114571171073
+    second: Haxorus Front_58
+  - first:
+      213: -923765888206711110
+    second: Haxorus Front_59
+  - first:
+      213: -6724050850217982387
+    second: Haxorus Front_60
+  - first:
+      213: -2215042294798206909
+    second: Haxorus Front_61
+  - first:
+      213: -6438171091297313778
+    second: Haxorus Front_62
+  - first:
+      213: 5762306180197730598
+    second: Haxorus Front_63
+  - first:
+      213: 1359206206567613925
+    second: Haxorus Front_64
+  - first:
+      213: -8226484922784321423
+    second: Haxorus Front_65
+  - first:
+      213: 3457091958449932908
+    second: Haxorus Front_66
+  - first:
+      213: -4683782299747299791
+    second: Haxorus Front_67
+  - first:
+      213: -8387258713777671462
+    second: Haxorus Front_68
+  - first:
+      213: 5757676012353548377
+    second: Haxorus Front_69
+  - first:
+      213: 1463874471850516547
+    second: Haxorus Front_70
+  - first:
+      213: -2246853368433265598
+    second: Haxorus Front_71
+  - first:
+      213: 3937868984486912821
+    second: Haxorus Front_72
+  - first:
+      213: 3935380508890815692
+    second: Haxorus Front_73
+  - first:
+      213: 6502534117740305299
+    second: Haxorus Front_74
+  - first:
+      213: -2766100590950626944
+    second: Haxorus Front_75
+  - first:
+      213: 7935022465963801781
+    second: Haxorus Front_76
+  - first:
+      213: 635405680070651305
+    second: Haxorus Front_77
+  - first:
+      213: 4668710677773898187
+    second: Haxorus Front_78
+  - first:
+      213: 8614610798302649323
+    second: Haxorus Front_79
+  - first:
+      213: 5871711626281705177
+    second: Haxorus Front_80
+  - first:
+      213: -6671123989368192477
+    second: Haxorus Front_81
+  - first:
+      213: -5185233793061960975
+    second: Haxorus Front_82
+  - first:
+      213: 1853921077803459073
+    second: Haxorus Front_83
+  - first:
+      213: 6653840419373468498
+    second: Haxorus Front_84
+  - first:
+      213: -727718456004031382
+    second: Haxorus Front_85
+  - first:
+      213: -7376436753849863413
+    second: Haxorus Front_86
+  - first:
+      213: -3769121770007624557
+    second: Haxorus Front_87
+  - first:
+      213: 2383454905423934284
+    second: Haxorus Front_88
+  - first:
+      213: 8044366238681460200
+    second: Haxorus Front_89
+  - first:
+      213: -5558446310569802569
+    second: Haxorus Front_90
+  - first:
+      213: 4368098221536473221
+    second: Haxorus Front_91
+  - first:
+      213: -6326020816762687452
+    second: Haxorus Front_92
+  - first:
+      213: 8608908739122733587
+    second: Haxorus Front_93
+  - first:
+      213: -1253758580138005471
+    second: Haxorus Front_94
+  - first:
+      213: 4500716561161939540
+    second: Haxorus Front_95
+  - first:
+      213: -4628235085772960121
+    second: Haxorus Front_96
+  - first:
+      213: 1769784235347043632
+    second: Haxorus Front_97
+  - first:
+      213: 6546248384664924207
+    second: Haxorus Front_98
+  - first:
+      213: -2051696389003521553
+    second: Haxorus Front_99
+  - first:
+      213: -2152679486371539702
+    second: Haxorus Front_100
+  - first:
+      213: 6472375235488855729
+    second: Haxorus Front_101
+  - first:
+      213: -220321357716723452
+    second: Haxorus Front_102
+  - first:
+      213: -1989489887701099054
+    second: Haxorus Front_103
+  - first:
+      213: 3827267352348645566
+    second: Haxorus Front_104
+  - first:
+      213: -3457271043213871110
+    second: Haxorus Front_105
+  - first:
+      213: -4591490083171115785
+    second: Haxorus Front_106
+  - first:
+      213: 1954031942937162239
+    second: Haxorus Front_107
+  - first:
+      213: 95191600632680012
+    second: Haxorus Front_108
+  - first:
+      213: 6712914354261683
+    second: Haxorus Front_109
+  - first:
+      213: -4036558605543725615
+    second: Haxorus Front_110
+  - first:
+      213: 282766931427714852
+    second: Haxorus Front_111
+  - first:
+      213: -5157764332292015668
+    second: Haxorus Front_112
+  - first:
+      213: 5136490780976130563
+    second: Haxorus Front_113
+  - first:
+      213: 3264763074518738373
+    second: Haxorus Front_114
+  - first:
+      213: -8220421995541517510
+    second: Haxorus Front_115
+  - first:
+      213: -1998664420752454847
+    second: Haxorus Front_116
+  - first:
+      213: 1124054369745957521
+    second: Haxorus Front_117
+  - first:
+      213: 852271271413694743
+    second: Haxorus Front_118
+  - first:
+      213: 6849554950158387791
+    second: Haxorus Front_119
+  - first:
+      213: -2839561142670245861
+    second: Haxorus Front_120
+  - first:
+      213: 7327990906039933972
+    second: Haxorus Front_121
+  - first:
+      213: 446856161676822397
+    second: Haxorus Front_122
+  - first:
+      213: -9032571166515988181
+    second: Haxorus Front_123
+  - first:
+      213: 7270154443948824475
+    second: Haxorus Front_124
+  - first:
+      213: -6748161354608274909
+    second: Haxorus Front_125
+  - first:
+      213: -2526741658696409765
+    second: Haxorus Front_126
+  - first:
+      213: 3422604318214976329
+    second: Haxorus Front_127
+  - first:
+      213: 3503871571048849469
+    second: Haxorus Front_128
+  - first:
+      213: -3464764594535097380
+    second: Haxorus Front_129
+  - first:
+      213: 5520201206030665056
+    second: Haxorus Front_130
+  - first:
+      213: 3183776409710612441
+    second: Haxorus Front_131
+  - first:
+      213: -556586189311114499
+    second: Haxorus Front_132
+  - first:
+      213: 6461433770434253031
+    second: Haxorus Front_133
+  - first:
+      213: -2117695730115609048
+    second: Haxorus Front_134
+  - first:
+      213: 6642602578848679259
+    second: Haxorus Front_135
+  - first:
+      213: 6249232422916159385
+    second: Haxorus Front_136
+  - first:
+      213: 8774390461256557374
+    second: Haxorus Front_137
+  - first:
+      213: -4574605959964913133
+    second: Haxorus Front_138
+  - first:
+      213: 5100943711158913319
+    second: Haxorus Front_139
+  - first:
+      213: -5059077427397563959
+    second: Haxorus Front_140
+  - first:
+      213: 5402641170906363019
+    second: Haxorus Front_141
+  - first:
+      213: 6448535532205198828
+    second: Haxorus Front_142
+  - first:
+      213: -9213744261092329972
+    second: Haxorus Front_143
+  - first:
+      213: 468649385757130131
+    second: Haxorus Front_144
+  - first:
+      213: 3934187519486936371
+    second: Haxorus Front_145
+  - first:
+      213: -3799950812565114578
+    second: Haxorus Front_146
+  - first:
+      213: 7652537190741809183
+    second: Haxorus Front_147
+  - first:
+      213: 7495310515452760854
+    second: Haxorus Front_148
+  - first:
+      213: 486227657101926052
+    second: Haxorus Front_149
+  - first:
+      213: -6607665878185477619
+    second: Haxorus Front_150
+  - first:
+      213: 2840478293808476588
+    second: Haxorus Front_151
+  - first:
+      213: 4619739970194395073
+    second: Haxorus Front_152
+  - first:
+      213: 1190643437650652492
+    second: Haxorus Front_153
+  - first:
+      213: -7712656894780733614
+    second: Haxorus Front_154
+  - first:
+      213: -8980571983286296159
+    second: Haxorus Front_155
+  - first:
+      213: -216059788967034630
+    second: Haxorus Front_156
+  - first:
+      213: -978816712705431617
+    second: Haxorus Front_157
+  - first:
+      213: 7097328963735007403
+    second: Haxorus Front_158
+  - first:
+      213: -4386970112278219757
+    second: Haxorus Front_159
+  - first:
+      213: 4562042594784742771
+    second: Haxorus Front_160
+  - first:
+      213: 6293916967661194755
+    second: Haxorus Front_161
+  - first:
+      213: 4431317141883405293
+    second: Haxorus Front_162
+  - first:
+      213: -5584708890926830340
+    second: Haxorus Front_163
+  - first:
+      213: -7211297747931630961
+    second: Haxorus Front_164
+  - first:
+      213: -7492040876966197227
+    second: Haxorus Front_165
+  - first:
+      213: 7379310006557718024
+    second: Haxorus Front_166
+  - first:
+      213: -5001562341635911050
+    second: Haxorus Front_167
+  - first:
+      213: 3057729035667929229
+    second: Haxorus Front_168
+  - first:
+      213: -6817924662913335754
+    second: Haxorus Front_169
+  - first:
+      213: -8533347999141714554
+    second: Haxorus Front_170
+  - first:
+      213: -3931617138881153430
+    second: Haxorus Front_171
+  - first:
+      213: -7897727152402838306
+    second: Haxorus Front_172
+  - first:
+      213: 351038314500441886
+    second: Haxorus Front_173
+  - first:
+      213: 361224948216401755
+    second: Haxorus Front_174
+  - first:
+      213: 3528175310635510490
+    second: Haxorus Front_175
+  - first:
+      213: -5195176004463990759
+    second: Haxorus Front_176
+  - first:
+      213: -2592758410019986446
+    second: Haxorus Front_177
+  - first:
+      213: 8557923029595577443
+    second: Haxorus Front_178
+  - first:
+      213: -5356540779146459139
+    second: Haxorus Front_179
+  - first:
+      213: 1941357015294076865
+    second: Haxorus Front_180
+  - first:
+      213: -8694754190535883910
+    second: Haxorus Front_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haxorus Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04484f52607c08a448e8f336eb4d9019
+      internalID: -533131972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3ed7ecf0e36544a93c218fe941562
+      internalID: 446221533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43056a958cf714591580d62d0a5db7
+      internalID: -986876293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23547ecdadfde5349a5e0ce6c3af9781
+      internalID: 1215320281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce145f60cbfb24daaac4bcf9446c52
+      internalID: 827929167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351f89098b1f8b4ea06053b5ba1d625
+      internalID: 1901711991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4dda3157e74e4d98f07f98a74c006
+      internalID: 795148521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44b593fa36c4384e98298981cb230d9
+      internalID: 1768968062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ecd27569ae78644b417daabd737b50
+      internalID: -1245388981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cc48cde0af4494288714fea75b356f
+      internalID: -468103155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e723ba8e7fa0c43be6bdb55b9fc230
+      internalID: -1788331323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc71f3a082d8824aa1ef5fe52e06aee
+      internalID: 705520823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be35dec722129a45a49baed508267b3
+      internalID: 78906489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1008
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ba66fcde44204aa2b650d1799654a
+      internalID: 138401406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc036e93da94f4eb1054b466b70117
+      internalID: 1518522548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b072956b766a4e8d0dd4267505a1b
+      internalID: -1394144729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae294b337696a0d49951fdf6e0d4796b
+      internalID: 1958925814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83dacbcf59baa641a6f7d855e14a1db
+      internalID: -2069008074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694a8b09fbca4c1428e359ab2592b719
+      internalID: -747241167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da51444c6fa0b14f92efeb6d574a49c
+      internalID: 1409594131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af5c6ac9c69d546b19879fde50e6bb
+      internalID: 1796114682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51c7bb59b1ee54ea3c15bbf656ea1b
+      internalID: 1592328193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad4c46e9b186342b9631ced7a70e0e
+      internalID: -472883833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44cad097692fc499a0e2a4367edfde
+      internalID: -1443996465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900c9d90020f68843a79fca22c8a7760
+      internalID: 1296757640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7dc167a988a64b8b6f5c8d94cad0f
+      internalID: 1032307717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e97d8f7ca49d4191ae1e30b960f62
+      internalID: -1808346666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 924
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21652b5cabbd4e4d945895a2b993755
+      internalID: -757663909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32232be47856424b9cae8f2d7da6d2c
+      internalID: 2142922365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe848cfef1c1d349b97e61aa5ae086c
+      internalID: 1001094336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ee90778192c9409aa6e10adc67362
+      internalID: -1010957199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f97955456797647a8266c72c7f0fef
+      internalID: 1192380603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c5d5f9778fce47bd49031c678c9b3
+      internalID: -1141723120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7ccda4f22dc041ae834ee5e1fa9d6
+      internalID: -1541948852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0374a557ca3f54c42824e61d67d4f9d3
+      internalID: 257476512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d7cfd063ff5b49bd865e835c1df17
+      internalID: 1452162561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f50cc4654b1a84ea1916383a1f6eea
+      internalID: -236925539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc26d5e8f73e4b4295cf5f0acb51cf7
+      internalID: -1479666330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da34b160598e6645b24d7cb0f4a18fd
+      internalID: 1753266652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef806f402621eb47ae58011c40ca6fb
+      internalID: -1913901461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a9769c94d23849865ad8b31bf6f9d
+      internalID: 1340951512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 840
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20cb2ad8acc8444a9a46a2d241d2a1
+      internalID: 828217866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957baa1d536caa5459f9d6fdbbc572ad
+      internalID: -1245842022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10ea21692617c3499d8b0c180c5438a
+      internalID: -1183770182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b49b7af31822a47b6106d75be4e57b
+      internalID: 857134082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f8fcff7c9da3848822c617da97793b
+      internalID: -996587420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5a268f2999491418a252b7b97560ac
+      internalID: -665853260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc256bda133b04089bb367a76219f8
+      internalID: -1470287323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd922547062f49449f8aca090ac7427
+      internalID: -777652748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79a3f178434c4428851ffd5cd9a8da
+      internalID: -391603064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c97565e78dad46ae0c4f32b59b72a
+      internalID: -486153345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e2668608689e4990b51102d482fee
+      internalID: -650627445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410d703f1417ff4fb34f777fd8bc9c0
+      internalID: -1898474054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c070489f5e3d43a835743bf00c28f
+      internalID: -301197989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47afad4ee81b5fc4f8071e3fd7205882
+      internalID: 380020212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 756
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0977e90619459946a928775318f7d90
+      internalID: 177438850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b9933ee5f6354e9b084eb0925857c
+      internalID: -2090664140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76727226a13e34ca2a66c6b0c4e8e5
+      internalID: -2000546034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15403796e8574b458cb4b97a924e807
+      internalID: -691212930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b34851381ebdc48ac61c0d816f7a53
+      internalID: 2126089229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77331e2fecce3844c8df8d30deea5488
+      internalID: -960629948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44402dbf4178149b11111bb75ec3ad
+      internalID: -1657085699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f92b4337ae6a43b186248497f793e
+      internalID: 1345252466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224aa45656d46604aba686c7d830d124
+      internalID: 1797558616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15da2e59f63bd14c8eb3366cb62e6e4
+      internalID: 293384352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00110ac6413a29f4ab17fd2ae8ba0c93
+      internalID: -2141282008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df34c35055d3b89438c6301148f80112
+      internalID: -1816473705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082af72887ca138499e1336c0b776aa8
+      internalID: -100152259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4a27977416b04790cef6b91b6d26a
+      internalID: 1798353632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 672
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e936ed9c55bd343be1ea903c3c7ee6
+      internalID: -750509511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d54d61f499b74cb868d5d0d104c52
+      internalID: 1783412729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e55be0f217c743a50d7fb8f4ae547
+      internalID: 1079175927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527e5f11051bcb47964ec40bd9ced19
+      internalID: -1028374940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6f57f25cd59f4f86426f48693b25e
+      internalID: -1186988546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca260cfd8f4d974b9c2becbbe00c5e8
+      internalID: 1382190041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b491bc7a66894f49aa659dffc6a05ec
+      internalID: -2140351332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96921250599ecff449e0dd0e47f937ec
+      internalID: 1002429616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec0742108eee44bbd922008b588b07
+      internalID: -1607951673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020ebbafc34a36d48b1435aa71b21a96
+      internalID: -1230495149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530caf4c09b9ad4894af54252c36fcb
+      internalID: -235766224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee956925211d6304b85602814b83ed6d
+      internalID: 1384383623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366a210713776347944c4bc304b278a
+      internalID: -1064059730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dae9a580566394986fa803902dbea1
+      internalID: -1514046608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 588
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db008c406a3e12c4b874b522b45c2184
+      internalID: -229007597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08902e03861f77b4a95a4084829d3d94
+      internalID: 1563640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201b7c8a358a754ba46765451d1699b
+      internalID: 1550625339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd17781274c6cb49869835a36fb3997
+      internalID: 655588528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d38a20d2feff4b85f0c083d317778
+      internalID: -1204437325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac11b0c633d66468c57641d7efdf51
+      internalID: -1993925303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62448cdf276e25246a48643d24925250
+      internalID: -802209152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be2563337d55d4fba6a14c7afaca1b
+      internalID: -425475841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1caa560933cac340a6521c4720cd2c8
+      internalID: 379321370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6d136f5bdcf1448ebb17e269e4a26
+      internalID: -939014888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a5fe5866095944ac4d8db31ab5254
+      internalID: 667503058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d3cd00ed47164bbbf8f828ebfeb49
+      internalID: -2116419993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b73359b7b8b94b855fed83626edcc
+      internalID: -1560922459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4b0d3b506c9f4abc9153714b350ee
+      internalID: 1604650875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 504
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2964189033e26474ebb5d7f411ece946
+      internalID: -997720338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f12e4c4468864281cadb5a25ef503
+      internalID: -775915990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef97bba4920a6a4fad81d090cf970bd
+      internalID: 264951226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c868b13b1fb2994f82769eb4a04f946
+      internalID: 860912569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1de0d3b3b92a941922d2cece6f71cf
+      internalID: 46894906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384e2a21a8e42f4c983e6a4ebc6a2de
+      internalID: 357385509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc86165b284faf5448b12d1fbd4f971a
+      internalID: 1435588353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c1e42035279141a0daca5d5fbf940
+      internalID: -1258653802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383abcf7954b45d4e96d7faea10d354b
+      internalID: 176614274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60824697f674fb6468f82a4e3ed90a35
+      internalID: -817163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d09b75d43c6c4459f20d5c6d65f437
+      internalID: 36497211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db092ca4b3f56545a7c51451713c086
+      internalID: -90866378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e685511c54594eaf75a9cfa2eb03e
+      internalID: 1253342030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45321ed9a9c9bba49ac6bb4cc3551468
+      internalID: -1166334305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 420
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ee9a6232cd3b45b018aeb520dd10e
+      internalID: 2074555500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d044866ad6fe304eb5fa692c73b076b
+      internalID: 1785766133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a47902a2bbc1946bff6cb38820effb
+      internalID: 659134243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71e666f83c66e428c4187847c7d84c
+      internalID: -509760570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df49d8d9946924ab624d7efcc02a07
+      internalID: 1931459191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e2be7405fdef4bad67e01fa6a8c5f
+      internalID: 2117693985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e8488e7b400b499a8ca178da200aa
+      internalID: 620096946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d486b9e5978a0f42bf625f4677fde54
+      internalID: -202146053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8448d2c3d1a714a997722b2cd10037
+      internalID: -1382477219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12a46bf385567468964c670d8e22ab
+      internalID: 770992411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a228b4f17b52d14fadf8e10f8af1d27
+      internalID: 764715769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e93de9d6c33454b9459e3c4992f62d
+      internalID: 578376910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3799817614f3d4cb61d53395f42cf9
+      internalID: -297233078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a109a9fb27af584593b0f278d91c29a
+      internalID: 1782446415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 336
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fb2de96e1aaf498d6098ce7b131ba
+      internalID: 662943243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d437b0e982f32b4ab7d492a65001a54
+      internalID: 1639325093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1caba48fc37d5409005b0462a9f405
+      internalID: 87000373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6282f5df49704e43b0b69f468191bf2
+      internalID: -1988218767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9edbb1e82486e046b42600cd242bdc7
+      internalID: 1152486936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0842f769de48834eb4d80a1dfc3ff5a
+      internalID: -1395319984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5821fa6a5a910e4f9d9f25f40e54105
+      internalID: -670227140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f766d37a2f1d448b2f7cdfb9347261
+      internalID: -1670912149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011ecd4c7fee3e4294f14f4dfce8f41
+      internalID: 705676328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ab1db294b9f64894b0ac911e5bca2
+      internalID: 2104922759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8704f88a839a447b0ad984797369e7
+      internalID: -746560239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e20850a5d5ebbe49b054d0dc233be83
+      internalID: -1131792805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e6291ba4ef1d489fe3ae1effa367d
+      internalID: -1388197944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355abc9863d9354199889ac24d67e01
+      internalID: 54171479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 252
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6721bcaf18af84409da60751bcac6d9
+      internalID: -1326678137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391e611b8744f64886693c63f1b4e34
+      internalID: 1659689784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445dba1ca377d141be802c00fa434d7
+      internalID: 305520793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35176c1a49d269a45996f4aa977c829d
+      internalID: 1994928083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc034d5854317458ff6ccdbab179a8
+      internalID: -943836635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfdfe3c998641e479eadbcd3b7e8eaa
+      internalID: -807369677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7424d5fa6ee914da0f24182b2f978b
+      internalID: 177236407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe03c0892b993a4e849210200490b11
+      internalID: -1283133481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741242af28ca1d44a355138e077e751
+      internalID: 1907564779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b05d6670f15554bbbc8954c2eed658
+      internalID: -1867279343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822cbf1b75d2db943bdc5f660f59c12a
+      internalID: 1828570512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331618a10a48bdd4eb84e2f410bf656d
+      internalID: -1850126480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c21270c7d9324e8caf34aff0db842
+      internalID: -1514881140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790b7086ebf4ac46b63719480a4d15b
+      internalID: -433323105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 168
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5c981124f07f4888397877b70835b
+      internalID: -164329971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83dbfe094c12c4ea68b88563d2fcdc
+      internalID: -1589006856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f276532f9bac846af39a5651a621b5
+      internalID: -703579377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887383a18aa28c458eba1b8fd0627f1
+      internalID: -260156404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6227f644792d174b91aa081500b87aa
+      internalID: -315958716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_158
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288f8580ed90ff4da684960905d763b
+      internalID: -323757820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_159
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d924b4e58fd949b0c803ad5ba0809
+      internalID: 245469352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_160
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804726b4ab3ac543a033bd6b7245b78
+      internalID: -340951997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_161
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8377999b5d190a4fb244d9023c6d19b
+      internalID: 1632240486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_162
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcffd428abffc441848c9dea0addebd
+      internalID: -1673597402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_163
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34dc7c289a0654abcbdc599fab8993
+      internalID: -1057009636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_164
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c3efd58e398142a2d7f3ef256222d
+      internalID: 1088418695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_165
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe22c3a60b6e27429023a6e696b831b
+      internalID: -1621470550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_166
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa89f0541718ed448bdc8c4c6ee87df
+      internalID: 1140133121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_167
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 84
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa6650e46883b4b88332b9294bc90d
+      internalID: 990010742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa17176eb3a1cd4395793f5d7f7c603
+      internalID: 741306314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_169
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85ca9fd04bff04ea2e377c980e2a84
+      internalID: -1072202673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_170
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6c7c0fbf327547a3938dd0c5c89c8
+      internalID: 607354501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_171
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef9deadc5cc784dbce622f9325ae33
+      internalID: -1839466092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_172
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5398d3c0290514386b97886adbf23b
+      internalID: 1100539270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_173
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e8168eadc1a0c489fade20404d3354
+      internalID: 888869917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d476c21d0fa174aa25e9debea89ff2
+      internalID: 1668940121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_175
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ab5c185b11344184a9a4216793ee5
+      internalID: 1169207442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_176
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661086e0e8a2ed34d875c06eaaadb464
+      internalID: 1543728355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_177
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9c9fb75d5e324f8eda2ba4234f6c1
+      internalID: -2128404108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_178
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77993d657e6b249a8eabec9abf6f94
+      internalID: 2109792338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_179
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1c43e58fdf8b46af4a9d63cb202c4
+      internalID: 1723009719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_180
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ff55d2c75cb24781dc5c1388c9acb
+      internalID: -1650204915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haxorus Front Anim_181
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b30515ad2b1ce42a5ebfd72cf81e41
+      internalID: 168223644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8acbb3d35234ec74bbeda48a4244cb33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Haxorus Front_0: -533131972
+      Haxorus Front_1: 446221533
+      Haxorus Front_10: -1788331323
+      Haxorus Front_100: 860912569
+      Haxorus Front_101: 46894906
+      Haxorus Front_102: 357385509
+      Haxorus Front_103: 1435588353
+      Haxorus Front_104: -1258653802
+      Haxorus Front_105: 176614274
+      Haxorus Front_106: -817163572
+      Haxorus Front_107: 36497211
+      Haxorus Front_108: -90866378
+      Haxorus Front_109: 1253342030
+      Haxorus Front_11: 705520823
+      Haxorus Front_110: -1166334305
+      Haxorus Front_111: 2074555500
+      Haxorus Front_112: 1785766133
+      Haxorus Front_113: 659134243
+      Haxorus Front_114: -509760570
+      Haxorus Front_115: 1931459191
+      Haxorus Front_116: 2117693985
+      Haxorus Front_117: 620096946
+      Haxorus Front_118: -202146053
+      Haxorus Front_119: -1382477219
+      Haxorus Front_12: 78906489
+      Haxorus Front_120: 770992411
+      Haxorus Front_121: 764715769
+      Haxorus Front_122: 578376910
+      Haxorus Front_123: -297233078
+      Haxorus Front_124: 1782446415
+      Haxorus Front_125: 662943243
+      Haxorus Front_126: 1639325093
+      Haxorus Front_127: 87000373
+      Haxorus Front_128: -1988218767
+      Haxorus Front_129: 1152486936
+      Haxorus Front_13: 138401406
+      Haxorus Front_130: -1395319984
+      Haxorus Front_131: -670227140
+      Haxorus Front_132: -1670912149
+      Haxorus Front_133: 705676328
+      Haxorus Front_134: 2104922759
+      Haxorus Front_135: -746560239
+      Haxorus Front_136: -1131792805
+      Haxorus Front_137: -1388197944
+      Haxorus Front_138: 54171479
+      Haxorus Front_139: -1326678137
+      Haxorus Front_14: 1518522548
+      Haxorus Front_140: 1659689784
+      Haxorus Front_141: 305520793
+      Haxorus Front_142: 1994928083
+      Haxorus Front_143: -943836635
+      Haxorus Front_144: -807369677
+      Haxorus Front_145: 177236407
+      Haxorus Front_146: -1283133481
+      Haxorus Front_147: 1907564779
+      Haxorus Front_148: -1867279343
+      Haxorus Front_149: 1828570512
+      Haxorus Front_15: -1394144729
+      Haxorus Front_150: -1850126480
+      Haxorus Front_151: -1514881140
+      Haxorus Front_152: -433323105
+      Haxorus Front_153: -164329971
+      Haxorus Front_154: -1589006856
+      Haxorus Front_155: -703579377
+      Haxorus Front_156: -260156404
+      Haxorus Front_157: -315958716
+      Haxorus Front_158: -323757820
+      Haxorus Front_159: 245469352
+      Haxorus Front_16: 1958925814
+      Haxorus Front_160: -340951997
+      Haxorus Front_161: 1632240486
+      Haxorus Front_162: -1673597402
+      Haxorus Front_163: -1057009636
+      Haxorus Front_164: 1088418695
+      Haxorus Front_165: -1621470550
+      Haxorus Front_166: 1140133121
+      Haxorus Front_167: 990010742
+      Haxorus Front_168: 741306314
+      Haxorus Front_169: -1072202673
+      Haxorus Front_17: -2069008074
+      Haxorus Front_170: 607354501
+      Haxorus Front_171: -1839466092
+      Haxorus Front_172: 1100539270
+      Haxorus Front_173: 888869917
+      Haxorus Front_174: 1668940121
+      Haxorus Front_175: 1169207442
+      Haxorus Front_176: 1543728355
+      Haxorus Front_177: -2128404108
+      Haxorus Front_178: 2109792338
+      Haxorus Front_179: 1723009719
+      Haxorus Front_18: -747241167
+      Haxorus Front_180: -1650204915
+      Haxorus Front_181: 168223644
+      Haxorus Front_19: 1409594131
+      Haxorus Front_2: -986876293
+      Haxorus Front_20: 1796114682
+      Haxorus Front_21: 1592328193
+      Haxorus Front_22: -472883833
+      Haxorus Front_23: -1443996465
+      Haxorus Front_24: 1296757640
+      Haxorus Front_25: 1032307717
+      Haxorus Front_26: -1808346666
+      Haxorus Front_27: -757663909
+      Haxorus Front_28: 2142922365
+      Haxorus Front_29: 1001094336
+      Haxorus Front_3: 1215320281
+      Haxorus Front_30: -1010957199
+      Haxorus Front_31: 1192380603
+      Haxorus Front_32: -1141723120
+      Haxorus Front_33: -1541948852
+      Haxorus Front_34: 257476512
+      Haxorus Front_35: 1452162561
+      Haxorus Front_36: -236925539
+      Haxorus Front_37: -1479666330
+      Haxorus Front_38: 1753266652
+      Haxorus Front_39: -1913901461
+      Haxorus Front_4: 827929167
+      Haxorus Front_40: 1340951512
+      Haxorus Front_41: 828217866
+      Haxorus Front_42: -1245842022
+      Haxorus Front_43: -1183770182
+      Haxorus Front_44: 857134082
+      Haxorus Front_45: -996587420
+      Haxorus Front_46: -665853260
+      Haxorus Front_47: -1470287323
+      Haxorus Front_48: -777652748
+      Haxorus Front_49: -391603064
+      Haxorus Front_5: 1901711991
+      Haxorus Front_50: -486153345
+      Haxorus Front_51: -650627445
+      Haxorus Front_52: -1898474054
+      Haxorus Front_53: -301197989
+      Haxorus Front_54: 380020212
+      Haxorus Front_55: 177438850
+      Haxorus Front_56: -2090664140
+      Haxorus Front_57: -2000546034
+      Haxorus Front_58: -691212930
+      Haxorus Front_59: 2126089229
+      Haxorus Front_6: 795148521
+      Haxorus Front_60: -960629948
+      Haxorus Front_61: -1657085699
+      Haxorus Front_62: 1345252466
+      Haxorus Front_63: 1797558616
+      Haxorus Front_64: 293384352
+      Haxorus Front_65: -2141282008
+      Haxorus Front_66: -1816473705
+      Haxorus Front_67: -100152259
+      Haxorus Front_68: 1798353632
+      Haxorus Front_69: -750509511
+      Haxorus Front_7: 1768968062
+      Haxorus Front_70: 1783412729
+      Haxorus Front_71: 1079175927
+      Haxorus Front_72: -1028374940
+      Haxorus Front_73: -1186988546
+      Haxorus Front_74: 1382190041
+      Haxorus Front_75: -2140351332
+      Haxorus Front_76: 1002429616
+      Haxorus Front_77: -1607951673
+      Haxorus Front_78: -1230495149
+      Haxorus Front_79: -235766224
+      Haxorus Front_8: -1245388981
+      Haxorus Front_80: 1384383623
+      Haxorus Front_81: -1064059730
+      Haxorus Front_82: -1514046608
+      Haxorus Front_83: -229007597
+      Haxorus Front_84: 1563640322
+      Haxorus Front_85: 1550625339
+      Haxorus Front_86: 655588528
+      Haxorus Front_87: -1204437325
+      Haxorus Front_88: -1993925303
+      Haxorus Front_89: -802209152
+      Haxorus Front_9: -468103155
+      Haxorus Front_90: -425475841
+      Haxorus Front_91: 379321370
+      Haxorus Front_92: -939014888
+      Haxorus Front_93: 667503058
+      Haxorus Front_94: -2116419993
+      Haxorus Front_95: -1560922459
+      Haxorus Front_96: 1604650875
+      Haxorus Front_97: -997720338
+      Haxorus Front_98: -775915990
+      Haxorus Front_99: 264951226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

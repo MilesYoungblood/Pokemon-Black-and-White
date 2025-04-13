@@ -1,0 +1,4083 @@
+fileFormatVersion: 2
+guid: e10bae180c95fad48a4ed64daa23cd21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1107163494237110333
+    second: Sewaddle Back_0
+  - first:
+      213: 1346214308222754124
+    second: Sewaddle Back_1
+  - first:
+      213: 7176456033678885394
+    second: Sewaddle Back_2
+  - first:
+      213: -5179024008254507496
+    second: Sewaddle Back_3
+  - first:
+      213: -4904846153130969492
+    second: Sewaddle Back_4
+  - first:
+      213: -55195061602801352
+    second: Sewaddle Back_5
+  - first:
+      213: -5046833347973990503
+    second: Sewaddle Back_6
+  - first:
+      213: -7075861510675817979
+    second: Sewaddle Back_7
+  - first:
+      213: 5373921512156019699
+    second: Sewaddle Back_8
+  - first:
+      213: 5148026704819044245
+    second: Sewaddle Back_9
+  - first:
+      213: -1249241167753196285
+    second: Sewaddle Back_10
+  - first:
+      213: -8782708461934439584
+    second: Sewaddle Back_11
+  - first:
+      213: -745435928721806141
+    second: Sewaddle Back_12
+  - first:
+      213: 4411488254281481385
+    second: Sewaddle Back_13
+  - first:
+      213: 1086957701849045102
+    second: Sewaddle Back_14
+  - first:
+      213: 438327670437865124
+    second: Sewaddle Back_15
+  - first:
+      213: -2806366546737996288
+    second: Sewaddle Back_16
+  - first:
+      213: 3424145933440391739
+    second: Sewaddle Back_17
+  - first:
+      213: 6691316042271692954
+    second: Sewaddle Back_18
+  - first:
+      213: 1826971086885715255
+    second: Sewaddle Back_19
+  - first:
+      213: 1989978989897072442
+    second: Sewaddle Back_20
+  - first:
+      213: -5663607977348652
+    second: Sewaddle Back_21
+  - first:
+      213: -5295126341865011740
+    second: Sewaddle Back_22
+  - first:
+      213: -4926861654457406477
+    second: Sewaddle Back_23
+  - first:
+      213: -8663688726483412974
+    second: Sewaddle Back_24
+  - first:
+      213: -2265873655674552314
+    second: Sewaddle Back_25
+  - first:
+      213: -3617208104067185416
+    second: Sewaddle Back_26
+  - first:
+      213: -4370904213420758477
+    second: Sewaddle Back_27
+  - first:
+      213: 8318636785394754682
+    second: Sewaddle Back_28
+  - first:
+      213: 4710744636526981028
+    second: Sewaddle Back_29
+  - first:
+      213: -5567111867847198604
+    second: Sewaddle Back_30
+  - first:
+      213: 6775056983492231946
+    second: Sewaddle Back_31
+  - first:
+      213: -1445976636972549604
+    second: Sewaddle Back_32
+  - first:
+      213: 8001555454264567866
+    second: Sewaddle Back_33
+  - first:
+      213: -5219367742390066509
+    second: Sewaddle Back_34
+  - first:
+      213: 3262690436999782142
+    second: Sewaddle Back_35
+  - first:
+      213: -6993836690798958714
+    second: Sewaddle Back_36
+  - first:
+      213: -5961894047432077651
+    second: Sewaddle Back_37
+  - first:
+      213: -4097601756382497969
+    second: Sewaddle Back_38
+  - first:
+      213: -60144999557781955
+    second: Sewaddle Back_39
+  - first:
+      213: -2913281860406130176
+    second: Sewaddle Back_40
+  - first:
+      213: 2164837025245148042
+    second: Sewaddle Back_41
+  - first:
+      213: 3287006216945617163
+    second: Sewaddle Back_42
+  - first:
+      213: 1742496226944740168
+    second: Sewaddle Back_43
+  - first:
+      213: -1958243642582
+    second: Sewaddle Back_44
+  - first:
+      213: 2630010321855451695
+    second: Sewaddle Back_45
+  - first:
+      213: 8830667666104603973
+    second: Sewaddle Back_46
+  - first:
+      213: -7518935513126123551
+    second: Sewaddle Back_47
+  - first:
+      213: -2549883346840447516
+    second: Sewaddle Back_48
+  - first:
+      213: -5500214150259251845
+    second: Sewaddle Back_49
+  - first:
+      213: -8011776737284126836
+    second: Sewaddle Back_50
+  - first:
+      213: -1590764116796377229
+    second: Sewaddle Back_51
+  - first:
+      213: -7703768025426986028
+    second: Sewaddle Back_52
+  - first:
+      213: 1394806576922394522
+    second: Sewaddle Back_53
+  - first:
+      213: 7622205375723857341
+    second: Sewaddle Back_54
+  - first:
+      213: 7515869116388875301
+    second: Sewaddle Back_55
+  - first:
+      213: 4479802610491372047
+    second: Sewaddle Back_56
+  - first:
+      213: -9054606255230883555
+    second: Sewaddle Back_57
+  - first:
+      213: 2453054931012590978
+    second: Sewaddle Back_58
+  - first:
+      213: 8484446337089699526
+    second: Sewaddle Back_59
+  - first:
+      213: 5729853299930759381
+    second: Sewaddle Back_60
+  - first:
+      213: -7358173504560543231
+    second: Sewaddle Back_61
+  - first:
+      213: -5130147238335886391
+    second: Sewaddle Back_62
+  - first:
+      213: -5082714478692268740
+    second: Sewaddle Back_63
+  - first:
+      213: 4655676797774135702
+    second: Sewaddle Back_64
+  - first:
+      213: 5752417357252793758
+    second: Sewaddle Back_65
+  - first:
+      213: -1079354315049373004
+    second: Sewaddle Back_66
+  - first:
+      213: -5094857763962476617
+    second: Sewaddle Back_67
+  - first:
+      213: -3173858331936135254
+    second: Sewaddle Back_68
+  - first:
+      213: 3201665990790743245
+    second: Sewaddle Back_69
+  - first:
+      213: 2653564106974024144
+    second: Sewaddle Back_70
+  - first:
+      213: 1939372986898512563
+    second: Sewaddle Back_71
+  - first:
+      213: -8083314883965224424
+    second: Sewaddle Back_72
+  - first:
+      213: 8636813866530614432
+    second: Sewaddle Back_73
+  - first:
+      213: 8254232527218208163
+    second: Sewaddle Back_74
+  - first:
+      213: 3256608111772258913
+    second: Sewaddle Back_75
+  - first:
+      213: -2108525069607208793
+    second: Sewaddle Back_76
+  - first:
+      213: 664359702933854783
+    second: Sewaddle Back_77
+  - first:
+      213: -7943032763607108294
+    second: Sewaddle Back_78
+  - first:
+      213: 395628492293103321
+    second: Sewaddle Back_79
+  - first:
+      213: 2780244556857771930
+    second: Sewaddle Back_80
+  - first:
+      213: 5856667696757278612
+    second: Sewaddle Back_81
+  - first:
+      213: -2671669955666105544
+    second: Sewaddle Back_82
+  - first:
+      213: -8784914443541223988
+    second: Sewaddle Back_83
+  - first:
+      213: -3208652743458582549
+    second: Sewaddle Back_84
+  - first:
+      213: -1472872317300382909
+    second: Sewaddle Back_85
+  - first:
+      213: -1694981973316103794
+    second: Sewaddle Back_86
+  - first:
+      213: 5756055078667014124
+    second: Sewaddle Back_87
+  - first:
+      213: -5014407835629071429
+    second: Sewaddle Back_88
+  - first:
+      213: -48035097224532413
+    second: Sewaddle Back_89
+  - first:
+      213: 2212957323399510743
+    second: Sewaddle Back_90
+  - first:
+      213: 3725083308723852173
+    second: Sewaddle Back_91
+  - first:
+      213: -8722288800223236209
+    second: Sewaddle Back_92
+  - first:
+      213: 534833563833884935
+    second: Sewaddle Back_93
+  - first:
+      213: -9101266123937640954
+    second: Sewaddle Back_94
+  - first:
+      213: 3564496890881910241
+    second: Sewaddle Back_95
+  - first:
+      213: 1969352454552232919
+    second: Sewaddle Back_96
+  - first:
+      213: -5275812974791995883
+    second: Sewaddle Back_97
+  - first:
+      213: 5952081635154796658
+    second: Sewaddle Back_98
+  - first:
+      213: 1667454278376343181
+    second: Sewaddle Back_99
+  - first:
+      213: -5367419622250206404
+    second: Sewaddle Back_100
+  - first:
+      213: -5520860130262940012
+    second: Sewaddle Back_101
+  - first:
+      213: 3954465635940159190
+    second: Sewaddle Back_102
+  - first:
+      213: -5941544311916880326
+    second: Sewaddle Back_103
+  - first:
+      213: 6101770683502859858
+    second: Sewaddle Back_104
+  - first:
+      213: 6560392667176692593
+    second: Sewaddle Back_105
+  - first:
+      213: 4097571693839657882
+    second: Sewaddle Back_106
+  - first:
+      213: 3946854349399139941
+    second: Sewaddle Back_107
+  - first:
+      213: 2136699963584939586
+    second: Sewaddle Back_108
+  - first:
+      213: 6922360758999137234
+    second: Sewaddle Back_109
+  - first:
+      213: 5063565146251412027
+    second: Sewaddle Back_110
+  - first:
+      213: 8463832478317848952
+    second: Sewaddle Back_111
+  - first:
+      213: -6801261420407456990
+    second: Sewaddle Back_112
+  - first:
+      213: 983354008178772521
+    second: Sewaddle Back_113
+  - first:
+      213: 9037379113726563975
+    second: Sewaddle Back_114
+  - first:
+      213: 612387947760297140
+    second: Sewaddle Back_115
+  - first:
+      213: -2220259731806682903
+    second: Sewaddle Back_116
+  - first:
+      213: -6824653009118052866
+    second: Sewaddle Back_117
+  - first:
+      213: 6795923650866017469
+    second: Sewaddle Back_118
+  - first:
+      213: -1997095751029135307
+    second: Sewaddle Back_119
+  - first:
+      213: 6210549019636006875
+    second: Sewaddle Back_120
+  - first:
+      213: 6502600584236872266
+    second: Sewaddle Back_121
+  - first:
+      213: -4883094351323516089
+    second: Sewaddle Back_122
+  - first:
+      213: -5182140028028588266
+    second: Sewaddle Back_123
+  - first:
+      213: 1055999169353096117
+    second: Sewaddle Back_124
+  - first:
+      213: -8866584225473210566
+    second: Sewaddle Back_125
+  - first:
+      213: 2952253884628394919
+    second: Sewaddle Back_126
+  - first:
+      213: -5994750262713188868
+    second: Sewaddle Back_127
+  - first:
+      213: -4483356730471760908
+    second: Sewaddle Back_128
+  - first:
+      213: -8083077386797030613
+    second: Sewaddle Back_129
+  - first:
+      213: -5595267929987649691
+    second: Sewaddle Back_130
+  - first:
+      213: 5800284661081541171
+    second: Sewaddle Back_131
+  - first:
+      213: 396359443985012429
+    second: Sewaddle Back_132
+  - first:
+      213: -7201441386733396078
+    second: Sewaddle Back_133
+  - first:
+      213: 7381986598994833194
+    second: Sewaddle Back_134
+  - first:
+      213: 1081769563409205006
+    second: Sewaddle Back_135
+  - first:
+      213: 7426610857351619164
+    second: Sewaddle Back_136
+  - first:
+      213: 2886365985972142361
+    second: Sewaddle Back_137
+  - first:
+      213: -8260828820984724051
+    second: Sewaddle Back_138
+  - first:
+      213: -1709712964397963303
+    second: Sewaddle Back_139
+  - first:
+      213: 7772990259279866507
+    second: Sewaddle Back_140
+  - first:
+      213: -2313364806910132977
+    second: Sewaddle Back_141
+  - first:
+      213: -7731115041864843844
+    second: Sewaddle Back_142
+  - first:
+      213: -713447747913965901
+    second: Sewaddle Back_143
+  - first:
+      213: 3081576090385672525
+    second: Sewaddle Back_144
+  - first:
+      213: -3659394179446646042
+    second: Sewaddle Back_145
+  - first:
+      213: -6564380133933941188
+    second: Sewaddle Back_146
+  - first:
+      213: -5965432767551065206
+    second: Sewaddle Back_147
+  - first:
+      213: 8668122029680029335
+    second: Sewaddle Back_148
+  - first:
+      213: 2642309468741899126
+    second: Sewaddle Back_149
+  - first:
+      213: -4886799734363384581
+    second: Sewaddle Back_150
+  - first:
+      213: 6048468046487828420
+    second: Sewaddle Back_151
+  - first:
+      213: 7770174498042451243
+    second: Sewaddle Back_152
+  - first:
+      213: -4186624330673643119
+    second: Sewaddle Back_153
+  - first:
+      213: -9107252446796262149
+    second: Sewaddle Back_154
+  - first:
+      213: -4721553549174328709
+    second: Sewaddle Back_155
+  - first:
+      213: 8105662196754372410
+    second: Sewaddle Back_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbf07335085e3448eea4e299ff0290
+      internalID: -827710440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2bafc851bdb64a9def352f2a95370
+      internalID: -46334794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558477949e0e746428cd3924ad56920c
+      internalID: 552588616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34346f378dd06b44a77aec15c702944
+      internalID: 283522431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0e1d13a8b7a34ea448e42a31960f7
+      internalID: 827286743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b460243edeb23c499b0cdac5e10bf0b
+      internalID: -1631286387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105883b788f3501459f1680444462531
+      internalID: -1944874752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c801f19cb07240ae9d8affd61f6e0
+      internalID: -2079414250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab7a743633a3a6438d2f1cdadee1dd4
+      internalID: 1943066369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baae246491d98c4d9a1062521c708aa
+      internalID: 989896609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d07da118c0834d9fa4ed2d1227f24
+      internalID: 2103736901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52dffa0eb18af4e9e0ad8f8549602a
+      internalID: -2058147374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 492
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a8935830c152408231b5194eba819
+      internalID: -480336748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4263569945f561478a8de3edfb9ea4a
+      internalID: 1559179669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036201376ed2a84cab3d8aca25ed512
+      internalID: -845590646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac65cdf868f92f4a846937965edf184
+      internalID: 1514931715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762d8fc445f5e248982cd885b8378b8
+      internalID: -1293580640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75422d300fa79494e9c356b8aaa4cd76
+      internalID: 299966311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa2d8dcc08a5d42ad919b1623f0fb1
+      internalID: 958460628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2350d819aa5e6aa428dd1f7f95f44f51
+      internalID: -813415709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73ac6e50c8df543b8472401b6fda47
+      internalID: -1901686112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c04285eccb6db46aa1550d25801341
+      internalID: 1372057620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbbb0be9fb51d149802e1d032a032f8
+      internalID: -1527753111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390563f3ccc34704eb06c857518ca26b
+      internalID: 877304152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea801b95d1855f4ba9b7fbc2577998d
+      internalID: 131279732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 451
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aa3eeb47d15674fa62c70d4c917f75
+      internalID: 679324204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca38305acae9e5409b28d72554b252b
+      internalID: -1484056632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c059f20c4406334a9e0751affb47a2d
+      internalID: 856284453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20cd8770123ff478138df83b69a4af
+      internalID: 1047808256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cfdfc578ec74949bebfe66afea08f6
+      internalID: -1359856118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1215519f918834c8c4b4a4b3886108
+      internalID: -445706690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde144eaa356479408713f09f75e85d9
+      internalID: 1869103918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d12c45723e644fa4164f30f0f1338
+      internalID: -1176406001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1d1e93461c7647b55a2cddab065fd
+      internalID: -1274851790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71f48299d74dd43b6b34ec40344912
+      internalID: 679758977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218eb9fc410c1254ba036d75b7b92234
+      internalID: 1619872786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e6993491153546a41c35afcd31261
+      internalID: 1694450734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db924d0b2e8369d4a9833d30f6e02710
+      internalID: 1503229070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40239cf89514341419a50b6bb58076cf
+      internalID: 1828249571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef341d2407f2f45a28e24b9cf43907
+      internalID: -2083967166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140e734b48e6a1439ac66e26fd60145
+      internalID: 1234530201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8da4258ce5a0349a10a2bdb44d2d50
+      internalID: 589229601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5ee7a6e219e84c96e19b1eec3d008
+      internalID: 327638785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda2051d0b8c69439c69a3806a54909
+      internalID: 111514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d238bbd767d44790bc036f272992f
+      internalID: 1529638488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027f1d7bda326bd4096fe80161633121
+      internalID: -1436414477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7581010b22b31439fddccd668ca711
+      internalID: -1735418014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f3e2e23b4f424fa5276b1b9088d06
+      internalID: 1866470999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a50f23f919dd41a63513355be4d66
+      internalID: 335555610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13961c6540a340245a2a9c9e5cbd07d0
+      internalID: -2024071355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6184600882e951449a8db1bf29b35e51
+      internalID: -1103979207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1ab71b4fa64d469d06cf0a8b9497a
+      internalID: 1520858393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8714eb141805dd4f89088e4a70b60c4
+      internalID: 967828974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a7e3f11b96d843958da57beec5594
+      internalID: 1804629844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de8668eacd2614586690c7bd6de32f
+      internalID: 1054916473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a7fc2303988e4b815b7313a20ca45
+      internalID: 532775070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88aac5767598549b13ec773635a4b5
+      internalID: 130337643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9759fe05c282e42ba1b06ae0dd4ed2
+      internalID: 1381596017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9b16da96efc249a291041bf0b032b
+      internalID: 1145748345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c4d5a0ca82374b851f20ab5eb7a43
+      internalID: -30032212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9ec00fc9091c47be7f53dde713c89
+      internalID: -1272320596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372017fe25bc70745ae1cb5f42cbe8c0
+      internalID: 2084756272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b7b4a88f2b1ef4c89cb14d89d75062
+      internalID: -1728969468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a39f8117aa404982e8cf04357c4bf
+      internalID: 1629672641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 328
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ee71f6490f9747a049e361e80f8ea
+      internalID: 35800909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21f9ad8ffba7a4785994e81b02caba
+      internalID: 1475900127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c4225d49a0e3c4190efa6b972fc7e0
+      internalID: -1947458353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f82e0d4f3a7a449b464f7b4be33b9
+      internalID: -2000508289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979102f24f51e064784438e7ad7788ae
+      internalID: 2009341320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88fe4b8980df248b79464549ae9ee8
+      internalID: -2074029684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8342cbfcb1c7c4592c708966db1511
+      internalID: -516123843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5d6d376eecf0541993ad701f1b5c4e
+      internalID: 850529165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c307615c497930408af48d47992350d
+      internalID: 1936086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b54603713be9f49b30067739480a3e
+      internalID: -1400897215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeaaf3b76df72840b8a29f210b0812a
+      internalID: 1480385396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd1d3aef3566745b86618d77c5d7f6
+      internalID: -1101188940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c2ca260dcdf749bd5b78b87e6ee86
+      internalID: 1746379702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24e888df5519b4e98ea435b3cc6d37
+      internalID: -482440314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946808f4664702f4c94d3bb6a1414723
+      internalID: 740373941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb49a363a5b3ea43b62782ae710293b
+      internalID: -131786546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a03f694ef18a4e83133d6c939fc3d
+      internalID: 2101792661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b01344b31f6a46b1facf6e14b7cba
+      internalID: 1058518665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32fb7d7bd9c8f44a3d98592d205e1d
+      internalID: -1835178723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7aed0fa62006409259d4eaa976c6e
+      internalID: 488162029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e624a87f652a954d9c57e994fbee884
+      internalID: -1200877106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083deb08812be7347a349306eef9adec
+      internalID: 1649305341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611971f92bd2230418a8dbf65f0f5dcd
+      internalID: -2144635796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf609ca03e4ee1e4eb9f554622f425b2
+      internalID: -642078648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fc0af61c207442a0b9df62b00c2e3
+      internalID: -1257161171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd71132f695a3ca45b6e1c942414db60
+      internalID: -87704474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 246
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef27beb696e394a80fb7e60c056c61
+      internalID: 1828427062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f41052efc3f3249896a39a6ab53577
+      internalID: -620517289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e656271d96a28d40ba690d977262ab8
+      internalID: 58496396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3beb904c99e8842b3204b4aa88d7d9
+      internalID: 1771444406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bec9a8ab197141b5d469b7d6a21ab
+      internalID: -1293892711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bf033e26e65648bcb67ffb8c12c66
+      internalID: 1705809905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5866de2227414e94e4097ebb46e4e
+      internalID: -1477282087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16517b59f634e418efb1470fc8174d
+      internalID: 335943487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf5fe63c6d802448260f0212bb454f
+      internalID: -1043870066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c867d510cc43141bd34004a26e7109
+      internalID: 115502584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3e0493b151284c89dfdcb190ce809
+      internalID: -730191949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5237510fca49424cbf009bd059fba46
+      internalID: -881143444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d543b516b1a4c40880e06c3a900cad
+      internalID: 1922092977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 205
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a573276ccadb43b4515615632fd21
+      internalID: -1854496324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51675a8a1be6ef4ab27499ded38acc3
+      internalID: 1244513309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377355ea883ecbc439a0cff513e623eb
+      internalID: 227662449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5880dfc20b714c907cc8f301ba242
+      internalID: -2078469834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36f930ab486714489370c4a9cbe3f54
+      internalID: 70153283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fbffaf000e3a48b0dea9a32aa7a69
+      internalID: 1277330042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa285fa90d531f4a93caf1b8b8fd2f6
+      internalID: -1320059104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afc5dacd72faf4c85cfb4b968c39bb
+      internalID: -197054365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822296c73a2f2d49a7b89e180f35290
+      internalID: 1306339501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022559e28860f244daf1d5be6cc07273
+      internalID: -728806617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad59346655b452749bc42ae870524e0d
+      internalID: -955201475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359c434a55490349990e1a8675ebcee
+      internalID: 1037208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b220d7af5b99a44e86635b6f97c209a
+      internalID: 753576689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 164
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e650f1afa4ed459b3a0c23bbed1e0
+      internalID: -221126696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e9d5f5b6358246a9a92a8c4e080d7
+      internalID: -376104607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32501efe20db5ec4dbc64cdb22410344
+      internalID: -10885970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c0f7981ba98d40aeeb2b7a8c12cda
+      internalID: -1847621035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1190eea232959f4d955dd45118ebabc
+      internalID: 1637481460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf1983cec2f824fa7d5fdbd45c6013
+      internalID: 342351089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634644dcb8c4457429b22f131bf39021
+      internalID: -308600458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df777730f3292d2449e4158eb7d67997
+      internalID: -1593234423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d725ade7c9ee9d84f99b9d8925cffd62
+      internalID: 1482881620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585a454b7a02e8418cd09cbbac9ac79
+      internalID: 842589150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b3f6cdfe5f3c4db86fcc79a164d5d
+      internalID: -966502704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7382dd26030be419f5e2f023286d93
+      internalID: -1481711837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcba339e08bb7341985f17ae1c96741
+      internalID: -1380121108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 123
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6bfbf84aba7334eb14f850ebef9e6a
+      internalID: -92742051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adaeb9670361944fb278c367eff648b
+      internalID: 1164576143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa8c286f1581a448f45e8c23b2046d
+      internalID: 1444682164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c903c9915e65ad49aa5dca358f97129
+      internalID: 478338359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde36d57285504479cd707e9ca0ee1b
+      internalID: 278345081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d834383e6e9a42b181ea9a3c90c30
+      internalID: 1816128285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fece946cdc8a754db2104f8ccd6948e
+      internalID: 1799109771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30775f4108af6488a1e77b3c34f6cc
+      internalID: 753527151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4df4378ccc6a74395d63135b6c24f2
+      internalID: -513466251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba05dea781bf6e49955aedecfe36163
+      internalID: -2027621200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae9c9be105ce543af5a2f31935da0b
+      internalID: -1843657867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653426c90f63ba4994099fb90c5ef04
+      internalID: -703838271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cebef94c14ea3f4db585e02b773d5da
+      internalID: -51045931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a6994066946c409c1ba0ab637adaf
+      internalID: 726411681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1615604af1da4f85e72f3bc0a6405
+      internalID: -1821275004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9897c2be0e431224f987edef1d8a7e71
+      internalID: 442649831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1690c2fd197c3b459140d515323b018
+      internalID: 1520976822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9639dd37bb88834dba898d0c78c25e3
+      internalID: -1841446468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96475279840568644b2fe0f845b7cd43
+      internalID: 175964093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb987b9e7c4bf409388249c75505ed
+      internalID: 1676105685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442d5f0d314d0f4c934376fcf3f4d30
+      internalID: -473453396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b329ffdb514e246a39ef4c8d2d9f59
+      internalID: -781966911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c880e1f4fad794db2ab96da5230a60
+      internalID: 969343792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031b70b8eced734c846f5065caecd1d
+      internalID: -997321062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3599b2ceee4847b34811f065ed644
+      internalID: 78459187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a910ba156f23408072fe555fe8751
+      internalID: -247698824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 41
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f561644ac7d91d441b1f33dfebb68777
+      internalID: -499672172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9441f5c240d98504585fdea3d0ca54da
+      internalID: -110771179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d320911f39114a8a396c91f9b5cb5
+      internalID: 54742513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sewaddle Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89c998b8771744e89648c7ccea0bca
+      internalID: -1071251790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77589eb806a70784ea0f53fae9a3d504
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sewaddle Back_0: -827710440
+      Sewaddle Back_1: -46334794
+      Sewaddle Back_10: 2103736901
+      Sewaddle Back_100: -730191949
+      Sewaddle Back_101: -881143444
+      Sewaddle Back_102: 1922092977
+      Sewaddle Back_103: -1854496324
+      Sewaddle Back_104: 1244513309
+      Sewaddle Back_105: 227662449
+      Sewaddle Back_106: -2078469834
+      Sewaddle Back_107: 70153283
+      Sewaddle Back_108: 1277330042
+      Sewaddle Back_109: -1320059104
+      Sewaddle Back_11: -2058147374
+      Sewaddle Back_110: -197054365
+      Sewaddle Back_111: 1306339501
+      Sewaddle Back_112: -728806617
+      Sewaddle Back_113: -955201475
+      Sewaddle Back_114: 1037208159
+      Sewaddle Back_115: 753576689
+      Sewaddle Back_116: -221126696
+      Sewaddle Back_117: -376104607
+      Sewaddle Back_118: -10885970
+      Sewaddle Back_119: -1847621035
+      Sewaddle Back_12: -480336748
+      Sewaddle Back_120: 1637481460
+      Sewaddle Back_121: 342351089
+      Sewaddle Back_122: -308600458
+      Sewaddle Back_123: -1593234423
+      Sewaddle Back_124: 1482881620
+      Sewaddle Back_125: 842589150
+      Sewaddle Back_126: -966502704
+      Sewaddle Back_127: -1481711837
+      Sewaddle Back_128: -1380121108
+      Sewaddle Back_129: -92742051
+      Sewaddle Back_13: 1559179669
+      Sewaddle Back_130: 1164576143
+      Sewaddle Back_131: 1444682164
+      Sewaddle Back_132: 478338359
+      Sewaddle Back_133: 278345081
+      Sewaddle Back_134: 1816128285
+      Sewaddle Back_135: 1799109771
+      Sewaddle Back_136: 753527151
+      Sewaddle Back_137: -513466251
+      Sewaddle Back_138: -2027621200
+      Sewaddle Back_139: -1843657867
+      Sewaddle Back_14: -845590646
+      Sewaddle Back_140: -703838271
+      Sewaddle Back_141: -51045931
+      Sewaddle Back_142: 726411681
+      Sewaddle Back_143: -1821275004
+      Sewaddle Back_144: 442649831
+      Sewaddle Back_145: 1520976822
+      Sewaddle Back_146: -1841446468
+      Sewaddle Back_147: 175964093
+      Sewaddle Back_148: 1676105685
+      Sewaddle Back_149: -473453396
+      Sewaddle Back_15: 1514931715
+      Sewaddle Back_150: -781966911
+      Sewaddle Back_151: 969343792
+      Sewaddle Back_152: -997321062
+      Sewaddle Back_153: 78459187
+      Sewaddle Back_154: -247698824
+      Sewaddle Back_155: -499672172
+      Sewaddle Back_156: -110771179
+      Sewaddle Back_157: 54742513
+      Sewaddle Back_158: -1071251790
+      Sewaddle Back_16: -1293580640
+      Sewaddle Back_17: 299966311
+      Sewaddle Back_18: 958460628
+      Sewaddle Back_19: -813415709
+      Sewaddle Back_2: 552588616
+      Sewaddle Back_20: -1901686112
+      Sewaddle Back_21: 1372057620
+      Sewaddle Back_22: -1527753111
+      Sewaddle Back_23: 877304152
+      Sewaddle Back_24: 131279732
+      Sewaddle Back_25: 679324204
+      Sewaddle Back_26: -1484056632
+      Sewaddle Back_27: 856284453
+      Sewaddle Back_28: 1047808256
+      Sewaddle Back_29: -1359856118
+      Sewaddle Back_3: 283522431
+      Sewaddle Back_30: -445706690
+      Sewaddle Back_31: 1869103918
+      Sewaddle Back_32: -1176406001
+      Sewaddle Back_33: -1274851790
+      Sewaddle Back_34: 679758977
+      Sewaddle Back_35: 1619872786
+      Sewaddle Back_36: 1694450734
+      Sewaddle Back_37: 1503229070
+      Sewaddle Back_38: 1828249571
+      Sewaddle Back_39: -2083967166
+      Sewaddle Back_4: 827286743
+      Sewaddle Back_40: 1234530201
+      Sewaddle Back_41: 589229601
+      Sewaddle Back_42: 327638785
+      Sewaddle Back_43: 111514209
+      Sewaddle Back_44: 1529638488
+      Sewaddle Back_45: -1436414477
+      Sewaddle Back_46: -1735418014
+      Sewaddle Back_47: 1866470999
+      Sewaddle Back_48: 335555610
+      Sewaddle Back_49: -2024071355
+      Sewaddle Back_5: -1631286387
+      Sewaddle Back_50: -1103979207
+      Sewaddle Back_51: 1520858393
+      Sewaddle Back_52: 967828974
+      Sewaddle Back_53: 1804629844
+      Sewaddle Back_54: 1054916473
+      Sewaddle Back_55: 532775070
+      Sewaddle Back_56: 130337643
+      Sewaddle Back_57: 1381596017
+      Sewaddle Back_58: 1145748345
+      Sewaddle Back_59: -30032212
+      Sewaddle Back_6: -1944874752
+      Sewaddle Back_60: -1272320596
+      Sewaddle Back_61: 2084756272
+      Sewaddle Back_62: -1728969468
+      Sewaddle Back_63: 1629672641
+      Sewaddle Back_64: 35800909
+      Sewaddle Back_65: 1475900127
+      Sewaddle Back_66: -1947458353
+      Sewaddle Back_67: -2000508289
+      Sewaddle Back_68: 2009341320
+      Sewaddle Back_69: -2074029684
+      Sewaddle Back_7: -2079414250
+      Sewaddle Back_70: -516123843
+      Sewaddle Back_71: 850529165
+      Sewaddle Back_72: 1936086388
+      Sewaddle Back_73: -1400897215
+      Sewaddle Back_74: 1480385396
+      Sewaddle Back_75: -1101188940
+      Sewaddle Back_76: 1746379702
+      Sewaddle Back_77: -482440314
+      Sewaddle Back_78: 740373941
+      Sewaddle Back_79: -131786546
+      Sewaddle Back_8: 1943066369
+      Sewaddle Back_80: 2101792661
+      Sewaddle Back_81: 1058518665
+      Sewaddle Back_82: -1835178723
+      Sewaddle Back_83: 488162029
+      Sewaddle Back_84: -1200877106
+      Sewaddle Back_85: 1649305341
+      Sewaddle Back_86: -2144635796
+      Sewaddle Back_87: -642078648
+      Sewaddle Back_88: -1257161171
+      Sewaddle Back_89: -87704474
+      Sewaddle Back_9: 989896609
+      Sewaddle Back_90: 1828427062
+      Sewaddle Back_91: -620517289
+      Sewaddle Back_92: 58496396
+      Sewaddle Back_93: 1771444406
+      Sewaddle Back_94: -1293892711
+      Sewaddle Back_95: 1705809905
+      Sewaddle Back_96: -1477282087
+      Sewaddle Back_97: 335943487
+      Sewaddle Back_98: -1043870066
+      Sewaddle Back_99: 115502584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

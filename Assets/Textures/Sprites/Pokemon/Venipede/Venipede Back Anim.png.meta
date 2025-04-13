@@ -1,0 +1,4565 @@
+fileFormatVersion: 2
+guid: 78309df5d7ecba2428eb479758e0ef94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6440243483095423372
+    second: Venipede Back_0
+  - first:
+      213: 2698508076304768910
+    second: Venipede Back_1
+  - first:
+      213: -7157775488268538140
+    second: Venipede Back_2
+  - first:
+      213: -311817300892212883
+    second: Venipede Back_3
+  - first:
+      213: 5074624051795237584
+    second: Venipede Back_4
+  - first:
+      213: 8791340233828659910
+    second: Venipede Back_5
+  - first:
+      213: -5762887596174579890
+    second: Venipede Back_6
+  - first:
+      213: 1119862931684131396
+    second: Venipede Back_7
+  - first:
+      213: 8096044417907730753
+    second: Venipede Back_8
+  - first:
+      213: 5697631360030770357
+    second: Venipede Back_9
+  - first:
+      213: 492287463468491655
+    second: Venipede Back_10
+  - first:
+      213: -8307422769664441600
+    second: Venipede Back_11
+  - first:
+      213: -7264982937952352210
+    second: Venipede Back_12
+  - first:
+      213: 1419111634450636794
+    second: Venipede Back_13
+  - first:
+      213: 8664616926891383221
+    second: Venipede Back_14
+  - first:
+      213: 4971473087757182155
+    second: Venipede Back_15
+  - first:
+      213: -2791024855451871568
+    second: Venipede Back_16
+  - first:
+      213: -4984092300954515596
+    second: Venipede Back_17
+  - first:
+      213: 7990811025968519888
+    second: Venipede Back_18
+  - first:
+      213: 180386307584704769
+    second: Venipede Back_19
+  - first:
+      213: 5668426365863516957
+    second: Venipede Back_20
+  - first:
+      213: -572000239798839510
+    second: Venipede Back_21
+  - first:
+      213: 6892974844428336030
+    second: Venipede Back_22
+  - first:
+      213: 4482613107291707163
+    second: Venipede Back_23
+  - first:
+      213: 5955204371224595771
+    second: Venipede Back_24
+  - first:
+      213: -3413451119356483552
+    second: Venipede Back_25
+  - first:
+      213: -7998985391718347711
+    second: Venipede Back_26
+  - first:
+      213: 3873833581048525861
+    second: Venipede Back_27
+  - first:
+      213: -2089499505706392117
+    second: Venipede Back_28
+  - first:
+      213: -2696967190355300225
+    second: Venipede Back_29
+  - first:
+      213: -1300814297158900262
+    second: Venipede Back_30
+  - first:
+      213: 3721353860039852834
+    second: Venipede Back_31
+  - first:
+      213: -336055777537145457
+    second: Venipede Back_32
+  - first:
+      213: -6885153880613729024
+    second: Venipede Back_33
+  - first:
+      213: 6454785075736756277
+    second: Venipede Back_34
+  - first:
+      213: -4476936077182641639
+    second: Venipede Back_35
+  - first:
+      213: 4630628139849915018
+    second: Venipede Back_36
+  - first:
+      213: -8331425704856850741
+    second: Venipede Back_37
+  - first:
+      213: -6487044738200904910
+    second: Venipede Back_38
+  - first:
+      213: -7910552261583252338
+    second: Venipede Back_39
+  - first:
+      213: -1953066055227664033
+    second: Venipede Back_40
+  - first:
+      213: 370433771978281101
+    second: Venipede Back_41
+  - first:
+      213: -7253668357360437274
+    second: Venipede Back_42
+  - first:
+      213: 487259460630657088
+    second: Venipede Back_43
+  - first:
+      213: 1244599643616906222
+    second: Venipede Back_44
+  - first:
+      213: 9217357271355942007
+    second: Venipede Back_45
+  - first:
+      213: 7029673871412299187
+    second: Venipede Back_46
+  - first:
+      213: -4010627742496476893
+    second: Venipede Back_47
+  - first:
+      213: 4120372688359001257
+    second: Venipede Back_48
+  - first:
+      213: -3889813472460210971
+    second: Venipede Back_49
+  - first:
+      213: -7886690262308063979
+    second: Venipede Back_50
+  - first:
+      213: 4682737931084430086
+    second: Venipede Back_51
+  - first:
+      213: 6776119627487927290
+    second: Venipede Back_52
+  - first:
+      213: -412870178975327378
+    second: Venipede Back_53
+  - first:
+      213: 4506605312403431808
+    second: Venipede Back_54
+  - first:
+      213: -2734893115922129115
+    second: Venipede Back_55
+  - first:
+      213: 3851400028179720255
+    second: Venipede Back_56
+  - first:
+      213: -5412894207857911962
+    second: Venipede Back_57
+  - first:
+      213: 5238703992751990234
+    second: Venipede Back_58
+  - first:
+      213: -4686549185564751655
+    second: Venipede Back_59
+  - first:
+      213: -2230239739224121536
+    second: Venipede Back_60
+  - first:
+      213: 7647105389334764990
+    second: Venipede Back_61
+  - first:
+      213: -966969978210878850
+    second: Venipede Back_62
+  - first:
+      213: 9211262155260804953
+    second: Venipede Back_63
+  - first:
+      213: 9184322578200789260
+    second: Venipede Back_64
+  - first:
+      213: -5334301813036780736
+    second: Venipede Back_65
+  - first:
+      213: -5620154827061651669
+    second: Venipede Back_66
+  - first:
+      213: 8392645771713324608
+    second: Venipede Back_67
+  - first:
+      213: 98346900213870586
+    second: Venipede Back_68
+  - first:
+      213: -256821843584893231
+    second: Venipede Back_69
+  - first:
+      213: -8107974346351014290
+    second: Venipede Back_70
+  - first:
+      213: 4029847853904785818
+    second: Venipede Back_71
+  - first:
+      213: -3761680967217316531
+    second: Venipede Back_72
+  - first:
+      213: -7339141753397985074
+    second: Venipede Back_73
+  - first:
+      213: -4116187639485920035
+    second: Venipede Back_74
+  - first:
+      213: -1336713015989039511
+    second: Venipede Back_75
+  - first:
+      213: -6635494456837786080
+    second: Venipede Back_76
+  - first:
+      213: 5785335607364211124
+    second: Venipede Back_77
+  - first:
+      213: 1278853252697414866
+    second: Venipede Back_78
+  - first:
+      213: -2819604514027317869
+    second: Venipede Back_79
+  - first:
+      213: -2466503174880148800
+    second: Venipede Back_80
+  - first:
+      213: -2059653182705940230
+    second: Venipede Back_81
+  - first:
+      213: -5157114847042469538
+    second: Venipede Back_82
+  - first:
+      213: 3508073421736849175
+    second: Venipede Back_83
+  - first:
+      213: 7728435234785979470
+    second: Venipede Back_84
+  - first:
+      213: -2609834288266894064
+    second: Venipede Back_85
+  - first:
+      213: -4725470679160017712
+    second: Venipede Back_86
+  - first:
+      213: 3494224715804138033
+    second: Venipede Back_87
+  - first:
+      213: 8048782632551218573
+    second: Venipede Back_88
+  - first:
+      213: 8586787878499057269
+    second: Venipede Back_89
+  - first:
+      213: 3478480978562333384
+    second: Venipede Back_90
+  - first:
+      213: 5438538653567060698
+    second: Venipede Back_91
+  - first:
+      213: 7142579459837611079
+    second: Venipede Back_92
+  - first:
+      213: 6783824625193243795
+    second: Venipede Back_93
+  - first:
+      213: 8847158688828817715
+    second: Venipede Back_94
+  - first:
+      213: 5302370731373026120
+    second: Venipede Back_95
+  - first:
+      213: 1459518622917815523
+    second: Venipede Back_96
+  - first:
+      213: -4530465237505747396
+    second: Venipede Back_97
+  - first:
+      213: 5120459307139348584
+    second: Venipede Back_98
+  - first:
+      213: 5715681103202603385
+    second: Venipede Back_99
+  - first:
+      213: 3368123147759032323
+    second: Venipede Back_100
+  - first:
+      213: -5243106180722969114
+    second: Venipede Back_101
+  - first:
+      213: -6072339734441772291
+    second: Venipede Back_102
+  - first:
+      213: 6515036946257893836
+    second: Venipede Back_103
+  - first:
+      213: -4975222426538732603
+    second: Venipede Back_104
+  - first:
+      213: 1765273090543132783
+    second: Venipede Back_105
+  - first:
+      213: 4056519257419175541
+    second: Venipede Back_106
+  - first:
+      213: 2954163659167339194
+    second: Venipede Back_107
+  - first:
+      213: -5765250358232050292
+    second: Venipede Back_108
+  - first:
+      213: 2928612399876783534
+    second: Venipede Back_109
+  - first:
+      213: -3398658175149683343
+    second: Venipede Back_110
+  - first:
+      213: 8938735191213456958
+    second: Venipede Back_111
+  - first:
+      213: -3425000515464063027
+    second: Venipede Back_112
+  - first:
+      213: 1691844622146966010
+    second: Venipede Back_113
+  - first:
+      213: 7588538566399184983
+    second: Venipede Back_114
+  - first:
+      213: 2931315176526535157
+    second: Venipede Back_115
+  - first:
+      213: -835657646610795145
+    second: Venipede Back_116
+  - first:
+      213: -8359677023976759889
+    second: Venipede Back_117
+  - first:
+      213: 4116173145561803223
+    second: Venipede Back_118
+  - first:
+      213: 2241293716962451682
+    second: Venipede Back_119
+  - first:
+      213: -8015859426386630062
+    second: Venipede Back_120
+  - first:
+      213: 3707199205560922734
+    second: Venipede Back_121
+  - first:
+      213: 2570750579312670233
+    second: Venipede Back_122
+  - first:
+      213: -7639300214350091080
+    second: Venipede Back_123
+  - first:
+      213: 1511213200449871369
+    second: Venipede Back_124
+  - first:
+      213: -8661350366016655605
+    second: Venipede Back_125
+  - first:
+      213: -1267007983276168736
+    second: Venipede Back_126
+  - first:
+      213: -5688258400712406838
+    second: Venipede Back_127
+  - first:
+      213: -5446810429263437426
+    second: Venipede Back_128
+  - first:
+      213: 512615971932826922
+    second: Venipede Back_129
+  - first:
+      213: -6958853199837117879
+    second: Venipede Back_130
+  - first:
+      213: -10246688456423033
+    second: Venipede Back_131
+  - first:
+      213: 8281121689024860465
+    second: Venipede Back_132
+  - first:
+      213: 3006174344419881191
+    second: Venipede Back_133
+  - first:
+      213: 3352068244896533172
+    second: Venipede Back_134
+  - first:
+      213: 6539684758340775285
+    second: Venipede Back_135
+  - first:
+      213: 1456164260164119919
+    second: Venipede Back_136
+  - first:
+      213: 4898781382529951202
+    second: Venipede Back_137
+  - first:
+      213: 5838994863897813184
+    second: Venipede Back_138
+  - first:
+      213: 2658421807919550529
+    second: Venipede Back_139
+  - first:
+      213: -2839358490593698475
+    second: Venipede Back_140
+  - first:
+      213: -8311636220825561779
+    second: Venipede Back_141
+  - first:
+      213: 1262540937609863180
+    second: Venipede Back_142
+  - first:
+      213: 8275351073356465843
+    second: Venipede Back_143
+  - first:
+      213: -7883881897986290287
+    second: Venipede Back_144
+  - first:
+      213: -6892087696723704097
+    second: Venipede Back_145
+  - first:
+      213: -2526587040871519580
+    second: Venipede Back_146
+  - first:
+      213: 2839622963718374367
+    second: Venipede Back_147
+  - first:
+      213: -2672711744617931148
+    second: Venipede Back_148
+  - first:
+      213: -3610814579980648360
+    second: Venipede Back_149
+  - first:
+      213: -4112844524928619266
+    second: Venipede Back_150
+  - first:
+      213: 3069561940604956470
+    second: Venipede Back_151
+  - first:
+      213: -7622318969939830336
+    second: Venipede Back_152
+  - first:
+      213: 7072039200662096741
+    second: Venipede Back_153
+  - first:
+      213: 6655148461641419359
+    second: Venipede Back_154
+  - first:
+      213: -7423793949291842273
+    second: Venipede Back_155
+  - first:
+      213: 7303137131221079904
+    second: Venipede Back_156
+  - first:
+      213: 3450216669142272961
+    second: Venipede Back_157
+  - first:
+      213: 6554860196217785675
+    second: Venipede Back_158
+  - first:
+      213: 3948204240038964071
+    second: Venipede Back_159
+  - first:
+      213: 9183040530652644371
+    second: Venipede Back_160
+  - first:
+      213: -8429798485495754321
+    second: Venipede Back_161
+  - first:
+      213: 6635853857948285546
+    second: Venipede Back_162
+  - first:
+      213: 8096921245440952703
+    second: Venipede Back_163
+  - first:
+      213: -3346066024311956119
+    second: Venipede Back_164
+  - first:
+      213: 4053491573666142717
+    second: Venipede Back_165
+  - first:
+      213: 1483663707526559704
+    second: Venipede Back_166
+  - first:
+      213: -1139764167521114592
+    second: Venipede Back_167
+  - first:
+      213: -8938173418377719782
+    second: Venipede Back_168
+  - first:
+      213: 5428424257215282128
+    second: Venipede Back_169
+  - first:
+      213: -8843670801443633443
+    second: Venipede Back_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Venipede Back Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00fd462fa1ded41838f9c90a63f325
+      internalID: -577621118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b20467d514942e41a7438529870c01c
+      internalID: -1765068157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711ce32a5823cb47b294e3313a4011a
+      internalID: 1369692425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75405402dbba85644837c41fb5b7ee00
+      internalID: 1575048265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cdaf78c1bf84d478f9879c94ce7583
+      internalID: 1536176939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549ab646de3822a428e4ec90254e9c9b
+      internalID: -1250512588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c3aa45fb7c014db2b67efcb1928a6
+      internalID: -834733986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e5f8c2a95f544f9ac47aa30d7c175
+      internalID: 1914529097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d121ae8006ed47846425a77fb49af
+      internalID: -1190920260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676122580582fe4a8a3d0d374c2298a
+      internalID: -101179568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb782da5dbf31a4d8af30274e8b8914
+      internalID: -1393120409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c60bc64875934cbd935c4332b7f2a
+      internalID: -690964034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44039cde5e8826440bafa40a4b0cbb6a
+      internalID: -1504656195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 420
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bbcec05e2205a4cbba44fd0217a2f4
+      internalID: -1140772181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfca32234053944ad723c9d2dec74f
+      internalID: 1481393118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b2df6ce735f9449e0ac60fec68424
+      internalID: 332411398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8736eb8400b84cbb953de61de1843
+      internalID: 1429907170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b7c0b1ab671140b63251aa58c1692
+      internalID: 1260811896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ff1fec6d028a4eace047c38e36aa4
+      internalID: 1819253860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5897559e6b8fe44b8ed351bd352ee5
+      internalID: -1552796136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e82c1092b2a440ab5c64107128cd5
+      internalID: -949010839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d628bfaa52794a886eb00a57a362e
+      internalID: 1465301644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d814ef508e614994f78b887a0810d
+      internalID: -1085394387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b22cacfeec10a4abdc54d92f515f96
+      internalID: 2049663541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f0fa8a566dd84687ecd991fbb58c2
+      internalID: -1954211637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_25
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d0812a70c3c543bcd73499f354193
+      internalID: 1822667667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fef0b3577afb54c93bb09585320c07
+      internalID: 1399990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 385
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d230de0a3007a4f80f71f5f3065ec1
+      internalID: 2036201156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d4d37d679e21a4d91845038c8d33f3
+      internalID: 864022865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc767dac3a6d824783eaec85d0fd5cb
+      internalID: 790357002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a63e2a20c2f514786efa4f80dba77e
+      internalID: -1473299677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ed373c6a2b194a995c5265508fb1c
+      internalID: 1879143844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6dbfbd0909fc44b841137bb6464015
+      internalID: -883845099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92b62ec37bf5b4bb93db86e76513b0
+      internalID: 752002691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9403e028a67f31349ab5467cc5991632
+      internalID: -2086339346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95bf3805babaee41b5b290a54715c2a
+      internalID: -19702798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7bc206f28715449672332cd4007ef
+      internalID: -428682804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91b1408da8bf342a794cc6b24e2163
+      internalID: -345369982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc2704e5b39ed64aaecf76d954e66ee
+      internalID: -334257186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28c5e5d38cae44e972ff9ff1b46158
+      internalID: 808960856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_40
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8fd50aee726247829a9d454b6df16
+      internalID: -1194419240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 350
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d721f11ad4e734e94796bb48034934
+      internalID: 986560964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54cd09b5ed5e2e43a94e15ba84a1a19
+      internalID: -1140844158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26119e80b626eeb4ba723138dc1cc5c5
+      internalID: 1962375731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656bd942895c09f4a824ec407bee72ed
+      internalID: 990240003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37114d83c361faa468810b06d1499e35
+      internalID: -1870268216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778218a9fbaf5b4c95c33e387481b9a
+      internalID: -1961181176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9a6a156fd1d1d44922a15008413ac5
+      internalID: -1764967101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd27aa41faa66d46986720972208625
+      internalID: -1905165384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164c4648196c784aae698ade04ab081
+      internalID: -1323146475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f619fba5c6fce847adbd87816e15946
+      internalID: 1924272447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_51
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255f71658e60d049bde43eaa59a48be
+      internalID: 2016504974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_52
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d04fdc7987ab46bfe3422fd0e3c22
+      internalID: -442067723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e5aad3f094a449a0558133301cbda
+      internalID: 840374420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_54
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689ec0214016854daba69b2b61f66bb
+      internalID: -610252949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_55
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 315
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61141ed313c94a4e98734b167989528
+      internalID: -2132334756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e61e55b21aea347aec1f0eaf3ca31f
+      internalID: 1422108039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38efc0e61738c7418f37e14eb34403c
+      internalID: 1904169865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d07b099d66ad9408b22dac6f943377
+      internalID: -269249894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80b0ad0e7ed8b43a7aa7f4b626818f
+      internalID: -1742343372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_60
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb07dcb6c326b9a4bb552ffd82b10b8e
+      internalID: 1073526704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c857ab0bf2f1a54ea2e251d14f16e47
+      internalID: -1194610927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_62
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db8c84d345a704eaf2d719878a35da
+      internalID: -378216958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd232ddf91580e148a66ee571154036b
+      internalID: 1503904340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c30507232d37408e9f93f13e41260
+      internalID: -358721044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_65
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c69362fd8b874b9a856a2bc566b35
+      internalID: 126235311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_66
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a211e708666f44b194301c0302020
+      internalID: 1741243495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_67
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f8d4077e2330419f7ac2713aac507
+      internalID: -616360414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64704bb079a08b4b96cab176b270ab6
+      internalID: -2003276066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_69
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 280
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ae468021f98d48a8b60e51294ef87
+      internalID: -1243613676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521849bb0a3295147884dd22125feb36
+      internalID: 119150691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_71
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edc522c0c74934ea6d995ef71ed365
+      internalID: 380626257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657f6c991f033647aa09ddda84d3ea0
+      internalID: 1878004854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c5812c2404b74ea7cfb1b5b63af4d
+      internalID: -1567522320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cdee707788c5d41996fb0bcf31d5c7
+      internalID: 2008865232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_75
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9edc50a81727c4fb7b1c8e8692b8bf
+      internalID: 1802016525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_76
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce24e4b99fc9d94fafa40e0dc66d3ad
+      internalID: 1786747640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231525775db40834fb9d5e8d55e70064
+      internalID: -1002517335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e60ffe679ff9443a112195041cffc8
+      internalID: -1650455684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_79
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8e95ae06235e41a354967aba2b675
+      internalID: -187994883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670736c59fc32c146bf18a98cfed8aa0
+      internalID: -1655107851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_81
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28822f3de9a8bcf48a0ae85f371fc2fe
+      internalID: 1269679007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_82
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c6e2fd4dc7f74588501ec283eff90
+      internalID: -1824311724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_83
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 245
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e09c5d82aa7b443a003305eab9e3af
+      internalID: 1649679511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153ad56aff178e479894f914dad3c92
+      internalID: -1779939651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30267a9a14ecc734697e3cac2716f546
+      internalID: -371848022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb56bcba7599b40865cade6c7fb80c
+      internalID: 1260772635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714db7aa06c53614685a3f9e062030e9
+      internalID: 753229653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5cc76a2f70b4c4591a81d71e3f9e21
+      internalID: -629104099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_89
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44fadcb21c0fbe4bbd60fcdb7c2a6c2
+      internalID: -1329397023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570d4d58e5976649af89ce0b730c842
+      internalID: 196142401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c75dc4cd12c7af41975a940104b015e
+      internalID: 879254005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_92
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c9af224b9d5fa4eb4662831d08ee46
+      internalID: 978289744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_93
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e5b8790a757444c853e7be44a07d77
+      internalID: 1693209527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_94
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f37039e1a39a446b66e99c1acb9e9a
+      internalID: -16722809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_95
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a241e8844eabd44be65cca6cda3f9c
+      internalID: 378317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_96
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0910c4785b64f47a3a4c3f511bd170
+      internalID: 1351331392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_97
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8812bd99c315e40b5cc51e11f50780
+      internalID: 971532979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e249075f67c147966981bb57e0a84
+      internalID: 1645115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1468fea9da4edd4eb39a3edc76cc40a
+      internalID: -744116417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_100
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a279a6c2f325847a6e384147503005
+      internalID: 170237658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_101
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ef3d573582604e840cee7d1aeb50d
+      internalID: -902867410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec72387075b0f49b69e197ed451d1d
+      internalID: 1232180478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7d47ed252fe04b80544496b6a0f12
+      internalID: 912078389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_104
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3a1fb0278822499868d9001a863ef
+      internalID: 1206181672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_105
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158617b8b587f1642bebaf1da4d9b4a9
+      internalID: 2091315398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_106
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ec0119668c85418d05c94fbe96090
+      internalID: -1836038696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_107
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b7e90673430c4aaceef816a1a4c7b
+      internalID: 1480551312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_108
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015aa868c6cf414ea315978906ab237
+      internalID: 2000609855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_109
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c8592102d46e4fad33aeeb79d929d
+      internalID: 786788083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_110
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ad32b198e04f4cb608fda936d9a0e
+      internalID: -272103548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_111
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 175
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242aa9bbd21d0c4aa8e0bfd87d13b58
+      internalID: -903614336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35928bf1a214a524287ccc7b71c77d84
+      internalID: 1787152680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_113
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d824c383b44a4184cc9edfe12ef60
+      internalID: 719218711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_114
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b11ab1f7e34d24b95431c469090384
+      internalID: -300002559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ef358ceb3b0c44bcbfb245d5e1fb0
+      internalID: -670721958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95a5fbf9b32f0d44bb673c6f9b2bc3a
+      internalID: -1124455045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_117
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b862868f734510e49b0aaa0583fc575d
+      internalID: -790879787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_118
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5a8f9aebfd03499a217bafc390b52
+      internalID: 972326139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_119
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad708d0d648ea44b62d16dc78e388f
+      internalID: 1015165874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_120
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548ff2c5e74ac044ab0e80fb2932c58
+      internalID: -2114636245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_121
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a035ddff063d74d852829f9684d886
+      internalID: -231193884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8969b4659c7e4a83f38e1da3f7741
+      internalID: 985078077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_123
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e18940715d36428c28ec64cf25f64
+      internalID: -418398731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_124
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea007897ab31f469fe876ad4399045
+      internalID: 1224901114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_125
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 140
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f11dc876792a74187e41fb1f6c95c5
+      internalID: 523581007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa9cce9e941e774b86fd0db885e6222
+      internalID: 1237824323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_127
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a17f3f6e283a449e14c614b4c08fd
+      internalID: 2016311776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_128
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccb14f289036e43afbaeeb19803063
+      internalID: -291522100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a025ec732bea4f9f36d3b01232aad
+      internalID: 1826558015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_130
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747ad1dd3089494abcfbe5f806f8358
+      internalID: -1376232922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_131
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969801e3304f704d8a055b38098d23a
+      internalID: -462372031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_132
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e27df07618c634f9cd2f25714b1931
+      internalID: 772642242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_133
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaff3251790ec844a1b66669e51a23e
+      internalID: -2015732596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703eabc68219645449ce9513202a301e
+      internalID: 1577765349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_135
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d823956683d644b8eb028d0b3d7f69
+      internalID: 411902574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_136
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ba1c110782cfe4388080b09c5641ac
+      internalID: 330349693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_137
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1047de87056a214c9e44ca31c3d6c5c
+      internalID: -509741540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_138
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5a7e8d330bf14baaaeec97df6d647
+      internalID: -325259858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_139
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 105
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba178ce2a26457449a349c8519515cf5
+      internalID: 489619673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d38207c82c1842b10fd11c7f065ab
+      internalID: 728286094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6cf4bb5b929e4b9e694aa4bd4bb3c
+      internalID: -2075250737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_142
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc95644211d0404d83782177c313cbb
+      internalID: 231750796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_143
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd49ad6886d6e4b94a32e518effb00
+      internalID: 1644697820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_144
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b65c3adf1570d4b9e081f9974fd3d5
+      internalID: 1520095753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_145
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa41469a5650849a5f2ef51c8fdd2e
+      internalID: 1156860351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_146
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959d8d7b3d345549a204f60a9dcca35
+      internalID: -1283945664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_147
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d713962d4ee9e1498ed1b72a7a84eec
+      internalID: 1105511842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_148
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98527dde007174087edf57087dfb76
+      internalID: 2074977544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_149
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ce351798a0ea4e804053a7be1cdb7
+      internalID: 298733918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_150
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7408226ec6e94c42aab07e15305bab1
+      internalID: 1021536675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_151
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6eed8020c80fd4485a99a9da7d4f34
+      internalID: 1969071718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_152
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fce093130d7443a3c7105bcec56b0
+      internalID: 1360649995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_153
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 70
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fadc76f1b8a54b9ce657c9a91e4fd
+      internalID: -1524740971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824bd3ffe9ba8d24c9b51d008b8160b4
+      internalID: -2083124830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_155
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4ef5f388d49442aa51aa06bde4c80
+      internalID: -918521344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_156
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b52c273fd6ff1448b77eb95e7a328f
+      internalID: -12435155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_157
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e8e9118474af94d86ce0cea280d859
+      internalID: -2122747730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_158
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5778c4433cd84b95974c31715281c
+      internalID: -1450116540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_159
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae283152b155b42b255e156735ab3b
+      internalID: 1695026328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_160
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a255e0bfd739c4ab7bf6b7a226350d
+      internalID: 1913298383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_161
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17d446bfa48cb44801ebd99eeacad0
+      internalID: 570774328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_162
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452fbcb65f507047bd9c7026ce21600
+      internalID: 1169605760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_163
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91485f3f9624e114ebb7cd740525c520
+      internalID: -820135350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_164
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c630806c125046aefe7d57b534583
+      internalID: -1565908687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_165
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1f84662b0f804fabd80c79ef982bd
+      internalID: -820878574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_166
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789d37ba16ad154fb0cc574d2b442b0
+      internalID: 1837879509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_167
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc345ab8e49d23408e28d9f86c8f44a
+      internalID: 120319615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04047e68f3bfa4487a94302a1ffeec
+      internalID: 76383322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1772109bade20fd45a90bd3aca1f3dd3
+      internalID: -649257558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b562f03fe19a459fad8acc7d23d5b
+      internalID: 1355385628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_171
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfe3f780cdaf94d8e5a281e6e83b5d
+      internalID: 1303542857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_172
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf4fd7111dde64cab0117a3238e34d
+      internalID: -1928633726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_173
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee8357332f09042aa6570a2f2744b6
+      internalID: -1029461715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_174
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf86207b5801a2241aaec075471398ff
+      internalID: 1372205040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_175
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe940c44f585a841a969fe1e649097e
+      internalID: -225141796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_176
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5ac59967aa3734eaadbcc8bfb30b7c
+      internalID: -1598132352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_177
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d20b451c02296d4688bb3cf4535b36f
+      internalID: 845623964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venipede Back Anim_178
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74540c16272e2745a0ad3b472aaefca
+      internalID: -1844656391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 198cc481f7deb464db63f1bc98504706
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Venipede Back_0: -577621118
+      Venipede Back_1: -1765068157
+      Venipede Back_10: -1393120409
+      Venipede Back_100: 170237658
+      Venipede Back_101: -902867410
+      Venipede Back_102: 1232180478
+      Venipede Back_103: 912078389
+      Venipede Back_104: 1206181672
+      Venipede Back_105: 2091315398
+      Venipede Back_106: -1836038696
+      Venipede Back_107: 1480551312
+      Venipede Back_108: 2000609855
+      Venipede Back_109: 786788083
+      Venipede Back_11: -690964034
+      Venipede Back_110: -272103548
+      Venipede Back_111: -903614336
+      Venipede Back_112: 1787152680
+      Venipede Back_113: 719218711
+      Venipede Back_114: -300002559
+      Venipede Back_115: -670721958
+      Venipede Back_116: -1124455045
+      Venipede Back_117: -790879787
+      Venipede Back_118: 972326139
+      Venipede Back_119: 1015165874
+      Venipede Back_12: -1504656195
+      Venipede Back_120: -2114636245
+      Venipede Back_121: -231193884
+      Venipede Back_122: 985078077
+      Venipede Back_123: -418398731
+      Venipede Back_124: 1224901114
+      Venipede Back_125: 523581007
+      Venipede Back_126: 1237824323
+      Venipede Back_127: 2016311776
+      Venipede Back_128: -291522100
+      Venipede Back_129: 1826558015
+      Venipede Back_13: -1140772181
+      Venipede Back_130: -1376232922
+      Venipede Back_131: -462372031
+      Venipede Back_132: 772642242
+      Venipede Back_133: -2015732596
+      Venipede Back_134: 1577765349
+      Venipede Back_135: 411902574
+      Venipede Back_136: 330349693
+      Venipede Back_137: -509741540
+      Venipede Back_138: -325259858
+      Venipede Back_139: 489619673
+      Venipede Back_14: 1481393118
+      Venipede Back_140: 728286094
+      Venipede Back_141: -2075250737
+      Venipede Back_142: 231750796
+      Venipede Back_143: 1644697820
+      Venipede Back_144: 1520095753
+      Venipede Back_145: 1156860351
+      Venipede Back_146: -1283945664
+      Venipede Back_147: 1105511842
+      Venipede Back_148: 2074977544
+      Venipede Back_149: 298733918
+      Venipede Back_15: 332411398
+      Venipede Back_150: 1021536675
+      Venipede Back_151: 1969071718
+      Venipede Back_152: 1360649995
+      Venipede Back_153: -1524740971
+      Venipede Back_154: -2083124830
+      Venipede Back_155: -918521344
+      Venipede Back_156: -12435155
+      Venipede Back_157: -2122747730
+      Venipede Back_158: -1450116540
+      Venipede Back_159: 1695026328
+      Venipede Back_16: 1429907170
+      Venipede Back_160: 1913298383
+      Venipede Back_161: 570774328
+      Venipede Back_162: 1169605760
+      Venipede Back_163: -820135350
+      Venipede Back_164: -1565908687
+      Venipede Back_165: -820878574
+      Venipede Back_166: 1837879509
+      Venipede Back_167: 120319615
+      Venipede Back_168: 76383322
+      Venipede Back_169: -649257558
+      Venipede Back_17: 1260811896
+      Venipede Back_170: 1355385628
+      Venipede Back_171: 1303542857
+      Venipede Back_172: -1928633726
+      Venipede Back_173: -1029461715
+      Venipede Back_174: 1372205040
+      Venipede Back_175: -225141796
+      Venipede Back_176: -1598132352
+      Venipede Back_177: 845623964
+      Venipede Back_178: -1844656391
+      Venipede Back_18: 1819253860
+      Venipede Back_19: -1552796136
+      Venipede Back_2: 1369692425
+      Venipede Back_20: -949010839
+      Venipede Back_21: 1465301644
+      Venipede Back_22: -1085394387
+      Venipede Back_23: 2049663541
+      Venipede Back_24: -1954211637
+      Venipede Back_25: 1822667667
+      Venipede Back_26: 1399990550
+      Venipede Back_27: 2036201156
+      Venipede Back_28: 864022865
+      Venipede Back_29: 790357002
+      Venipede Back_3: 1575048265
+      Venipede Back_30: -1473299677
+      Venipede Back_31: 1879143844
+      Venipede Back_32: -883845099
+      Venipede Back_33: 752002691
+      Venipede Back_34: -2086339346
+      Venipede Back_35: -19702798
+      Venipede Back_36: -428682804
+      Venipede Back_37: -345369982
+      Venipede Back_38: -334257186
+      Venipede Back_39: 808960856
+      Venipede Back_4: 1536176939
+      Venipede Back_40: -1194419240
+      Venipede Back_41: 986560964
+      Venipede Back_42: -1140844158
+      Venipede Back_43: 1962375731
+      Venipede Back_44: 990240003
+      Venipede Back_45: -1870268216
+      Venipede Back_46: -1961181176
+      Venipede Back_47: -1764967101
+      Venipede Back_48: -1905165384
+      Venipede Back_49: -1323146475
+      Venipede Back_5: -1250512588
+      Venipede Back_50: 1924272447
+      Venipede Back_51: 2016504974
+      Venipede Back_52: -442067723
+      Venipede Back_53: 840374420
+      Venipede Back_54: -610252949
+      Venipede Back_55: -2132334756
+      Venipede Back_56: 1422108039
+      Venipede Back_57: 1904169865
+      Venipede Back_58: -269249894
+      Venipede Back_59: -1742343372
+      Venipede Back_6: -834733986
+      Venipede Back_60: 1073526704
+      Venipede Back_61: -1194610927
+      Venipede Back_62: -378216958
+      Venipede Back_63: 1503904340
+      Venipede Back_64: -358721044
+      Venipede Back_65: 126235311
+      Venipede Back_66: 1741243495
+      Venipede Back_67: -616360414
+      Venipede Back_68: -2003276066
+      Venipede Back_69: -1243613676
+      Venipede Back_7: 1914529097
+      Venipede Back_70: 119150691
+      Venipede Back_71: 380626257
+      Venipede Back_72: 1878004854
+      Venipede Back_73: -1567522320
+      Venipede Back_74: 2008865232
+      Venipede Back_75: 1802016525
+      Venipede Back_76: 1786747640
+      Venipede Back_77: -1002517335
+      Venipede Back_78: -1650455684
+      Venipede Back_79: -187994883
+      Venipede Back_8: -1190920260
+      Venipede Back_80: -1655107851
+      Venipede Back_81: 1269679007
+      Venipede Back_82: -1824311724
+      Venipede Back_83: 1649679511
+      Venipede Back_84: -1779939651
+      Venipede Back_85: -371848022
+      Venipede Back_86: 1260772635
+      Venipede Back_87: 753229653
+      Venipede Back_88: -629104099
+      Venipede Back_89: -1329397023
+      Venipede Back_9: -101179568
+      Venipede Back_90: 196142401
+      Venipede Back_91: 879254005
+      Venipede Back_92: 978289744
+      Venipede Back_93: 1693209527
+      Venipede Back_94: -16722809
+      Venipede Back_95: 378317
+      Venipede Back_96: 1351331392
+      Venipede Back_97: 971532979
+      Venipede Back_98: 1645115140
+      Venipede Back_99: -744116417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

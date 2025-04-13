@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b39e9f051f1216c4a882a1fdf3478d94, type: 3}
+  m_Name: Metal Claw
+  m_EditorClassIdentifier: 
+  name: Metal Claw
+  effect: "The target is raked with steel claws. It may also raise the user\u2019s
+    Attack stat."
+  type: 17
+  category: 0
+  power: 50
+  accuracy: 95
+  pp: 35
+  makesContact: 1
+  statEffects:
+  - stat: 0
+    amount: 1
+    prob: 10
+    self: 1

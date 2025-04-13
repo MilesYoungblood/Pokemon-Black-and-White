@@ -1,0 +1,4678 @@
+fileFormatVersion: 2
+guid: 1cd02d6a5212c184096204a24be6109a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6048973076075313777
+    second: Tympole Front Sprite Sheet_0
+  - first:
+      213: -1714131699432176587
+    second: Tympole Front Sprite Sheet_1
+  - first:
+      213: -2274669746881893205
+    second: Tympole Front Sprite Sheet_2
+  - first:
+      213: 8908417652427180783
+    second: Tympole Front Sprite Sheet_3
+  - first:
+      213: 7466980191045775030
+    second: Tympole Front Sprite Sheet_4
+  - first:
+      213: -2237380279686100406
+    second: Tympole Front Sprite Sheet_5
+  - first:
+      213: 6996337039770884179
+    second: Tympole Front Sprite Sheet_6
+  - first:
+      213: -1444765096019009032
+    second: Tympole Front Sprite Sheet_7
+  - first:
+      213: 1689652320099057710
+    second: Tympole Front Sprite Sheet_8
+  - first:
+      213: 8332970629886925054
+    second: Tympole Front Sprite Sheet_9
+  - first:
+      213: -8299338163691667075
+    second: Tympole Front Sprite Sheet_10
+  - first:
+      213: 7807906828481334336
+    second: Tympole Front Sprite Sheet_11
+  - first:
+      213: 5387473051198299705
+    second: Tympole Front Sprite Sheet_12
+  - first:
+      213: 8177618414801144067
+    second: Tympole Front Sprite Sheet_13
+  - first:
+      213: -9129159561116393505
+    second: Tympole Front Sprite Sheet_14
+  - first:
+      213: 4489346775361981307
+    second: Tympole Front Sprite Sheet_15
+  - first:
+      213: -5088741188765600380
+    second: Tympole Front Sprite Sheet_16
+  - first:
+      213: -6793023619691290349
+    second: Tympole Front Sprite Sheet_17
+  - first:
+      213: -4282426022578361829
+    second: Tympole Front Sprite Sheet_18
+  - first:
+      213: 4304972131977801492
+    second: Tympole Front Sprite Sheet_19
+  - first:
+      213: -4235368537265291979
+    second: Tympole Front Sprite Sheet_20
+  - first:
+      213: 5377096668119026692
+    second: Tympole Front Sprite Sheet_21
+  - first:
+      213: 5515654540766984051
+    second: Tympole Front Sprite Sheet_22
+  - first:
+      213: 2443122305143187130
+    second: Tympole Front Sprite Sheet_23
+  - first:
+      213: 8617534428725969571
+    second: Tympole Front Sprite Sheet_24
+  - first:
+      213: -2127123269236279481
+    second: Tympole Front Sprite Sheet_25
+  - first:
+      213: 6362258533447607931
+    second: Tympole Front Sprite Sheet_26
+  - first:
+      213: 758334080475313747
+    second: Tympole Front Sprite Sheet_27
+  - first:
+      213: -8159059742326366004
+    second: Tympole Front Sprite Sheet_28
+  - first:
+      213: 3238733982098825432
+    second: Tympole Front Sprite Sheet_29
+  - first:
+      213: 2766920959259016971
+    second: Tympole Front Sprite Sheet_30
+  - first:
+      213: -6845755160536903723
+    second: Tympole Front Sprite Sheet_31
+  - first:
+      213: 9215766811906448895
+    second: Tympole Front Sprite Sheet_32
+  - first:
+      213: 6565143634153845788
+    second: Tympole Front Sprite Sheet_33
+  - first:
+      213: 5138922841100971422
+    second: Tympole Front Sprite Sheet_34
+  - first:
+      213: 1906159760083386895
+    second: Tympole Front Sprite Sheet_35
+  - first:
+      213: 1213894479066800276
+    second: Tympole Front Sprite Sheet_36
+  - first:
+      213: -7471158554611101332
+    second: Tympole Front Sprite Sheet_37
+  - first:
+      213: -5213442425207741035
+    second: Tympole Front Sprite Sheet_38
+  - first:
+      213: -4906608106165523988
+    second: Tympole Front Sprite Sheet_39
+  - first:
+      213: 1291297804871161132
+    second: Tympole Front Sprite Sheet_40
+  - first:
+      213: -6475163890906636460
+    second: Tympole Front Sprite Sheet_41
+  - first:
+      213: 5410315374900680808
+    second: Tympole Front Sprite Sheet_42
+  - first:
+      213: 7746969568798543340
+    second: Tympole Front Sprite Sheet_43
+  - first:
+      213: 1105109227501045329
+    second: Tympole Front Sprite Sheet_44
+  - first:
+      213: -3488657331040785650
+    second: Tympole Front Sprite Sheet_45
+  - first:
+      213: -8215432096475929278
+    second: Tympole Front Sprite Sheet_46
+  - first:
+      213: -6825231240639701189
+    second: Tympole Front Sprite Sheet_47
+  - first:
+      213: 3493200345949491336
+    second: Tympole Front Sprite Sheet_48
+  - first:
+      213: 5123681287211283862
+    second: Tympole Front Sprite Sheet_49
+  - first:
+      213: -8158981381414089064
+    second: Tympole Front Sprite Sheet_50
+  - first:
+      213: -4996042513499191073
+    second: Tympole Front Sprite Sheet_51
+  - first:
+      213: -4743506174282541466
+    second: Tympole Front Sprite Sheet_52
+  - first:
+      213: 3737567609167559213
+    second: Tympole Front Sprite Sheet_53
+  - first:
+      213: 889525455032962408
+    second: Tympole Front Sprite Sheet_54
+  - first:
+      213: 4727592375445858190
+    second: Tympole Front Sprite Sheet_55
+  - first:
+      213: 1746135153051304173
+    second: Tympole Front Sprite Sheet_56
+  - first:
+      213: 3443560711776633696
+    second: Tympole Front Sprite Sheet_57
+  - first:
+      213: -6705808476426780496
+    second: Tympole Front Sprite Sheet_58
+  - first:
+      213: 4387247948509241776
+    second: Tympole Front Sprite Sheet_59
+  - first:
+      213: 2529793434598725542
+    second: Tympole Front Sprite Sheet_60
+  - first:
+      213: 1926703816908458207
+    second: Tympole Front Sprite Sheet_61
+  - first:
+      213: -8316438699127167016
+    second: Tympole Front Sprite Sheet_62
+  - first:
+      213: 2919785115473711763
+    second: Tympole Front Sprite Sheet_63
+  - first:
+      213: 479417209952103478
+    second: Tympole Front Sprite Sheet_64
+  - first:
+      213: 6290678151977666541
+    second: Tympole Front Sprite Sheet_65
+  - first:
+      213: 322881161037877232
+    second: Tympole Front Sprite Sheet_66
+  - first:
+      213: 4627503361090914405
+    second: Tympole Front Sprite Sheet_67
+  - first:
+      213: 8428732463873358057
+    second: Tympole Front Sprite Sheet_68
+  - first:
+      213: -3804885696445783056
+    second: Tympole Front Sprite Sheet_69
+  - first:
+      213: -8880186700304817014
+    second: Tympole Front Sprite Sheet_70
+  - first:
+      213: -6523493662326426666
+    second: Tympole Front Sprite Sheet_71
+  - first:
+      213: 2363413227705386887
+    second: Tympole Front Sprite Sheet_72
+  - first:
+      213: -106257216193608621
+    second: Tympole Front Sprite Sheet_73
+  - first:
+      213: -6454030195152997909
+    second: Tympole Front Sprite Sheet_74
+  - first:
+      213: 5076321581896456264
+    second: Tympole Front Sprite Sheet_75
+  - first:
+      213: -5009797852607842620
+    second: Tympole Front Sprite Sheet_76
+  - first:
+      213: -1779586850044845964
+    second: Tympole Front Sprite Sheet_77
+  - first:
+      213: 3508248307410384184
+    second: Tympole Front Sprite Sheet_78
+  - first:
+      213: 4756354258195241112
+    second: Tympole Front Sprite Sheet_79
+  - first:
+      213: 910094773094091970
+    second: Tympole Front Sprite Sheet_80
+  - first:
+      213: 7162646863837417899
+    second: Tympole Front Sprite Sheet_81
+  - first:
+      213: -5717333627632109801
+    second: Tympole Front Sprite Sheet_82
+  - first:
+      213: 1199688135361982416
+    second: Tympole Front Sprite Sheet_83
+  - first:
+      213: -3432608760108996383
+    second: Tympole Front Sprite Sheet_84
+  - first:
+      213: 2099124679516409345
+    second: Tympole Front Sprite Sheet_85
+  - first:
+      213: 68816331193630735
+    second: Tympole Front Sprite Sheet_86
+  - first:
+      213: -876008987609396638
+    second: Tympole Front Sprite Sheet_87
+  - first:
+      213: 4074333423566474762
+    second: Tympole Front Sprite Sheet_88
+  - first:
+      213: -6457367821707405640
+    second: Tympole Front Sprite Sheet_89
+  - first:
+      213: -9105760504793930998
+    second: Tympole Front Sprite Sheet_90
+  - first:
+      213: -7749215376441112070
+    second: Tympole Front Sprite Sheet_91
+  - first:
+      213: -5615418804114886091
+    second: Tympole Front Sprite Sheet_92
+  - first:
+      213: -3171054636913341031
+    second: Tympole Front Sprite Sheet_93
+  - first:
+      213: 3636247171975137907
+    second: Tympole Front Sprite Sheet_94
+  - first:
+      213: -2579174953628459215
+    second: Tympole Front Sprite Sheet_95
+  - first:
+      213: 8658525580901207640
+    second: Tympole Front Sprite Sheet_96
+  - first:
+      213: 8358660507357717367
+    second: Tympole Front Sprite Sheet_97
+  - first:
+      213: 4091195489327710248
+    second: Tympole Front Sprite Sheet_98
+  - first:
+      213: 1013904415695936696
+    second: Tympole Front Sprite Sheet_99
+  - first:
+      213: -1919551213351260743
+    second: Tympole Front Sprite Sheet_100
+  - first:
+      213: -9035689316053028909
+    second: Tympole Front Sprite Sheet_101
+  - first:
+      213: -3966306678247377911
+    second: Tympole Front Sprite Sheet_102
+  - first:
+      213: -7604748952802239307
+    second: Tympole Front Sprite Sheet_103
+  - first:
+      213: -1984350552901108066
+    second: Tympole Front Sprite Sheet_104
+  - first:
+      213: -5904884402149451811
+    second: Tympole Front Sprite Sheet_105
+  - first:
+      213: 4001691842423322037
+    second: Tympole Front Sprite Sheet_106
+  - first:
+      213: 7740786291183625025
+    second: Tympole Front Sprite Sheet_107
+  - first:
+      213: 9209763901040489489
+    second: Tympole Front Sprite Sheet_108
+  - first:
+      213: -8792784619695508408
+    second: Tympole Front Sprite Sheet_109
+  - first:
+      213: -3641995881534153180
+    second: Tympole Front Sprite Sheet_110
+  - first:
+      213: -4394326020763105805
+    second: Tympole Front Sprite Sheet_111
+  - first:
+      213: 5335818753005840074
+    second: Tympole Front Sprite Sheet_112
+  - first:
+      213: -355184665715839741
+    second: Tympole Front Sprite Sheet_113
+  - first:
+      213: 3916955688764240486
+    second: Tympole Front Sprite Sheet_114
+  - first:
+      213: -5006528231784912141
+    second: Tympole Front Sprite Sheet_115
+  - first:
+      213: -6489249442309069863
+    second: Tympole Front Sprite Sheet_116
+  - first:
+      213: 4091384207127497635
+    second: Tympole Front Sprite Sheet_117
+  - first:
+      213: 2425613338254629838
+    second: Tympole Front Sprite Sheet_118
+  - first:
+      213: -7104646564909329854
+    second: Tympole Front Sprite Sheet_119
+  - first:
+      213: -4058673703149399610
+    second: Tympole Front Sprite Sheet_120
+  - first:
+      213: 3712416793780518191
+    second: Tympole Front Sprite Sheet_121
+  - first:
+      213: 6475393962740558206
+    second: Tympole Front Sprite Sheet_122
+  - first:
+      213: -5433744562507683011
+    second: Tympole Front Sprite Sheet_123
+  - first:
+      213: 2976666009517220456
+    second: Tympole Front Sprite Sheet_124
+  - first:
+      213: -5926596930725138168
+    second: Tympole Front Sprite Sheet_125
+  - first:
+      213: -4240449140624075394
+    second: Tympole Front Sprite Sheet_126
+  - first:
+      213: 8409310915918775698
+    second: Tympole Front Sprite Sheet_127
+  - first:
+      213: -2815417972567227454
+    second: Tympole Front Sprite Sheet_128
+  - first:
+      213: 2077373897392932192
+    second: Tympole Front Sprite Sheet_129
+  - first:
+      213: 2390265128946424578
+    second: Tympole Front Sprite Sheet_130
+  - first:
+      213: -9141502600885041251
+    second: Tympole Front Sprite Sheet_131
+  - first:
+      213: 7181141694149003258
+    second: Tympole Front Sprite Sheet_132
+  - first:
+      213: 6166928588248983635
+    second: Tympole Front Sprite Sheet_133
+  - first:
+      213: 1776691951975350929
+    second: Tympole Front Sprite Sheet_134
+  - first:
+      213: -7766214429970888968
+    second: Tympole Front Sprite Sheet_135
+  - first:
+      213: 1810424992033975805
+    second: Tympole Front Sprite Sheet_136
+  - first:
+      213: 4187938813868221987
+    second: Tympole Front Sprite Sheet_137
+  - first:
+      213: -7578117503946470215
+    second: Tympole Front Sprite Sheet_138
+  - first:
+      213: 5006680788489644804
+    second: Tympole Front Sprite Sheet_139
+  - first:
+      213: 2695152528325912889
+    second: Tympole Front Sprite Sheet_140
+  - first:
+      213: 8924571044938019242
+    second: Tympole Front Sprite Sheet_141
+  - first:
+      213: -1506117474259532289
+    second: Tympole Front Sprite Sheet_142
+  - first:
+      213: -3039097152869517739
+    second: Tympole Front Sprite Sheet_143
+  - first:
+      213: -7676443651892655139
+    second: Tympole Front Sprite Sheet_144
+  - first:
+      213: 4624498806916176710
+    second: Tympole Front Sprite Sheet_145
+  - first:
+      213: -3221274627584111031
+    second: Tympole Front Sprite Sheet_146
+  - first:
+      213: 6886337021925310900
+    second: Tympole Front Sprite Sheet_147
+  - first:
+      213: 2035284696782148835
+    second: Tympole Front Sprite Sheet_148
+  - first:
+      213: 1491757333213765616
+    second: Tympole Front Sprite Sheet_149
+  - first:
+      213: -1318198369397935322
+    second: Tympole Front Sprite Sheet_150
+  - first:
+      213: -668061425893727732
+    second: Tympole Front Sprite Sheet_151
+  - first:
+      213: 8615182951676081046
+    second: Tympole Front Sprite Sheet_152
+  - first:
+      213: 8242567406978688857
+    second: Tympole Front Sprite Sheet_153
+  - first:
+      213: -1395141426120906679
+    second: Tympole Front Sprite Sheet_154
+  - first:
+      213: -2985262489671073426
+    second: Tympole Front Sprite Sheet_155
+  - first:
+      213: -3924664161591144253
+    second: Tympole Front Sprite Sheet_156
+  - first:
+      213: 7308151596700195314
+    second: Tympole Front Sprite Sheet_157
+  - first:
+      213: 3331880242978881181
+    second: Tympole Front Sprite Sheet_158
+  - first:
+      213: 6749079148146830088
+    second: Tympole Front Sprite Sheet_159
+  - first:
+      213: 4929413380400391056
+    second: Tympole Front Sprite Sheet_160
+  - first:
+      213: -3099346453572286579
+    second: Tympole Front Sprite Sheet_161
+  - first:
+      213: 794743851778856974
+    second: Tympole Front Sprite Sheet_162
+  - first:
+      213: -1767445173423819408
+    second: Tympole Front Sprite Sheet_163
+  - first:
+      213: 364078731727596625
+    second: Tympole Front Sprite Sheet_164
+  - first:
+      213: 7964484612711737802
+    second: Tympole Front Sprite Sheet_165
+  - first:
+      213: 2207735281296524056
+    second: Tympole Front Sprite Sheet_166
+  - first:
+      213: 4452497487335772730
+    second: Tympole Front Sprite Sheet_167
+  - first:
+      213: 593365342967224254
+    second: Tympole Front Sprite Sheet_168
+  - first:
+      213: 7342315719381299912
+    second: Tympole Front Sprite Sheet_169
+  - first:
+      213: -342540295461238569
+    second: Tympole Front Sprite Sheet_170
+  - first:
+      213: -3641721288599522791
+    second: Tympole Front Sprite Sheet_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13980f78fbe33459819147931a10db
+      internalID: 1630969075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01228abf5c6ccd1479dbb4aca994edba
+      internalID: -2016475180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f53d89ddbbb1842a1435ad7bd92081
+      internalID: -1338798329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77bc66cef006e4cb47611a9508bb6c
+      internalID: 443989823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9319d583e160c34bbb11f3a850cad51
+      internalID: 472832394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322616593f2cd5643a28676668469f58
+      internalID: 1943518429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae5f204db7a23745bc51113bdb64441
+      internalID: 1872323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48d4aa08e80f541a4b80358196ee15
+      internalID: -2035286078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72350280c98070641b52bf9f35a35d43
+      internalID: 1336699985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914bca38303123428f9af8c60a31399
+      internalID: 2033093879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd22d8bc4dee9409a137ba5cef4cd0
+      internalID: 1674927010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4f1fcb7886f64892be6dcb05e0055
+      internalID: -1551431991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b930a9cd443494b80bc4dcd8858a2a
+      internalID: -1900491339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cacdad682617a44b4cd7ed9e213165
+      internalID: 152433935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff6f76ead3bb534c89e11da6f3327a4
+      internalID: 1732106457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a282c5147a16f2545b77bd7f20807406
+      internalID: -1136119962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633a79a42fe18a47b07db4932ae2e99
+      internalID: 324039876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dac233b27f831418b7c8176d68372a
+      internalID: -1775917036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb7d1a8b61c684aa8cdf0a0d0d32bd
+      internalID: 451355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeba9ecd47e22f43be7027673b779f2
+      internalID: 66018342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db34b8bf147cf4aabdd47e9fea9ebd
+      internalID: 1553805705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def119080dee0f4291f6065fdf9e8f8
+      internalID: -536453902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ff1390a81eec42b12574dbea3b057
+      internalID: -1979572687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565c2ba561c63a4093cdd55909777c4
+      internalID: 641048167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0331600cfb750bb4286b848a0ca44490
+      internalID: -1322788915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa0908caaa39742bed18e5515f3b86
+      internalID: 63518547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e933aa6c0add449806622afeab41c
+      internalID: 1683625756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f2b21fcdbc9f4fa32237f1f1fa33f
+      internalID: -967421719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c9f5a817334d48968cab8319ab530
+      internalID: 1297849963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09954bdd8287f1340acf94f554a12be7
+      internalID: 1925756189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa8e8b89aa04b4187cf64067f79f58
+      internalID: -2073619138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07194f22e9d28094e898b5e276e12e2b
+      internalID: -1973091425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1e8f45f7f75f45ba40b0674a65002
+      internalID: -1466286466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fb931c90d7684498b396b929ecb1b
+      internalID: 1839323507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ce026abd6c1a4ebbdd7e64d546baa
+      internalID: 1267682668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27361009e7610b04ba8f169b5b2e793d
+      internalID: -1176663178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b79b8a8a798446b94e5f3645bf92c
+      internalID: 809350862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861d79c907ad0d74c85cf69ab13d20ea
+      internalID: -1178716577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64a0ae32bc709408e076892e0ff831
+      internalID: -1922725013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f7ddbc71c1824595e48fd76873324
+      internalID: -2057657129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109b338095a5844aac269f73840ac5c
+      internalID: 1911955038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_41
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 484
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee50dd83ffe3c147b7759d9173fbe89
+      internalID: -1722405918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d82bb6ce679e9458c628a0ca0ccd39
+      internalID: -1322071516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817bcb811e9c9a49a3cc340ec1273e5
+      internalID: -1749179350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_44
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11597ccbe805e74eaee832b080f18f5
+      internalID: 590858228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a7cc6902b3974eb426ad47cfdcc78
+      internalID: -1580921938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ddd8a3e0d6cbb48adb022befbfb855
+      internalID: 1323362722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca3d25c54b7b8a4fbd11ed5c024755f
+      internalID: -590040782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7cf2027c98ad14eb668efe7954e262
+      internalID: -1790450347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31126f90ff07b854dbb39d08550ac593
+      internalID: 1891653252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf9cada719f2a442badad7329e45c90
+      internalID: -789426422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24602f4815f4dc4d9b0f472d27ef50f
+      internalID: -1943367410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdb7915349b1b4abe28700f41aa671
+      internalID: 894804094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2a5dee76ce254384dfc1703248054
+      internalID: 1655533379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291bad253cb44a45b86147292edd97f
+      internalID: 613717373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 440
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066e45da420c8646a5356d9fecdbdda
+      internalID: 987843715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78244c3229f587f45afa45b8fa37f317
+      internalID: 933252991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9bcf5b53d72c04c8756248a79924fa
+      internalID: 1418852918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6204e97c44e3b4da0be57b40ed619d
+      internalID: 1555621915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61fbe7e8a407ee4db0ad09a514bc120
+      internalID: 1560919882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816b044fadd4bf4ca1535a02d84ebce
+      internalID: -1229061389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b749f7f52eb940448300c5d9bd1c404
+      internalID: -965944883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89943cd83941f7640b1e691b6fcc1775
+      internalID: 912443365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92193b5c29b09cd4b9af2d12e93ff6d9
+      internalID: -282389026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cea3288a0fd1842affa1fcc5a82a9f
+      internalID: -1003049840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc12023b074db4ab6ca2ba0a75fc54
+      internalID: -1014575261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023253cffc26b84db01967fccee0390
+      internalID: 1309175870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38683b2350a8c09489092b24ca94281b
+      internalID: -1115424234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6157da983d41b2d40ab87f261c66d50e
+      internalID: 700223220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_69
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e833530d303a48ae9bc26f159dee0
+      internalID: -1185216998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4910715adf4c87c4db41b8df92f12dbe
+      internalID: -115494639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8aba770a12bba46ae3232aefa39aab
+      internalID: 1184652654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d9d12a12739f94ba59d8ae5d54ce33
+      internalID: -1972098929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_73
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c2224472b78b4ea50ae714df27d96
+      internalID: 762879290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771376659a2a164cab334224d9430e8
+      internalID: 1749878776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ae3266c8fbce498b255da50042d7b
+      internalID: -1826500332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea83ab327a81646b11ad5cda154c7f
+      internalID: -1072671680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_77
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927f596c1223bd4482c4d9f71baa17b
+      internalID: 430194031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06cc6816dcb77b45bf1223b18eb916d
+      internalID: -266283121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaffc1b3c10da574ab84a4d390863e7d
+      internalID: 499082641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f543bfd18ad39848a1d66a4107f0bc0
+      internalID: -161427115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_81
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754696d9c70cd0c41a17f73c8061eb9e
+      internalID: 1826154762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969dc61abecaad8418d1b2d0a56e6cee
+      internalID: 961260193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_83
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 352
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee8a3363a8b204e879c1a47fcd00b9
+      internalID: -1349877901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d143554286aba4ea978c4c98aef45b
+      internalID: -1403756221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b7bf71dc67034b8915244cf077268
+      internalID: -1537305100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e1b1e107719a4cbbc3bcd675196df
+      internalID: 1033338443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1e44a6b2a59a49b8e2e15ef094966
+      internalID: 369323393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7a88c4b88be541a527efc06ddb28f
+      internalID: 368351948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4145c8d8044d4b900c759e6227172
+      internalID: -1578689256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cb5b2a4a9c2de4bb339e8756e4fa2d
+      internalID: 1407938359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ceaf80677f9d046986388d387037d2
+      internalID: 914636900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511612bccc90cf4cbc87deec078b9fb
+      internalID: 544892222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a741ef9bdc0f1418c598aeab4b3deb
+      internalID: -603596900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940e8d3663f028648a8251b168f7b362
+      internalID: -599560507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_95
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65923cf067c17c41a5bb916ff553397
+      internalID: 1021524246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_96
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33057bad660eb5428f11d3933098a67
+      internalID: 1114260880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_97
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 308
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f411be91148e04db3916061937bb50
+      internalID: 1852580559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb23fb9682a0d94690ce7c1979b6311
+      internalID: 1537757761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97963b018807d5849a63bf227c205374
+      internalID: 106465575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_100
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d795e311c9f84bb919ebeeb77d90c
+      internalID: 1793414426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea6ec36a06cf648ae050fb49b7bfd3
+      internalID: 1217165096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c0a5b92542bef4eaf418cdc0b3e85a
+      internalID: -1513875045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f94abea7efab42ab993568cf0c35d
+      internalID: -1289774181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_104
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbe078f5e2fb64fbd57fbf4501eb29
+      internalID: 1308818188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa2716340ab9249b9720c5b51477d5
+      internalID: -1581381527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_106
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f5c57b783d056439d3696ce2d09c6e
+      internalID: 1544769969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_107
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce02f0a13444524b9840ca3270e76f1
+      internalID: 1215693846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_108
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00044e489aa9e6847b29f30251a25c04
+      internalID: -1642801361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_109
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691dcdb6be355064da5546416d34270b
+      internalID: 693215482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b824f220e590e41459d881ef42ea99aa
+      internalID: -1493433908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_111
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 264
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f9570ed0df464ea8d913aac999dcf
+      internalID: 711451808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d07cbe4b955441b41ef37fa40932c
+      internalID: 1592362399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_113
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce2bb5d56830a448de4c4451a33c81
+      internalID: -53158553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_114
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64314d7861c7242b2d72ffae71fbc1
+      internalID: 1677992837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ec597df6841a4d9d85a7d84a75aef
+      internalID: -59547331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_116
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6dbbef232ff9449013f6727aeaf6a
+      internalID: 829822977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_117
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c8e72ca44f6548a860d8ead885045
+      internalID: 999580473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_118
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5184464460a759d46a3d46e8c4de3124
+      internalID: 512276709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_119
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3570eab9a4614a8da8f7aa587772f
+      internalID: -2054275385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea8cdc6d7c48b4cbde78af46492935
+      internalID: 422420469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_121
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c94ee807b15340901dc9634d5d704
+      internalID: 687670228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_122
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34901203454d6ae45b7fbefccfa1e672
+      internalID: 711240774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_123
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d4b0c48943a64590dae3d1ba8904d
+      internalID: -777909800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98435a55a9895e4ab0310a77ebd7714
+      internalID: -748568284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_125
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 220
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda9298a7e777c4a9203a901863b7be
+      internalID: 284889593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c4f364becdad47a255667f5bd4321
+      internalID: -143941657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_127
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466ebfa0a9d1c54486b38ae57ed666a
+      internalID: 1734878175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_128
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e845a4389a230c43846fdeb4642de2a
+      internalID: -311121648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_129
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a98d1682ef84c4fadde5716adc1e58
+      internalID: 1695308497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a310b1fc1f183e409bbe76b0cf2b630
+      internalID: 632998517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d498c226042e479a6be579f4fe292
+      internalID: -461402469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_132
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3cf45697aca7648803fe2f5b1b2d58
+      internalID: -509347841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f45c1d06142440a3c5cbf2a577ddd
+      internalID: 1209362346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d621905370c26c4db4ca684f1a9d059
+      internalID: -828463190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_135
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa890180b0695b648a806a16dac569e2
+      internalID: 1546667469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_136
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843e838cadcbcd47a13f76c64b8d353
+      internalID: 1249610344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_137
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b2ad5a3a0c19488f36d18700b4535
+      internalID: -1895581533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7b22767db1a3428caea13a1201680
+      internalID: 513173656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_139
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60e9c4dab683242994bc6942ae9684
+      internalID: 427821728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf79ed38d24a141a8be12a4db2c1e8
+      internalID: -1019969899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55617831c9d15b34d8456e322854c1cb
+      internalID: 355862806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61232f1083b26649b518aebfbbdcbeb
+      internalID: 855843534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_143
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1184414c0bb541bba93e6e6b4af03
+      internalID: 574979658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_144
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b176355a938dc040902edacf5a0a9c5
+      internalID: 2105172757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_145
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e12d47e48a764b911552fc6d62ec3
+      internalID: 516678326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_146
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1126e038b33aa4fbd3d4806e9341d6
+      internalID: 242194590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_147
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aadb621f9a13e43af2a5546bc3fa8a
+      internalID: -418826289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_148
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d2fdfd005d354bb64587a2edf4ee4
+      internalID: -1501335009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_149
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c89829e4edb742a29136195bfce39
+      internalID: -643412230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_150
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b291cd5d2d8bb448458fffe596ec80
+      internalID: -1611011015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_151
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b35023ac4bcc4d918d86891f00521
+      internalID: 1794840260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_152
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418270472c7bc8e4998a17d7694ffeb6
+      internalID: 1881959869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_153
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 132
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73dda32c657c247a0faa021d0fc668
+      internalID: -1092030988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292230776042c60448448c1a1805063c
+      internalID: -1782304999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_155
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27655cb4b102fb4a80171d7122e6b82
+      internalID: -1458026768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_156
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed26a9a51e6f4d4bab667097ed794a6
+      internalID: -236017393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b0510f0a0b974bad33a7d7b719bff
+      internalID: 520691456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_158
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb539122dc434d043a24e2c542c62c9e
+      internalID: -484535118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_159
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ea3c92ebbcbb428bc0621620e6544
+      internalID: 2116504805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_160
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfc332a657a2747802eb8217d9cc9d
+      internalID: 28418086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_161
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d8dcf4e2c9de44a581eafc4f81be0
+      internalID: 529503476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_162
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7475f44545544abe11ccdb3b96fef
+      internalID: -1619211054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_163
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff643cdb3f63dc4479363f130b6116ee
+      internalID: -446532837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_164
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261741f63978524daedc49a6e361326
+      internalID: -1805195928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_165
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59645f9c8a9c8c44a942fa9151eb274e
+      internalID: 1956070630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_166
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2901249e558b67245a3430300ec9eed4
+      internalID: 1723981566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_167
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 88
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa87fbc6bef8ea46ad4b2152db8886c
+      internalID: -243009516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d733546fcddc3d4b90f4867e618c1ff
+      internalID: 60177259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_169
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ef77b69393524f9e7d1e2c5872eae
+      internalID: -774574917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_170
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580bcd2e489812a40bf551ae69d8c8a6
+      internalID: -1842536597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_171
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29f3fde72d55947aba43e8ee59bfc0
+      internalID: -1696882612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_172
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d3173022071741bd7b0aaea61f8c8
+      internalID: -1467840727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_173
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa957c86432e6f341b637917ab3cd541
+      internalID: -657533400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_174
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3decafd317b2244fb375a98141b8d83
+      internalID: -692194197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_175
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e17380620d1654daed59a26d814925
+      internalID: 1056437068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_176
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279395208ee7049478b80ad5e9c7be8d
+      internalID: 600545799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_177
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0543bd1f397184da52e95d5df9a102
+      internalID: 27017335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_178
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9e3f74d3c87343b58a6eec5fe4b7f
+      internalID: 1791777552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58493bbb06a88584e886ab953bb1839a
+      internalID: -1731004300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_180
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65598b9d62ee64458f9bd601d30331f
+      internalID: 480919308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_181
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 44
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea53c2e7191ce04db69cb886f850390
+      internalID: -1780887215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adddf789cfdb7408ba0d69614ee6c6
+      internalID: -1620527840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tympole Front Sprite Sheet Anim_183
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0812d9b3340b8148a0e1eda27d87d63
+      internalID: -873726681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f787146afaf12a4d94492d65dd21329
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tympole Front Sprite Sheet_0: 1630969075
+      Tympole Front Sprite Sheet_1: -2016475180
+      Tympole Front Sprite Sheet_10: 1674927010
+      Tympole Front Sprite Sheet_100: 1793414426
+      Tympole Front Sprite Sheet_101: 1217165096
+      Tympole Front Sprite Sheet_102: -1513875045
+      Tympole Front Sprite Sheet_103: -1289774181
+      Tympole Front Sprite Sheet_104: 1308818188
+      Tympole Front Sprite Sheet_105: -1581381527
+      Tympole Front Sprite Sheet_106: 1544769969
+      Tympole Front Sprite Sheet_107: 1215693846
+      Tympole Front Sprite Sheet_108: -1642801361
+      Tympole Front Sprite Sheet_109: 693215482
+      Tympole Front Sprite Sheet_11: -1551431991
+      Tympole Front Sprite Sheet_110: -1493433908
+      Tympole Front Sprite Sheet_111: 711451808
+      Tympole Front Sprite Sheet_112: 1592362399
+      Tympole Front Sprite Sheet_113: -53158553
+      Tympole Front Sprite Sheet_114: 1677992837
+      Tympole Front Sprite Sheet_115: -59547331
+      Tympole Front Sprite Sheet_116: 829822977
+      Tympole Front Sprite Sheet_117: 999580473
+      Tympole Front Sprite Sheet_118: 512276709
+      Tympole Front Sprite Sheet_119: -2054275385
+      Tympole Front Sprite Sheet_12: -1900491339
+      Tympole Front Sprite Sheet_120: 422420469
+      Tympole Front Sprite Sheet_121: 687670228
+      Tympole Front Sprite Sheet_122: 711240774
+      Tympole Front Sprite Sheet_123: -777909800
+      Tympole Front Sprite Sheet_124: -748568284
+      Tympole Front Sprite Sheet_125: 284889593
+      Tympole Front Sprite Sheet_126: -143941657
+      Tympole Front Sprite Sheet_127: 1734878175
+      Tympole Front Sprite Sheet_128: -311121648
+      Tympole Front Sprite Sheet_129: 1695308497
+      Tympole Front Sprite Sheet_13: 152433935
+      Tympole Front Sprite Sheet_130: 632998517
+      Tympole Front Sprite Sheet_131: -461402469
+      Tympole Front Sprite Sheet_132: -509347841
+      Tympole Front Sprite Sheet_133: 1209362346
+      Tympole Front Sprite Sheet_134: -828463190
+      Tympole Front Sprite Sheet_135: 1546667469
+      Tympole Front Sprite Sheet_136: 1249610344
+      Tympole Front Sprite Sheet_137: -1895581533
+      Tympole Front Sprite Sheet_138: 513173656
+      Tympole Front Sprite Sheet_139: 427821728
+      Tympole Front Sprite Sheet_14: 1732106457
+      Tympole Front Sprite Sheet_140: -1019969899
+      Tympole Front Sprite Sheet_141: 355862806
+      Tympole Front Sprite Sheet_142: 855843534
+      Tympole Front Sprite Sheet_143: 574979658
+      Tympole Front Sprite Sheet_144: 2105172757
+      Tympole Front Sprite Sheet_145: 516678326
+      Tympole Front Sprite Sheet_146: 242194590
+      Tympole Front Sprite Sheet_147: -418826289
+      Tympole Front Sprite Sheet_148: -1501335009
+      Tympole Front Sprite Sheet_149: -643412230
+      Tympole Front Sprite Sheet_15: -1136119962
+      Tympole Front Sprite Sheet_150: -1611011015
+      Tympole Front Sprite Sheet_151: 1794840260
+      Tympole Front Sprite Sheet_152: 1881959869
+      Tympole Front Sprite Sheet_153: -1092030988
+      Tympole Front Sprite Sheet_154: -1782304999
+      Tympole Front Sprite Sheet_155: -1458026768
+      Tympole Front Sprite Sheet_156: -236017393
+      Tympole Front Sprite Sheet_157: 520691456
+      Tympole Front Sprite Sheet_158: -484535118
+      Tympole Front Sprite Sheet_159: 2116504805
+      Tympole Front Sprite Sheet_16: 324039876
+      Tympole Front Sprite Sheet_160: 28418086
+      Tympole Front Sprite Sheet_161: 529503476
+      Tympole Front Sprite Sheet_162: -1619211054
+      Tympole Front Sprite Sheet_163: -446532837
+      Tympole Front Sprite Sheet_164: -1805195928
+      Tympole Front Sprite Sheet_165: 1956070630
+      Tympole Front Sprite Sheet_166: 1723981566
+      Tympole Front Sprite Sheet_167: -243009516
+      Tympole Front Sprite Sheet_168: 60177259
+      Tympole Front Sprite Sheet_169: -774574917
+      Tympole Front Sprite Sheet_17: -1775917036
+      Tympole Front Sprite Sheet_170: -1842536597
+      Tympole Front Sprite Sheet_171: -1696882612
+      Tympole Front Sprite Sheet_172: -1467840727
+      Tympole Front Sprite Sheet_173: -657533400
+      Tympole Front Sprite Sheet_174: -692194197
+      Tympole Front Sprite Sheet_175: 1056437068
+      Tympole Front Sprite Sheet_176: 600545799
+      Tympole Front Sprite Sheet_177: 27017335
+      Tympole Front Sprite Sheet_178: 1791777552
+      Tympole Front Sprite Sheet_179: -1731004300
+      Tympole Front Sprite Sheet_18: 451355565
+      Tympole Front Sprite Sheet_180: 480919308
+      Tympole Front Sprite Sheet_181: -1780887215
+      Tympole Front Sprite Sheet_182: -1620527840
+      Tympole Front Sprite Sheet_183: -873726681
+      Tympole Front Sprite Sheet_19: 66018342
+      Tympole Front Sprite Sheet_2: -1338798329
+      Tympole Front Sprite Sheet_20: 1553805705
+      Tympole Front Sprite Sheet_21: -536453902
+      Tympole Front Sprite Sheet_22: -1979572687
+      Tympole Front Sprite Sheet_23: 641048167
+      Tympole Front Sprite Sheet_24: -1322788915
+      Tympole Front Sprite Sheet_25: 63518547
+      Tympole Front Sprite Sheet_26: 1683625756
+      Tympole Front Sprite Sheet_27: -967421719
+      Tympole Front Sprite Sheet_28: 1297849963
+      Tympole Front Sprite Sheet_29: 1925756189
+      Tympole Front Sprite Sheet_3: 443989823
+      Tympole Front Sprite Sheet_30: -2073619138
+      Tympole Front Sprite Sheet_31: -1973091425
+      Tympole Front Sprite Sheet_32: -1466286466
+      Tympole Front Sprite Sheet_33: 1839323507
+      Tympole Front Sprite Sheet_34: 1267682668
+      Tympole Front Sprite Sheet_35: -1176663178
+      Tympole Front Sprite Sheet_36: 809350862
+      Tympole Front Sprite Sheet_37: -1178716577
+      Tympole Front Sprite Sheet_38: -1922725013
+      Tympole Front Sprite Sheet_39: -2057657129
+      Tympole Front Sprite Sheet_4: 472832394
+      Tympole Front Sprite Sheet_40: 1911955038
+      Tympole Front Sprite Sheet_41: -1722405918
+      Tympole Front Sprite Sheet_42: -1322071516
+      Tympole Front Sprite Sheet_43: -1749179350
+      Tympole Front Sprite Sheet_44: 590858228
+      Tympole Front Sprite Sheet_45: -1580921938
+      Tympole Front Sprite Sheet_46: 1323362722
+      Tympole Front Sprite Sheet_47: -590040782
+      Tympole Front Sprite Sheet_48: -1790450347
+      Tympole Front Sprite Sheet_49: 1891653252
+      Tympole Front Sprite Sheet_5: 1943518429
+      Tympole Front Sprite Sheet_50: -789426422
+      Tympole Front Sprite Sheet_51: -1943367410
+      Tympole Front Sprite Sheet_52: 894804094
+      Tympole Front Sprite Sheet_53: 1655533379
+      Tympole Front Sprite Sheet_54: 613717373
+      Tympole Front Sprite Sheet_55: 987843715
+      Tympole Front Sprite Sheet_56: 933252991
+      Tympole Front Sprite Sheet_57: 1418852918
+      Tympole Front Sprite Sheet_58: 1555621915
+      Tympole Front Sprite Sheet_59: 1560919882
+      Tympole Front Sprite Sheet_6: 1872323782
+      Tympole Front Sprite Sheet_60: -1229061389
+      Tympole Front Sprite Sheet_61: -965944883
+      Tympole Front Sprite Sheet_62: 912443365
+      Tympole Front Sprite Sheet_63: -282389026
+      Tympole Front Sprite Sheet_64: -1003049840
+      Tympole Front Sprite Sheet_65: -1014575261
+      Tympole Front Sprite Sheet_66: 1309175870
+      Tympole Front Sprite Sheet_67: -1115424234
+      Tympole Front Sprite Sheet_68: 700223220
+      Tympole Front Sprite Sheet_69: -1185216998
+      Tympole Front Sprite Sheet_7: -2035286078
+      Tympole Front Sprite Sheet_70: -115494639
+      Tympole Front Sprite Sheet_71: 1184652654
+      Tympole Front Sprite Sheet_72: -1972098929
+      Tympole Front Sprite Sheet_73: 762879290
+      Tympole Front Sprite Sheet_74: 1749878776
+      Tympole Front Sprite Sheet_75: -1826500332
+      Tympole Front Sprite Sheet_76: -1072671680
+      Tympole Front Sprite Sheet_77: 430194031
+      Tympole Front Sprite Sheet_78: -266283121
+      Tympole Front Sprite Sheet_79: 499082641
+      Tympole Front Sprite Sheet_8: 1336699985
+      Tympole Front Sprite Sheet_80: -161427115
+      Tympole Front Sprite Sheet_81: 1826154762
+      Tympole Front Sprite Sheet_82: 961260193
+      Tympole Front Sprite Sheet_83: -1349877901
+      Tympole Front Sprite Sheet_84: -1403756221
+      Tympole Front Sprite Sheet_85: -1537305100
+      Tympole Front Sprite Sheet_86: 1033338443
+      Tympole Front Sprite Sheet_87: 369323393
+      Tympole Front Sprite Sheet_88: 368351948
+      Tympole Front Sprite Sheet_89: -1578689256
+      Tympole Front Sprite Sheet_9: 2033093879
+      Tympole Front Sprite Sheet_90: 1407938359
+      Tympole Front Sprite Sheet_91: 914636900
+      Tympole Front Sprite Sheet_92: 544892222
+      Tympole Front Sprite Sheet_93: -603596900
+      Tympole Front Sprite Sheet_94: -599560507
+      Tympole Front Sprite Sheet_95: 1021524246
+      Tympole Front Sprite Sheet_96: 1114260880
+      Tympole Front Sprite Sheet_97: 1852580559
+      Tympole Front Sprite Sheet_98: 1537757761
+      Tympole Front Sprite Sheet_99: 106465575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

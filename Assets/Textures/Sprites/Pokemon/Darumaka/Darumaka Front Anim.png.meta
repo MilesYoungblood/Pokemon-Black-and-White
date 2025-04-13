@@ -1,0 +1,4064 @@
+fileFormatVersion: 2
+guid: d18d0b1ddb2062547a8165df1c99392d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6517311649462624858
+    second: Darumaka Front_0
+  - first:
+      213: -785724090717972917
+    second: Darumaka Front_1
+  - first:
+      213: -2638476023403337233
+    second: Darumaka Front_2
+  - first:
+      213: 330687807448158855
+    second: Darumaka Front_3
+  - first:
+      213: 4720804378312606465
+    second: Darumaka Front_4
+  - first:
+      213: 4003335491134514094
+    second: Darumaka Front_5
+  - first:
+      213: -8806671284619582144
+    second: Darumaka Front_6
+  - first:
+      213: 4411588154086539387
+    second: Darumaka Front_7
+  - first:
+      213: -2798556775852455302
+    second: Darumaka Front_8
+  - first:
+      213: 6005801575746837774
+    second: Darumaka Front_9
+  - first:
+      213: 6613039449729346232
+    second: Darumaka Front_10
+  - first:
+      213: -8267305296109685234
+    second: Darumaka Front_11
+  - first:
+      213: -6749601817493613102
+    second: Darumaka Front_12
+  - first:
+      213: -4491538608269229965
+    second: Darumaka Front_13
+  - first:
+      213: 514563343686448665
+    second: Darumaka Front_14
+  - first:
+      213: -7506766019133428035
+    second: Darumaka Front_15
+  - first:
+      213: -7961027569145703760
+    second: Darumaka Front_16
+  - first:
+      213: 4896081985770619075
+    second: Darumaka Front_17
+  - first:
+      213: 3667516623800378153
+    second: Darumaka Front_18
+  - first:
+      213: -5930545581954974418
+    second: Darumaka Front_19
+  - first:
+      213: 7127539779106987804
+    second: Darumaka Front_20
+  - first:
+      213: 5424838838287420845
+    second: Darumaka Front_21
+  - first:
+      213: 1462559092670510128
+    second: Darumaka Front_22
+  - first:
+      213: -2770022400577517801
+    second: Darumaka Front_23
+  - first:
+      213: -6336628750664556937
+    second: Darumaka Front_24
+  - first:
+      213: 1049873113500942811
+    second: Darumaka Front_25
+  - first:
+      213: 2963061645047716216
+    second: Darumaka Front_26
+  - first:
+      213: 7889921934552143013
+    second: Darumaka Front_27
+  - first:
+      213: 8881532636249432217
+    second: Darumaka Front_28
+  - first:
+      213: -1248400919005034320
+    second: Darumaka Front_29
+  - first:
+      213: -28043132151911054
+    second: Darumaka Front_30
+  - first:
+      213: 6721769063560193045
+    second: Darumaka Front_31
+  - first:
+      213: -3613584454781340163
+    second: Darumaka Front_32
+  - first:
+      213: 6626957772368050849
+    second: Darumaka Front_33
+  - first:
+      213: 3317895918920660834
+    second: Darumaka Front_34
+  - first:
+      213: -7472060962543710905
+    second: Darumaka Front_35
+  - first:
+      213: 1372014865958021256
+    second: Darumaka Front_36
+  - first:
+      213: -6588401593016990538
+    second: Darumaka Front_37
+  - first:
+      213: -3127490250011766840
+    second: Darumaka Front_38
+  - first:
+      213: 4381819604806114619
+    second: Darumaka Front_39
+  - first:
+      213: 2689547380639206840
+    second: Darumaka Front_40
+  - first:
+      213: -9145301463876289148
+    second: Darumaka Front_41
+  - first:
+      213: 6485331014158437636
+    second: Darumaka Front_42
+  - first:
+      213: -6384234938546167638
+    second: Darumaka Front_43
+  - first:
+      213: -3731428098330041751
+    second: Darumaka Front_44
+  - first:
+      213: 5482481069925136181
+    second: Darumaka Front_45
+  - first:
+      213: 3292124962351387681
+    second: Darumaka Front_46
+  - first:
+      213: 5781172196624382140
+    second: Darumaka Front_47
+  - first:
+      213: 7627051412278158553
+    second: Darumaka Front_48
+  - first:
+      213: 1856679282610274231
+    second: Darumaka Front_49
+  - first:
+      213: 8633884195851015376
+    second: Darumaka Front_50
+  - first:
+      213: -629424279046054198
+    second: Darumaka Front_51
+  - first:
+      213: -585579939135177662
+    second: Darumaka Front_52
+  - first:
+      213: 6417979797063530277
+    second: Darumaka Front_53
+  - first:
+      213: 605886619053142072
+    second: Darumaka Front_54
+  - first:
+      213: 2644449236009267727
+    second: Darumaka Front_55
+  - first:
+      213: 3074927706085503211
+    second: Darumaka Front_56
+  - first:
+      213: 8578928229040468439
+    second: Darumaka Front_57
+  - first:
+      213: -7502869737856562713
+    second: Darumaka Front_58
+  - first:
+      213: 7387767805629423123
+    second: Darumaka Front_59
+  - first:
+      213: 3043730455615793062
+    second: Darumaka Front_60
+  - first:
+      213: -436202443828615916
+    second: Darumaka Front_61
+  - first:
+      213: -4078101365538124746
+    second: Darumaka Front_62
+  - first:
+      213: -3742862793508983269
+    second: Darumaka Front_63
+  - first:
+      213: -76458278027300972
+    second: Darumaka Front_64
+  - first:
+      213: 5845707307463437972
+    second: Darumaka Front_65
+  - first:
+      213: -4477303419401756115
+    second: Darumaka Front_66
+  - first:
+      213: -4224715243328471416
+    second: Darumaka Front_67
+  - first:
+      213: -1260011377759746702
+    second: Darumaka Front_68
+  - first:
+      213: 1878473938197124962
+    second: Darumaka Front_69
+  - first:
+      213: 3483174769807606536
+    second: Darumaka Front_70
+  - first:
+      213: -2220253950713698306
+    second: Darumaka Front_71
+  - first:
+      213: 3502890688426309075
+    second: Darumaka Front_72
+  - first:
+      213: 7292249204919287818
+    second: Darumaka Front_73
+  - first:
+      213: 7146143809526620771
+    second: Darumaka Front_74
+  - first:
+      213: 5613109146478990078
+    second: Darumaka Front_75
+  - first:
+      213: -2152813072245870704
+    second: Darumaka Front_76
+  - first:
+      213: 1110671291684160531
+    second: Darumaka Front_77
+  - first:
+      213: -4033545719860113432
+    second: Darumaka Front_78
+  - first:
+      213: -9023795052530623140
+    second: Darumaka Front_79
+  - first:
+      213: -1849788589998987046
+    second: Darumaka Front_80
+  - first:
+      213: 7233572211860017867
+    second: Darumaka Front_81
+  - first:
+      213: 5543799092351037904
+    second: Darumaka Front_82
+  - first:
+      213: 1901249458778045912
+    second: Darumaka Front_83
+  - first:
+      213: 5822046066307724235
+    second: Darumaka Front_84
+  - first:
+      213: -6358698435450197254
+    second: Darumaka Front_85
+  - first:
+      213: -7839531761833406308
+    second: Darumaka Front_86
+  - first:
+      213: -2669419449397727640
+    second: Darumaka Front_87
+  - first:
+      213: 4462570813649214666
+    second: Darumaka Front_88
+  - first:
+      213: -7365517972697023333
+    second: Darumaka Front_89
+  - first:
+      213: 7720199171027928032
+    second: Darumaka Front_90
+  - first:
+      213: 8961261673313027239
+    second: Darumaka Front_91
+  - first:
+      213: -3053661762120204475
+    second: Darumaka Front_92
+  - first:
+      213: -6778178754475272466
+    second: Darumaka Front_93
+  - first:
+      213: -6859732724949097790
+    second: Darumaka Front_94
+  - first:
+      213: 290207353426109899
+    second: Darumaka Front_95
+  - first:
+      213: 6885874130556228374
+    second: Darumaka Front_96
+  - first:
+      213: 6347924310701034185
+    second: Darumaka Front_97
+  - first:
+      213: -6444359658600637014
+    second: Darumaka Front_98
+  - first:
+      213: 9040143602828304312
+    second: Darumaka Front_99
+  - first:
+      213: 2124180463905144355
+    second: Darumaka Front_100
+  - first:
+      213: -8750973914643599511
+    second: Darumaka Front_101
+  - first:
+      213: -8687787396054416795
+    second: Darumaka Front_102
+  - first:
+      213: 1214381926274591193
+    second: Darumaka Front_103
+  - first:
+      213: -6962182153278784103
+    second: Darumaka Front_104
+  - first:
+      213: 2458434910495850859
+    second: Darumaka Front_105
+  - first:
+      213: 542978185820230341
+    second: Darumaka Front_106
+  - first:
+      213: -1982435587683103239
+    second: Darumaka Front_107
+  - first:
+      213: 5877362668872297051
+    second: Darumaka Front_108
+  - first:
+      213: 5853906870962446303
+    second: Darumaka Front_109
+  - first:
+      213: 8522642049699675635
+    second: Darumaka Front_110
+  - first:
+      213: 2543090643820172096
+    second: Darumaka Front_111
+  - first:
+      213: 5912928961768184432
+    second: Darumaka Front_112
+  - first:
+      213: -2543027647466582898
+    second: Darumaka Front_113
+  - first:
+      213: 2658426933045703498
+    second: Darumaka Front_114
+  - first:
+      213: -8990859576079054943
+    second: Darumaka Front_115
+  - first:
+      213: 4919536354238590056
+    second: Darumaka Front_116
+  - first:
+      213: 2533525652774761016
+    second: Darumaka Front_117
+  - first:
+      213: -2066825645150425792
+    second: Darumaka Front_118
+  - first:
+      213: 3120604207403015266
+    second: Darumaka Front_119
+  - first:
+      213: 3608293159482199680
+    second: Darumaka Front_120
+  - first:
+      213: 2111377836069695332
+    second: Darumaka Front_121
+  - first:
+      213: -7968341790630965239
+    second: Darumaka Front_122
+  - first:
+      213: -5036777292750547462
+    second: Darumaka Front_123
+  - first:
+      213: 7700865918154408445
+    second: Darumaka Front_124
+  - first:
+      213: -1445720754722263703
+    second: Darumaka Front_125
+  - first:
+      213: -5839589099955887996
+    second: Darumaka Front_126
+  - first:
+      213: -7390779215511611937
+    second: Darumaka Front_127
+  - first:
+      213: -5888023986836026656
+    second: Darumaka Front_128
+  - first:
+      213: -3536896481810316901
+    second: Darumaka Front_129
+  - first:
+      213: -6565906124025598803
+    second: Darumaka Front_130
+  - first:
+      213: 7140215437653533690
+    second: Darumaka Front_131
+  - first:
+      213: -2730799475031143895
+    second: Darumaka Front_132
+  - first:
+      213: -2383552321782737613
+    second: Darumaka Front_133
+  - first:
+      213: -2728930927784832530
+    second: Darumaka Front_134
+  - first:
+      213: 329337099960195322
+    second: Darumaka Front_135
+  - first:
+      213: -6024899337456219243
+    second: Darumaka Front_136
+  - first:
+      213: -6249029139299447663
+    second: Darumaka Front_137
+  - first:
+      213: 8546154652820807526
+    second: Darumaka Front_138
+  - first:
+      213: 8635750724069682917
+    second: Darumaka Front_139
+  - first:
+      213: -4193109521420149014
+    second: Darumaka Front_140
+  - first:
+      213: -3652272606699000692
+    second: Darumaka Front_141
+  - first:
+      213: 6202807384287424176
+    second: Darumaka Front_142
+  - first:
+      213: 6843300562215510638
+    second: Darumaka Front_143
+  - first:
+      213: 6168500037711729083
+    second: Darumaka Front_144
+  - first:
+      213: 6371740098294783236
+    second: Darumaka Front_145
+  - first:
+      213: -9019920139383479711
+    second: Darumaka Front_146
+  - first:
+      213: -8376330700099106383
+    second: Darumaka Front_147
+  - first:
+      213: 7756789216322162970
+    second: Darumaka Front_148
+  - first:
+      213: 4667201749669167303
+    second: Darumaka Front_149
+  - first:
+      213: -8044820095479671605
+    second: Darumaka Front_150
+  - first:
+      213: -7552129208825852977
+    second: Darumaka Front_151
+  - first:
+      213: 4467342242286166774
+    second: Darumaka Front_152
+  - first:
+      213: 3950870146867261967
+    second: Darumaka Front_153
+  - first:
+      213: 713456342977453860
+    second: Darumaka Front_154
+  - first:
+      213: -3202215696902439376
+    second: Darumaka Front_155
+  - first:
+      213: -6294282932374711828
+    second: Darumaka Front_156
+  - first:
+      213: 3597106536283743804
+    second: Darumaka Front_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darumaka Front Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19246bbdb484244db62f860a30798fc
+      internalID: -1684708465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760064a90ac70e479f5205b88dec8f3
+      internalID: 808809767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ed8c169fcc9f46b2df6bcaf4d7978
+      internalID: 336188228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a921eb17f1144a90710b48b8f849d
+      internalID: -662078898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70bf3d104440b646ad933745bc6547a
+      internalID: 1902455730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad80811c77ca04f9952606fd85bb90
+      internalID: 1906457213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00f433f87010741ae73f594d15ddf2
+      internalID: 806292509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c0eb88c5932f04d88a414aa69586f4
+      internalID: -1422754988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69628269254064e41a01689595655a7c
+      internalID: 740904960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb7597c4455a146bb4b6550e065911
+      internalID: 919910392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92700023c7d44443b2fa9ef853f27de
+      internalID: 410828447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7cea829d8370419960eb47cf007b8
+      internalID: 1106055853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 504
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce696799f6cea4cb7ae6137453316a
+      internalID: 115167149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70360bb93c19a4b8fd65641e530197
+      internalID: 994849481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ab2788de6b8a4c81142ee7acd8732
+      internalID: -1728275798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7e74d6e41c2546865cb82cc27de18
+      internalID: -258641994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b26a03d69f05647866e6a2e99cd8d9
+      internalID: -1711284416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c07ec9ebbbd042839c6546a673d5b
+      internalID: 1218975874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f86511931122489db53b0d9b710d0
+      internalID: -367681577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786dcab3f85b0243a656bfccadb5b53
+      internalID: 2050202057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa9e7c4d786d24888948f2660e22dd
+      internalID: -406857064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a371423de1636468bfe5b72b3831e1
+      internalID: -1121515660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5b35528a03fad479a180f3d4dad8c6
+      internalID: 166348004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c394383b9cd57641b2bf873efc32be4
+      internalID: 1532344871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4dbc500c3e5d438b9bf6189231500
+      internalID: 1629743182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 462
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39706b9947b208b48aa9b6652e00f11f
+      internalID: 275213089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53198ad56d61d1b41b3ffc6864b30692
+      internalID: 398562628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29ac0ac571e5b4490bcdb7c54d22f3
+      internalID: -1326353251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5cf247b0247dc4f930c3fffe92b99f
+      internalID: -1745254351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb43ca7d60f8247b5064ace5c966d6
+      internalID: -826700635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6d89efe8eed24db1268e8b1802357
+      internalID: -1657573919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c5fa06a908e045b71904d309b38de
+      internalID: -725437067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb270cc11acb714d992d74547a062e8
+      internalID: -1201953599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4ae0b89334cd4889f9ec260a8221d
+      internalID: 1337124085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e636b93d53eb84bb7a34c6fdb7563b
+      internalID: 809492303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9232d442afcc0534ea9238f7bb891041
+      internalID: 1314811154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a68ff2496aff4c9cc8714b421e674
+      internalID: -1324060651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c583457f65a5d4c962acede3e1aa62
+      internalID: 2093960509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 420
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf531a43c6b915c489a33e5e43937584
+      internalID: -1812665748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ef13cfaf975e42bd52c90d5df2102
+      internalID: 1707226928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faed08a535dd6c45b09587a899eb8d4
+      internalID: -51951532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89396a19aa1e4754dae6f5ef110367f2
+      internalID: 2015500810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf1bbcf81f9734fae6155d6d1eb7e4
+      internalID: 965087897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1bf40c1802fa489db07d2ebe53045
+      internalID: 1183727779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ed050436cfa74bbcabf3b74d8e3b9
+      internalID: 441837582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f1786c564a0e41900be971acc2581
+      internalID: -1574095708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0657930fd97f42b3feb8b1618bae2
+      internalID: 353742390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631747b5a30097e43b82c624ae6bfcb9
+      internalID: -404154319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b0c791776e7a48bdf30dd1d4f9f78
+      internalID: 456219478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89869e3cee8f8c84285f22c36aaa1c1f
+      internalID: -627660662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec355e1acc4e745a5cc06521d0f49e
+      internalID: 551137122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 378
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063316d1c4528d4ba6cfca6cd7bd6ff
+      internalID: 733594967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc682ecf0e20f14bbeb8ab04a17d877
+      internalID: -675973409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc616e617e250e449ac96bfa870660ff
+      internalID: -318257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d45cdbb716444a8fcf90ded4c98a2
+      internalID: 1301846078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb711f2024a4d748ae02548fe367d6e
+      internalID: 1760424804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba8d2f0f5db0647b7550a77d6f8baa
+      internalID: -1344037536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff547784b16ca494cb9c5acbe33c46be
+      internalID: 1710939994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65ff19828f83547af56b3617c86822
+      internalID: 1636913669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049265bfc0aa8ab489b6e09dd314e7e7
+      internalID: -94466999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc4027b59b043b43807313d47f36919
+      internalID: 386910041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102e00c08969414b85b89a568696adf
+      internalID: 779145734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7fb71d4cc224d44b65a0c0a69df1b0
+      internalID: 485572668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_63
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76ea66d4f33d51469e7d788701a5d7e
+      internalID: -1518326418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_64
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 336
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3accb66a623dd8746aeade7b0fc9e08b
+      internalID: 549317055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd4abf47266d944a2538c7a90cf95f
+      internalID: -1923782564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7f6cd28c82223448cd7448fc6f8631
+      internalID: 1919648003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0266ea8b9f1fa3946bf116a5b9eccc3a
+      internalID: -609499636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_68
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3fb66e3fd28044baadb452caec50b
+      internalID: -1472530178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2f84edeb670d41953900851c28d1a
+      internalID: -406401485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddbc2eeadcd6c4fb3ba65bff3ed2ea
+      internalID: -1738759154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419d3fddf403db47b1e5a2996f3e405
+      internalID: -1839372688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff1773ececeb644b4c7419f495b5f0
+      internalID: 905964823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e53daa474e1bc2439f20e4ff10d0643
+      internalID: 385175057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_74
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329d9c6c7d64804ab00c394ac881484
+      internalID: -651949777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd286a3e8686c24caeb53bc4235b565
+      internalID: 1169798619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_76
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e88dd6082ed9142b85c3b1067586e7
+      internalID: -1783008850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_77
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 294
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61b6719cd88fb4db560f698d02a505
+      internalID: 1046467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5165711075be044dbc7203657393097
+      internalID: 39631016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_79
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2846b2c2fb8aca4db0a49e39e052bc2
+      internalID: 2057015603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab551e631a69f34eb897fb36afc580c
+      internalID: 1729962783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_81
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd9396396bbfc4093e0f2383fabe66
+      internalID: -1857987478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259005a7378c9b049a51693c2780c79e
+      internalID: -1341736498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca575ebb877ada45a41b54b5bf639a2
+      internalID: -2025403157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873f474c9d5b22478308f320f824888
+      internalID: -1139932271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_85
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c8b68fc2564d40a0ca651846efc8b
+      internalID: 1284342736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_86
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eacc14f88bd6c41aaf7c5b767ee647
+      internalID: 515877528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e539a6333ab3e44aae292e5812560ba
+      internalID: -707184190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369863b2f2b060242b6611a18194edf4
+      internalID: -1397003798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_89
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9333c3251419d44c8b6d2eb6b7c2914
+      internalID: -464970004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_90
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 252
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f64ff8bfb6024f8c0454646b210b8
+      internalID: -1542300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6012c30def7544a81853418765420
+      internalID: -1082644100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_92
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a34434a44d2514c92d12e1fd4f35b3
+      internalID: -1829997264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a776ec6eaf2e64d9e0017c68e8066b
+      internalID: -846810356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_94
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0034a2f1a2ad44ab97fa3f94d0b497
+      internalID: -26914448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40044503ac63adf47bb52f129f35bd3f
+      internalID: -1676598172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2f96c70e7a8d49b5e8ddff9edf030
+      internalID: -165451227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e061146dc6134aad07e541c54cc07
+      internalID: -1713665806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_98
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cae9a78bbef2e47984e0cca1e500f6
+      internalID: -1153929943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_99
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7626105afaf94dbdbaae4ea402fc7
+      internalID: 340569111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_100
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb604099404043e43869fc250d8864a8
+      internalID: 949239605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_101
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2120d087df2af438ffcc886ce65990
+      internalID: 1065515039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_102
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96519ff96aa4477468537922c395f5ca
+      internalID: 2062116641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_103
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 210
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cbf90cf7b4dd4b897012411fcdae1
+      internalID: 1319876392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611413531eed91c4e8d5dcdfc3ca913f
+      internalID: 885683557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab06bd9bbe567b40931613369d2c531
+      internalID: -767375732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5edf51e9bf01a40bab36f95b3e1d91
+      internalID: 1345398887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_107
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fa8855af68cf449439d129dd29046
+      internalID: 879597660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_108
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86add957931414418c5f02ec185b912
+      internalID: 1800956074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_109
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84a5d3a0bc92049b09feb58c91aefa
+      internalID: -1975823123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_110
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa9f23866f1e44790cdf2ab223e5b4
+      internalID: -97591185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_111
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75f68d70afb06408da3e6ea5acf42a
+      internalID: -421128835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567768806224df4fb077ac74b7ef1d4
+      internalID: 2089403186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_113
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e173a890a044424b9db32a0759d575a
+      internalID: -1234515484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941bf213055d452429b6bff18e89d6d6
+      internalID: 429549567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_115
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b03a60beac39245afb81a54afcdb3c
+      internalID: 1248463830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1fa37d311cc5047bfae2cf10109044
+      internalID: -266459844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11055e5c3c708ad4b9a5d7f94fccdffa
+      internalID: 119098253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_118
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ecaa188d881e47996c5d5fd2ccb64
+      internalID: -1744255692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_119
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2742b9f61a56f48ab9d76dd6797dec
+      internalID: -2142363055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_120
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cee85b096ce4c4faf962cb85998bb3
+      internalID: -512583027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b719f044c19aa341bb4cd11cc8174e2
+      internalID: 530292061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c2790eb5366a4aac680fc34057b27
+      internalID: -2018841160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_123
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6866b6170c3446816f24d9d38a8b6
+      internalID: 901825000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_124
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665447d874ec8f54cb72c059bb0d7b7a
+      internalID: 529599086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_125
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07e16d7b84e864388830293973ca16
+      internalID: 1328898758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_126
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480984e7f2bae6c4497fb14794d4016e
+      internalID: -846963834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_127
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd229e2d50eb7b4b8e1f113cae2463a
+      internalID: 955773158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_128
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74599c58362bc8c47b234940d5623076
+      internalID: 363907646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_129
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 126
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f31870ee7f40f418c587c95284a91d
+      internalID: -1633482910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f63452210c3df4dafffb33ed3fd783
+      internalID: -1935766446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_131
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3fe9a825fb7594185cd26f1527fa62
+      internalID: 83535059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_132
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b764346513e66b48b4a0578a8afebf6
+      internalID: 1609042639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d32514b0a92b248bc1e2b937365d20
+      internalID: 974221521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531885c98b81744cb0e2402d37f9e28
+      internalID: -844501372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_135
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0553d3f5f1b3a046b4225974df48aad
+      internalID: 1168430157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_136
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2d8e0de425c1540a57c4b07b7d0055
+      internalID: 1932204477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_137
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733d700c06e17b458e8b415ebb994e2
+      internalID: -1017725960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_138
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9893bff6757487d44a934c4d99eb3f43
+      internalID: 1220823839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_139
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0dfa3b66e6e884fbd3533185744522
+      internalID: 1845280815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_140
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcbccc2e67b906418cb018e39e2ac6e
+      internalID: 422216569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_141
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39579b26f8c241c4baf538ca6b71bb8b
+      internalID: -1988450015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_142
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 84
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca7bad07c5ec04284096b1d85d4c63
+      internalID: -1034907966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaca8357cc62bb4fb5872538e0a82a9
+      internalID: -1992811081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_144
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ddd6e5b7757fe4c8b29f3e25e19fdb
+      internalID: 2077795404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853777f0f7700344c81a07ca1459242c
+      internalID: -1742219094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_146
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c284bb505df94ba7ae6c5077b32bf
+      internalID: 1263763541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_147
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54042d099a09b04386f79d6cab13b41
+      internalID: 1784297788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_148
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad61971f582116143a5427d5d9738b0e
+      internalID: -126531467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_149
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806fbf3fe99efc41999009cffd23ddc
+      internalID: -1985441768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_150
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f28433722d2d4438abf01b3d50a15f
+      internalID: -748076911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_151
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73da28b5d31986649a342ace0c85ea00
+      internalID: 1085120555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_152
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d12bb0587bb074fb1cfd6d0b71d225
+      internalID: -1697774718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_153
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63decffedfc811244ade7d0364105c96
+      internalID: 165755041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_154
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33167808aaa2b4e90788787ef5fa65
+      internalID: -1173104990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_155
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 42
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf732bbd132dc224f99565ccee582f0a
+      internalID: 1563342048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611c0fab03efe0449ff7a1c7b05afda
+      internalID: -1415097876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darumaka Front Anim_157
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e6385bf7a1ef48921c69d1e7c0085
+      internalID: -1280992108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1a88a62c8aabd54280eacfaed28e3c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Darumaka Front_0: -1684708465
+      Darumaka Front_1: 808809767
+      Darumaka Front_10: 410828447
+      Darumaka Front_100: 949239605
+      Darumaka Front_101: 1065515039
+      Darumaka Front_102: 2062116641
+      Darumaka Front_103: 1319876392
+      Darumaka Front_104: 885683557
+      Darumaka Front_105: -767375732
+      Darumaka Front_106: 1345398887
+      Darumaka Front_107: 879597660
+      Darumaka Front_108: 1800956074
+      Darumaka Front_109: -1975823123
+      Darumaka Front_11: 1106055853
+      Darumaka Front_110: -97591185
+      Darumaka Front_111: -421128835
+      Darumaka Front_112: 2089403186
+      Darumaka Front_113: -1234515484
+      Darumaka Front_114: 429549567
+      Darumaka Front_115: 1248463830
+      Darumaka Front_116: -266459844
+      Darumaka Front_117: 119098253
+      Darumaka Front_118: -1744255692
+      Darumaka Front_119: -2142363055
+      Darumaka Front_12: 115167149
+      Darumaka Front_120: -512583027
+      Darumaka Front_121: 530292061
+      Darumaka Front_122: -2018841160
+      Darumaka Front_123: 901825000
+      Darumaka Front_124: 529599086
+      Darumaka Front_125: 1328898758
+      Darumaka Front_126: -846963834
+      Darumaka Front_127: 955773158
+      Darumaka Front_128: 363907646
+      Darumaka Front_129: -1633482910
+      Darumaka Front_13: 994849481
+      Darumaka Front_130: -1935766446
+      Darumaka Front_131: 83535059
+      Darumaka Front_132: 1609042639
+      Darumaka Front_133: 974221521
+      Darumaka Front_134: -844501372
+      Darumaka Front_135: 1168430157
+      Darumaka Front_136: 1932204477
+      Darumaka Front_137: -1017725960
+      Darumaka Front_138: 1220823839
+      Darumaka Front_139: 1845280815
+      Darumaka Front_14: -1728275798
+      Darumaka Front_140: 422216569
+      Darumaka Front_141: -1988450015
+      Darumaka Front_142: -1034907966
+      Darumaka Front_143: -1992811081
+      Darumaka Front_144: 2077795404
+      Darumaka Front_145: -1742219094
+      Darumaka Front_146: 1263763541
+      Darumaka Front_147: 1784297788
+      Darumaka Front_148: -126531467
+      Darumaka Front_149: -1985441768
+      Darumaka Front_15: -258641994
+      Darumaka Front_150: -748076911
+      Darumaka Front_151: 1085120555
+      Darumaka Front_152: -1697774718
+      Darumaka Front_153: 165755041
+      Darumaka Front_154: -1173104990
+      Darumaka Front_155: 1563342048
+      Darumaka Front_156: -1415097876
+      Darumaka Front_157: -1280992108
+      Darumaka Front_16: -1711284416
+      Darumaka Front_17: 1218975874
+      Darumaka Front_18: -367681577
+      Darumaka Front_19: 2050202057
+      Darumaka Front_2: 336188228
+      Darumaka Front_20: -406857064
+      Darumaka Front_21: -1121515660
+      Darumaka Front_22: 166348004
+      Darumaka Front_23: 1532344871
+      Darumaka Front_24: 1629743182
+      Darumaka Front_25: 275213089
+      Darumaka Front_26: 398562628
+      Darumaka Front_27: -1326353251
+      Darumaka Front_28: -1745254351
+      Darumaka Front_29: -826700635
+      Darumaka Front_3: -662078898
+      Darumaka Front_30: -1657573919
+      Darumaka Front_31: -725437067
+      Darumaka Front_32: -1201953599
+      Darumaka Front_33: 1337124085
+      Darumaka Front_34: 809492303
+      Darumaka Front_35: 1314811154
+      Darumaka Front_36: -1324060651
+      Darumaka Front_37: 2093960509
+      Darumaka Front_38: -1812665748
+      Darumaka Front_39: 1707226928
+      Darumaka Front_4: 1902455730
+      Darumaka Front_40: -51951532
+      Darumaka Front_41: 2015500810
+      Darumaka Front_42: 965087897
+      Darumaka Front_43: 1183727779
+      Darumaka Front_44: 441837582
+      Darumaka Front_45: -1574095708
+      Darumaka Front_46: 353742390
+      Darumaka Front_47: -404154319
+      Darumaka Front_48: 456219478
+      Darumaka Front_49: -627660662
+      Darumaka Front_5: 1906457213
+      Darumaka Front_50: 551137122
+      Darumaka Front_51: 733594967
+      Darumaka Front_52: -675973409
+      Darumaka Front_53: -318257707
+      Darumaka Front_54: 1301846078
+      Darumaka Front_55: 1760424804
+      Darumaka Front_56: -1344037536
+      Darumaka Front_57: 1710939994
+      Darumaka Front_58: 1636913669
+      Darumaka Front_59: -94466999
+      Darumaka Front_6: 806292509
+      Darumaka Front_60: 386910041
+      Darumaka Front_61: 779145734
+      Darumaka Front_62: 485572668
+      Darumaka Front_63: -1518326418
+      Darumaka Front_64: 549317055
+      Darumaka Front_65: -1923782564
+      Darumaka Front_66: 1919648003
+      Darumaka Front_67: -609499636
+      Darumaka Front_68: -1472530178
+      Darumaka Front_69: -406401485
+      Darumaka Front_7: -1422754988
+      Darumaka Front_70: -1738759154
+      Darumaka Front_71: -1839372688
+      Darumaka Front_72: 905964823
+      Darumaka Front_73: 385175057
+      Darumaka Front_74: -651949777
+      Darumaka Front_75: 1169798619
+      Darumaka Front_76: -1783008850
+      Darumaka Front_77: 1046467226
+      Darumaka Front_78: 39631016
+      Darumaka Front_79: 2057015603
+      Darumaka Front_8: 740904960
+      Darumaka Front_80: 1729962783
+      Darumaka Front_81: -1857987478
+      Darumaka Front_82: -1341736498
+      Darumaka Front_83: -2025403157
+      Darumaka Front_84: -1139932271
+      Darumaka Front_85: 1284342736
+      Darumaka Front_86: 515877528
+      Darumaka Front_87: -707184190
+      Darumaka Front_88: -1397003798
+      Darumaka Front_89: -464970004
+      Darumaka Front_9: 919910392
+      Darumaka Front_90: -1542300754
+      Darumaka Front_91: -1082644100
+      Darumaka Front_92: -1829997264
+      Darumaka Front_93: -846810356
+      Darumaka Front_94: -26914448
+      Darumaka Front_95: -1676598172
+      Darumaka Front_96: -165451227
+      Darumaka Front_97: -1713665806
+      Darumaka Front_98: -1153929943
+      Darumaka Front_99: 340569111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
