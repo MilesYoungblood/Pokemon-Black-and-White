@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class LocationPortal : MonoBehaviour, ITriggerable
     {
         [SerializeField] private Vector2 spawnPoint;

@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class ScenePortal : MonoBehaviour, ITriggerable
     {
         [SerializeField] private string location;

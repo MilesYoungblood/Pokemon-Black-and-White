@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class DialogueBox : MonoBehaviour
     {
         private DialogueBoxInput _dialogueBoxInput;

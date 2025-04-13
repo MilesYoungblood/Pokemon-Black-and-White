@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class SceneLoader : MonoBehaviour
     {
         private bool _working;

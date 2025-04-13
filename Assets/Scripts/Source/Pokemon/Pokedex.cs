@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public sealed class Pokedex : MonoBehaviour, ISavable
     {
         [SerializeField] private Sprite[] typeIcons;

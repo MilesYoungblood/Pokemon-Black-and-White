@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class SummaryScreen : MonoBehaviour
     {
         [SerializeField] private PokemonInfoPage pokemonInfoPage;

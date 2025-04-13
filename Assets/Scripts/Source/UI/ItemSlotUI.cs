@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class ItemSlotUI : MonoBehaviour, ISelectable
     {
         [SerializeField] private new TextMeshProUGUI name;

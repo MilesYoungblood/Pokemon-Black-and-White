@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class PokemonInfoPage : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI dex;

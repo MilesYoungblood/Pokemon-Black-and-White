@@ -2,6 +2,6 @@
 {
     public interface ITriggerable
     {
-        void OnTrigger(Source.PlayerController playerController);
+        void OnTrigger(PlayerController playerController);
     }
 }

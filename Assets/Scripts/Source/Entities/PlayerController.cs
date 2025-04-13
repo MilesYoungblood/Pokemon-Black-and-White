@@ -4,19 +4,21 @@ using UnityEngine.InputSystem;
 
 namespace Scripts.Source
 {
-    [RequireComponent(typeof(Player))]
+    [DisallowMultipleComponent]
+    [RequireComponent(typeof(Player), typeof(UnityEngine.InputSystem.PlayerInput))]
     public class PlayerController : CharacterController
     {
+        [SerializeField] private Player player;
+
         private Speed _currentSpeed;
 
         private PlayerInput _input;
 
-        public Player Player { get; private set; }
+        public Player Player => player;
 
         protected void Awake()
         {
             _input = new PlayerInput();
-            Player = GetComponent<Player>();
         }
 
         private void Start()
@@ -46,12 +48,9 @@ namespace Scripts.Source
             }
         }
 
-        public void HandleRun(InputAction.CallbackContext context)
+        public void Run(InputAction.CallbackContext context)
         {
-            if (context.started || context.performed || context.canceled)
-            {
-                _currentSpeed = context.canceled ? Speed.Walk : Speed.Run;
-            }
+            _currentSpeed = context.canceled ? Speed.Walk : Speed.Run;
         }
 
         private void OnMoveOver()
@@ -67,7 +66,7 @@ namespace Scripts.Source
             }
         }
 
-        public void HandleFace(InputAction.CallbackContext context)
+        public void Face(InputAction.CallbackContext context)
         {
             if (!Animator.GetBool(IsMoving) && context.started)
             {
@@ -89,7 +88,7 @@ namespace Scripts.Source
             }
         }
 
-        public void HandlePause(InputAction.CallbackContext context)
+        public void Pause(InputAction.CallbackContext context)
         {
             if (context.performed && !Animator.GetBool(IsMoving))
             {

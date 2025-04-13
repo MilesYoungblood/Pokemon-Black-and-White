@@ -4,9 +4,13 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
+    [RequireComponent(typeof(Inventory))]
     public class Player : Trainer, IBattler
     {
-        public Inventory Inventory { get; private set; }
+        [SerializeField] private Inventory inventory;
+
+        public Inventory Inventory => inventory;
 
         private int _money;
 
@@ -17,11 +21,6 @@ namespace Scripts.Source
         }
 
         public new static event Action OnNextPokemon;
-
-        private void Awake()
-        {
-            Inventory = gameObject.GetComponent<Inventory>();
-        }
 
         protected override void Start()
         {

@@ -8,9 +8,14 @@ namespace Scripts.Utility
 
         private void Awake()
         {
-            var existingObjects =
-                FindObjectsByType<PersistentObjects>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
-            if (existingObjects.Length == 0) Instantiate(persistentObjects);
+            var existingObjects = FindObjectsByType<PersistentObjects>(
+                FindObjectsInactive.Exclude,
+                FindObjectsSortMode.None
+            );
+            if (existingObjects.Length is 0)
+            {
+                Instantiate(persistentObjects);
+            }
         }
     }
 }

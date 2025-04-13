@@ -111,6 +111,8 @@ namespace Scripts.Utility
             _selectorInput.Default.Select.performed -= HandleSelect;
             _selectorInput.Default.Accept.performed -= HandleAccept;
             _selectorInput.Default.Cancel.performed -= HandleCancel;
+            OnCancel = null;
+            OnChange = null;
         }
 
         public void HandleSelect(InputAction.CallbackContext context)

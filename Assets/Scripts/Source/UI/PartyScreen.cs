@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class PartyScreen : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI message;
@@ -17,6 +18,24 @@ namespace Scripts.Source.UI
         public int Selection => _partyList.Selection;
 
         public BattleSystem.State? CalledFrom { get; set; }
+
+        public Action Callbacks
+        {
+            set
+            {
+                gameObject.SetActive(true);
+                message.text = "Choose a Pokemon";
+
+                // TODO if this breaks, try using player party size instead of Trainer.MaxPartySize
+                var callbacks = new Action[Trainer.MaxPartySize];
+                for (var i = 0; i < callbacks.Length; ++i)
+                {
+                    callbacks[i] = value;
+                }
+
+                _partyList.Callbacks = callbacks;
+            }
+        }
 
         private void OnEnable()
         {
@@ -38,20 +57,14 @@ namespace Scripts.Source.UI
             _members = _partyList.GetComponentsInChildren<PartyMemberUI>();
         }
 
-        public void Init(Action onSelected, Action onCancel)
+        public void Init(Action onCancel)
         {
-            gameObject.SetActive(true);
-            message.text = "Choose a Pokemon";
+            _partyList.OnCancel += onCancel;
+        }
 
-            // TODO if this breaks, try using player party size instead of Trainer.MaxPartySize
-            var callbacks = new Action[Trainer.MaxPartySize];
-            for (var i = 0; i < callbacks.Length; ++i)
-            {
-                callbacks[i] = onSelected;
-            }
-
-            _partyList.Callbacks = callbacks;
-            //_partyList.OnCancel += onCancel;
+        public void Destroy(Action onCancel)
+        {
+            _partyList.OnCancel -= onCancel;
         }
 
         public void SetMessageText(string newMessage)

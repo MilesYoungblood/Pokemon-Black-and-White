@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class PokemonHUD : MonoBehaviour
     {
         [SerializeField] private new TextMeshProUGUI name;

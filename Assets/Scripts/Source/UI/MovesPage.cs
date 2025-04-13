@@ -5,12 +5,15 @@ using UnityEngine.UI;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class MovesPage : MonoBehaviour
     {
         private Selector _moveSet;
 
         private Image[] _typeIcons;
+
         private TextMeshProUGUI[] _moveNames;
+
         private TextMeshProUGUI[] _ppAmounts;
 
         private void Awake()

@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class ItemController : MonoBehaviour, IInteractable, ISavable
     {
         [SerializeField] private Item item;

@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     [RequireComponent(typeof(Animator))]
     public class BattleUnit : MonoBehaviour
     {
@@ -204,11 +205,11 @@ namespace Scripts.Source
         public void PlayFaintAnimation()
         {
             transform.DOLocalMoveY(_originalPosition.y - 150.0f, 0.5f);
-            spriteRenderer.DOFade(0.0f, 0.5f).onComplete = Reset;
+            spriteRenderer.DOFade(0.0f, 0.5f).onComplete = HandleReset;
 
             return;
 
-            void Reset()
+            void HandleReset()
             {
                 // reposition the image to its original offset
                 transform.localPosition = new Vector3(_originalPosition.x, _originalPosition.y);

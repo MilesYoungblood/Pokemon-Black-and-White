@@ -7,12 +7,9 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class BattleDialogueBox : MonoBehaviour
     {
-        private const int LettersPerSecond = 30;
-
-        private const float WaitTime = 1.0f / LettersPerSecond;
-
         [SerializeField] private TextMeshProUGUI dialogue;
 
         [SerializeField] private Selector actionSelector;
@@ -26,6 +23,8 @@ namespace Scripts.Source
         [SerializeField] private TextMeshProUGUI typeLabel;
 
         [SerializeField] private Selector selectionBox;
+
+        [SerializeField] [Min(1)] private int lettersPerSecond;
 
         private GameObject _moveDetails;
 
@@ -55,14 +54,16 @@ namespace Scripts.Source
         {
             IsTyping = true;
 
+            var waitTime = 1.0f / lettersPerSecond;
+
             dialogue.text = string.Empty;
             foreach (var letter in value)
             {
-                dialogue.text += letter;
-                yield return new WaitForSeconds(WaitTime);
+                dialogue.text += letter.ToString();
+                yield return new WaitForSeconds(waitTime);
             }
 
-            yield return new WaitForSeconds(1.0f - WaitTime);
+            yield return new WaitForSeconds(1.0f - waitTime);
 
             IsTyping = false;
         }

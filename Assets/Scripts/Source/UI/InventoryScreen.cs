@@ -8,6 +8,7 @@ using UnityEngine.UI;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class InventoryScreen : MonoBehaviour
     {
         [SerializeField] private ItemSlotUI itemSlotUI;

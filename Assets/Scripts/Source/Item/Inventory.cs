@@ -7,6 +7,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class Inventory : MonoBehaviour, ISavable
     {
         [SerializeField] private Item[] inventory;

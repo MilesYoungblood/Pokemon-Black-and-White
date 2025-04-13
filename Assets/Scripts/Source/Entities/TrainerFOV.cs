@@ -3,14 +3,10 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class TrainerFOV : MonoBehaviour, ITriggerable
     {
-        private TrainerController _trainerController;
-
-        private void Awake()
-        {
-            _trainerController = GetComponentInParent<TrainerController>();
-        }
+        [SerializeField] private TrainerController trainerController;
 
         public void OnTrigger(PlayerController playerController)
         {
@@ -24,7 +20,7 @@ namespace Scripts.Source
 
             playerController.DisableInput();
 
-            StartCoroutine(_trainerController.TriggerTrainerBattle(playerController));
+            StartCoroutine(trainerController.TriggerTrainerBattle(playerController));
         }
     }
 }

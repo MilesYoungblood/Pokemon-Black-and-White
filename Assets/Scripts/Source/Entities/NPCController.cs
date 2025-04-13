@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class NPCController : CharacterController, IInteractable
     {
         private enum State
@@ -36,7 +37,9 @@ namespace Scripts.Source
         [SerializeField] private Movement[] movementPattern;
 
         private float _idleTimer;
+
         private int _currentMovement;
+
         private State _currentState;
 
         protected virtual void Awake()

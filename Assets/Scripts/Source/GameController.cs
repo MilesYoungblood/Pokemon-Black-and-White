@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class GameController : MonoBehaviour
     {
         public enum State
@@ -18,11 +19,9 @@ namespace Scripts.Source
 
         [SerializeField] private PlayerController playerController;
 
-        [SerializeField] private Canvas backgroundCanvas;
+        [SerializeField] private BattleSystem battleSystem;
 
         [SerializeField] private GameObject battleScreen;
-
-        [SerializeField] private BattleSystem battleSystem;
 
         [SerializeField] private UI.PartyScreen partyScreen;
 
@@ -67,10 +66,11 @@ namespace Scripts.Source
                 MoveAsset.Init();
                 ItemAsset.Init();
 
-                EncounterLayer.OnWildEncounter += HandleWildEncounter;
+                EncounterLayer.OnWildEncounter += StartBattle;
 
                 TrainerController.OnDialogueFinished += StartBattle;
 
+                menu.OnCancel += CancelMenu;
                 battleSystem.OnBattleOver += EndBattle;
 
                 StartCoroutine(FreeMemory());
@@ -104,19 +104,13 @@ namespace Scripts.Source
                 dialogueBox.gameObject.SetActive(previousState);
             }
 
-            /*
-            menu.Init(new Action[]
+            menu.Callbacks = new Action[]
             {
                 HandlePokemonSelected,
                 HandlePokedexSelected,
                 HandleBagSelected,
                 HandleSaveSelected
-            }, () =>
-            {
-                menu.gameObject.SetActive(false);
-                UnlockPlayer();
-            });
-            */
+            };
 
             try
             {
@@ -133,7 +127,8 @@ namespace Scripts.Source
 
             void HandlePokemonSelected()
             {
-                partyScreen.Init(HandlePartyScreenSelect, HandlePartyScreenCancel);
+                partyScreen.Callbacks = HandlePartyScreenSelect;
+                partyScreen.Init(HandlePartyScreenCancel);
 
                 return;
 
@@ -149,6 +144,7 @@ namespace Scripts.Source
                         }, HandleSummaryScreenCancel
                     );
                     partyScreen.Close();
+                    partyScreen.Destroy(HandleSummaryScreenCancel);
 
                     return;
 
@@ -162,17 +158,18 @@ namespace Scripts.Source
                 void HandlePartyScreenCancel()
                 {
                     partyScreen.Close();
+                    partyScreen.Destroy(HandlePartyScreenCancel);
                     OpenMenu();
                 }
             }
 
             void HandleBagSelected()
             {
-                OpenInventoryScreen((typeof(Medicine), HandleMedicineSelect), (typeof(PokeBall), null), (typeof(BattleItem), null));
+                HandleOpenInventoryScreen((typeof(Medicine), HandleMedicineSelect), (typeof(PokeBall), null), (typeof(BattleItem), null));
 
                 return;
 
-                void OpenInventoryScreen(params (System.Type, Action)[] sets)
+                void HandleOpenInventoryScreen(params (System.Type, Action)[] sets)
                 {
                     inventoryScreen.Init(playerController.Player.Inventory, HandleInventoryScreenCancel, sets);
                 }
@@ -181,7 +178,8 @@ namespace Scripts.Source
                 {
                     var item = inventoryScreen.CurrentAsset;
                     inventoryScreen.Close();
-                    partyScreen.Init(HandleSelect, HandleCancel);
+                    partyScreen.Callbacks = HandleSelect;
+                    partyScreen.Init(HandleCancel);
 
                     return;
 
@@ -189,6 +187,7 @@ namespace Scripts.Source
                     {
                         playerController.Player.Inventory.UseItem<Medicine>(item);
                         partyScreen.Close();
+                        partyScreen.Destroy(HandleCancel);
                         StartCoroutine(
                             dialogueBox.ShowDialogue(
                                 new UI.Dialogue(item.Use(playerController.Player.Party[partyScreen.Selection]))
@@ -199,7 +198,8 @@ namespace Scripts.Source
                     void HandleCancel()
                     {
                         partyScreen.Close();
-                        OpenInventoryScreen((typeof(Medicine), HandleMedicineSelect), (typeof(PokeBall), null), (typeof(BattleItem), null));
+                        partyScreen.Destroy(HandleCancel);
+                        HandleOpenInventoryScreen((typeof(Medicine), HandleMedicineSelect), (typeof(PokeBall), null), (typeof(BattleItem), null));
                     }
                 }
 
@@ -234,16 +234,13 @@ namespace Scripts.Source
 
         private void OnDestroy()
         {
-            EncounterLayer.OnWildEncounter -= HandleWildEncounter;
+            EncounterLayer.OnWildEncounter -= StartBattle;
 
             TrainerController.OnDialogueFinished -= StartBattle;
 
             battleSystem.OnBattleOver -= EndBattle;
-        }
 
-        private void HandleWildEncounter()
-        {
-            StartBattle(_currentScene.Location.GenerateWildPokemon());
+            menu.OnCancel -= CancelMenu;
         }
 
         private void StartGame()
@@ -264,13 +261,13 @@ namespace Scripts.Source
 
             return;
 
-            IEnumerator HandleStart(IBattler opponent)
+            IEnumerator HandleStart(IBattler battler)
             {
                 playerController.DisableInput();
                 CurrentState = State.Paused;
 
                 AudioManager.Instance.StopMusic();
-                AudioManager.Instance.PlayMusicAsync(opponent.BattleThemeKey, true);
+                yield return AudioManager.Instance.PlayMusicAsync(battler.BattleThemeKey, true);
 
                 yield return new WaitForSeconds(1.0f);
 
@@ -289,12 +286,11 @@ namespace Scripts.Source
 
                 yield return fader.FadeIn(1.25f);
 
-                backgroundCanvas.gameObject.SetActive(true);
                 battleScreen.SetActive(true);
 
                 yield return fader.FadeOut(0.25f);
 
-                yield return battleSystem.Init(playerController.Player, opponent);
+                yield return battleSystem.Init(playerController.Player, battler);
             }
         }
 
@@ -308,10 +304,9 @@ namespace Scripts.Source
                 yield return fader.FadeIn(1.0f);
                 yield return fader.FadeOut(0.0f);
 
-                backgroundCanvas.gameObject.SetActive(false);
                 battleScreen.SetActive(false);
                 UnlockPlayer();
-                AudioManager.Instance.RequestSong(_currentScene.Music);
+                yield return AudioManager.Instance.RequestSong(_currentScene.Music);
             }
         }
 
@@ -337,6 +332,12 @@ namespace Scripts.Source
             menu.gameObject.SetActive(true);
             playerController.DisableInput();
             CurrentState = State.Paused;
+        }
+
+        private void CancelMenu()
+        {
+            menu.gameObject.SetActive(false);
+            UnlockPlayer();
         }
 
         private static IEnumerator FreeMemory()

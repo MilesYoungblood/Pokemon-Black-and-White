@@ -9,13 +9,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1517175938738924354}
-  - component: {fileID: 3184448728456593214}
+  - component: {fileID: 3500925001178200412}
   m_Layer: 0
   m_Name: Essential Objects Loader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1517175938738924354
 Transform:
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3184448728456593214
+--- !u!114 &3500925001178200412
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,6 +41,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8710469042368190503}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00e064997c938f844a001842f1bf80e4, type: 3}
+  m_Script: {fileID: 11500000, guid: a4e6cd8bcf406e64aa5c3096c5f1b63e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  persistentObjects: {fileID: 1583612448928369242, guid: cb17edf72511c5145be89a122aec7b9e, type: 3}

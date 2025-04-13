@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class SceneInfo : MonoBehaviour
     {
         [SerializeField] private SceneInfo[] connectedScenes;
@@ -17,14 +18,7 @@ namespace Scripts.Source
 
         private SavableEntity[] _savableEntities;
 
-        public Location Location { get; private set; }
-
         public AudioClip Music => music;
-
-        private void Awake()
-        {
-            Location = GetComponent<Location>();
-        }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
@@ -76,7 +70,7 @@ namespace Scripts.Source
 
         private static void TryAddOperation(Queue<AsyncOperation> operations, AsyncOperation operation)
         {
-            if (operation != null)
+            if (operation is not null)
             {
                 operations.Enqueue(operation);
             }
@@ -90,14 +84,9 @@ namespace Scripts.Source
             }
 
             var operation = SceneManager.LoadSceneAsync(gameObject.name, LoadSceneMode.Additive);
-            if (operation != null)
+            if (operation is not null)
             {
-                operation.completed += _ =>
-                {
-                    _isLoaded = true;
-                    _savableEntities = GetSavableEntitiesInScene();
-                    SavingSystem.RestoreEntityStates(_savableEntities);
-                };
+                operation.completed += OnLoaded;
             }
 
             return operation;
@@ -115,20 +104,32 @@ namespace Scripts.Source
             var operation = SceneManager.UnloadSceneAsync(gameObject.name);
             if (operation != null)
             {
-                operation.completed += _ =>
-                {
-                    _isLoaded = false;
-                };
+                operation.completed += Unload;
             }
 
             return operation;
         }
 
+        private void OnLoaded(AsyncOperation _)
+        {
+            _isLoaded = true;
+            _savableEntities = GetSavableEntitiesInScene();
+            SavingSystem.RestoreEntityStates(_savableEntities);
+        }
+
+        private void Unload(AsyncOperation _)
+        {
+            _isLoaded = false;
+        }
+
         private SavableEntity[] GetSavableEntitiesInScene()
         {
-            var currentScene = SceneManager.GetSceneByName(gameObject.name);
-            var list1 = FindObjectsByType<SavableEntity>(FindObjectsInactive.Include, FindObjectsSortMode.None);
-            return list1.Where(entity => entity.gameObject.scene == currentScene).ToArray();
+            return FindObjectsByType<SavableEntity>(FindObjectsInactive.Include, FindObjectsSortMode.None).Where(SceneExists).ToArray();
+        }
+
+        private bool SceneExists(SavableEntity entity)
+        {
+            return entity.gameObject.scene == SceneManager.GetSceneByName(gameObject.name);
         }
     }
 }

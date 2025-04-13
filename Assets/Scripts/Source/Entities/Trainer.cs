@@ -7,13 +7,14 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class Trainer : Character, IBattler, IEnumerable<Pokemon>, ISavable
     {
+        public const int MaxPartySize = 6;
+
         [SerializeField] private List<Pokemon> party;
 
         private TrainerController _trainerController;
-
-        public static int MaxPartySize => 6;
 
         public List<Pokemon> Party
         {

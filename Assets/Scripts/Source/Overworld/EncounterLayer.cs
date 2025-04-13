@@ -4,9 +4,12 @@ using RangeInt = Scripts.Utility.RangeInt;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class EncounterLayer : MonoBehaviour, ITriggerable
     {
-        public static event Action OnWildEncounter;
+        [SerializeField] private Pokemon[] wildPokemon;
+
+        public static event Action<IBattler> OnWildEncounter;
 
         private RangeInt GetTileRange()
         {
@@ -28,11 +31,18 @@ namespace Scripts.Source
             throw new Exception("Invalid tag value.");
         }
 
+        private Pokemon GenerateWildPokemon()
+        {
+            var pokemon = new Pokemon(wildPokemon[UnityEngine.Random.Range(0, wildPokemon.Length)]);
+            pokemon.Init();
+            return pokemon;
+        }
+
         public void OnTrigger(PlayerController playerController)
         {
             if (UnityEngine.Random.Range(0, byte.MaxValue + 1) < GetTileRange().RandomInt())
             {
-                OnWildEncounter?.Invoke();
+                OnWildEncounter?.Invoke(GenerateWildPokemon());
             }
         }
     }

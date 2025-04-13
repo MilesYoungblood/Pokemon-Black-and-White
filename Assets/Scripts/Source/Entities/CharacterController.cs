@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections;
-using System.Globalization;
 using Cinemachine.Utility;
 using Scripts.Utility;
 using Scripts.Utility.Math;
@@ -8,6 +7,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     [RequireComponent(typeof(Animator))]
     public abstract class CharacterController : MonoBehaviour, ISavable
     {

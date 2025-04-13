@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 namespace Scripts.Source.UI
 {
+    [DisallowMultipleComponent]
     public class HPBar : MonoBehaviour
     {
         [SerializeField] private RectTransform hp;

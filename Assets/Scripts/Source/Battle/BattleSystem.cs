@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class BattleSystem : MonoBehaviour
     {
         public enum State
@@ -51,7 +52,7 @@ namespace Scripts.Source
 
         private void TrainerNext()
         {
-            StartCoroutine(HandleTrainerNextPokemon());
+            StartCoroutine(TrainerNextPokemon());
         }
 
         private void TrainerDefeat()
@@ -104,7 +105,7 @@ namespace Scripts.Source
                 if (playerUnit.Pokemon.MoveSet.All(move => !move.CanUse()))
                 {
                     // TODO replace with Struggle
-                    StartCoroutine(HandleTurn(new Move(), opponentUnit.Pokemon.ChooseRandomMove()));
+                    StartCoroutine(RunTurn(new Move(), opponentUnit.Pokemon.ChooseRandomMove()));
                 }
                 else
                 {
@@ -127,7 +128,7 @@ namespace Scripts.Source
             {
                 if (opponentUnit.Battler is Pokemon)
                 {
-                    StartCoroutine(HandleTurn(new RunAway(), opponentUnit.Pokemon.ChooseRandomMove()));
+                    StartCoroutine(RunTurn(new RunAway(), opponentUnit.Pokemon.ChooseRandomMove()));
                 }
                 else
                 {
@@ -169,7 +170,7 @@ namespace Scripts.Source
                     GameController.Instance.InventoryScreen.Close();
                     battleDialogueBox.EnableDialogueText(true);
 
-                    StartCoroutine(HandleTurn(
+                    StartCoroutine(RunTurn(
                         GameController.Instance.InventoryScreen.CurrentAsset,
                         opponentUnit.Pokemon.ChooseRandomMove()
                     ));
@@ -243,7 +244,7 @@ namespace Scripts.Source
 
             battleDialogueBox.EnableMoveSelector(false);
 
-            StartCoroutine(HandleTurn(
+            StartCoroutine(RunTurn(
                 playerUnit.Pokemon[battleDialogueBox.MoveSelection],
                 opponentUnit.Pokemon.ChooseRandomMove()
             ));
@@ -258,11 +259,12 @@ namespace Scripts.Source
         private void OpenPartyScreen(State calledFrom)
         {
             GameController.Instance.PartyScreen.CalledFrom = calledFrom;
-            GameController.Instance.PartyScreen.Init(PartyScreenSelected, PartyScreenCancel);
+            GameController.Instance.PartyScreen.Callbacks = HandlePartyScreenSelected;
+            GameController.Instance.PartyScreen.Init(HandlePartyScreenCancel);
 
             return;
 
-            void PartyScreenSelected()
+            void HandlePartyScreenSelected()
             {
                 var selectedMember = playerUnit.Battler.Party[GameController.Instance.PartyScreen.Selection];
                 if (selectedMember is { CanFight: false })
@@ -278,11 +280,12 @@ namespace Scripts.Source
                 }
 
                 GameController.Instance.PartyScreen.Close();
+                GameController.Instance.PartyScreen.Destroy(HandlePartyScreenCancel);
 
                 // only start the turn if the player chose to switch from the action selection screen
                 if (GameController.Instance.PartyScreen.CalledFrom is State.ActionSelection)
                 {
-                    StartCoroutine(HandleTurn(
+                    StartCoroutine(RunTurn(
                         new SwitchOut(GameController.Instance.PartyScreen.Selection),
                         opponentUnit.Pokemon.ChooseRandomMove())
                     );
@@ -293,7 +296,7 @@ namespace Scripts.Source
                 }
             }
 
-            void PartyScreenCancel()
+            void HandlePartyScreenCancel()
             {
                 if (!playerUnit.Pokemon.CanFight)
                 {
@@ -301,13 +304,14 @@ namespace Scripts.Source
                 }
 
                 GameController.Instance.PartyScreen.Close();
+                GameController.Instance.PartyScreen.Destroy(HandlePartyScreenCancel);
                 GameController.Instance.PartyScreen.CalledFrom = null;
 
                 TriggerActionSelection();
             }
         }
 
-        private IEnumerator HandleFaint(BattleUnit faintedBattleUnit)
+        private IEnumerator Faint(BattleUnit faintedBattleUnit)
         {
             yield return battleDialogueBox.TypeDialogue($"{faintedBattleUnit.PokemonPrefixName} fainted!");
             faintedBattleUnit.PlayFaintAnimation();
@@ -324,7 +328,7 @@ namespace Scripts.Source
             {
                 if (!faintedBattleUnit.IsPlayerUnit)
                 {
-                    AudioManager.Instance.PlayMusicAsync(opponentUnit.Battler.VictoryThemeKey, true);
+                    yield return AudioManager.Instance.PlayMusicAsync(opponentUnit.Battler.VictoryThemeKey, true);
                 }
 
                 faintedBattleUnit.Battler.HandleDefeat();
@@ -332,7 +336,7 @@ namespace Scripts.Source
             }
         }
 
-        private IEnumerator HandleTrainerNextPokemon()
+        private IEnumerator TrainerNextPokemon()
         {
             yield return battleDialogueBox.TypeDialogue($"{opponentUnit.Battler} is about to send out {opponentUnit.Pokemon}.");
             yield return battleDialogueBox.TypeDialogue("Would you like to swap Pokemon?");
@@ -341,7 +345,7 @@ namespace Scripts.Source
             battleDialogueBox.OpenSelectionBox();
         }
 
-        private IEnumerator HandlePostTurnStatus(BattleUnit target)
+        private IEnumerator PostTurnStatus(BattleUnit target)
         {
             // TODO implement badly poisoned
             if (_currentState is State.End || target.Pokemon.StatusCondition is not (Burn or Poison or BadPoison))
@@ -359,11 +363,11 @@ namespace Scripts.Source
             yield return battleDialogueBox.TypeDialogue($"{target.PokemonPrefixName} {message}!");
             if (!target.Pokemon.CanFight)
             {
-                yield return HandleFaint(target);
+                yield return Faint(target);
             }
         }
 
-        private IEnumerator HandleTurn(IBattleAction playerAction, IBattleAction opponentAction)
+        private IEnumerator RunTurn(IBattleAction playerAction, IBattleAction opponentAction)
         {
             _currentState = State.RunTurn;
 
@@ -412,15 +416,15 @@ namespace Scripts.Source
             // Post turn
             _currentState = State.EndOfTurn;
 
-            yield return HandlePostTurnStatus(firstUnit);
-            yield return HandlePostTurnStatus(secondUnit);
+            yield return PostTurnStatus(firstUnit);
+            yield return PostTurnStatus(secondUnit);
 
             ++Turn;
 
             {
                 if (secondUnit.Battler is Trainer trainer && previousSize > trainer.Party.Count)
                 {
-                    yield return new WaitUntil(IsSelected);
+                    yield return new WaitUntil(HandleIsSelected);
                     yield break;
                 }
             }
@@ -429,7 +433,7 @@ namespace Scripts.Source
 
             yield break;
 
-            bool IsSelected()
+            bool HandleIsSelected()
             {
                 return _currentState is State.ActionSelection;
             }

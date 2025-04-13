@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class Character : MonoBehaviour
     {
         protected enum Class

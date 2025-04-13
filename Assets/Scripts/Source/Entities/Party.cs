@@ -7,6 +7,7 @@ using UnityEngine;
 
 namespace Scripts.Source
 {
+    [DisallowMultipleComponent]
     public class Party : MonoBehaviour, IEnumerable<Pokemon>, ISavable
     {
         [SerializeField] private List<Pokemon> members;
