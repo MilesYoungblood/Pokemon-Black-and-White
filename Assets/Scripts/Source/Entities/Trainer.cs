@@ -8,44 +8,90 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class Trainer : Character, IBattler, IEnumerable<Pokemon>, ISavable
+    public class Trainer : Entity, IList<Pokemon>, IBattler, ISavable
     {
         public const int MaxPartySize = 6;
 
         [SerializeField] private List<Pokemon> party;
 
-        private TrainerController _trainerController;
-
-        public List<Pokemon> Party
-        {
-            get => party;
-            private set => party = value;
-        }
-
-        public Pokemon this[int index]
-        {
-            get => Party[index];
-            set => Party[index] = value;
-        }
-
         public static event Action OnNextPokemon;
 
         public static event Action OnDefeat;
 
-        private void Awake()
-        {
-            _trainerController = GetComponent<TrainerController>();
-        }
-
-        // Start is called before the first frame update
         protected virtual void Start()
         {
-            Party.ForEach(pokemon => pokemon.Init());
+            foreach (var pokemon in party)
+            {
+                pokemon.Init();
+            }
         }
+
+        public int IndexOf(Pokemon item)
+        {
+            return party.IndexOf(item);
+        }
+
+        public void Insert(int index, Pokemon item)
+        {
+            party.Insert(index, item);
+        }
+
+        public void RemoveAt(int index)
+        {
+            party.RemoveAt(index);
+        }
+
+        public Pokemon this[int index]
+        {
+            get => party[index];
+            set => party[index] = value;
+        }
+
+        public IEnumerator<Pokemon> GetEnumerator()
+        {
+            return party.GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
+        public void Add(Pokemon item)
+        {
+            if (party.Count < MaxPartySize)
+            {
+                party.Add(item);
+            }
+        }
+
+        public void Clear()
+        {
+            party.Clear();
+        }
+
+        public bool Contains(Pokemon item)
+        {
+            return party.Contains(item);
+        }
+
+        public void CopyTo(Pokemon[] array, int arrayIndex)
+        {
+            party.CopyTo(array, arrayIndex);
+        }
+
+        public bool Remove(Pokemon item)
+        {
+            return party.Remove(item);
+        }
+
+        public int Count => party.Count;
+
+        public bool IsReadOnly => false;
 
         public void HandleFaint()
         {
-            Party.RemoveAt(0);
+            RemoveAt(0);
         }
 
         public void HandleNextPokemon()
@@ -56,12 +102,14 @@ namespace Scripts.Source
         public void HandleDefeat()
         {
             OnDefeat?.Invoke();
-            _trainerController.DestroyObjects();
+            transform.DestroyChildren();
         }
 
-        public bool CanFight => Party.Count > 0;
+        public bool CanFight => this.Any();
 
-        public Pokemon ActivePokemon => Party.First();
+        public Pokemon ActivePokemon => this.First();
+
+        public List<Pokemon> Party => party;
 
         public string Prefix => "The opposing ";
 
@@ -75,16 +123,6 @@ namespace Scripts.Source
 
         public string VictoryThemeKey => "Disc 1/29 - Victory! (Trainer)";
 
-        public IEnumerator<Pokemon> GetEnumerator()
-        {
-            return ((IEnumerable<Pokemon>)party).GetEnumerator();
-        }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
-        }
-
         public override string ToString()
         {
             return $"{CharacterClass} {Name}";
@@ -92,15 +130,15 @@ namespace Scripts.Source
 
         public object CaptureState()
         {
-            return Party.Select(pokemon => pokemon.SaveData).ToArray();
+            return this.Select(pokemon => pokemon.SaveData).ToArray();
         }
 
         public void RestoreState(object state)
         {
-            Party = ((PokemonSaveData[])state).Select(data => new Pokemon(data)).ToList();
-            if (Party.Count == 0)
+            party = ((PokemonSaveData[])state).Select(data => new Pokemon(data)).ToList();
+            if (!this.Any())
             {
-                _trainerController.DestroyObjects();
+                transform.DestroyChildren();
             }
         }
     }

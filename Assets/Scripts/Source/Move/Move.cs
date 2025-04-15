@@ -23,7 +23,7 @@ namespace Scripts.Source
 
         private int _pp;
 
-        private int _maxPp;
+        private int _maxPP;
 
         public MoveAsset Asset
         {
@@ -39,8 +39,8 @@ namespace Scripts.Source
 
         public int MaxPP
         {
-            get => _maxPp;
-            set => _maxPp = Mathf.Clamp(value, Asset.PP, Asset.MaxPP);
+            get => _maxPP;
+            set => _maxPP = Mathf.Clamp(value, Asset.PP, Asset.MaxPP);
         }
 
         public MoveSaveData SaveData => new()
@@ -89,17 +89,18 @@ namespace Scripts.Source
             return PP > MinPP;
         }
 
-        private static bool HandlePreTurnStatus(
+        private static bool PreTurnStatus(
+            BattleSystem battleSystem,
             BattleDialogueBox battleDialogueBox,
             BattleUnit attacker,
             out List<IEnumerator> enumerators)
         {
             enumerators = new List<IEnumerator>();
             var canMove = false;
-            if (attacker.Pokemon.StatusCondition != null)
+            if (attacker.Pokemon.StatusCondition is not null)
             {
-                attacker.Pokemon.StatusCondition.HandlePreTurn(attacker, out var message, out canMove);
-                if (message != string.Empty)
+                attacker.Pokemon.StatusCondition.PreTurn(attacker, out var message, out canMove);
+                if (message is not "")
                 {
                     enumerators.Add(battleDialogueBox.TypeDialogue($"{attacker} {message}"));
                 }
@@ -111,40 +112,34 @@ namespace Scripts.Source
                 canMove = false;
             }
 
-            if (canMove && attacker.HasVolatileStatusCondition(VolatileStatusCondition.Confusion))
+            if (!canMove || !attacker.HasVolatileStatusCondition(VolatileStatusCondition.Confusion))
             {
-                if (attacker.GetVolatileStatusCount(VolatileStatusCondition.Confusion) == 0)
+                return canMove;
+            }
+
+            if (attacker.GetVolatileStatusCount(VolatileStatusCondition.Confusion) is 0)
+            {
+                enumerators.Add(battleDialogueBox.TypeDialogue(
+                    $"{attacker.PokemonPrefixName} snapped out of confusion!"
+                ));
+            }
+            else
+            {
+                enumerators.Add(battleDialogueBox.TypeDialogue($"{attacker.PokemonPrefixName} is confused!"));
+
+                if (Utility.Math.Statistics.BernoulliTrial())
                 {
-                    enumerators.Add(battleDialogueBox.TypeDialogue(
-                        $"{attacker.PokemonPrefixName} snapped out of confusion!"
-                    ));
+                    return true;
                 }
-                else
-                {
-                    enumerators.Add(battleDialogueBox.TypeDialogue($"{attacker.PokemonPrefixName} is confused!"));
 
-                    if (Utility.Math.Statistics.BernoulliTrial())
-                    {
-                        var damage = (2 * attacker.Pokemon.Level / 5.0f + 2) * 40;
-                        damage *= attacker.Pokemon.Attack * attacker.GetStatModCalc(Stat.Attack) /
-                            attacker.Pokemon.Defense * attacker.GetStatModCalc(Stat.Defense);
-                        damage /= 50.0f;
-                        damage += 2;
-                        attacker.Pokemon.HP -= Mathf.FloorToInt(damage);
+                enumerators.Add(attacker.TakeDamage(
+                    battleSystem,
+                    battleDialogueBox,
+                    Mathf.FloorToInt(IAttack.CalculateDamage(attacker, attacker, Category.Physical, 40)),
+                    new List<string> { "It hit itself in confusion" }
+                ));
 
-                        attacker.PlayHitAnimation();
-                        enumerators.Add(attacker.PokemonHud.UpdateHp());
-                        enumerators.Add(battleDialogueBox.TypeDialogue("It hit itself in confusion"));
-
-                        if (!attacker.Pokemon.CanFight)
-                        {
-                            //_currentState = State.EndOfTurn;
-                            //yield return HandleFaint(attacker);
-                        }
-
-                        canMove = false;
-                    }
-                }
+                canMove = false;
             }
 
             return canMove;
@@ -152,127 +147,82 @@ namespace Scripts.Source
 
         private bool AccuracyCheck(BattleUnit attacker, BattleUnit defender)
         {
-            if (Asset.SureHit)
-            {
-                return true;
-            }
-
-            return UnityEngine.Random.value <= Asset.Accuracy * Mathf.Round(attacker.GetStatModCalc(Stat.Accuracy) * defender.GetStatModCalc(Stat.Evasiveness));
+            return Asset.SureHit || UnityEngine.Random.value <= Asset.Accuracy * Mathf.Round(attacker[Stat.Accuracy].Multiplier * defender[Stat.Evasiveness].Multiplier);
         }
 
-        public void HandleAttack(BattleUnit attacker, BattleUnit defender, out float typeEff, out float critical)
+        public (int, float, float) PerformCalculations(BattleUnit attacker, BattleUnit defender)
         {
-            var burn = 1.0f;
-
             // calculate core damage
-            var damage = (2 * attacker.Pokemon.Level / 5.0f + 2) * Asset.Power;
-            if (Asset.Category == Category.Physical)
-            {
-                damage *= attacker.Pokemon.Attack * attacker.GetStatModCalc(Stat.Attack) /
-                    defender.Pokemon.Defense * defender.GetStatModCalc(Stat.Defense);
-                if (attacker.Pokemon.StatusCondition is Burn)
-                {
-                    burn = 0.5f;
-                }
-            }
-            else
-            {
-                damage *= attacker.Pokemon.SpAttack * attacker.GetStatModCalc(Stat.SpAttack) /
-                    defender.Pokemon.SpDefense * defender.GetStatModCalc(Stat.SpDefense);
-            }
-
-            damage /= 50.0f;
-            damage += 2;
+            var damage = IAttack.CalculateDamage(attacker, defender, Asset.Category, Asset.Power);
 
             // calculate critical hit
-            critical = new RangeInt(1, 17).RandomInt() == 1 ? 2.0f : 1.0f;
+            var critical = new RangeInt(1, 17).RandomInt() == 1 ? 2.0f : 1.0f;
 
             // calculate stab (same type attack bonus)
-            var stab = Asset.Type == attacker.Pokemon.Asset.Type1 || Asset.Type == attacker.Pokemon.Asset.Type2 ? 1.5f : 1.0f;
+            var stab = attacker.Pokemon.HasType(Asset.Type) ? 1.5f : 1.0f;
 
             // calculate type effectiveness
-            var type1Eff = Type.GetEffectiveness(Asset.Type, defender.Pokemon.Asset.Type1);
-            var type2Eff = Type.GetEffectiveness(Asset.Type, defender.Pokemon.Asset.Type2);
-            typeEff = type1Eff * type2Eff;
+            var typeEff = Type.GetEffectiveness(Asset.Type, defender.Pokemon.Asset.Type1) *
+                      Type.GetEffectiveness(Asset.Type, defender.Pokemon.Asset.Type2);
 
-            defender.Pokemon.HP -= Mathf.FloorToInt(damage * critical * stab * typeEff * burn);
+            var burn = Asset.Category is Category.Physical && attacker.Pokemon.StatusCondition is Burn ? 0.5f : 1.0f;
+
+            return (Mathf.FloorToInt(damage * critical * stab * typeEff * burn), typeEff, critical);
         }
 
-        private static IEnumerator TypeDamageDetails(
-            BattleDialogueBox battleDialogueBox,
+        private static List<string> GetDamageDetails(
             BattleUnit defender,
             float typeEff,
             float critical)
         {
+            var messages = new List<string>();
             switch (typeEff)
             {
                 case Type.NoEffect:
-                    yield return battleDialogueBox.TypeDialogue($"It doesn't affect {defender.PokemonPrefixName}...");
-                    yield break;
+                    messages.Add($"It doesn't affect {defender.PokemonPrefixName}...");
+                    break;
                 case > Type.RegularEffect:
-                    yield return battleDialogueBox.TypeDialogue("It's super effective!");
+                    messages.Add("It's super effective!");
                     break;
                 case < Type.RegularEffect:
-                    yield return battleDialogueBox.TypeDialogue("It's not very effective...");
+                    messages.Add("It's not very effective...");
                     break;
             }
 
             if (Mathf.Approximately(critical, 2.0f))
             {
-                yield return battleDialogueBox.TypeDialogue("A critical hit!");
+                messages.Add("A critical hit!");
             }
+
+            return messages;
         }
 
-        private static IEnumerator TypeStatEffectDetails(
+        private IEnumerator ApplyStatEffects(
             BattleDialogueBox battleDialogueBox,
             BattleUnit attacker,
-            BattleUnit defender,
-            StatEffect effect,
-            bool limitReached)
+            BattleUnit defender)
         {
-            var target = (effect.Self ? attacker : defender).PokemonPrefixName;
-            if (limitReached)
+            foreach (var statEffect in Asset.StatEffects)
             {
-                var limit = effect.Amount > 0 ? "higher" : "lower";
-                yield return battleDialogueBox.TypeDialogue($"{target}'s {effect.Stat} cannot go any {limit}!");
-            }
-            else
-            {
-                var action = effect.Amount > 0 ? "rose" : "fell";
-
-                var amplitude = Mathf.Abs(effect.Amount) switch
-                {
-                    2 => " sharply",
-                    3 => " drastically",
-                    4 => " immensely",
-                    _ => string.Empty
-                };
-
-                yield return battleDialogueBox.TypeDialogue($"{target}'s {effect.Stat} {action}{amplitude}!");
-            }
-        }
-
-        private bool?[] ApplyStatEffects(BattleUnit attacker, BattleUnit defender)
-        {
-            var effects = new bool?[Asset.StatEffects.Length];
-            for (var i = 0; i < effects.Length; ++i)
-            {
-                var statEffect = Asset.StatEffects[i];
                 if (UnityEngine.Random.value > statEffect.Prob)
                 {
-                    effects[i] = null;
+                    continue;
+                }
+
+                var target = statEffect.Self ? attacker : defender;
+                if (target[statEffect.Stat].Adjust(statEffect.Amount))
+                {
+                    yield return battleDialogueBox.TypeDialogue(
+                        $"{target.PokemonPrefixName}'s {statEffect.Stat} {(statEffect.Amount > 0 ? "rose" : "fell")}{statEffect.AmountText}!"
+                    );
                 }
                 else
                 {
-                    var target = statEffect.Self ? attacker : defender;
-                    var previousValue = target.GetStatModCalc(statEffect.Stat);
-
-                    attacker[statEffect.Stat] = Mathf.Clamp(attacker[statEffect.Stat] + statEffect.Amount, -6, 6);
-                    effects[i] = Mathf.Approximately(previousValue, target.GetStatModCalc(statEffect.Stat));
+                    yield return battleDialogueBox.TypeDialogue(
+                        $"{target.PokemonPrefixName}'s {statEffect.Stat} cannot go any {(statEffect.Amount > 0 ? "higher" : "lower")}!"
+                    );
                 }
             }
-
-            return effects;
         }
 
         public bool HandleSamePriority(BattleUnit user, BattleUnit opponent)
@@ -297,7 +247,8 @@ namespace Scripts.Source
             BattleDialogueBox battleDialogueBox)
         {
             // pre-turn status condition check
-            var canMove = HandlePreTurnStatus(
+            var canMove = PreTurnStatus(
+                battleSystem,
                 battleDialogueBox,
                 attacker,
                 out var enumerators
@@ -315,45 +266,33 @@ namespace Scripts.Source
             --PP;
             yield return battleDialogueBox.TypeDialogue($"{attacker.PokemonPrefixName} used {this}!");
 
-            if (!AccuracyCheck(attacker, defender))
-            {
-                yield return battleDialogueBox.TypeDialogue($"{defender.PokemonPrefixName} avoided the attack!");
-                yield break;
-            }
-
             if (Asset.Category is Category.Physical or Category.Special)
             {
-                attacker.PlayAttackAnimation();
-                yield return new WaitForSeconds(1.0f);
-
-                defender.PlayHitAnimation();
-
-                HandleAttack(attacker, defender, out var typeEff, out var critical);
-                yield return defender.PokemonHud.UpdateHp();
-                yield return TypeDamageDetails(battleDialogueBox, defender, typeEff, critical);
-                if (!defender.Pokemon.CanFight)
+                if (AccuracyCheck(attacker, defender))
                 {
-                    //_currentState = State.EndOfTurn;
-                    //yield return HandleFaint(defender);
+                    attacker.PlayAttackAnimation();
+                    yield return new WaitForSeconds(1.0f);
+
+                    var (damage, typeEff, critical) = PerformCalculations(attacker, defender);
+                    yield return defender.TakeDamage(
+                        battleSystem,
+                        battleDialogueBox,
+                        damage,
+                        GetDamageDetails(defender, typeEff, critical)
+                    );
+                    if (!defender.Pokemon.CanFight)
+                    {
+                        yield break;
+                    }
+                }
+                else
+                {
+                    yield return battleDialogueBox.TypeDialogue($"{defender.PokemonPrefixName} avoided the attack!");
                     yield break;
                 }
             }
 
-            // TODO Fix logic error where this cannot apply on self if accuracy check fails
-            var effects = ApplyStatEffects(attacker, defender);
-            for (var i = 0; i < effects.Length; ++i)
-            {
-                if (effects[i].HasValue)
-                {
-                    yield return TypeStatEffectDetails(
-                        battleDialogueBox,
-                        attacker,
-                        defender,
-                        Asset.StatEffects[i],
-                        effects[i].Value
-                    );
-                }
-            }
+            yield return ApplyStatEffects(battleDialogueBox, attacker, defender);
 
             if (Asset.StatusEffect.StatusCondition is StatusCondition.ID.None)
             {
@@ -364,51 +303,19 @@ namespace Scripts.Source
             if (defender.Pokemon.StatusCondition is null)
             {
                 // test for probability
-                if (Utility.Math.Statistics.BernoulliTrial(Asset.StatusEffect.Prob))
+                if (!Utility.Math.Statistics.BernoulliTrial(Asset.StatusEffect.Prob) ||
+                    defender.Pokemon.IsImmuneToStatus(Asset.StatusEffect.StatusCondition))
                 {
-                    // check for type immunities
-                    switch (Asset.StatusEffect.StatusCondition)
-                    {
-                        case StatusCondition.ID.Burn:
-                            if (defender.Pokemon.HasType(Type.ID.Fire))
-                            {
-                                yield break;
-                            }
-
-                            break;
-                        case StatusCondition.ID.Paralysis:
-                            if (defender.Pokemon.HasType(Type.ID.Electric))
-                            {
-                                yield break;
-                            }
-
-                            break;
-                        case StatusCondition.ID.Freeze:
-                            if (defender.Pokemon.HasType(Type.ID.Ice))
-                            {
-                                yield break;
-                            }
-
-                            break;
-                        case StatusCondition.ID.Poison or StatusCondition.ID.BadPoison:
-                            if (defender.Pokemon.HasType(Type.ID.Poison))
-                            {
-                                yield break;
-                            }
-
-                            break;
-                        case StatusCondition.ID.None or StatusCondition.ID.Sleep:
-                            break;
-                        default:
-                            throw new ArgumentOutOfRangeException();
-                    }
-
-                    defender.Pokemon.StatusCondition = StatusCondition.GetConditionByID(Asset.StatusEffect.StatusCondition);
+                    yield break;
                 }
 
-                yield return battleDialogueBox.TypeDialogue($"{defender} {defender.Pokemon.StatusCondition?.InflictMessage}");
+                defender.Pokemon.StatusCondition = StatusCondition.GetConditionByID(Asset.StatusEffect.StatusCondition);
+                if (defender.Pokemon.StatusCondition is not null)
+                {
+                    yield return battleDialogueBox.TypeDialogue($"{defender} {defender.Pokemon.StatusCondition.InflictMessage}");
+                }
             }
-            else if (Asset.Category == Category.Status)
+            else if (Asset.Category is Category.Status)
             {
                 yield return battleDialogueBox.TypeDialogue("But it failed!");
             }

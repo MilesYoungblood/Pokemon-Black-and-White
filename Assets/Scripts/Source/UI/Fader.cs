@@ -3,22 +3,22 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Image))]
-    public class Fader : MonoBehaviour
+    public sealed class Fader : MonoBehaviour
     {
         [SerializeField] private Image image;
 
-        public void SetRGB(Color color)
+        public Color RGB
         {
-            image.color = new Color(color.r, color.g, color.b, image.color.a);
+            set => image.color = new Color(value.r, value.g, value.b, image.color.a);
         }
 
-        public void SetAlpha(float a)
+        public float Alpha
         {
-            image.color = new Color(image.color.r, image.color.g, image.color.b, Mathf.Clamp01(a));
+            set => image.color = new Color(image.color.r, image.color.g, image.color.b, Mathf.Clamp01(value));
         }
 
         public IEnumerator FadeIn(float time)

@@ -1,11 +1,12 @@
 using System.Collections;
+using Scripts.Utility;
 using TMPro;
 using UnityEngine;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class PokemonHUD : MonoBehaviour
+    public sealed class PokemonHUD : MonoBehaviour, ISelectable
     {
         [SerializeField] private new TextMeshProUGUI name;
 
@@ -15,17 +16,32 @@ namespace Scripts.Source.UI
 
         private Pokemon _pokemon;
 
-        public void Init(Pokemon pokemon)
+        public Pokemon Pokemon
         {
-            _pokemon = pokemon;
-            name.text = pokemon.ToString();
-            level.text = $"Lvl. {pokemon.Level}";
-            hpBar.SetHp(pokemon.HP / (float)pokemon.MaxHP);
+            set
+            {
+                _pokemon = value;
+                name.text = value.ToString();
+                level.text = $"Lvl. {value.Level}";
+                hpBar.HP = value.HP / (float)value.MaxHP;
+            }
         }
 
-        public IEnumerator UpdateHp()
+        public IEnumerator UpdateHP()
         {
-            yield return hpBar.SetHpSmooth(_pokemon.HP / (float)_pokemon.MaxHP);
+            yield return hpBar.SetHPSmooth(_pokemon.HP / (float)_pokemon.MaxHP);
+        }
+
+        public void SetSelected(bool selected, bool selectable)
+        {
+            if (selected)
+            {
+                name.fontStyle |= FontStyles.Bold;
+            }
+            else
+            {
+                name.fontStyle &= ~FontStyles.Bold;
+            }
         }
     }
 }

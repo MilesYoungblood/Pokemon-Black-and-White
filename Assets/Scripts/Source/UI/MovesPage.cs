@@ -1,58 +1,47 @@
-﻿using Scripts.Utility;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class MovesPage : MonoBehaviour
+    public sealed class MovesPage : MonoBehaviour
     {
-        private Selector _moveSet;
+        [SerializeField] private RectTransform moveset;
 
-        private Image[] _typeIcons;
+        [SerializeField] private Image[] typeIcons;
 
-        private TextMeshProUGUI[] _moveNames;
+        [SerializeField] private TextMeshProUGUI[] moveNames;
 
-        private TextMeshProUGUI[] _ppAmounts;
+        [SerializeField] private TextMeshProUGUI[] ppAmounts;
 
-        private void Awake()
+        public Pokemon Pokemon
         {
-            _moveSet = transform.Find("Moveset").GetComponent<Selector>();
-
-            var childCount = _moveSet.transform.childCount;
-            _typeIcons = new Image[childCount];
-            _moveNames = new TextMeshProUGUI[childCount];
-            _ppAmounts = new TextMeshProUGUI[childCount];
-
-            for (var i = 0; i < childCount; ++i)
+            set
             {
-                var move = _moveSet.transform.GetChild(i);
-                _typeIcons[i] = move.Find("Type").GetComponent<Image>();
-                _moveNames[i] = move.Find("Name").GetComponent<TextMeshProUGUI>();
-                _ppAmounts[i] = move.Find("PP Amount").GetComponent<TextMeshProUGUI>();
+                for (var i = 0; i < moveset.childCount; ++i)
+                {
+                    {
+                        var move = moveset.GetChild(i).gameObject;
+                        move.SetActive(i < value.MoveSet.Count);
+                        if (!move.activeSelf)
+                        {
+                            continue;
+                        }
+                    }
+                    {
+                        var move = value[i];
+                        typeIcons[i].sprite = Pokedex.Instance.GetTypeIcon(move.Asset.Type);
+                        moveNames[i].text = move.ToString();
+                        ppAmounts[i].text = $"{move.PP}/{move.MaxPP}";
+                    }
+                }
             }
         }
 
-        public void Init(Pokemon pokemon)
+        private void Awake()
         {
-            for (var i = 0; i < _moveSet.transform.childCount; ++i)
-            {
-                {
-                    var move = _moveSet.transform.GetChild(i).gameObject;
-                    move.SetActive(i < pokemon.MoveSet.Count);
-                    if (!move.activeSelf)
-                    {
-                        continue;
-                    }
-                }
-                {
-                    var move = pokemon[i];
-                    _typeIcons[i].sprite = Pokedex.Instance.GetTypeIcon(move.Asset.Type);
-                    _moveNames[i].text = move.ToString();
-                    _ppAmounts[i].text = $"{move.PP}/{move.MaxPP}";
-                }
-            }
+            enabled = false;
         }
     }
 }

@@ -9,15 +9,13 @@ namespace Scripts.Utility
 {
     public class Selector : MonoBehaviour
     {
+        private ISelectable[] _selectables;
+
         private Action[] _callbacks;
 
         private int _columnCount;
 
-        private ISelectable[] _selectables;
-
         private int _selection;
-
-        private SelectorInput _selectorInput;
 
         public int Selection
         {
@@ -25,7 +23,8 @@ namespace Scripts.Utility
             private set
             {
                 _selection = value;
-                for (var i = 0; i < transform.childCount; ++i)
+                var iterations = Mathf.Min(transform.childCount, _selectables.Length);
+                for (var i = 0; i < iterations; ++i)
                 {
                     _selectables[i].SetSelected(Selection == i, IsSelectable?.Invoke(i) ?? true);
                 }
@@ -39,7 +38,7 @@ namespace Scripts.Utility
             get => _callbacks;
             set
             {
-                //var previousState = gameObject.activeSelf;
+                var previousState = gameObject.activeSelf;
                 gameObject.SetActive(true);
 
                 _callbacks = value;
@@ -49,7 +48,7 @@ namespace Scripts.Utility
                 }
 
                 Selection = 0;
-                //gameObject.SetActive(previousState);
+                gameObject.SetActive(previousState);
             }
         }
 
@@ -61,12 +60,7 @@ namespace Scripts.Utility
 
         private void Awake()
         {
-            _selectorInput = new SelectorInput();
-            _selectorInput.Default.Select.performed += HandleSelect;
-            _selectorInput.Default.Accept.performed += HandleAccept;
-            _selectorInput.Default.Cancel.performed += HandleCancel;
-
-            _selectables = GetComponentsInChildren<ISelectable>();
+            OnTransformChildrenChanged();
 
             if (TryGetComponent<GridLayoutGroup>(out var gridLayoutGroup))
             {
@@ -74,8 +68,9 @@ namespace Scripts.Utility
                 {
                     GridLayoutGroup.Constraint.Flexible => throw new NotImplementedException(),
                     GridLayoutGroup.Constraint.FixedColumnCount => gridLayoutGroup.constraintCount,
-                    GridLayoutGroup.Constraint.FixedRowCount => Mathf.CeilToInt(transform.childCount /
-                        (float)gridLayoutGroup.constraintCount),
+                    GridLayoutGroup.Constraint.FixedRowCount => Mathf.CeilToInt(
+                        transform.childCount / (float)gridLayoutGroup.constraintCount
+                    ),
                     _ => throw new ArgumentOutOfRangeException()
                 };
             }
@@ -93,29 +88,23 @@ namespace Scripts.Utility
             }
         }
 
-        private void OnEnable()
-        {
-            _selectorInput.Enable();
-            _selectorInput.Default.Enable();
-        }
-
         private void OnDisable()
         {
-            _selectorInput.Default.Disable();
-            _selectorInput.Disable();
             Selection = 0;
         }
 
         private void OnDestroy()
         {
-            _selectorInput.Default.Select.performed -= HandleSelect;
-            _selectorInput.Default.Accept.performed -= HandleAccept;
-            _selectorInput.Default.Cancel.performed -= HandleCancel;
             OnCancel = null;
             OnChange = null;
         }
 
-        public void HandleSelect(InputAction.CallbackContext context)
+        private void OnTransformChildrenChanged()
+        {
+            _selectables = GetComponentsInChildren<ISelectable>();
+        }
+
+        public void Move(InputAction.CallbackContext context)
         {
             if (!context.performed)
             {
@@ -160,26 +149,20 @@ namespace Scripts.Utility
             }
         }
 
-        public void HandleAccept(InputAction.CallbackContext context)
+        public void Submit(InputAction.CallbackContext context)
         {
-            if (!context.performed)
+            if (context.performed)
             {
-                return;
+                Callbacks?[Selection]?.Invoke();
             }
-
-            Callbacks?[Selection]?.Invoke();
-            //gameObject.SetActive(Callbacks?[Selection] == null);
         }
 
-        public void HandleCancel(InputAction.CallbackContext context)
+        public void Cancel(InputAction.CallbackContext context)
         {
-            if (!context.performed)
+            if (context.performed)
             {
-                return;
+                OnCancel?.Invoke();
             }
-
-            OnCancel?.Invoke();
-            //gameObject.SetActive(OnCancel == null);
         }
     }
 }

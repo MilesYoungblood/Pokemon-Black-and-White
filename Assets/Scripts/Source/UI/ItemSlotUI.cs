@@ -2,22 +2,22 @@
 using TMPro;
 using UnityEngine;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class ItemSlotUI : MonoBehaviour, ISelectable
+    public sealed class ItemSlotUI : MonoBehaviour, ISelectable
     {
         [SerializeField] private new TextMeshProUGUI name;
 
         [SerializeField] private TextMeshProUGUI quantity;
 
-        private RectTransform _rectTransform;
+        [SerializeField] private RectTransform rectTransform;
 
-        public float Height => _rectTransform.rect.height;
+        public float Height => rectTransform.rect.height;
 
         private void Awake()
         {
-            _rectTransform = GetComponent<RectTransform>();
+            enabled = false;
         }
 
         public ItemSlotUI Init(Item item)
@@ -39,11 +39,6 @@ namespace Scripts.Source.UI
                 name.fontStyle &= ~FontStyles.Bold;
                 quantity.fontStyle |= FontStyles.Bold;
             }
-        }
-
-        public void SetSelected(bool selected)
-        {
-            throw new System.NotImplementedException();
         }
     }
 }

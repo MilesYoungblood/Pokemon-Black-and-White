@@ -8,37 +8,60 @@ namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Animator))]
-    public class BattleUnit : MonoBehaviour
+    public sealed class BattleUnit : MonoBehaviour
     {
-        [SerializeField] private UI.PokemonHUD pokemonHud;
-
-        private Dictionary<VolatileStatusCondition, int> _volatileStatusConditions;
-
-        public bool IsPlayerUnit => name == "Player Unit";
-
-        public UI.PokemonHUD PokemonHud => pokemonHud;
-
-        public IBattler Battler { get; private set; }
-
-        public Move CurrentMove { get; }
-
-        private Dictionary<Stat, int> _statMods;
-
-        private int _volatileStatusCounter;
+        [SerializeField] private PokemonHUD pokemonHUD;
 
         [SerializeField] private SpriteRenderer spriteRenderer;
 
         [SerializeField] private Animator animator;
 
+        private readonly StatModifier _attack = new(true);
+
+        private readonly StatModifier _defense = new(true);
+
+        private readonly StatModifier _spAttack = new(true);
+
+        private readonly StatModifier _spDefense = new(true);
+
+        private readonly StatModifier _speed = new(true);
+
+        private readonly StatModifier _accuracy = new(false);
+
+        private readonly StatModifier _evasiveness = new(false);
+
+        private Dictionary<VolatileStatusCondition, int> _volatileStatusConditions;
+
+        private int _volatileStatusCounter;
+
         private Vector3 _originalPosition;
 
         private Vector3 _originalScale;
 
-        public int this[Stat stat]
+        public StatModifier this[Stat stat]
         {
-            get => _statMods[stat];
-            set => _statMods[stat] = value;
+            get
+            {
+                return stat switch
+                {
+                    Stat.HP => throw new ArgumentException("HP doesn't have a stat modifier.", nameof(stat)),
+                    Stat.Attack => _attack,
+                    Stat.Defense => _defense,
+                    Stat.SpAttack => _spAttack,
+                    Stat.SpDefense => _spDefense,
+                    Stat.Speed => _speed,
+                    Stat.Accuracy => _accuracy,
+                    Stat.Evasiveness => _evasiveness,
+                    _ => throw new ArgumentOutOfRangeException(nameof(stat), stat, null)
+                };
+            }
         }
+
+        public bool IsPlayerUnit => name is "Player Unit";
+
+        public IBattler Battler { get; private set; }
+
+        public Move CurrentMove { get; }
 
         public Pokemon Pokemon => Battler.ActivePokemon;
 
@@ -54,16 +77,14 @@ namespace Scripts.Source
 
         public IEnumerator Init()
         {
-            _statMods = new Dictionary<Stat, int>
-            {
-                [Stat.Attack] = 0,
-                [Stat.Defense] = 0,
-                [Stat.SpAttack] = 0,
-                [Stat.SpDefense] = 0,
-                [Stat.Speed] = 0,
-                [Stat.Accuracy] = 0,
-                [Stat.Evasiveness] = 0
-            };
+            _attack.Init();
+            _defense.Init();
+            _spAttack.Init();
+            _spDefense.Init();
+            _speed.Init();
+            _accuracy.Init();
+            _evasiveness.Init();
+
             _volatileStatusConditions = new Dictionary<VolatileStatusCondition, int>
             {
                 [VolatileStatusCondition.Flinch] = -1,
@@ -89,7 +110,7 @@ namespace Scripts.Source
                 transform.DOLocalMoveY(shiftAmountLocal - _originalPosition.y, 0.0f);
             }
 
-            pokemonHud.Init(Pokemon);
+            pokemonHUD.Pokemon = Pokemon;
 
             PlayEnterAnimation();
 
@@ -112,42 +133,6 @@ namespace Scripts.Source
             ResetPosition();
             Battler = null;
             spriteRenderer.sprite = Pokedex.Instance.FakeSprite;
-        }
-
-        public float GetStatModCalc(Stat stat)
-        {
-            return stat switch
-            {
-                Stat.Attack or Stat.Defense or Stat.SpAttack or Stat.SpDefense or Stat.Speed => _statMods[stat] < 0
-                    ? 2.0f / (8 + _statMods[stat])
-                    : (2.0f + _statMods[stat]) / 2.0f,
-                Stat.Accuracy or Stat.Evasiveness => _statMods[stat] switch
-                {
-                    -6 => 33.0f / 100.0f,
-                    -5 => 36.0f / 100.0f,
-                    -4 => 43.0f / 100.0f,
-                    -3 => 50.0f / 100.0f,
-                    -2 => 60.0f / 100.0f,
-                    -1 => 75.0f / 100.0f,
-                    0 => 100.0f / 100.0f,
-                    1 => 133.0f / 100.0f,
-                    2 => 166.0f / 100.0f,
-                    3 => 200.0f / 100.0f,
-                    4 => 250.0f / 100.0f,
-                    5 => 266.0f / 100.0f,
-                    6 => 300.0f / 100.0f,
-                    _ => throw new ArgumentOutOfRangeException()
-                },
-                _ => throw new ArgumentOutOfRangeException()
-            };
-        }
-
-        public bool ApplyStatEffect(Stat stat, int amount)
-        {
-            var previousMod = _statMods[stat];
-            _statMods[stat] = Mathf.Clamp(_statMods[stat] + amount, -6, 6);
-
-            return _statMods[stat] != previousMod;
         }
 
         public bool HasVolatileStatusCondition(VolatileStatusCondition volatileStatusCondition)
@@ -175,6 +160,26 @@ namespace Scripts.Source
             }
         }
 
+        public IEnumerator TakeDamage(
+            BattleSystem battleSystem,
+            BattleDialogueBox battleDialogueBox,
+            int damage,
+            List<string> messages)
+        {
+            Pokemon.HP -= damage;
+            PlayHitAnimation();
+            yield return pokemonHUD.UpdateHP();
+            foreach (var message in messages)
+            {
+                yield return battleDialogueBox.TypeDialogue(message);
+            }
+
+            if (!Pokemon.CanFight)
+            {
+                yield return battleSystem.Faint(this);
+            }
+        }
+
         private void PlayEnterAnimation()
         {
             // restore the image to its original alpha
@@ -194,7 +199,7 @@ namespace Scripts.Source
                 .Append(transform.DOLocalMoveX(_originalPosition.x, 0.25f));
         }
 
-        public void PlayHitAnimation()
+        private void PlayHitAnimation()
         {
             var previousColor = spriteRenderer.color;
             DOTween.Sequence()
@@ -212,7 +217,7 @@ namespace Scripts.Source
             void HandleReset()
             {
                 // reposition the image to its original offset
-                transform.localPosition = new Vector3(_originalPosition.x, _originalPosition.y);
+                transform.localPosition = _originalPosition;
             }
         }
 

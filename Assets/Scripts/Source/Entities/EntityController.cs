@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
 using Cinemachine.Utility;
+using DG.Tweening;
+using JetBrains.Annotations;
 using Scripts.Utility;
 using Scripts.Utility.Math;
 using UnityEngine;
@@ -9,9 +11,9 @@ namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Animator))]
-    public abstract class CharacterController : MonoBehaviour, ISavable
+    public abstract class EntityController : MonoBehaviour, ISavable
     {
-        protected enum Speed
+        public enum Speed
         {
             Walk,
             Run
@@ -25,27 +27,31 @@ namespace Scripts.Source
 
         private static readonly int LookY = Animator.StringToHash("LookY");
 
-        protected static readonly int IsMoving = Animator.StringToHash("IsMoving");
-
-        protected Animator Animator => animator;
+        private static readonly int IsMoving = Animator.StringToHash("IsMoving");
 
         protected virtual Vector2Int Direction
         {
             get => direction;
             set
             {
-                if (value == Vector2Int.zero)
+                value.Clamp(-Vector2Int.one, Vector2Int.one);
+                if (value.sqrMagnitude is not 1)
                 {
                     return;
                 }
 
                 direction = value;
-                Animator.SetFloat(LookX, value.x);
-                Animator.SetFloat(LookY, value.y);
+                animator.SetFloat(LookX, value.x);
+                animator.SetFloat(LookY, value.y);
             }
         }
 
-        protected static float GetSpeed(Speed speed)
+        public Vector3 LookAt
+        {
+            set => Direction = Vector2Int.RoundToInt(value.Floor() - transform.position.Floor());
+        }
+
+        private static float GetSpeed(Speed speed)
         {
             return speed switch
             {
@@ -55,49 +61,37 @@ namespace Scripts.Source
             };
         }
 
-        protected IEnumerator Move(Speed speed, Vector3 moveVector, Action onMoveOver = null)
+        public IEnumerator Move(Speed speed, Vector3 moveVector, Action onMoveOver = null)
         {
-            Animator.SetBool(IsMoving, true);
+            animator.SetBool(IsMoving, true);
 
             var start = transform.position;
             var end = start + moveVector;
 
-            var duration = Vector3.Distance(start, end.normalized) / GetSpeed(speed);
-            for (var elapsed = 0.0f; elapsed < duration; elapsed += Time.fixedDeltaTime)
-            {
-                transform.position = Vector3.Lerp(start, end, elapsed / duration);
-                yield return new WaitForFixedUpdate();
-            }
-
-            transform.position = end;
+            yield return transform.DOMove(
+                end,
+                Vector3.Distance(start, end) / GetSpeed(speed)
+            ).SetEase(Ease.Linear).WaitForCompletion();
 
             onMoveOver?.Invoke();
 
-            Animator.SetBool(IsMoving, false);
+            animator.SetBool(IsMoving, false);
         }
 
+        [CanBeNull]
         protected Collider2D GetCollider2DInFront(int layerMask)
         {
             return Physics2D.OverlapPoint((Vector2)transform.position + Direction, layerMask);
         }
 
-        protected bool IsCenteredOnTile()
+        public bool IsCenteredOnTile()
         {
-            return transform.position.Abs().Mod(1.0f) == (Vector3)(Vector2.up / 2.0f);
+            return transform.position.Abs().Mod(1.0f) == Vector3.up / 2.0f;
         }
 
         protected bool IsPathClear()
         {
             return !GetCollider2DInFront(LayerMask.GetMask("Collision", "Interact"));
-        }
-
-        public void LookTowardsPosition(Vector3 targetPosition)
-        {
-            var diffVector = (Vector2)(targetPosition.Floor() - transform.position.Floor());
-            if (diffVector.x is 0 || diffVector.y is 0)
-            {
-                Direction = Vector2Int.RoundToInt(diffVector);
-            }
         }
 
         public object CaptureState()

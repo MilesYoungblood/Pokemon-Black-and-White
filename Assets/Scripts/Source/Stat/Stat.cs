@@ -2,7 +2,7 @@
 {
     public enum Stat
     {
-        Hp,
+        HP,
         Attack,
         Defense,
         SpAttack,

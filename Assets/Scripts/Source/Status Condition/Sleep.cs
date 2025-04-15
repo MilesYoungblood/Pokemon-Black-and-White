@@ -1,4 +1,5 @@
-﻿using Scripts.Utility;
+﻿using System.Collections;
+using Scripts.Utility;
 
 namespace Scripts.Source
 {
@@ -17,9 +18,9 @@ namespace Scripts.Source
             return ID.Sleep;
         }
 
-        public override void HandlePreTurn(BattleUnit unit, out string message, out bool canMove)
+        public override void PreTurn(BattleUnit unit, out string message, out bool canMove)
         {
-            if (Counter == 0)
+            if (Counter is 0)
             {
                 unit.Pokemon.StatusCondition = null;
                 message = CureMessage;
@@ -30,6 +31,14 @@ namespace Scripts.Source
                 message = "is fast asleep.";
                 canMove = false;
             }
+        }
+
+        public override IEnumerator PostTurn(
+            BattleSystem battleSystem,
+            BattleDialogueBox battleDialogueBox,
+            BattleUnit target)
+        {
+            yield break;
         }
     }
 }

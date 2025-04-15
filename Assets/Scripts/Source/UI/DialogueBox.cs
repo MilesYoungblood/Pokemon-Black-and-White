@@ -1,55 +1,21 @@
-using System;
 using System.Collections;
+using Scripts.Utility;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class DialogueBox : MonoBehaviour
+    public sealed class DialogueBox : MonoBehaviour
     {
-        private DialogueBoxInput _dialogueBoxInput;
+        [SerializeField] private PlayerController playerController;
 
-        private TextMeshProUGUI _dialogueText;
+        [SerializeField] private TextMeshProUGUI dialogueText;
 
-        public event Action OnShowDialogue;
+        [SerializeField] [Min(0)] private int frameRate;
 
-        public event Action OnCloseDialogue;
-
-        public static DialogueBox Instance { get; private set; }
-
-        public void Awake()
-        {
-            if (Instance && Instance != this)
-            {
-                Destroy(this);
-            }
-            else
-            {
-                Instance = this;
-                _dialogueText = GetComponentInChildren<TextMeshProUGUI>();
-                _dialogueBoxInput = new DialogueBoxInput();
-                _dialogueBoxInput.Default.Accept.performed += HandleAccept;
-            }
-        }
-
-        private void OnEnable()
-        {
-            _dialogueBoxInput.Default.Enable();
-        }
-
-        private void OnDisable()
-        {
-            _dialogueBoxInput.Default.Disable();
-        }
-
-        private void OnDestroy()
-        {
-            _dialogueBoxInput.Default.Accept.performed -= HandleAccept;
-        }
-
-        public void HandleAccept(InputAction.CallbackContext context)
+        public void Submit(InputAction.CallbackContext context)
         {
             /*
             if (!context.performed || _isTyping)
@@ -76,32 +42,37 @@ namespace Scripts.Source.UI
         public IEnumerator ShowDialogue(Dialogue dialogue)
         {
             yield return new WaitForEndOfFrame();
-            OnShowDialogue?.Invoke();
+            playerController.ActionMap = "Dialogue";
 
             gameObject.SetActive(true);
             for (var i = 0; i < dialogue.Pages.Length; ++i)
             {
-                yield return TypeDialogue(dialogue.Pages[i]);
-                yield return new WaitUntil(() => _dialogueBoxInput.Default.Accept.phase == InputActionPhase.Performed);
+                dialogueText.text = string.Empty;
+                foreach (var letter in dialogue.Pages[i])
+                {
+                    dialogueText.text += letter.ToString();
+                    yield return new WaitForSeconds(1.0f / frameRate);
+                }
+
+                yield return new WaitUntil(IsPerformed);
 
                 if (i < dialogue.Pages.Length - 1)
                 {
-                    //AudioManager.Instance.PlaySound("Accept");
+                    AudioManager.Instance.PlaySound("Accept");
                 }
             }
 
+            if (playerController.ActionMap is "Dialogue")
+            {
+                playerController.ActionMap = "Overworld";
+            }
+
             gameObject.SetActive(false);
-            OnCloseDialogue?.Invoke();
         }
 
-        private IEnumerator TypeDialogue(string line)
+        private static bool IsPerformed()
         {
-            _dialogueText.text = string.Empty;
-            foreach (var letter in line)
-            {
-                _dialogueText.text += letter;
-                yield return new WaitForSeconds(1.0f / 50.0f);
-            }
+            return GameController.Instance.PlayerController.Actions.Dialogue.Submit.phase is InputActionPhase.Performed;
         }
     }
 }

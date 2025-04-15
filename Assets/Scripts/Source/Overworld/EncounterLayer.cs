@@ -1,4 +1,5 @@
 ﻿using System;
+using Scripts.Utility;
 using UnityEngine;
 using RangeInt = Scripts.Utility.RangeInt;
 
@@ -33,14 +34,14 @@ namespace Scripts.Source
 
         private Pokemon GenerateWildPokemon()
         {
-            var pokemon = new Pokemon(wildPokemon[UnityEngine.Random.Range(0, wildPokemon.Length)]);
+            var pokemon = new Pokemon(wildPokemon.RandomElement());
             pokemon.Init();
             return pokemon;
         }
 
-        public void OnTrigger(PlayerController playerController)
+        public void OnTrigger()
         {
-            if (UnityEngine.Random.Range(0, byte.MaxValue + 1) < GetTileRange().RandomInt())
+            if (new RangeInt(0, byte.MaxValue).RandomInt() < GetTileRange().RandomInt())
             {
                 OnWildEncounter?.Invoke(GenerateWildPokemon());
             }

@@ -75,5 +75,10 @@ namespace Scripts.Source
         {
             return GetStat(nature).Item2;
         }
+
+        public static ID GetRandomNature()
+        {
+            return (ID)UnityEngine.Random.Range(0, 25);
+        }
     }
 }

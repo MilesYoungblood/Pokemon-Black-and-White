@@ -41,7 +41,7 @@ namespace Scripts.Source
                 TryAddOperation(operations, scene.LoadScene());
             }
 
-            GameController.Instance.TransitionScene(this);
+            GameController.Instance.CurrentScene = this;
 
             AudioManager.Instance.RequestSong(music);
 
@@ -52,8 +52,7 @@ namespace Scripts.Source
             }
 
             // unload non-adjacent scenes
-            var previousScenes = GameController.Instance.PreviousScene.connectedScenes;
-            foreach (var scene in previousScenes.Where(scene => !connectedScenes.Contains(scene) && scene != this))
+            foreach (var scene in GameController.Instance.PreviousScene.connectedScenes.Where(IsConnected))
             {
                 TryAddOperation(operations, scene.UnloadScene());
             }
@@ -125,6 +124,11 @@ namespace Scripts.Source
         private SavableEntity[] GetSavableEntitiesInScene()
         {
             return FindObjectsByType<SavableEntity>(FindObjectsInactive.Include, FindObjectsSortMode.None).Where(SceneExists).ToArray();
+        }
+
+        private bool IsConnected(SceneInfo scene)
+        {
+            return !connectedScenes.Contains(scene) && scene != this;
         }
 
         private bool SceneExists(SavableEntity entity)

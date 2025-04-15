@@ -2,10 +2,10 @@ using Scripts.Utility;
 using TMPro;
 using UnityEngine;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class PartyMemberUI : MonoBehaviour, ISelectable
+    public sealed class PartyMemberUI : MonoBehaviour, ISelectable
     {
         [SerializeField] private new TextMeshProUGUI name;
 
@@ -13,11 +13,19 @@ namespace Scripts.Source.UI
 
         [SerializeField] private HPBar hpBar;
 
-        public void Init(Pokemon pokemon)
+        public Pokemon Pokemon
         {
-            name.text = pokemon.ToString();
-            level.text = $"Lvl. {pokemon.Level}";
-            hpBar.SetHp(pokemon.HP / (float)pokemon.MaxHP);
+            set
+            {
+                name.text = value.ToString();
+                level.text = $"Lvl. {value.Level.ToString()}";
+                hpBar.HP = value.HP / (float)value.MaxHP;
+            }
+        }
+
+        private void Awake()
+        {
+            enabled = false;
         }
 
         public void SetSelected(bool selected, bool selectable)

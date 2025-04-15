@@ -3,45 +3,46 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class HPBar : MonoBehaviour
+    public sealed class HPBar : MonoBehaviour
     {
         [SerializeField] private RectTransform hp;
 
         [SerializeField] private Image image;
 
+        public float HP
+        {
+            set
+            {
+                hp.localScale = new Vector3(value, 1.0f, 1.0f);
+                image.color = hp.localScale.x switch
+                {
+                    > 0.5f => Color.green,
+                    > 0.1f => Color.yellow,
+                    _ => Color.red
+                };
+            }
+        }
+
         public static event Action OnHpReturned;
 
         public static event Action OnLowHp;
 
-        public void SetHp(float health)
+        public IEnumerator SetHPSmooth(float targetHealth, float duration = 0.5f)
         {
-            hp.localScale = new Vector3(health, 1.0f);
-            image.color = hp.localScale.x switch
-            {
-                > 0.5f => Color.green,
-                > 0.1f => Color.yellow,
-                _ => Color.red
-            };
-        }
+            var startHealth = hp.localScale.x;
 
-        public IEnumerator SetHpSmooth(float health)
-        {
-            var currentHp = hp.localScale.x;
-            var changeAmount = currentHp - health;
-
-            while (currentHp - health > Mathf.Epsilon)
+            for (var elapsed = 0.0f; elapsed < duration; elapsed += Time.deltaTime)
             {
-                currentHp -= changeAmount * Time.deltaTime;
-                SetHp(currentHp);
+                HP = Mathf.Lerp(startHealth, targetHealth, elapsed / duration);
                 yield return null;
             }
 
-            SetHp(health);
+            HP = targetHealth; // Ensure final precision
 
-            switch (hp.localScale.x)
+            switch (targetHealth)
             {
                 case > 0.1f:
                     OnHpReturned?.Invoke();

@@ -1,4 +1,6 @@
-﻿namespace Scripts.Source
+﻿using System.Collections;
+
+namespace Scripts.Source
 {
     public sealed class Paralysis : StatusCondition
     {
@@ -11,7 +13,7 @@
             return ID.Paralysis;
         }
 
-        public override void HandlePreTurn(BattleUnit unit, out string message, out bool canMove)
+        public override void PreTurn(BattleUnit unit, out string message, out bool canMove)
         {
             if (Utility.Math.Statistics.BernoulliTrial(0.25f))
             {
@@ -23,6 +25,14 @@
                 message = string.Empty;
                 canMove = true;
             }
+        }
+
+        public override IEnumerator PostTurn(
+            BattleSystem battleSystem,
+            BattleDialogueBox battleDialogueBox,
+            BattleUnit target)
+        {
+            yield break;
         }
     }
 }

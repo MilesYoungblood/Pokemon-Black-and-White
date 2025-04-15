@@ -2,7 +2,7 @@
 
 namespace Scripts.Source
 {
-    public class RunAway : IBattleAction
+    public sealed class RunAway : IBattleAction
     {
         public byte Priority => 4;
 

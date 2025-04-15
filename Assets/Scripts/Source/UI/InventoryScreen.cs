@@ -1,35 +1,37 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Scripts.Utility;
+using Scripts.Utility.Math;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class InventoryScreen : MonoBehaviour
+    public sealed class InventoryScreen : MonoBehaviour
     {
+        [SerializeField] [Min(0)] private int itemsInViewport;
+
         [SerializeField] private ItemSlotUI itemSlotUI;
 
-        [SerializeField] private TextMeshProUGUI pocketText;
+        [SerializeField] private TextMeshProUGUI pocket;
 
-        [SerializeField] private TextMeshProUGUI effectText;
+        [SerializeField] private TextMeshProUGUI effect;
 
         [SerializeField] private Image itemIcon;
 
-        private GameObject _upArrow;
+        [SerializeField] private GameObject upArrow;
 
-        private GameObject _downArrow;
+        [SerializeField] private GameObject downArrow;
 
-        private GameObject _leftArrow;
+        [SerializeField] private GameObject leftArrow;
 
-        private GameObject _rightArrow;
+        [SerializeField] private GameObject rightArrow;
 
-        private Transform _itemList;
-
-        private RectTransform _itemListRect;
+        [SerializeField] private RectTransform itemList;
 
         // list representation of itemList GameObject
         private ItemSlotUI[] _itemSlotUIs;
@@ -37,33 +39,34 @@ namespace Scripts.Source.UI
         // contains all item pockets
         // this is initialized once per opening of inventory screen
         private List<Item>[] _sets;
+
         private string[] _pocketTexts;
 
         private Action[] _setCallbacks;
+
         private Action _onCancel;
 
         private int _currentSet;
+
         private int _selection;
 
         private InventoryScreenInput _inventoryScreenInput;
-
-        private static int ItemsInViewport => 6;
 
         public ItemAsset CurrentAsset => _sets[_currentSet][_selection].Asset;
 
         private void Awake()
         {
-            _upArrow = transform.Find("Up Arrow").gameObject;
-            _downArrow = transform.Find("Down Arrow").gameObject;
-            _leftArrow = transform.Find("Left Arrow").gameObject;
-            _rightArrow = transform.Find("Right Arrow").gameObject;
-            _itemList = transform.Find("Item View/Viewport/Item List");
-            _itemListRect = _itemList.GetComponent<RectTransform>();
-
             _inventoryScreenInput = new InventoryScreenInput();
-            _inventoryScreenInput.Default.Select.performed += HandleSelect;
-            _inventoryScreenInput.Default.Accept.performed += HandleAccept;
-            _inventoryScreenInput.Default.Cancel.performed += HandleCancel;
+            _inventoryScreenInput.Default.Move.performed += Move;
+            _inventoryScreenInput.Default.Submit.performed += Submit;
+            _inventoryScreenInput.Default.Cancel.performed += Cancel;
+        }
+
+        private void OnDestroy()
+        {
+            _inventoryScreenInput.Default.Move.performed -= Move;
+            _inventoryScreenInput.Default.Submit.performed -= Submit;
+            _inventoryScreenInput.Default.Cancel.performed -= Cancel;
         }
 
         private void OnEnable()
@@ -77,17 +80,7 @@ namespace Scripts.Source.UI
             _currentSet = 0;
             Clean();
 
-            _leftArrow.SetActive(true);
-            _rightArrow.SetActive(true);
-
             _inventoryScreenInput.Default.Disable();
-        }
-
-        private void OnDestroy()
-        {
-            _inventoryScreenInput.Default.Select.performed -= HandleSelect;
-            _inventoryScreenInput.Default.Accept.performed -= HandleAccept;
-            _inventoryScreenInput.Default.Cancel.performed -= HandleCancel;
         }
 
         public void Close()
@@ -100,7 +93,7 @@ namespace Scripts.Source.UI
             _itemSlotUIs = new ItemSlotUI[_sets[set].Count];
             for (var i = 0; i < _itemSlotUIs.Length; ++i)
             {
-                _itemSlotUIs[i] = Instantiate(itemSlotUI, _itemList).Init(_sets[set][i]);
+                _itemSlotUIs[i] = Instantiate(itemSlotUI, itemList).Init(_sets[set][i]);
             }
         }
 
@@ -114,10 +107,10 @@ namespace Scripts.Source.UI
             // Add each set passed
             for (var i = 0; i < sets.Length; ++i)
             {
-                _sets[i] = inventory.GetPocket(sets[i].Item1).Values.ToList();
+                _sets[i] = inventory.GetItems(sets[i].Item1);
 
                 // add each pocket text
-                _pocketTexts[i] = sets[i].Item1.ToString();
+                _pocketTexts[i] = sets[i].Item1.Name;
 
                 // Add each set function
                 // Each set will carry one common function
@@ -126,12 +119,10 @@ namespace Scripts.Source.UI
 
             InitItemSlotUIs(0);
 
-            pocketText.text = _pocketTexts.First();
-            if (_pocketTexts.Length == 1)
-            {
-                _leftArrow.SetActive(false);
-                _rightArrow.SetActive(false);
-            }
+            pocket.text = _pocketTexts.First();
+            var multiple = _pocketTexts.Length > 1;
+            leftArrow.SetActive(multiple);
+            rightArrow.SetActive(multiple);
 
             _onCancel = onCancel;
 
@@ -141,11 +132,7 @@ namespace Scripts.Source.UI
 
         private void Clean()
         {
-            // clear the itemList GameObject of its children
-            foreach (Transform child in _itemList)
-            {
-                Destroy(child.gameObject);
-            }
+            itemList.DestroyChildren();
 
             // TODO this might not be necessary
             foreach (var itemSlotUi in _itemSlotUIs)
@@ -175,15 +162,14 @@ namespace Scripts.Source.UI
         {
             if (next)
             {
-                _currentSet = (_currentSet + 1) % _sets.Length;
+                _currentSet.ModuloIncrement(_sets.Length);
             }
             else
             {
-                var setCount = _sets.Length;
-                _currentSet = (_currentSet - 1 + setCount) % setCount;
+                _currentSet.ModuloDecrement(_sets.Length);
             }
 
-            pocketText.text = _pocketTexts[_currentSet];
+            pocket.text = _pocketTexts[_currentSet];
 
             if (_sets.Length > 1)
             {
@@ -191,17 +177,19 @@ namespace Scripts.Source.UI
             }
         }
 
-        private void HandleScrolling()
+        private void Scroll()
         {
-            var size = ItemsInViewport / 2;
-            if (_itemSlotUIs.Length > ItemsInViewport)
+            var size = itemsInViewport / 2;
+            if (_itemSlotUIs.Length > itemsInViewport)
             {
-                var scrollPosition = Mathf.Clamp(_selection - size, 0, _selection) * _itemSlotUIs[_selection].Height;
-                _itemListRect.localPosition = new Vector3(_itemListRect.localPosition.x, scrollPosition);
+                itemList.localPosition = new Vector3(
+                    itemList.localPosition.x,
+                    Mathf.Clamp(_selection - size, 0, _selection) * _itemSlotUIs[_selection].Height
+                );
             }
 
-            _upArrow.SetActive(_selection > size);
-            _downArrow.SetActive(_selection + size < _itemSlotUIs.Length);
+            upArrow.SetActive(_selection > size);
+            downArrow.SetActive(_selection + size < _itemSlotUIs.Length);
         }
 
         private void UpdateSelection()
@@ -215,20 +203,20 @@ namespace Scripts.Source.UI
 
                 var item = _sets[_currentSet][_selection].Asset;
                 itemIcon.sprite = item.Sprite;
-                effectText.text = item.Effect;
+                effect.text = item.Effect;
 
-                HandleScrolling();
+                Scroll();
             }
             else
             {
                 itemIcon.sprite = null;
-                effectText.text = string.Empty;
-                _upArrow.SetActive(false);
-                _downArrow.SetActive(false);
+                effect.text = string.Empty;
+                upArrow.SetActive(false);
+                downArrow.SetActive(false);
             }
         }
 
-        public void HandleSelect(InputAction.CallbackContext context)
+        public void Move(InputAction.CallbackContext context)
         {
             if (!context.performed)
             {
@@ -244,23 +232,22 @@ namespace Scripts.Source.UI
             {
                 ChangeSet(false);
             }
-            else if (_sets[_currentSet].Count > 0)
+            else if (_sets[_currentSet].Any())
             {
                 if (input == Vector2.up)
                 {
-                    var currentSetCount = _sets[_currentSet].Count;
-                    _selection = (_selection - 1 + currentSetCount) % currentSetCount;
+                    _selection.ModuloDecrement(_sets[_currentSet].Count);
                     UpdateSelection();
                 }
                 else if (input == Vector2.down)
                 {
-                    _selection = (_selection + 1) % _sets[_currentSet].Count;
+                    _selection.ModuloIncrement(_sets[_currentSet].Count);
                     UpdateSelection();
                 }
             }
         }
 
-        public void HandleAccept(InputAction.CallbackContext context)
+        public void Submit(InputAction.CallbackContext context)
         {
             if (context.performed)
             {
@@ -268,7 +255,7 @@ namespace Scripts.Source.UI
             }
         }
 
-        public void HandleCancel(InputAction.CallbackContext context)
+        public void Cancel(InputAction.CallbackContext context)
         {
             if (context.performed)
             {

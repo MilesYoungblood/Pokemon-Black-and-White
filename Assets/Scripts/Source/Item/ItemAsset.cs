@@ -12,6 +12,8 @@ namespace Scripts.Source
 
         [SerializeField] private Sprite sprite;
 
+        private static readonly Dictionary<string, ItemAsset> Bases = new();
+
         public string Effect => effect;
 
         public Sprite Sprite => sprite;
@@ -25,17 +27,14 @@ namespace Scripts.Source
             return new List<string>();
         }
 
-        private static readonly Dictionary<string, ItemAsset> Bases = new();
-
-        public static void Init()
+        private void OnEnable()
         {
-            foreach (var itemBase in Resources.LoadAll<ItemAsset>("Items"))
-            {
-                if (!Bases.TryAdd(itemBase.name, itemBase))
-                {
-                    MonoBehaviour.print($"Unable to add Item Base {itemBase.name}");
-                }
-            }
+            Bases.Add(name, this);
+        }
+
+        private void OnDisable()
+        {
+            Bases.Remove(name);
         }
 
         public static ItemAsset GetBaseByName(string name)

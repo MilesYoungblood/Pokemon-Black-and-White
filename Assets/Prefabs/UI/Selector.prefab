@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5047307341039591808}
   - component: {fileID: 3179508820065107647}
-  - component: {fileID: 3719678068759604583}
+  - component: {fileID: 6566854085073993027}
   - component: {fileID: 6770284295279889726}
   m_Layer: 5
   m_Name: Selector
@@ -62,84 +62,14 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 1
   m_ConstraintCount: 2
---- !u!114 &3719678068759604583
-MonoBehaviour:
+--- !u!222 &6566854085073993027
+CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 118911949990875364}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: e549ce54582cba04d9d05d6cdfbc93fa, type: 3}
-  m_NotificationBehavior: 2
-  m_UIInputModule: {fileID: 0}
-  m_DeviceLostEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_DeviceRegainedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ControlsChangedEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  m_ActionEvents:
-  - m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 6770284295279889726}
-        m_TargetAssemblyTypeName: Scripts.Utility.Selector, Assembly-CSharp
-        m_MethodName: HandleSelect
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_ActionId: b5c6be15-b208-4450-a18d-72bd3902df6d
-    m_ActionName: Default/Select[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]
-  - m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 6770284295279889726}
-        m_TargetAssemblyTypeName: Scripts.Utility.Selector, Assembly-CSharp
-        m_MethodName: HandleAccept
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_ActionId: c3164ce0-bf4f-4a9a-9545-4706d8a02803
-    m_ActionName: Default/Accept[/Keyboard/enter]
-  - m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 6770284295279889726}
-        m_TargetAssemblyTypeName: Scripts.Utility.Selector, Assembly-CSharp
-        m_MethodName: HandleCancel
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_ActionId: b5d17231-314b-486d-b5ba-dfb22d9201cd
-    m_ActionName: Default/Cancel[/Keyboard/backspace]
-  m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: Keyboard
-  m_DefaultActionMap: Default
-  m_SplitScreenIndex: -1
-  m_Camera: {fileID: 0}
+  m_CullTransparentMesh: 1
 --- !u!114 &6770284295279889726
 MonoBehaviour:
   m_ObjectHideFlags: 0

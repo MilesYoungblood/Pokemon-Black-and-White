@@ -5,10 +5,10 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class SummaryScreen : MonoBehaviour
+    public sealed class SummaryScreen : MonoBehaviour
     {
         [SerializeField] private PokemonInfoPage pokemonInfoPage;
 
@@ -77,7 +77,7 @@ namespace Scripts.Source.UI
                 {
                     var previous = movesPage.gameObject.activeSelf;
                     movesPage.gameObject.SetActive(true);
-                    movesPage.Init(pokemon);
+                    movesPage.Pokemon = pokemon;
                     movesPage.gameObject.SetActive(previous);
                 }
 
@@ -95,8 +95,14 @@ namespace Scripts.Source.UI
         private void Awake()
         {
             _summaryScreenInput = new SummaryScreenInput();
-            _summaryScreenInput.Default.Select.performed += HandleSelect;
-            _summaryScreenInput.Default.Cancel.performed += HandleCancel;
+            _summaryScreenInput.Default.Select.performed += Select;
+            _summaryScreenInput.Default.Cancel.performed += Cancel;
+        }
+
+        private void OnDestroy()
+        {
+            _summaryScreenInput.Default.Select.performed -= Select;
+            _summaryScreenInput.Default.Cancel.performed -= Cancel;
         }
 
         private void OnEnable()
@@ -107,12 +113,6 @@ namespace Scripts.Source.UI
         private void OnDisable()
         {
             _summaryScreenInput.Default.Disable();
-        }
-
-        private void OnDestroy()
-        {
-            _summaryScreenInput.Default.Select.performed -= HandleSelect;
-            _summaryScreenInput.Default.Cancel.performed -= HandleCancel;
         }
 
         public void Init(int initialPokemon, Player player, Pokemon[] pokemon, HashSet<string> pageIds, Action onCancel)
@@ -131,7 +131,7 @@ namespace Scripts.Source.UI
             Page = 0;
         }
 
-        public void HandleSelect(InputAction.CallbackContext context)
+        public void Select(InputAction.CallbackContext context)
         {
             if (!context.performed)
             {
@@ -164,7 +164,7 @@ namespace Scripts.Source.UI
             }
         }
 
-        public void HandleCancel(InputAction.CallbackContext context)
+        public void Cancel(InputAction.CallbackContext context)
         {
             if (context.performed)
             {

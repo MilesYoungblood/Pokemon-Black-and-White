@@ -18,6 +18,16 @@ namespace Scripts.Utility.Math
         /// </summary>
         public static readonly int UInt12MaxValue = Algebra.TwoToThe(12);
 
+        public static void ModuloIncrement(this ref int i, int n)
+        {
+            i = (i + 1) % n;
+        }
+
+        public static void ModuloDecrement(this ref int i, int n)
+        {
+            i = (i - 1 + n) % n;
+        }
+
         public static bool IsZero(float x)
         {
             return Mathf.Approximately(x, 0);

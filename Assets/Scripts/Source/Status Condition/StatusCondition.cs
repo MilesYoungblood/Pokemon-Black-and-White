@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using JetBrains.Annotations;
 
 namespace Scripts.Source
 {
@@ -32,16 +34,22 @@ namespace Scripts.Source
 
         public abstract ID GetID();
 
-        public abstract void HandlePreTurn(BattleUnit unit, out string message, out bool canMove);
+        public abstract void PreTurn(BattleUnit unit, out string message, out bool canMove);
+
+        public abstract IEnumerator PostTurn(
+            BattleSystem battleSystem,
+            BattleDialogueBox battleDialogueBox,
+            BattleUnit target);
 
         public void Update()
         {
-            if (Counter != int.MaxValue)
+            if (Counter is not int.MaxValue)
             {
                 --Counter;
             }
         }
 
+        [CanBeNull]
         public static StatusCondition GetConditionByID(ID id)
         {
             return id switch

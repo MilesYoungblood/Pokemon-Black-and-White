@@ -12,17 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b39e9f051f1216c4a882a1fdf3478d94, type: 3}
   m_Name: Swords Dance
   m_EditorClassIdentifier: 
-  name: Swords Dance
   effect: "A frenetic dance to uplift the fighting spirit. It sharply raises the
     user\u2019s Attack stat."
   type: 1
   category: 2
   power: 0
   accuracy: 0
+  sureHit: 0
   pp: 20
+  priority: 0
   makesContact: 0
   statEffects:
   - stat: 0
     amount: 2
-    prob: 100
+    prob: 1
     self: 1
+  statusEffect:
+    statusCondition: 0
+    prob: 0
+  volatileStatusEffect:
+    volatileStatusCondition: 0
+    prob: 0
+    self: 0

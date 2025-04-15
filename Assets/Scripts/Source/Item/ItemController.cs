@@ -5,11 +5,11 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class ItemController : MonoBehaviour, IInteractable, ISavable
+    public sealed class ItemController : MonoBehaviour, IInteractable, ISavable
     {
         [SerializeField] private Item item;
 
-        public IEnumerator Interact(Transform initiator)
+        public IEnumerator Interact(PlayerController playerController)
         {
             if (!gameObject.activeSelf)
             {
@@ -18,12 +18,7 @@ namespace Scripts.Source
 
             yield return AudioManager.Instance.PlayFanfare(item.Asset.SongID);
             //GameController.Instance.TogglePause();
-            yield return UI.DialogueBox.Instance.ShowDialogue(new UI.Dialogue($"You obtained {item.GetIndefiniteArticle()} {item}!"));
-
-            if (!initiator.TryGetComponent<PlayerController>(out var playerController))
-            {
-                yield break;
-            }
+            yield return GameController.Instance.DialogueBox.ShowDialogue(new Dialogue($"You obtained {item.GetIndefiniteArticle()} {item}!"));
 
             playerController.Player.Inventory.AddItem(item);
             item = null;

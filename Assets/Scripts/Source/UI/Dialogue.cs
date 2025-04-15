@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [Serializable]
     public struct Dialogue

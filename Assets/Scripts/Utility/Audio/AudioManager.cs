@@ -47,7 +47,6 @@ namespace Scripts.Utility
             {
                 Instance = this;
 
-                DontDestroyOnLoad(gameObject);
                 InitializeSFXPool();
             }
         }

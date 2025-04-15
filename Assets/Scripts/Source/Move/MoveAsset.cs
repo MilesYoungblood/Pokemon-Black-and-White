@@ -32,6 +32,8 @@ namespace Scripts.Source
 
         [SerializeField] private VolatileStatusEffect volatileStatusEffect;
 
+        private static readonly Dictionary<string, MoveAsset> Bases = new();
+
         public string Effect => effect;
 
         public Type.ID Type => type;
@@ -52,24 +54,20 @@ namespace Scripts.Source
 
         public bool MakesContact => makesContact;
 
-        public StatEffect[] StatEffects => statEffects;
+        public IReadOnlyList<StatEffect> StatEffects => statEffects;
 
         public StatusEffect StatusEffect => statusEffect;
 
         public VolatileStatusEffect VolatileStatusEffect => volatileStatusEffect;
 
-        private static readonly Dictionary<string, MoveAsset> Bases = new();
-
-        public static void Init()
+        private void OnEnable()
         {
-            foreach (var moveBase in Resources.LoadAll<MoveAsset>("Moves"))
-            {
-                var name = moveBase.name;
-                if (!Bases.TryAdd(name, moveBase))
-                {
-                    MonoBehaviour.print($"Unable to add Move Base {name}");
-                }
-            }
+            Bases.Add(name, this);
+        }
+
+        private void OnDisable()
+        {
+            Bases.Remove(name);
         }
 
         public static MoveAsset GetBaseByName(string name)

@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [Serializable]
-    public class Item : ISavable
+    public sealed class Item : ISavable
     {
         public const int MinQuantity = 0;
 
@@ -13,7 +13,7 @@ namespace Scripts.Source
 
         [SerializeField] private ItemAsset asset;
 
-        [SerializeField, Range(MinQuantity, MaxQuantity)]
+        [SerializeField] [Range(MinQuantity, MaxQuantity)]
         private int quantity;
 
         public ItemAsset Asset
@@ -38,7 +38,6 @@ namespace Scripts.Source
             Asset = ItemAsset.GetBaseByName(name);
             Quantity = n;
         }
-
 
         public override string ToString()
         {

@@ -4,26 +4,29 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class LocationPortal : MonoBehaviour, ITriggerable
+    [RequireComponent(typeof(Collider2D))]
+    public class LocationPortal : MonoBehaviour
     {
         [SerializeField] private Vector2 spawnPoint;
 
         [SerializeField] private bool fade;
 
-        public void OnTrigger(PlayerController playerController)
+        private IEnumerator OnTriggerEnter2D(Collider2D other)
         {
-            StartCoroutine(Relocate(playerController));
-        }
+            if (!other.TryGetComponent<PlayerController>(out var playerController))
+            {
+                yield break;
+            }
 
-        private IEnumerator Relocate(Component playerController)
-        {
+            yield return new WaitUntil(playerController.IsCenteredOnTile);
+
             GameController.Instance.TogglePause();
             if (fade)
             {
                 yield return GameController.Instance.Fader.FadeIn(0.5f);
             }
 
-            playerController.transform.position = spawnPoint;
+            playerController.transform.position = spawnPoint - Vector2.up / 2.0f;
 
             if (fade)
             {

@@ -1,12 +1,13 @@
 using System;
 using System.Collections;
 using Scripts.Utility;
+using Scripts.Utility.Math;
 using UnityEngine;
 
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class NPCController : CharacterController, IInteractable
+    public class NPCController : EntityController, IInteractable
     {
         private enum State
         {
@@ -19,11 +20,11 @@ namespace Scripts.Source
         [Serializable]
         private struct Movement
         {
-            [SerializeField, _4DirectionalVector] private Vector2Int direction;
+            [SerializeField] [_4DirectionalVector] private Vector2Int direction;
 
-            [SerializeField, Min(0)] private int displacement;
+            [SerializeField] [Min(0)] private int displacement;
 
-            [SerializeField, Min(0.0f)] private float waitTime;
+            [SerializeField] [Min(0.0f)] private float waitTime;
 
             public Vector2Int Direction => direction;
 
@@ -32,7 +33,7 @@ namespace Scripts.Source
             public float WaitTime => waitTime;
         }
 
-        [SerializeField] private UI.Dialogue dialogue;
+        [SerializeField] private Dialogue dialogue;
 
         [SerializeField] private Movement[] movementPattern;
 
@@ -66,23 +67,17 @@ namespace Scripts.Source
             }
 
             StartCoroutine(Walk());
-            _idleTimer = 0.0f;
+            _idleTimer -= movementPattern[_currentMovement].WaitTime;
         }
 
         private IEnumerator Walk()
         {
             _currentState = State.Walking;
 
-            // store the remaining tiles left
-            var remaining = Mathf.Abs(movementPattern[_currentMovement].Displacement);
-
-            // store the direction
-            var direction = movementPattern[_currentMovement].Direction;
-
-            Direction = direction;
+            Direction = movementPattern[_currentMovement].Direction;
 
             // continue walking until we have traveled the current movement pattern's displacement amount
-            while (remaining > 0)
+            for (var remaining = movementPattern[_currentMovement].Displacement; remaining > 0; --remaining)
             {
                 if (!IsPathClear())
                 {
@@ -91,20 +86,18 @@ namespace Scripts.Source
                     _currentState = State.Walking;
                 }
 
-                yield return Move(Speed.Walk, (Vector2)direction);
-
-                --remaining;
+                yield return Move(Speed.Walk, (Vector2)Direction);
             }
 
-            _currentMovement = (_currentMovement + 1) % movementPattern.Length;
+            _currentMovement.ModuloIncrement(movementPattern.Length);
             _currentState = State.Idle;
         }
 
-        protected IEnumerator OpenDialogue(Action onFinished = null)
+        public IEnumerator OpenDialogue(Action onFinished = null)
         {
             _currentState = State.Interacting;
             onFinished ??= SetIdle;
-            yield return UI.DialogueBox.Instance.ShowDialogue(dialogue);
+            yield return GameController.Instance.DialogueBox.ShowDialogue(dialogue);
             onFinished.Invoke();
         }
 
@@ -113,14 +106,14 @@ namespace Scripts.Source
             _currentState = State.Idle;
         }
 
-        public IEnumerator Interact(Transform initiator)
+        public IEnumerator Interact(PlayerController playerController)
         {
             if (_currentState is not (State.Idle or State.Blocked))
             {
                 yield break;
             }
 
-            LookTowardsPosition(initiator.position);
+            LookAt = playerController.transform.position;
             yield return OpenDialogue();
         }
     }

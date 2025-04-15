@@ -8,29 +8,32 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class Inventory : MonoBehaviour, ISavable
+    public sealed class Inventory : MonoBehaviour, ISavable
     {
         [SerializeField] private Item[] inventory;
 
         private readonly Dictionary<System.Type, ItemPocket> _pockets = new();
 
-        public void Init(params System.Type[] pockets)
+        public System.Type[] Pockets
         {
-            // this means we have already set the pockets in RestoreState
-            if (_pockets.Any(pocket => pocket.Value.Count > 0))
+            set
             {
-                return;
-            }
+                // this means we have already set the pockets in RestoreState
+                if (_pockets.Any(pocket => pocket.Value.Count > 0))
+                {
+                    return;
+                }
 
-            // add each pocket from the initializer
-            foreach (var pocket in pockets)
-            {
-                _pockets.Add(pocket, new ItemPocket());
-            }
+                // add each pocket from the initializer
+                foreach (var pocket in value)
+                {
+                    _pockets.Add(pocket, new ItemPocket());
+                }
 
-            // add each item into its respective pocket
-            Array.ForEach(inventory, AddItem);
-            inventory = null;
+                // add each item into its respective pocket
+                Array.ForEach(inventory, AddItem);
+                inventory = null;
+            }
         }
 
         public void AddItem(Item item)
@@ -65,9 +68,9 @@ namespace Scripts.Source
             }
         }
 
-        public ItemPocket GetPocket(System.Type type)
+        public List<Item> GetItems(System.Type type)
         {
-            return _pockets[type];
+            return _pockets[type].Values.ToList();
         }
 
         // ReSharper disable once UnusedMember.Local

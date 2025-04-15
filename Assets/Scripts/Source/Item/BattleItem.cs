@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [CreateAssetMenu(menuName = "Item/Battle Item/Create new Battle Item")]
-    public class BattleItem : ItemAsset, IBattleAction
+    public sealed class BattleItem : ItemAsset, IBattleAction
     {
         [SerializeField] private Stat stat;
 
@@ -19,7 +19,7 @@ namespace Scripts.Source
         {
             yield return battleDialogueBox.TypeDialogue($"You used {this.GetIndefiniteArticle()} {this}!");
 
-            if (user.ApplyStatEffect(stat, amount))
+            if (user[stat].Adjust(amount))
             {
                 var amplitude = Mathf.Abs(amount) switch
                 {

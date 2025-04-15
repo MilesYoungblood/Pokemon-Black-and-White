@@ -34,11 +34,21 @@ namespace Scripts.Source
             _working = true;
             _operations = _sceneRequests.Peek().TransitionScene();
 
+            while (_operations.TryDequeue(out var result))
+            {
+                while (!result.isDone)
+                {
+                    yield return null;
+                }
+            }
+
+            /*
             while (_operations.Any())
             {
                 yield return new WaitUntil(IsDonePlaying);
                 _operations.Dequeue();
             }
+            */
 
             _sceneRequests.Dequeue();
             if (_sceneRequests.Any())
@@ -49,11 +59,6 @@ namespace Scripts.Source
             {
                 _working = false;
             }
-        }
-
-        private bool IsDonePlaying()
-        {
-            return _operations.Peek().isDone;
         }
 
         public void RequestSceneChange(SceneInfo scene)

@@ -1,20 +1,16 @@
-using System;
 using System.Collections;
 using Scripts.Utility;
-using Scripts.Utility.Math;
 using UnityEngine;
 
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    [RequireComponent(typeof(Trainer), typeof(BoxCollider2D))]
-    public class TrainerController : NPCController, IInteractable, ISavable
+    [RequireComponent(typeof(Trainer))]
+    public sealed class TrainerController : NPCController, IInteractable, ISavable
     {
-        [SerializeField] private GameObject exclamation;
-
         [SerializeField] private Trainer trainer;
 
-        [SerializeField] private BoxCollider2D fov;
+        [SerializeField] private Transform fov;
 
         protected override Vector2Int Direction
         {
@@ -22,50 +18,30 @@ namespace Scripts.Source
             set
             {
                 base.Direction = value;
-                CalibrateFoV();
+                CalibrateFOV();
             }
         }
 
-        public static event Action<Trainer> OnDialogueFinished;
+        public Trainer Trainer => trainer;
 
-        private void Start()
+        protected override void Awake()
         {
-            CalibrateFoV();
+            base.Awake();
+            CalibrateFOV();
         }
 
-        public IEnumerator TriggerTrainerBattle(PlayerController player)
+        private void CalibrateFOV()
         {
-            exclamation.SetActive(true);
-            yield return new WaitForSeconds(1.0f);
-            exclamation.SetActive(false);
+            fov.rotation = Quaternion.Euler(0.0f, 0.0f, Mathf.Atan2(Direction.y, Direction.x) * Mathf.Rad2Deg);
+        }
 
-            var offset = player.transform.position - transform.position;
-            yield return Move(Speed.Walk, (offset - offset.normalized).Round());
+        IEnumerator IInteractable.Interact(PlayerController playerController)
+        {
+            LookAt = playerController.transform.position;
 
-            player.LookTowardsPosition(transform.position);
-            yield return OpenDialogue(() =>
+            if (trainer.CanFight)
             {
-                OnDialogueFinished?.Invoke(trainer);
-            });
-        }
-
-        private void CalibrateFoV()
-        {
-        }
-
-        public void DestroyObjects()
-        {
-            Destroy(fov.gameObject);
-            Destroy(exclamation);
-        }
-
-        IEnumerator IInteractable.Interact(Transform initiator)
-        {
-            LookTowardsPosition(initiator.position);
-
-            if (trainer.CanFight && initiator.TryGetComponent<PlayerController>(out var playerController))
-            {
-                playerController.DisableInput();
+                playerController.ActionMap = "Dialogue";
             }
             else
             {
@@ -78,7 +54,7 @@ namespace Scripts.Source
             base.RestoreState(state);
             if (!trainer.CanFight)
             {
-                DestroyObjects();
+                transform.DestroyChildren();
             }
         }
     }

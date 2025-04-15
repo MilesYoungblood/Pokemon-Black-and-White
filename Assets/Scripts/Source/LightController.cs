@@ -7,7 +7,7 @@ namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Light2D))]
-    public class LightController : MonoBehaviour
+    public sealed class LightController : MonoBehaviour
     {
         [SerializeField] private new Light2D light;
 

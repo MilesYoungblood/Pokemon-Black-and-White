@@ -3,7 +3,7 @@ using Scripts.Utility.Algorithm;
 
 namespace Scripts.Source
 {
-    public class SwitchOut : IBattleAction
+    public sealed class SwitchOut : IBattleAction
     {
         private readonly int _index;
 
@@ -25,7 +25,7 @@ namespace Scripts.Source
             BattleUnit opponent,
             BattleDialogueBox battleDialogueBox)
         {
-            battleDialogueBox.EnableActionSelector(false);
+            battleSystem.ActionSelector.SetActive(false);
 
             var previousPokemon = user.Pokemon;
             if (user.Pokemon.CanFight)
@@ -38,7 +38,6 @@ namespace Scripts.Source
 
             yield return user.Init();
 
-            battleDialogueBox.InitMoveSelector(user.Pokemon.MoveSet, battleSystem.OnMoveSelected, battleSystem.OnMoveCancel);
             yield return battleDialogueBox.TypeDialogue($"Go {user.Pokemon}!");
 
             // This will execute if the party screen was opened because the player's Pokémon fainted

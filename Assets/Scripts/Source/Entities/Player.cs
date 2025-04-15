@@ -25,21 +25,29 @@ namespace Scripts.Source
         protected override void Start()
         {
             base.Start();
-            Inventory.Init(typeof(BattleItem), typeof(Berry), typeof(HoldItem), typeof(Machine), typeof(Medicine), typeof(PokeBall));
+            Inventory.Pockets = new[]
+            {
+                typeof(BattleItem),
+                typeof(Berry),
+                typeof(HoldItem),
+                typeof(Machine),
+                typeof(Medicine),
+                typeof(PokeBall)
+            };
         }
 
-        public new void HandleFaint()
+        void IBattler.HandleFaint()
         {
         }
 
-        public new void HandleNextPokemon()
+        void IBattler.HandleNextPokemon()
         {
             OnNextPokemon?.Invoke();
         }
 
-        public new bool CanFight => Party.Any(pokemon => pokemon.CanFight);
+        bool IBattler.CanFight => Party.Any(pokemon => pokemon.CanFight);
 
-        public new string Prefix => string.Empty;
+        string IBattler.Prefix => string.Empty;
 
         public override string ToString()
         {

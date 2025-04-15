@@ -4,18 +4,18 @@ using Scripts.Utility;
 using TMPro;
 using UnityEngine;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class PartyScreen : MonoBehaviour
+    public sealed class PartyScreen : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI message;
 
-        private Selector _partyList;
+        [SerializeField] private Selector partyList;
 
-        private PartyMemberUI[] _members;
+        [SerializeField] private PartyMemberUI[] members;
 
-        public int Selection => _partyList.Selection;
+        public int Selection => partyList.Selection;
 
         public BattleSystem.State? CalledFrom { get; set; }
 
@@ -27,54 +27,52 @@ namespace Scripts.Source.UI
                 message.text = "Choose a Pokemon";
 
                 // TODO if this breaks, try using player party size instead of Trainer.MaxPartySize
-                var callbacks = new Action[Trainer.MaxPartySize];
-                for (var i = 0; i < callbacks.Length; ++i)
+                partyList.Callbacks = new Action[Trainer.MaxPartySize];
+                for (var i = 0; i < Trainer.MaxPartySize; ++i)
                 {
-                    callbacks[i] = value;
+                    partyList.Callbacks[i] = value;
                 }
-
-                _partyList.Callbacks = callbacks;
             }
+        }
+
+        public List<Pokemon> Party
+        {
+            set => throw new NotImplementedException();
+        }
+
+        public string Message
+        {
+            set => message.text = value;
         }
 
         private void OnEnable()
         {
+            GameController.Instance.PlayerController += partyList;
             // for whatever reason, this is necessary
-            _partyList.gameObject.SetActive(true);
-            for (var i = 0; i < _partyList.transform.childCount; ++i)
+            partyList.gameObject.SetActive(true);
+            for (var i = 0; i < partyList.transform.childCount; ++i)
             {
-                _members[i].gameObject.SetActive(i < GameController.Instance.PlayerController.Player.Party.Count);
-                if (_members[i].gameObject.activeSelf)
+                members[i].gameObject.SetActive(i < GameController.Instance.PlayerController.Player.Party.Count);
+                if (members[i].gameObject.activeSelf)
                 {
-                    _members[i].Init(GameController.Instance.PlayerController.Player.Party[i]);
+                    members[i].Pokemon = GameController.Instance.PlayerController.Player.Party[i];
                 }
             }
         }
 
-        private void Awake()
+        private void OnDisable()
         {
-            _partyList = GetComponentInChildren<Selector>();
-            _members = _partyList.GetComponentsInChildren<PartyMemberUI>();
+            GameController.Instance.PlayerController -= partyList;
         }
 
         public void Init(Action onCancel)
         {
-            _partyList.OnCancel += onCancel;
+            partyList.OnCancel += onCancel;
         }
 
         public void Destroy(Action onCancel)
         {
-            _partyList.OnCancel -= onCancel;
-        }
-
-        public void SetMessageText(string newMessage)
-        {
-            message.text = newMessage;
-        }
-
-        public void Open(List<Pokemon> party)
-        {
-            throw new NotImplementedException();
+            partyList.OnCancel -= onCancel;
         }
 
         public void Close()

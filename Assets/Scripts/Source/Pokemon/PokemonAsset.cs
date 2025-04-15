@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace Scripts.Source
@@ -11,9 +12,9 @@ namespace Scripts.Source
         [SerializeField]
         private string species;
 
-        [SerializeField, Min(0)] private float height;
+        [SerializeField] [Min(0)] private float height;
 
-        [SerializeField, Min(0)] private float weight;
+        [SerializeField] [Min(0)] private float weight;
 
         [SerializeField] private Type.ID type1;
 
@@ -22,26 +23,29 @@ namespace Scripts.Source
         [SerializeField] private int dex;
 
         [Header("Base Stats")]
-        [SerializeField, Min(0)]
+        [SerializeField]
+        [Min(0)]
         private int hp;
 
-        [SerializeField, Min(0)] private int attack;
+        [SerializeField] [Min(0)] private int attack;
 
-        [SerializeField, Min(0)] private int defense;
+        [SerializeField] [Min(0)] private int defense;
 
-        [SerializeField, Min(0)] private int spAttack;
+        [SerializeField] [Min(0)] private int spAttack;
 
-        [SerializeField, Min(0)] private int spDefense;
+        [SerializeField] [Min(0)] private int spDefense;
 
-        [SerializeField, Min(0)] private int speed;
+        [SerializeField] [Min(0)] private int speed;
 
         [Header("Training")]
-        [SerializeField, Range(1, Pokemon.MaxLevel)]
+        [SerializeField]
+        [Range(Pokemon.MinLevel, Pokemon.MaxLevel)]
         private int minLevel;
 
         [SerializeField] private EffortValue evYield;
 
-        [SerializeField, Range(0, byte.MaxValue)]
+        [SerializeField]
+        [Range(0, byte.MaxValue)]
         private int catchRate;
 
         [Header("Moves")]
@@ -58,6 +62,8 @@ namespace Scripts.Source
 
         [SerializeField] private bool levitates;
 
+        private static readonly Dictionary<string, PokemonAsset> Bases = new();
+
         public string Species => species;
 
         public float Height => height;
@@ -68,7 +74,7 @@ namespace Scripts.Source
 
         public Type.ID Type2 => type2;
 
-        public int Hp => hp;
+        public int HP => hp;
 
         public int Attack => attack;
 
@@ -86,19 +92,34 @@ namespace Scripts.Source
 
         public int CatchRate => catchRate;
 
-        public LearnableMove[] LearnableMoves => learnableMoves;
+        public IReadOnlyList<LearnableMove> LearnableMoves => learnableMoves;
 
-        public MoveAsset[] MachineMoves => machineMoves;
+        public IReadOnlyList<MoveAsset> MachineMoves => machineMoves;
 
-        public Sprite[] FrontSpriteSheet => frontSpriteSheet;
+        public IReadOnlyList<Sprite> FrontSpriteSheet => frontSpriteSheet;
 
-        public Sprite[] BackSpriteSheet => backSpriteSheet;
+        public IReadOnlyList<Sprite> BackSpriteSheet => backSpriteSheet;
 
         public bool Levitates => levitates;
+
+        private void OnEnable()
+        {
+            Bases.Add(name, this);
+        }
+
+        private void OnDisable()
+        {
+            Bases.Remove(name);
+        }
 
         public string GetDexAsString(bool localDex)
         {
             return (dex + (localDex ? 0 : UnovaStartingDex)).ToString("D3");
+        }
+
+        public static PokemonAsset GetBaseByName(string pokemonName)
+        {
+            return Bases[pokemonName];
         }
     }
 }

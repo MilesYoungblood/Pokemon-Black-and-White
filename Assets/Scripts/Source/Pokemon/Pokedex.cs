@@ -12,8 +12,6 @@ namespace Scripts.Source
 
         [SerializeField] private Sprite fakeSprite;
 
-        private readonly Dictionary<string, PokemonAsset> _bases = new();
-
         private readonly HashSet<string> _registeredPokemon = new();
 
         public static Pokedex Instance { get; private set; }
@@ -29,21 +27,7 @@ namespace Scripts.Source
             else
             {
                 Instance = this;
-                foreach (var pokemonBase in Resources.LoadAll<PokemonAsset>("Pokemon"))
-                {
-                    if (!_bases.TryAdd(pokemonBase.name, pokemonBase))
-                    {
-                        print($"Unable to add Pokemon Base {pokemonBase.name}");
-                    }
-                }
-
-                gameObject.SetActive(false);
             }
-        }
-
-        public PokemonAsset GetBaseByName(string pokemonName)
-        {
-            return _bases[pokemonName];
         }
 
         public Sprite GetTypeIcon(Type.ID type)

@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class ScenePortal : MonoBehaviour, ITriggerable
+    public class ScenePortal : MonoBehaviour
     {
         [SerializeField] private string location;
 
@@ -13,13 +13,15 @@ namespace Scripts.Source
 
         [SerializeField] private bool fade;
 
-        public void OnTrigger(PlayerController playerController)
+        private IEnumerator OnTriggerEnter2D(Collider2D other)
         {
-            StartCoroutine(SwitchScene(playerController));
-        }
+            if (!other.TryGetComponent<PlayerController>(out var playerController))
+            {
+                yield break;
+            }
 
-        private IEnumerator SwitchScene(Component playerController)
-        {
+            yield return new WaitUntil(playerController.IsCenteredOnTile);
+
             DontDestroyOnLoad(gameObject);
 
             GameController.Instance.TogglePause();

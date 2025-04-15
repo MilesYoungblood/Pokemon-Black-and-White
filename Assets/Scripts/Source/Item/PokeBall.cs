@@ -111,7 +111,7 @@ namespace Scripts.Source
             }
 
             // throw the Poke Ball
-            yield return spriteRenderer.transform.DOJump(
+            yield return pokeBall.transform.DOJump(
                 opponent.transform.position + new Vector3(0.0f, 2.0f),
                 2.0f,
                 1,
@@ -120,7 +120,7 @@ namespace Scripts.Source
             yield return opponent.PlayCaptureAnimation();
 
             // apply gravity
-            yield return spriteRenderer.transform.DOMoveY(opponent.transform.position.y - 1.5f, 0.5f).WaitForCompletion();
+            yield return pokeBall.transform.DOMoveY(opponent.transform.position.y - 1.5f, 0.5f).WaitForCompletion();
 
             // perform shakes
             var shakes = GenerateShakes(opponent.Pokemon, battleSystem.Turn);

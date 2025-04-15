@@ -28,7 +28,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
             ""id"": ""3486c3e2-f616-44e9-9543-d99eeffaf8ec"",
             ""actions"": [
                 {
-                    ""name"": ""Select"",
+                    ""name"": ""Move"",
                     ""type"": ""Value"",
                     ""id"": ""b5c6be15-b208-4450-a18d-72bd3902df6d"",
                     ""expectedControlType"": ""Vector2"",
@@ -37,7 +37,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""initialStateCheck"": true
                 },
                 {
-                    ""name"": ""Accept"",
+                    ""name"": ""Submit"",
                     ""type"": ""Button"",
                     ""id"": ""c3164ce0-bf4f-4a9a-9545-4706d8a02803"",
                     ""expectedControlType"": ""Button"",
@@ -59,11 +59,11 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""2D Vector"",
                     ""id"": ""397797c9-327c-46e9-b2e0-084178bc967d"",
-                    ""path"": ""2DVector"",
+                    ""path"": ""2DVector(mode=1)"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Select"",
+                    ""action"": ""Move"",
                     ""isComposite"": true,
                     ""isPartOfComposite"": false
                 },
@@ -74,7 +74,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Select"",
+                    ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -85,7 +85,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Select"",
+                    ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -96,7 +96,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Select"",
+                    ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -107,7 +107,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Select"",
+                    ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
@@ -118,7 +118,7 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
-                    ""action"": ""Accept"",
+                    ""action"": ""Submit"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -152,8 +152,8 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
 }");
         // Default
         m_Default = asset.FindActionMap("Default", throwIfNotFound: true);
-        m_Default_Select = m_Default.FindAction("Select", throwIfNotFound: true);
-        m_Default_Accept = m_Default.FindAction("Accept", throwIfNotFound: true);
+        m_Default_Move = m_Default.FindAction("Move", throwIfNotFound: true);
+        m_Default_Submit = m_Default.FindAction("Submit", throwIfNotFound: true);
         m_Default_Cancel = m_Default.FindAction("Cancel", throwIfNotFound: true);
     }
 
@@ -216,15 +216,15 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
     // Default
     private readonly InputActionMap m_Default;
     private List<IDefaultActions> m_DefaultActionsCallbackInterfaces = new List<IDefaultActions>();
-    private readonly InputAction m_Default_Select;
-    private readonly InputAction m_Default_Accept;
+    private readonly InputAction m_Default_Move;
+    private readonly InputAction m_Default_Submit;
     private readonly InputAction m_Default_Cancel;
     public struct DefaultActions
     {
         private @SelectorInput m_Wrapper;
         public DefaultActions(@SelectorInput wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Select => m_Wrapper.m_Default_Select;
-        public InputAction @Accept => m_Wrapper.m_Default_Accept;
+        public InputAction @Move => m_Wrapper.m_Default_Move;
+        public InputAction @Submit => m_Wrapper.m_Default_Submit;
         public InputAction @Cancel => m_Wrapper.m_Default_Cancel;
         public InputActionMap Get() { return m_Wrapper.m_Default; }
         public void Enable() { Get().Enable(); }
@@ -235,12 +235,12 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
         {
             if (instance == null || m_Wrapper.m_DefaultActionsCallbackInterfaces.Contains(instance)) return;
             m_Wrapper.m_DefaultActionsCallbackInterfaces.Add(instance);
-            @Select.started += instance.OnSelect;
-            @Select.performed += instance.OnSelect;
-            @Select.canceled += instance.OnSelect;
-            @Accept.started += instance.OnAccept;
-            @Accept.performed += instance.OnAccept;
-            @Accept.canceled += instance.OnAccept;
+            @Move.started += instance.OnMove;
+            @Move.performed += instance.OnMove;
+            @Move.canceled += instance.OnMove;
+            @Submit.started += instance.OnSubmit;
+            @Submit.performed += instance.OnSubmit;
+            @Submit.canceled += instance.OnSubmit;
             @Cancel.started += instance.OnCancel;
             @Cancel.performed += instance.OnCancel;
             @Cancel.canceled += instance.OnCancel;
@@ -248,12 +248,12 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
 
         private void UnregisterCallbacks(IDefaultActions instance)
         {
-            @Select.started -= instance.OnSelect;
-            @Select.performed -= instance.OnSelect;
-            @Select.canceled -= instance.OnSelect;
-            @Accept.started -= instance.OnAccept;
-            @Accept.performed -= instance.OnAccept;
-            @Accept.canceled -= instance.OnAccept;
+            @Move.started -= instance.OnMove;
+            @Move.performed -= instance.OnMove;
+            @Move.canceled -= instance.OnMove;
+            @Submit.started -= instance.OnSubmit;
+            @Submit.performed -= instance.OnSubmit;
+            @Submit.canceled -= instance.OnSubmit;
             @Cancel.started -= instance.OnCancel;
             @Cancel.performed -= instance.OnCancel;
             @Cancel.canceled -= instance.OnCancel;
@@ -285,8 +285,8 @@ public partial class @SelectorInput: IInputActionCollection2, IDisposable
     }
     public interface IDefaultActions
     {
-        void OnSelect(InputAction.CallbackContext context);
-        void OnAccept(InputAction.CallbackContext context);
+        void OnMove(InputAction.CallbackContext context);
+        void OnSubmit(InputAction.CallbackContext context);
         void OnCancel(InputAction.CallbackContext context);
     }
 }

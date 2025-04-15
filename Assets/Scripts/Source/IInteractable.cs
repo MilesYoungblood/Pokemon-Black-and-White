@@ -5,6 +5,6 @@ namespace Scripts.Source
 {
     public interface IInteractable
     {
-        IEnumerator Interact(Transform initiator);
+        IEnumerator Interact(PlayerController initiator);
     }
 }

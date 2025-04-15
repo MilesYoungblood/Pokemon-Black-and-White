@@ -23,18 +23,18 @@ namespace Scripts.Source
 
         #endregion
 
+        #region Fields
+
         #region Serialized Fields
 
         [SerializeField] private PokemonAsset asset;
 
-        [SerializeField, Range(MinLevel, MaxLevel)]
+        [SerializeField] [Range(MinLevel, MaxLevel)]
         private int level;
 
         [SerializeField] private List<Move> moveSet;
 
         #endregion
-
-        #region Fields
 
         private int _hp;
 
@@ -121,7 +121,7 @@ namespace Scripts.Source
 
         public Pokemon(PokemonSaveData saveData)
         {
-            Asset = Pokedex.Instance.GetBaseByName(saveData.name);
+            Asset = PokemonAsset.GetBaseByName(saveData.name);
             Nickname = saveData.nickname;
             Level = saveData.level;
             // TODO watch out for logic error here
@@ -144,7 +144,7 @@ namespace Scripts.Source
             }
 
             // nature must be determined before stats are calculated since base stats partially rely on nature
-            Nature = (Nature.ID)UnityEngine.Random.Range(0, 25);
+            Nature = Source.Nature.GetRandomNature();
 
             CalculateBaseStats();
             HP = MaxHP;
@@ -157,7 +157,7 @@ namespace Scripts.Source
             // find initial calculations
             var initialStats = new Dictionary<Stat, float>
             {
-                [Stat.Hp] = StatCalc(Asset.Hp, true),
+                [Stat.HP] = StatCalc(Asset.HP, true),
                 [Stat.Attack] = StatCalc(Asset.Attack, false),
                 [Stat.Defense] = StatCalc(Asset.Defense, false),
                 [Stat.SpAttack] = StatCalc(Asset.SpAttack, false),
@@ -177,7 +177,7 @@ namespace Scripts.Source
             }
 
             // apply final calculations
-            MaxHP = Mathf.FloorToInt(initialStats[Stat.Hp]);
+            MaxHP = Mathf.FloorToInt(initialStats[Stat.HP]);
             Attack = Mathf.FloorToInt(initialStats[Stat.Attack]);
             Defense = Mathf.FloorToInt(initialStats[Stat.Defense]);
             SpAttack = Mathf.FloorToInt(initialStats[Stat.SpAttack]);
@@ -187,7 +187,7 @@ namespace Scripts.Source
 
         private float StatCalc(int stat, bool hp)
         {
-            return 2.0f * stat * Level / 100.0f + (hp ? 10 : 5);
+            return 2.0f * stat * Level / MaxLevel + (hp ? 10 : 5);
         }
 
         public float SpeedCalc()
@@ -238,7 +238,7 @@ namespace Scripts.Source
             Move move;
             do
             {
-                move = MoveSet[UnityEngine.Random.Range(0, MoveSet.Count)];
+                move = MoveSet.RandomElement();
             } while (!move.CanUse());
 
             return move;
@@ -247,6 +247,21 @@ namespace Scripts.Source
         public bool HasType(Type.ID type)
         {
             return Asset.Type1 == type || Asset.Type2 == type;
+        }
+
+        public bool IsImmuneToStatus(StatusCondition.ID statusCondition)
+        {
+            return statusCondition switch
+            {
+                StatusCondition.ID.None => false,
+                StatusCondition.ID.Burn => HasType(Type.ID.Fire),
+                StatusCondition.ID.Paralysis => HasType(Type.ID.Electric),
+                StatusCondition.ID.Freeze => HasType(Type.ID.Ice),
+                StatusCondition.ID.Poison => HasType(Type.ID.Poison),
+                StatusCondition.ID.BadPoison => HasType(Type.ID.Poison),
+                StatusCondition.ID.Sleep => false,
+                _ => throw new ArgumentOutOfRangeException(nameof(statusCondition), statusCondition, null)
+            };
         }
 
         public void InflictBurn()
@@ -274,7 +289,6 @@ namespace Scripts.Source
 
         public IEnumerator PlayCryToCompletion()
         {
-            yield return null;
             yield return AudioManager.Instance.PlaySoundToCompletion(Asset.GetDexAsString(false));
         }
 

@@ -2,10 +2,10 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Scripts.Source.UI
+namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public class PokemonInfoPage : MonoBehaviour
+    public sealed class PokemonInfoPage : MonoBehaviour
     {
         [SerializeField] private TextMeshProUGUI dex;
 
@@ -19,18 +19,19 @@ namespace Scripts.Source.UI
 
         [SerializeField] private TextMeshProUGUI id;
 
+        private void Awake()
+        {
+            enabled = false;
+        }
+
         public void Init(Player player, Pokemon pokemon)
         {
             dex.text = pokemon.Asset.GetDexAsString(true);
 
             name.text = pokemon.Asset.name;
             type1.sprite = Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type1);
-            {
-                var comparison = pokemon.Asset.Type2 != Type.ID.None;
-
-                type2.sprite = comparison ? Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type2) : null;
-                type2.gameObject.SetActive(comparison);
-            }
+            type2.gameObject.SetActive(pokemon.Asset.Type2 is not Type.ID.None);
+            type2.sprite = type1.gameObject.activeSelf ? Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type2) : null;
 
             trainer.text = player.ToString();
             id.text = "12345";

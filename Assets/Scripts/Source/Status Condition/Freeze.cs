@@ -1,4 +1,6 @@
-﻿namespace Scripts.Source
+﻿using System.Collections;
+
+namespace Scripts.Source
 {
     public sealed class Freeze : StatusCondition
     {
@@ -11,7 +13,7 @@
             return ID.Freeze;
         }
 
-        public override void HandlePreTurn(BattleUnit unit, out string message, out bool canMove)
+        public override void PreTurn(BattleUnit unit, out string message, out bool canMove)
         {
             if (Utility.Math.Statistics.BernoulliTrial(0.2f))
             {
@@ -24,6 +26,14 @@
                 message = "is frozen solid!";
                 canMove = false;
             }
+        }
+
+        public override IEnumerator PostTurn(
+            BattleSystem battleSystem,
+            BattleDialogueBox battleDialogueBox,
+            BattleUnit target)
+        {
+            yield break;
         }
     }
 }

@@ -7,9 +7,16 @@ namespace Scripts.Source
     [Serializable]
     public struct StatEffect
     {
+        private const int Sharply = 2;
+
+        private const int Drastically = 3;
+
+        private const int Immensely = 4;
+
         [SerializeField] private Stat stat;
 
-        [SerializeField] private int amount;
+        [SerializeField] [Range(-Immensely, Immensely)]
+        private int amount;
 
         [SerializeField] [Clamp01] private float prob;
 
@@ -22,5 +29,13 @@ namespace Scripts.Source
         public float Prob => prob;
 
         public bool Self => self;
+
+        public string AmountText => Mathf.Abs(Amount) switch
+        {
+            Sharply => " sharply",
+            Drastically => " drastically",
+            Immensely => " immensely",
+            _ => string.Empty
+        };
     }
 }
