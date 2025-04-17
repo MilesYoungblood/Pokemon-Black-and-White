@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Globalization;
 using Cinemachine.Utility;
 using DG.Tweening;
 using JetBrains.Annotations;
@@ -11,13 +12,15 @@ namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Animator))]
-    public abstract class EntityController : MonoBehaviour, ISavable
+    public class EntityController : MonoBehaviour, ISavable
     {
         public enum Speed
         {
             Walk,
             Run
         }
+
+        [SerializeField] private EntityAsset asset;
 
         [SerializeField] private Animator animator;
 
@@ -29,7 +32,9 @@ namespace Scripts.Source
 
         private static readonly int IsMoving = Animator.StringToHash("IsMoving");
 
-        protected virtual Vector2Int Direction
+        private static readonly int StepParity = Animator.StringToHash("Step Parity");
+
+        public virtual Vector2Int Direction
         {
             get => direction;
             set
@@ -48,7 +53,29 @@ namespace Scripts.Source
 
         public Vector3 LookAt
         {
-            set => Direction = Vector2Int.RoundToInt(value.Floor() - transform.position.Floor());
+            set => Direction = (Vector2Int)(Vector3Int.FloorToInt(value) - Vector3Int.FloorToInt(transform.position));
+        }
+
+        protected virtual void Awake()
+        {
+            if (asset)
+            {
+                animator.runtimeAnimatorController = asset.AnimatorController;
+            }
+        }
+
+        private void OnValidate()
+        {
+            Awake();
+        }
+
+        public void SetStepParity(int value)
+        {
+            animator.SetInteger(StepParity, value.ModuloIncrement(2));
+
+#if DEBUG
+            Debug.Log($"Step parity set to {(value is 1).ToString()} at time {(animator.GetCurrentAnimatorStateInfo(0).normalizedTime % 1.0f).ToString(CultureInfo.CurrentCulture)}");
+#endif
         }
 
         private static float GetSpeed(Speed speed)
@@ -89,7 +116,7 @@ namespace Scripts.Source
             return transform.position.Abs().Mod(1.0f) == Vector3.up / 2.0f;
         }
 
-        protected bool IsPathClear()
+        public bool IsPathClear()
         {
             return !GetCollider2DInFront(LayerMask.GetMask("Collision", "Interact"));
         }

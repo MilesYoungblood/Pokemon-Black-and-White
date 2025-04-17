@@ -11,16 +11,17 @@ namespace Scripts.Utility.Math
     {
         public const float ConvergenceTolerance = 1e-6f;
 
-        public static float Sqrt2 => Mathf.Sqrt(2.0f);
+        public const float Sqrt2 = 1.414f;
 
         /// <summary>
         /// The maximum value for an unsigned 12-bit integer.
         /// </summary>
-        public static readonly int UInt12MaxValue = Algebra.TwoToThe(12);
+        public const int UInt12MaxValue = 1 << 12;
 
-        public static void ModuloIncrement(this ref int i, int n)
+        public static ref int ModuloIncrement(this ref int i, int n)
         {
             i = (i + 1) % n;
+            return ref i;
         }
 
         public static void ModuloDecrement(this ref int i, int n)
@@ -41,7 +42,7 @@ namespace Scripts.Utility.Math
         /// <remarks>Another way to get this is (-1)^n, but this is computationally more efficient.</remarks>
         public static int GetSignByParity(int n)
         {
-            return n % 2 == 0 ? 1 : -1;
+            return n % 2 is 0 ? 1 : -1;
         }
 
         public static bool ContainsMixedSigns(ICollection<float> list)

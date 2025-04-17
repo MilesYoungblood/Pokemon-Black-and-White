@@ -1,5 +1,4 @@
 using Scripts.Utility;
-using Scripts.Utility.Math;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,15 +8,21 @@ namespace Scripts.Source
     [RequireComponent(typeof(Player), typeof(PlayerInput))]
     public class PlayerController : EntityController
     {
+        public const string OverworldMapping = "Overworld";
+
+        public const string DialogueMapping = "Dialogue";
+
+        public const string UISelectionMapping = "UI Selection";
+
         [SerializeField] private Player player;
 
         [SerializeField] private PlayerInput input;
 
         private Speed _currentSpeed;
 
-        public PlayerActions Actions { get; private set; }
-
         public Player Player => player;
+
+        public PlayerActions Actions { get; private set; }
 
         public string ActionMap
         {
@@ -25,15 +30,11 @@ namespace Scripts.Source
             set => input.SwitchCurrentActionMap(value);
         }
 
-        protected void Awake()
+        protected override void Awake()
         {
+            base.Awake();
             Actions = new PlayerActions();
             Actions.Enable();
-        }
-
-        private void Start()
-        {
-            EnableInput();
         }
 
         private void FixedUpdate()
@@ -43,7 +44,7 @@ namespace Scripts.Source
                 return;
             }
 
-            var vector = Actions.Overworld.Move.ReadValue<Vector2>().ClampToAxis();
+            var vector = Actions.Overworld.Move.ReadValue<Vector2>();
 
             // the zero vector denotes no movement
             if (vector == Vector2.zero)
@@ -73,33 +74,26 @@ namespace Scripts.Source
 
         public void Move(InputAction.CallbackContext context)
         {
-            if (!context.performed)
-            {
-                return;
-            }
-
             if (!CanAct())
             {
                 return;
             }
 
-            var vector = Vector2Int.RoundToInt(context.ReadValue<Vector2>());
-
-            // the zero vector denotes no movement
-            if (vector == Vector2Int.zero)
+            if (context.started)
             {
-                return;
+                Direction = Vector2Int.RoundToInt(context.ReadValue<Vector2>());
             }
-
-            Direction = vector;
-            if (IsPathClear())
+            else if (context.performed && IsPathClear())
             {
-                StartCoroutine(Move(_currentSpeed, (Vector2)vector, OnMoveOver));
+                StartCoroutine(Move(_currentSpeed, (Vector2)Direction, OnMoveOver));
             }
         }
 
         public void Face(InputAction.CallbackContext context)
         {
+#if DEBUG
+            Debug.Log($"Context: {context.phase}, Value: {context.ReadValue<Vector2>().ToString()}");
+#endif
             if (context.started && CanAct())
             {
                 Direction = Vector2Int.RoundToInt(context.ReadValue<Vector2>());
@@ -127,14 +121,20 @@ namespace Scripts.Source
 
         public void EnableInput()
         {
-            Actions.Overworld.Enable();
+            Actions.Enable();
         }
 
         private bool CanAct()
         {
-            return IsCenteredOnTile() && input.currentActionMap.name is "Overworld" && GameController.Instance.CurrentState is not GameController.State.Paused;
+            return IsCenteredOnTile() && ActionMap is OverworldMapping && GameController.Instance.CurrentState is not GameController.State.Paused;
         }
 
+        /// <summary>
+        /// Subscribes the selector's callback's to the PlayerController's UI Selection input actions.
+        /// </summary>
+        /// <param name="playerController">The <see cref="PlayerController"/>.</param>
+        /// <param name="selector">the <see cref="Selector"/>.</param>
+        /// <returns>The <see cref="PlayerController"/>.</returns>
         public static PlayerController operator +(PlayerController playerController, Selector selector)
         {
             playerController.Actions.UISelection.Move.performed += selector.Move;
@@ -143,6 +143,12 @@ namespace Scripts.Source
             return playerController;
         }
 
+        /// <summary>
+        /// Unsubscribes the selector's callback's to the PlayerController's UI Selection input actions.
+        /// </summary>
+        /// <param name="playerController">The <see cref="PlayerController"/>.</param>
+        /// <param name="selector">the <see cref="Selector"/>.</param>
+        /// <returns>The <see cref="PlayerController"/>.</returns>
         public static PlayerController operator -(PlayerController playerController, Selector selector)
         {
             playerController.Actions.UISelection.Move.performed -= selector.Move;

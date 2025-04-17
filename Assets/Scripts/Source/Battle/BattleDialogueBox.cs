@@ -62,7 +62,6 @@ namespace Scripts.Source
         public void InitSelectionBox(Action[] callbacks, Action onCancel)
         {
             selectionBox.Callbacks = callbacks;
-            //selectionBox.Init(callbacks, onCancel);
         }
 
         public void OpenSelectionBox()

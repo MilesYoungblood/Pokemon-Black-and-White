@@ -31,10 +31,10 @@ namespace Scripts.Source
             name.text = pokemon.Asset.name;
             type1.sprite = Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type1);
             type2.gameObject.SetActive(pokemon.Asset.Type2 is not Type.ID.None);
-            type2.sprite = type1.gameObject.activeSelf ? Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type2) : null;
+            type2.sprite = type2.gameObject.activeSelf ? Pokedex.Instance.GetTypeIcon(pokemon.Asset.Type2) : null;
 
             trainer.text = player.ToString();
-            id.text = "12345";
+            id.text = "00000";
         }
     }
 }

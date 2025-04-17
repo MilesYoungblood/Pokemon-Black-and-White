@@ -2,6 +2,6 @@
 {
     public interface ISelectable
     {
-        public void SetSelected(bool selected, bool selectable);
+        public void Highlight(bool selected, bool selectable);
     }
 }

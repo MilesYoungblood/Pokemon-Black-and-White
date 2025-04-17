@@ -46,7 +46,7 @@ namespace Scripts.Source
         public MoveSaveData SaveData => new()
         {
             name = Asset.name,
-            maxPp = MaxPP,
+            maxPP = MaxPP,
             pp = PP
         };
 
@@ -73,7 +73,7 @@ namespace Scripts.Source
         public Move(MoveSaveData saveData)
         {
             Asset = MoveAsset.GetBaseByName(saveData.name);
-            MaxPP = saveData.maxPp;
+            MaxPP = saveData.maxPP;
             PP = saveData.pp;
         }
 

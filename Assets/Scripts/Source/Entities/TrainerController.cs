@@ -6,13 +6,13 @@ namespace Scripts.Source
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Trainer))]
-    public sealed class TrainerController : NPCController, IInteractable, ISavable
+    public sealed class TrainerController : EntityController, IInteractable, ISavable
     {
         [SerializeField] private Trainer trainer;
 
         [SerializeField] private Transform fov;
 
-        protected override Vector2Int Direction
+        public override Vector2Int Direction
         {
             get => base.Direction;
             set
@@ -39,20 +39,20 @@ namespace Scripts.Source
         {
             LookAt = playerController.transform.position;
 
-            if (trainer.CanFight)
+            if (Trainer.CanFight)
             {
                 playerController.ActionMap = "Dialogue";
             }
-            else
+            else if (TryGetComponent<MessageTrigger>(out var message))
             {
-                yield return OpenDialogue();
+                yield return message.OpenDialogue();
             }
         }
 
         void ISavable.RestoreState(object state)
         {
             base.RestoreState(state);
-            if (!trainer.CanFight)
+            if (!Trainer.CanFight)
             {
                 transform.DestroyChildren();
             }

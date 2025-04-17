@@ -32,7 +32,7 @@ namespace Scripts.Source
 
         public Sprite GetTypeIcon(Type.ID type)
         {
-            return typeIcons[(int)type - 1];
+            return typeIcons[(int)type];
         }
 
         public bool RegisterPokemon(string pokemonName)
@@ -56,7 +56,7 @@ namespace Scripts.Source
             {
                 if (!RegisterPokemon(pokemon))
                 {
-                    Debug.Log($"Unable to re-add \"{pokemon}\" to the Pokedex.");
+                    Debug.LogWarning($"Unable to re-add \"{pokemon}\" to the Pokedex.");
                 }
             }
         }

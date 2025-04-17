@@ -23,25 +23,18 @@ namespace Scripts.Source
                 _pokemon = value;
                 name.text = value.ToString();
                 level.text = $"Lvl. {value.Level}";
-                hpBar.HP = value.HP / (float)value.MaxHP;
+                hpBar.HP = value.HP / value.MaxHP;
             }
         }
 
         public IEnumerator UpdateHP()
         {
-            yield return hpBar.SetHPSmooth(_pokemon.HP / (float)_pokemon.MaxHP);
+            yield return hpBar.SetHPSmooth(_pokemon.HP / _pokemon.MaxHP);
         }
 
-        public void SetSelected(bool selected, bool selectable)
+        public void Highlight(bool selected, bool selectable)
         {
-            if (selected)
-            {
-                name.fontStyle |= FontStyles.Bold;
-            }
-            else
-            {
-                name.fontStyle &= ~FontStyles.Bold;
-            }
+            name.color = selected ? Color.yellow : Color.white;
         }
     }
 }

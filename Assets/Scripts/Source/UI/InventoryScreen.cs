@@ -15,7 +15,7 @@ namespace Scripts.Source
     {
         [SerializeField] [Min(0)] private int itemsInViewport;
 
-        [SerializeField] private ItemSlotUI itemSlotUI;
+        [SerializeField] private GameObject itemSlotUI;
 
         [SerializeField] private TextMeshProUGUI pocket;
 
@@ -83,17 +83,19 @@ namespace Scripts.Source
             _inventoryScreenInput.Default.Disable();
         }
 
-        public void Close()
-        {
-            gameObject.SetActive(false);
-        }
-
         private void InitItemSlotUIs(int set)
         {
             _itemSlotUIs = new ItemSlotUI[_sets[set].Count];
             for (var i = 0; i < _itemSlotUIs.Length; ++i)
             {
-                _itemSlotUIs[i] = Instantiate(itemSlotUI, itemList).Init(_sets[set][i]);
+                if (Instantiate(itemSlotUI, itemList).TryGetComponent<ItemSlotUI>(out var ui))
+                {
+                    ui.Item = _sets[set][i];
+                }
+                else
+                {
+                    throw new Exception($"{nameof(itemSlotUI)} is missing component {nameof(ItemSlotUI)}");
+                }
             }
         }
 
@@ -198,7 +200,7 @@ namespace Scripts.Source
             {
                 for (var i = 0; i < _itemSlotUIs.Length; ++i)
                 {
-                    _itemSlotUIs[i].SetSelected(i == _selection, true);
+                    _itemSlotUIs[i].Highlight(i == _selection, true);
                 }
 
                 var item = _sets[_currentSet][_selection].Asset;

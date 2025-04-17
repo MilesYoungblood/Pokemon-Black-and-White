@@ -37,7 +37,14 @@ namespace Scripts.Source
             yield return trainerController.Move(EntityController.Speed.Walk, Vector3Int.RoundToInt(offset - offset.normalized));
 
             playerController.LookAt = transform.position;
-            yield return trainerController.OpenDialogue(HandleFinished);
+            if (trainerController.TryGetComponent<MessageTrigger>(out var messageTrigger))
+            {
+                yield return messageTrigger.OpenDialogue(HandleFinished);
+            }
+            else
+            {
+                HandleFinished();
+            }
 
             yield break;
 

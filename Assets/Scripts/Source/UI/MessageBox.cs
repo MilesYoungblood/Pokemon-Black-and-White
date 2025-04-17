@@ -7,11 +7,11 @@ using UnityEngine.InputSystem;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    public sealed class DialogueBox : MonoBehaviour
+    public sealed class MessageBox : MonoBehaviour
     {
         [SerializeField] private PlayerController playerController;
 
-        [SerializeField] private TextMeshProUGUI dialogueText;
+        [SerializeField] private TextMeshProUGUI message;
 
         [SerializeField] [Min(0)] private int frameRate;
 
@@ -39,24 +39,24 @@ namespace Scripts.Source
             */
         }
 
-        public IEnumerator ShowDialogue(Dialogue dialogue)
+        public IEnumerator Print(Message newMessage)
         {
             yield return new WaitForEndOfFrame();
             playerController.ActionMap = "Dialogue";
 
             gameObject.SetActive(true);
-            for (var i = 0; i < dialogue.Pages.Length; ++i)
+            for (var i = 0; i < newMessage.Pages.Length; ++i)
             {
-                dialogueText.text = string.Empty;
-                foreach (var letter in dialogue.Pages[i])
+                this.message.text = string.Empty;
+                foreach (var letter in newMessage.Pages[i])
                 {
-                    dialogueText.text += letter.ToString();
+                    this.message.text += letter.ToString();
                     yield return new WaitForSeconds(1.0f / frameRate);
                 }
 
                 yield return new WaitUntil(IsPerformed);
 
-                if (i < dialogue.Pages.Length - 1)
+                if (i < newMessage.Pages.Length - 1)
                 {
                     AudioManager.Instance.PlaySound("Accept");
                 }
@@ -67,7 +67,7 @@ namespace Scripts.Source
                 playerController.ActionMap = "Overworld";
             }
 
-            gameObject.SetActive(false);
+            this.Deactivate();
         }
 
         private static bool IsPerformed()

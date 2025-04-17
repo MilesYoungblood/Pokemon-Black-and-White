@@ -15,19 +15,21 @@ namespace Scripts.Source
 
         public float Height => rectTransform.rect.height;
 
+        public Item Item
+        {
+            set
+            {
+                name.text = value.ToString();
+                quantity.text = value.Quantity.ToString();
+            }
+        }
+
         private void Awake()
         {
             enabled = false;
         }
 
-        public ItemSlotUI Init(Item item)
-        {
-            name.text = item.ToString();
-            quantity.text = $"x{item.Quantity}";
-            return this;
-        }
-
-        public void SetSelected(bool selected, bool selectable)
+        public void Highlight(bool selected, bool selectable)
         {
             if (selected)
             {

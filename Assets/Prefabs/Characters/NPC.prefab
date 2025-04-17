@@ -58,14 +58,17 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
       insertIndex: -1
-      addedObject: {fileID: -2338479648737739254}
+      addedObject: {fileID: 6639513124624755020}
+    - targetCorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7226390766566652133}
   m_SourcePrefab: {fileID: 100100000, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
 --- !u!1 &1463937269944076393 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
   m_PrefabInstance: {fileID: 7038373657171050018}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &-2338479648737739254
+--- !u!114 &6639513124624755020
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74,16 +77,33 @@ MonoBehaviour:
   m_GameObject: {fileID: 1463937269944076393}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7200baaf4ee2cc4ab04231f2626e062, type: 3}
+  m_Script: {fileID: 11500000, guid: cc8d2c3a25a24536a893a9326055de45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 5468494779699343244}
-  direction: {x: 0, y: -1}
-  dialogue:
-    pages: []
+  entityController: {fileID: 6223820500431328789}
   movementPattern: []
---- !u!95 &5468494779699343244 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 3048563712927142318, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
+--- !u!114 &7226390766566652133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463937269944076393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f9ab40b02f498e978bfb3671ecc966, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  message:
+    pages: []
+--- !u!114 &6223820500431328789 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4031320118551472183, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
   m_PrefabInstance: {fileID: 7038373657171050018}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463937269944076393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1697d6b47eee89f448c69bbba4a87bd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

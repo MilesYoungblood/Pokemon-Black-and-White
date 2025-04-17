@@ -23,7 +23,7 @@ namespace Scripts.Source
                 {
                     {
                         var move = moveset.GetChild(i).gameObject;
-                        move.SetActive(i < value.MoveSet.Count);
+                        move.SetActive(i < value.Moveset.Count);
                         if (!move.activeSelf)
                         {
                             continue;

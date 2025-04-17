@@ -22,7 +22,7 @@ namespace Scripts.Source
             if (opponentSpeed == 0 || odds > byte.MaxValue || UnityEngine.Random.Range(0, byte.MaxValue + 1) < odds)
             {
                 yield return battleDialogueBox.TypeDialogue("Got away safely!");
-                battleSystem.Terminate();
+                yield return battleSystem.Terminate();
             }
             else
             {

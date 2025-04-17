@@ -6,27 +6,27 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [Serializable]
-    public struct Dialogue
+    public struct Message
     {
-        [SerializeField, TextArea] private string[] pages;
+        [SerializeField] [TextArea] private string[] pages;
 
         public string[] Pages => pages;
 
-        public Dialogue(Dialogue dialogue)
+        public Message(Message message)
         {
-            pages = new string[dialogue.pages.Length];
+            pages = new string[message.pages.Length];
             for (var i = 0; i < pages.Length; ++i)
             {
-                pages[i] = dialogue.pages[i];
+                pages[i] = message.pages[i];
             }
         }
 
-        public Dialogue(string page)
+        public Message(string page)
         {
             pages = new[] { page };
         }
 
-        public Dialogue(IEnumerable<string> pages)
+        public Message(IEnumerable<string> pages)
         {
             this.pages = pages.ToArray();
         }

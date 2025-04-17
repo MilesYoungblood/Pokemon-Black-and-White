@@ -11,19 +11,12 @@ namespace Scripts.Source
 
         public IEnumerator Interact(PlayerController playerController)
         {
-            if (!gameObject.activeSelf)
-            {
-                yield break;
-            }
-
             yield return AudioManager.Instance.PlayFanfare(item.Asset.SongID);
-            //GameController.Instance.TogglePause();
-            yield return GameController.Instance.DialogueBox.ShowDialogue(new Dialogue($"You obtained {item.GetIndefiniteArticle()} {item}!"));
+            yield return GameController.Instance.MessageBox.Print(new Message($"You obtained {item.GetIndefiniteArticle()} {item}!"));
 
             playerController.Player.Inventory.AddItem(item);
             item = null;
             gameObject.SetActive(false);
-            //GameController.Instance.TogglePause();
         }
 
         public object CaptureState()

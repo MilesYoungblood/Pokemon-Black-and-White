@@ -13,7 +13,7 @@ namespace Scripts.Utility
 {
     public class AudioManager : MonoBehaviour
     {
-        private const int PoolSize = 5;
+        [SerializeField] private int poolSize;
 
         [SerializeField] private AudioSource musicPlayer;
 
@@ -64,19 +64,19 @@ namespace Scripts.Utility
                 var handle = Addressables.LoadAssetAsync<AudioClip>(relativePath);
                 loadTasks.Add(handle.Task);
 
-                handle.Completed += HandleCompletion;
+                handle.Completed += OnCompletion;
             }
 
             await Task.WhenAll(loadTasks);
 
             IsLoaded = true;
             stopwatch.Stop();
-            print($"Loaded all sound effects in {stopwatch.Elapsed}.");
+            print($"Loaded all sound effects in {stopwatch.Elapsed.ToString()}.");
         }
 
         private void InitializeSFXPool()
         {
-            for (var i = 0; i < PoolSize; ++i)
+            for (var i = 0; i < poolSize; ++i)
             {
                 var newSource = Instantiate(soundEffect, sfx.transform);
                 newSource.gameObject.SetActive(false);
@@ -110,9 +110,9 @@ namespace Scripts.Utility
             return audioSource;
         }
 
-        private void HandleCompletion(AsyncOperationHandle<AudioClip> handle)
+        private void OnCompletion(AsyncOperationHandle<AudioClip> handle)
         {
-            if (handle.Status == AsyncOperationStatus.Succeeded && handle.Result)
+            if (handle.Status is AsyncOperationStatus.Succeeded && handle.Result)
             {
                 _sfxClips[handle.Result.name] = handle.Result;
                 _loadedClips[handle.Result.name] = handle; // Cache handle

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Scripts.Source
 {
@@ -8,10 +7,10 @@ namespace Scripts.Source
     {
         public string name;
         public string nickname;
-        public int hp;
+        public float hp;
         public int level;
         public Nature.ID nature;
         public StatusCondition.ID statusCondition;
-        public List<MoveSaveData> moves;
+        public MoveSaveData[] moves;
     }
 }

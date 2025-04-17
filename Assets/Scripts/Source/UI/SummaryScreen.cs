@@ -81,8 +81,6 @@ namespace Scripts.Source
                     movesPage.gameObject.SetActive(previous);
                 }
 
-                //pokemonAnimator.Init(pokemon.Base.FrontSpriteSheet ?? new[] { Pokedex.Instance.FakeSprite });
-
                 nickname.text = pokemon.ToString();
 
                 level.text = pokemon.Level.ToString();

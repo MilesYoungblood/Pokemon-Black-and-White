@@ -4,7 +4,6 @@ using UnityEngine;
 namespace Scripts.Source
 {
     [DisallowMultipleComponent]
-    [RequireComponent(typeof(Collider2D))]
     public class LocationPortal : MonoBehaviour
     {
         [SerializeField] private Vector2 spawnPoint;

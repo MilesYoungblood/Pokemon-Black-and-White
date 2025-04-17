@@ -18,6 +18,24 @@ namespace Scripts.Source
 
         public static event Action OnDefeat;
 
+        private void OnValidate()
+        {
+            foreach (var pokemon in Party)
+            {
+                if (pokemon.Asset)
+                {
+                    pokemon.Init();
+                }
+                else
+                {
+                    pokemon.Nickname = "";
+                    pokemon.Nature = Nature.GetRandomNature();
+                    pokemon.Level = Pokemon.MinLevel;
+                    pokemon.Moveset.Clear();
+                }
+            }
+        }
+
         protected virtual void Start()
         {
             foreach (var pokemon in party)

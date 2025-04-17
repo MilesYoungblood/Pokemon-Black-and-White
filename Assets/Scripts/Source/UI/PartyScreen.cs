@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 using Scripts.Utility;
 using TMPro;
 using UnityEngine;
@@ -13,7 +12,7 @@ namespace Scripts.Source
 
         [SerializeField] private Selector partyList;
 
-        [SerializeField] private PartyMemberUI[] members;
+        [SerializeField] private GameObject pokemonHud;
 
         public int Selection => partyList.Selection;
 
@@ -23,21 +22,12 @@ namespace Scripts.Source
         {
             set
             {
-                gameObject.SetActive(true);
-                message.text = "Choose a Pokemon";
+                this.Activate();
 
                 // TODO if this breaks, try using player party size instead of Trainer.MaxPartySize
-                partyList.Callbacks = new Action[Trainer.MaxPartySize];
-                for (var i = 0; i < Trainer.MaxPartySize; ++i)
-                {
-                    partyList.Callbacks[i] = value;
-                }
+                partyList.Callbacks = new Action[Mathf.Min(GameController.Instance.PlayerController.Player.Party.Count, Trainer.MaxPartySize)];
+                Array.Fill(partyList.Callbacks, value);
             }
-        }
-
-        public List<Pokemon> Party
-        {
-            set => throw new NotImplementedException();
         }
 
         public string Message
@@ -48,14 +38,17 @@ namespace Scripts.Source
         private void OnEnable()
         {
             GameController.Instance.PlayerController += partyList;
-            // for whatever reason, this is necessary
-            partyList.gameObject.SetActive(true);
-            for (var i = 0; i < partyList.transform.childCount; ++i)
+            Message = "Choose a Pokemon";
+
+            for (var i = 0; i < GameController.Instance.PlayerController.Player.Party.Count; ++i)
             {
-                members[i].gameObject.SetActive(i < GameController.Instance.PlayerController.Player.Party.Count);
-                if (members[i].gameObject.activeSelf)
+                if (Instantiate(pokemonHud, partyList.transform).TryGetComponent<PokemonHUD>(out var hud))
                 {
-                    members[i].Pokemon = GameController.Instance.PlayerController.Player.Party[i];
+                    hud.Pokemon = GameController.Instance.PlayerController.Player[i];
+                }
+                else
+                {
+                    Debug.LogWarning($"{nameof(hud)} is missing component {nameof(PokemonHUD)}");
                 }
             }
         }
@@ -63,6 +56,8 @@ namespace Scripts.Source
         private void OnDisable()
         {
             GameController.Instance.PlayerController -= partyList;
+            Message = "";
+            partyList.transform.DestroyChildren();
         }
 
         public void Init(Action onCancel)
@@ -73,11 +68,7 @@ namespace Scripts.Source
         public void Destroy(Action onCancel)
         {
             partyList.OnCancel -= onCancel;
-        }
-
-        public void Close()
-        {
-            gameObject.SetActive(false);
+            this.Deactivate();
         }
     }
 }

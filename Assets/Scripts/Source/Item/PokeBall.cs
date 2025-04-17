@@ -161,7 +161,7 @@ namespace Scripts.Source
                     user.Battler.Party.Add(opponent.Pokemon);
                 }
 
-                battleSystem.Terminate();
+                yield return battleSystem.Terminate();
             }
             else
             {

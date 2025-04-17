@@ -16,13 +16,13 @@ namespace Scripts.Source
 
         private void Awake()
         {
-            moveSelector.OnChange += Update;
+            moveSelector.OnUpdate += Update;
             enabled = false;
         }
 
         private void OnDestroy()
         {
-            moveSelector.OnChange -= Update;
+            moveSelector.OnUpdate -= Update;
         }
 
         private void Update()

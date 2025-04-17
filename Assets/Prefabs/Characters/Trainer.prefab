@@ -157,6 +157,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 226767330388896754}
+    - targetCorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4456777371604091033}
+    - targetCorrespondingSourceObject: {fileID: 8502128401738200651, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6543956917059619741}
   m_SourcePrefab: {fileID: 100100000, guid: c09753b7a1390ad408f3ac65e480e2b5, type: 3}
 --- !u!95 &808018693899826802 stripped
 Animator:
@@ -200,10 +206,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d87a5290d5f4851408abfde773aa0a97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  asset: {fileID: 11400000, guid: a4ed80d387215084a9add322ebd826aa, type: 2}
   animator: {fileID: 808018693899826802}
   direction: {x: 0, y: -1}
-  dialogue:
-    pages: []
-  movementPattern: []
   trainer: {fileID: 4675739200664674357}
   fov: {fileID: 8723133550430466467}
+--- !u!114 &4456777371604091033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6090455005740945815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc8d2c3a25a24536a893a9326055de45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  entityController: {fileID: 226767330388896754}
+  movementPattern: []
+--- !u!114 &6543956917059619741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6090455005740945815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f9ab40b02f498e978bfb3671ecc966, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  message:
+    pages: []

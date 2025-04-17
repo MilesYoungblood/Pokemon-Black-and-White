@@ -29,14 +29,16 @@ namespace Scripts.Source
 
         [SerializeField] private PokemonAsset asset;
 
-        [SerializeField] [Range(MinLevel, MaxLevel)]
-        private int level;
+        [SerializeField] private string nickname;
 
-        [SerializeField] private List<Move> moveSet;
+        [SerializeField] [Range(MinLevel, MaxLevel)]
+        private int level = MinLevel;
+
+        [SerializeField] private List<Move> moveset;
 
         #endregion
 
-        private int _hp;
+        private float _hp;
 
         #endregion
 
@@ -48,41 +50,49 @@ namespace Scripts.Source
             private set => asset = value;
         }
 
-        public string Nickname { get; set; }
+        public string Nickname
+        {
+            get => nickname;
+            set => nickname = value;
+        }
 
         public int Level
         {
             get => level;
-            private set => level = Mathf.Clamp(value, Asset.MinLevel, MaxLevel);
+            set
+            {
+                level = Mathf.Clamp(value, Asset.MinLevel, MaxLevel);
+                CalculateBaseStats();
+            }
         }
 
-        public Nature.ID Nature { get; private set; }
+        public Nature.ID Nature { get; set; }
 
         [CanBeNull] public StatusCondition StatusCondition { get; set; }
 
-        public List<Move> MoveSet
+        public List<Move> Moveset
         {
-            get => moveSet;
-            set => moveSet = value;
+            get => moveset;
+            set => moveset = value;
         }
 
-        public int HP
+        public float HP
         {
             get => _hp;
             set => _hp = Mathf.Clamp(value, MinHP, MaxHP);
         }
 
-        public int MaxHP { get; private set; }
+        public float MaxHP { get; private set; }
 
-        public int Attack { get; private set; }
+        public float Attack { get; private set; }
 
-        public int Defense { get; private set; }
+        public float Defense { get; private set; }
 
-        public int SpAttack { get; private set; }
+        public float SpAttack { get; private set; }
 
-        public int SpDefense { get; private set; }
+        public float SpDefense { get; private set; }
 
-        public int Speed { get; private set; }
+        public float Speed { get; private set; }
 
         public PokemonSaveData SaveData => new()
         {
@@ -92,7 +102,7 @@ namespace Scripts.Source
             level = Level,
             nature = Nature,
             statusCondition = StatusCondition?.GetID() ?? StatusCondition.ID.None,
-            moves = MoveSet.Select(move => move.SaveData).ToList()
+            moves = Moveset.Select(move => move.SaveData).ToArray()
         };
 
         #endregion
@@ -101,8 +111,57 @@ namespace Scripts.Source
 
         public Move this[int index]
         {
-            get => MoveSet[index];
-            set => MoveSet[index] = value;
+            get => Moveset[index];
+            set => Moveset[index] = value;
+        }
+
+        public float this[Stat stat]
+        {
+            get
+            {
+                return stat switch
+                {
+                    Stat.HP => MaxHP,
+                    Stat.Attack => Attack,
+                    Stat.Defense => Defense,
+                    Stat.SpAttack => SpAttack,
+                    Stat.SpDefense => SpDefense,
+                    Stat.Speed => Speed,
+                    Stat.Accuracy => 1.0f,
+                    Stat.Evasiveness => 1.0f,
+                    _ => throw new ArgumentOutOfRangeException(nameof(stat), stat, null)
+                };
+            }
+            set
+            {
+                switch (stat)
+                {
+                    case Stat.HP:
+                        MaxHP = value;
+                        break;
+                    case Stat.Attack:
+                        Attack = value;
+                        break;
+                    case Stat.Defense:
+                        Defense = value;
+                        break;
+                    case Stat.SpAttack:
+                        SpAttack = value;
+                        break;
+                    case Stat.SpDefense:
+                        SpDefense = value;
+                        break;
+                    case Stat.Speed:
+                        Speed = value;
+                        break;
+                    case Stat.Accuracy:
+                        break;
+                    case Stat.Evasiveness:
+                        break;
+                    default:
+                        throw new ArgumentOutOfRangeException(nameof(stat), stat, null);
+                }
+            }
         }
 
         #endregion
@@ -124,65 +183,53 @@ namespace Scripts.Source
             Asset = PokemonAsset.GetBaseByName(saveData.name);
             Nickname = saveData.nickname;
             Level = saveData.level;
-            // TODO watch out for logic error here
-            CalculateBaseStats();
             HP = saveData.hp;
             Nature = saveData.nature;
             StatusCondition = StatusCondition.GetConditionByID(saveData.statusCondition);
-            MoveSet = saveData.moves.Select(data => new Move(data)).ToList();
+            Moveset = saveData.moves.Select(data => new Move(data)).ToList();
         }
 
         public Pokemon(Pokemon pokemon) : this(pokemon.SaveData)
         {
         }
 
-        public void Init()
+        public Pokemon Init()
         {
-            if (string.IsNullOrEmpty(Nickname))
+            //if (string.IsNullOrEmpty(Nickname))
             {
                 Nickname = Asset.name;
             }
 
             // nature must be determined before stats are calculated since base stats partially rely on nature
-            Nature = Source.Nature.GetRandomNature();
+            //Nature = Source.Nature.GetRandomNature();
 
-            CalculateBaseStats();
+            Level = Mathf.Max(MinLevel, Level);
             HP = MaxHP;
-            MoveSet = MoveSet.Take(MaxMoveSetSize).ToList();
-            MoveSet.ForEach(move => move.Init());
+            Moveset = Moveset.Take(MaxMoveSetSize).ToList();
+            Moveset.ForEach(move => move.Init());
+            return this;
         }
 
         private void CalculateBaseStats()
         {
-            // find initial calculations
-            var initialStats = new Dictionary<Stat, float>
-            {
-                [Stat.HP] = StatCalc(Asset.HP, true),
-                [Stat.Attack] = StatCalc(Asset.Attack, false),
-                [Stat.Defense] = StatCalc(Asset.Defense, false),
-                [Stat.SpAttack] = StatCalc(Asset.SpAttack, false),
-                [Stat.SpDefense] = StatCalc(Asset.SpDefense, false),
-                [Stat.Speed] = StatCalc(Asset.Speed, false)
-            };
-
-            // find the boosted and lowered natures
-            var boosted = Source.Nature.BoostedStat(Nature);
-            var lowered = Source.Nature.LoweredStat(Nature);
-
-            // if the nature isn't a neutral nature, apply nature effects
-            if (boosted != lowered)
-            {
-                initialStats[boosted] *= 1.1f;
-                initialStats[lowered] *= 0.9f;
-            }
-
             // apply final calculations
-            MaxHP = Mathf.FloorToInt(initialStats[Stat.HP]);
-            Attack = Mathf.FloorToInt(initialStats[Stat.Attack]);
-            Defense = Mathf.FloorToInt(initialStats[Stat.Defense]);
-            SpAttack = Mathf.FloorToInt(initialStats[Stat.SpAttack]);
-            SpDefense = Mathf.FloorToInt(initialStats[Stat.SpDefense]);
-            Speed = Mathf.FloorToInt(initialStats[Stat.Speed]);
+            MaxHP = StatCalc(Asset.HP, true);
+            Attack = StatCalc(Asset.Attack, false);
+            Defense = StatCalc(Asset.Defense, false);
+            SpAttack = StatCalc(Asset.SpAttack, false);
+            SpDefense = StatCalc(Asset.SpDefense, false);
+            Speed = StatCalc(Asset.Speed, false);
+
+            // apply nature effects
+            this[Source.Nature.BoostedStat(Nature)] *= 1.1f;
+            this[Source.Nature.LoweredStat(Nature)] *= 0.9f;
+
+            this[Stat.HP] = Mathf.Round(this[Stat.HP]);
+            this[Stat.Attack] = Mathf.Round(this[Stat.Attack]);
+            this[Stat.Defense] = Mathf.Round(this[Stat.Defense]);
+            this[Stat.SpAttack] = Mathf.Round(this[Stat.SpAttack]);
+            this[Stat.SpDefense] = Mathf.Round(this[Stat.SpDefense]);
+            this[Stat.Speed] = Mathf.Round(this[Stat.Speed]);
         }
 
         private float StatCalc(int stat, bool hp)
@@ -208,40 +255,28 @@ namespace Scripts.Source
         public void LevelUp()
         {
             ++Level;
-            CalculateBaseStats();
         }
 
         public void LearnMove(Move move)
         {
-            if (MoveSet.Count < MaxMoveSetSize)
+            if (Moveset.Count < MaxMoveSetSize)
             {
-                MoveSet.Add(move);
+                Moveset.Add(move);
             }
         }
 
         public void ForgetMove(int index)
         {
-            if (MoveSet.Count > 1)
+            if (Moveset.Count > 1)
             {
-                MoveSet.RemoveAt(index);
+                Moveset.RemoveAt(index);
             }
         }
 
         public Move ChooseRandomMove()
         {
             // TODO replace with struggle
-            if (MoveSet.All(move => !move.CanUse()))
-            {
-                return new Move();
-            }
-
-            Move move;
-            do
-            {
-                move = MoveSet.RandomElement();
-            } while (!move.CanUse());
-
-            return move;
+            return Moveset.All(move => !move.CanUse()) ? new Move() : Moveset.Where(move => move.CanUse()).RandomElement();
         }
 
         public bool HasType(Type.ID type)
@@ -308,7 +343,7 @@ namespace Scripts.Source
         {
         }
 
-        public bool CanFight => HP > 0;
+        public bool CanFight => !Mathf.Approximately(HP, 0);
 
         public Pokemon ActivePokemon => this;
 

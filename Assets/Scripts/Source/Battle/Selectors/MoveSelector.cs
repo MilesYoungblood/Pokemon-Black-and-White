@@ -26,7 +26,7 @@ namespace Scripts.Source
             moveDetails.SetActive(true);
             BattleDialogueBox.DialogueEnabled = false;
 
-            Selector.Callbacks = new Action[PlayerUnit.Pokemon.MoveSet.Count];
+            Selector.Callbacks = new Action[PlayerUnit.Pokemon.Moveset.Count];
             for (var i = 0; i < Selector.Callbacks.Length; ++i)
             {
                 Selector.Callbacks[i] = OnMoveSelected;

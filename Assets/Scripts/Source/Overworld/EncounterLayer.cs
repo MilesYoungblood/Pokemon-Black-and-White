@@ -34,9 +34,7 @@ namespace Scripts.Source
 
         private Pokemon GenerateWildPokemon()
         {
-            var pokemon = new Pokemon(wildPokemon.RandomElement());
-            pokemon.Init();
-            return pokemon;
+            return new Pokemon(wildPokemon.RandomElement()).Init();
         }
 
         public void OnTrigger()

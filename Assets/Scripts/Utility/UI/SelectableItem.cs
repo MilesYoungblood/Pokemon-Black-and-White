@@ -3,22 +3,14 @@ using UnityEngine;
 
 namespace Scripts.Utility
 {
-    [RequireComponent(typeof(TextMeshProUGUI))]
+    [DisallowMultipleComponent]
     public class SelectableItem : MonoBehaviour, ISelectable
     {
-        private TextMeshProUGUI[] _texts;
+        [SerializeField] private TextMeshProUGUI label;
 
-        private void Awake()
+        public void Highlight(bool selected, bool selectable)
         {
-            _texts = GetComponents<TextMeshProUGUI>();
-        }
-
-        public void SetSelected(bool selected, bool selectable)
-        {
-            foreach (var text in _texts)
-            {
-                text.color = selectable ? selected ? Color.yellow : Color.white : Color.gray;
-            }
+            label.color = selectable ? selected ? Color.yellow : Color.white : Color.gray;
         }
     }
 }

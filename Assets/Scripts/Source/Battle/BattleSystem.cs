@@ -14,7 +14,6 @@ namespace Scripts.Source
             RunTurn,
             EndOfTurn,
             NextPokemon,
-            Waiting,
             End
         }
 
@@ -26,13 +25,32 @@ namespace Scripts.Source
 
         [SerializeField] private GameObject actionSelector;
 
-        public event Action OnBattleOver;
+        public event Func<IEnumerator> OnBattleOver;
 
         private State _currentState;
 
-        public ulong Turn { get; private set; }
+        private IBattleState _battleState;
+
+        public IBattleState BattleState
+        {
+            get => _battleState;
+            set
+            {
+                StopAllCoroutines();
+                _battleState = value;
+                StartCoroutine(value.Enter(this));
+            }
+        }
+
+        public ulong Turn { get; set; }
+
+        public BattleUnit PlayerUnit => playerUnit;
+
+        public BattleUnit OpponentUnit => opponentUnit;
 
         public GameObject ActionSelector => actionSelector;
+
+        public BattleDialogueBox BattleDialogueBox => battleDialogueBox;
 
         private void Awake()
         {
@@ -116,13 +134,13 @@ namespace Scripts.Source
             }
         }
 
-        public void Terminate()
+        public IEnumerator Terminate()
         {
             _currentState = State.End;
             StopAllCoroutines();
 
             Turn = 1;
-            OnBattleOver?.Invoke();
+            yield return OnBattleOver?.YieldInvoke();
         }
 
         public void TriggerActionSelection()
@@ -155,7 +173,6 @@ namespace Scripts.Source
                     return;
                 }
 
-                GameController.Instance.PartyScreen.Close();
                 GameController.Instance.PartyScreen.Destroy(HandlePartyScreenCancel);
 
                 // only start the turn if the player chose to switch from the action selection screen
@@ -184,7 +201,6 @@ namespace Scripts.Source
                     return;
                 }
 
-                GameController.Instance.PartyScreen.Close();
                 GameController.Instance.PartyScreen.Destroy(HandlePartyScreenCancel);
                 GameController.Instance.PartyScreen.CalledFrom = null;
 
@@ -215,11 +231,12 @@ namespace Scripts.Source
                 }
 
                 faintedBattleUnit.Battler.HandleDefeat();
-                yield return Functional.WaitUntilThenCall(battleDialogueBox.IsNotTyping, Terminate);
+                yield return new WaitUntil(battleDialogueBox.IsNotTyping);
+                yield return Terminate();
             }
         }
 
-        private IEnumerator PostTurnStatus(BattleUnit target)
+        public IEnumerator PostTurnStatus(BattleUnit target)
         {
             if (_currentState is not State.End)
             {

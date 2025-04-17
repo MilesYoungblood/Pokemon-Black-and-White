@@ -1,15 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
 using JetBrains.Annotations;
-using Scripts.Utility.Math;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 namespace Scripts.Utility
 {
+    [DisallowMultipleComponent]
+    [UsedImplicitly]
     public class Selector : MonoBehaviour
     {
         private ISelectable[] _selectables;
+
+        private List<Action>[] _onSubmitEvents;
 
         private Action[] _callbacks;
 
@@ -26,11 +30,16 @@ namespace Scripts.Utility
                 var iterations = Mathf.Min(transform.childCount, _selectables.Length);
                 for (var i = 0; i < iterations; ++i)
                 {
-                    _selectables[i].SetSelected(Selection == i, IsSelectable?.Invoke(i) ?? true);
+                    _selectables[i].Highlight(Selection == i, IsSelectable?.Invoke(i) ?? true);
                 }
 
-                OnChange?.Invoke();
+                OnUpdate?.Invoke();
             }
+        }
+
+        public int NCallbacks
+        {
+            set => _onSubmitEvents = new List<Action>[value];
         }
 
         public Action[] Callbacks
@@ -52,11 +61,16 @@ namespace Scripts.Utility
             }
         }
 
-        [CanBeNull] public Func<int, bool> IsSelectable { get; set; }
+        [CanBeNull]
+        public Func<int, bool> IsSelectable
+        {
+            get;
+            [UsedImplicitly] set;
+        }
 
         public event Action OnCancel;
 
-        public event Action OnChange;
+        public event Action OnUpdate;
 
         private void Awake()
         {
@@ -88,20 +102,20 @@ namespace Scripts.Utility
             }
         }
 
-        private void OnDisable()
-        {
-            Selection = 0;
-        }
-
         private void OnDestroy()
         {
             OnCancel = null;
-            OnChange = null;
+            OnUpdate = null;
         }
 
         private void OnTransformChildrenChanged()
         {
             _selectables = GetComponentsInChildren<ISelectable>();
+        }
+
+        public void ResetSelection()
+        {
+            Selection = 0;
         }
 
         public void Move(InputAction.CallbackContext context)
@@ -111,9 +125,9 @@ namespace Scripts.Utility
                 return;
             }
 
-            var input = Vector2Int.RoundToInt(context.ReadValue<Vector2>().ClampToAxis());
+            var input = context.ReadValue<Vector2>();
 
-            if (input == Vector2Int.right)
+            if (input == Vector2.right)
             {
                 if (Selection % _columnCount < _columnCount - 1 && Selection + 1 < transform.childCount &&
                     transform.GetChild(Selection + 1).gameObject.activeSelf)
@@ -121,14 +135,14 @@ namespace Scripts.Utility
                     ++Selection;
                 }
             }
-            else if (input == Vector2Int.left)
+            else if (input == Vector2.left)
             {
                 if (Selection % _columnCount > 0 && transform.GetChild(Selection - 1).gameObject.activeSelf)
                 {
                     --Selection;
                 }
             }
-            else if (input == Vector2Int.down)
+            else if (input == Vector2.down)
             {
                 if (Selection + _columnCount < transform.childCount &&
                     transform.GetChild(Selection + _columnCount).gameObject.activeSelf)
@@ -136,7 +150,7 @@ namespace Scripts.Utility
                     Selection += _columnCount;
                 }
             }
-            else if (input == Vector2Int.up)
+            else if (input == Vector2.up)
             {
                 if (Selection >= _columnCount && transform.GetChild(Selection - _columnCount).gameObject.activeSelf)
                 {
@@ -163,6 +177,16 @@ namespace Scripts.Utility
             {
                 OnCancel?.Invoke();
             }
+        }
+
+        public void AddCallback(int i, Action callback)
+        {
+            _onSubmitEvents[i].Add(callback);
+        }
+
+        public bool RemoveCallback(int i, Action callback)
+        {
+            return _onSubmitEvents[i].Remove(callback);
         }
     }
 }

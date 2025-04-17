@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Linq;
+using Scripts.Utility;
 using UnityEngine;
 
 namespace Scripts.Source
@@ -23,7 +24,7 @@ namespace Scripts.Source
 
         private void OnFightSelected()
         {
-            if (PlayerUnit.Pokemon.MoveSet.All(move => !move.CanUse()))
+            if (PlayerUnit.Pokemon.Moveset.All(move => !move.CanUse()))
             {
                 BattleSystem.ExecuteTurn(new Move(), OpponentUnit.Pokemon.ChooseRandomMove());
             }
@@ -46,7 +47,7 @@ namespace Scripts.Source
 
             void HandleItemSelected()
             {
-                GameController.Instance.InventoryScreen.Close();
+                GameController.Instance.InventoryScreen.Deactivate();
                 BattleDialogueBox.DialogueEnabled = true;
                 BattleSystem.ExecuteTurn(
                     GameController.Instance.InventoryScreen.CurrentAsset,
@@ -56,7 +57,7 @@ namespace Scripts.Source
 
             void HandleItemCancel()
             {
-                GameController.Instance.InventoryScreen.Close();
+                GameController.Instance.InventoryScreen.Deactivate();
                 BattleDialogueBox.DialogueEnabled = true;
                 BattleSystem.TriggerActionSelection();
             }

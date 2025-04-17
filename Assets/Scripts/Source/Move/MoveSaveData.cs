@@ -6,7 +6,9 @@ namespace Scripts.Source
     public struct MoveSaveData
     {
         public string name;
+
         public int pp;
-        public int maxPp;
+
+        public int maxPP;
     }
 }

@@ -30,7 +30,7 @@ namespace Scripts.Source
 
         [SerializeField] private Fader fader;
 
-        [SerializeField] private DialogueBox dialogueBox;
+        [SerializeField] private MessageBox messageBox;
 
         private State _currentState;
 
@@ -45,7 +45,9 @@ namespace Scripts.Source
             {
                 _previousState = CurrentState;
                 _currentState = value;
-                playerController.ActionMap = _currentState is State.Dialogue ? "Dialogue" : "Overworld";
+                playerController.ActionMap = _currentState is State.Dialogue
+                    ? PlayerController.DialogueMapping
+                    : PlayerController.OverworldMapping;
             }
         }
 
@@ -74,7 +76,7 @@ namespace Scripts.Source
 
         public Fader Fader => fader;
 
-        public DialogueBox DialogueBox => dialogueBox;
+        public MessageBox MessageBox => messageBox;
 
         private void Awake()
         {
@@ -119,7 +121,9 @@ namespace Scripts.Source
             }
             catch (Exception e)
             {
-                print(e);
+#if DEBUG
+                Debug.LogException(e);
+#endif
             }
 
             StartGame();
@@ -153,7 +157,7 @@ namespace Scripts.Source
 
             IEnumerator HandleStart(IBattler battler)
             {
-                playerController.ActionMap = "UI Selection";
+                playerController.ActionMap = PlayerController.UISelectionMapping;
                 CurrentState = State.Paused;
 
                 AudioManager.Instance.StopMusic();
@@ -184,20 +188,14 @@ namespace Scripts.Source
             }
         }
 
-        private void EndBattle()
+        private IEnumerator EndBattle()
         {
-            StartCoroutine(HandleEnding());
-            return;
+            yield return fader.FadeIn(1.0f);
+            yield return fader.FadeOut(0.0f);
 
-            IEnumerator HandleEnding()
-            {
-                yield return fader.FadeIn(1.0f);
-                yield return fader.FadeOut(0.0f);
-
-                battleScreen.SetActive(false);
-                UnlockPlayer();
-                yield return AudioManager.Instance.RequestSong(_currentScene.Music);
-            }
+            battleScreen.SetActive(false);
+            UnlockPlayer();
+            yield return AudioManager.Instance.RequestSong(_currentScene.Music);
         }
 
         public void TogglePause()
